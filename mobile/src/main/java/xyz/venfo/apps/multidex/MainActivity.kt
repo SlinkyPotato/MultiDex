@@ -11,15 +11,20 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
+import xyz.venfo.apps.multidex.pokemon.PokeType
+import xyz.venfo.apps.multidex.pokemon.Pokemon
+import xyz.venfo.apps.multidex.pokemon.Type
 
-class NavActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
+class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_nav)
         val toolbar = findViewById(R.id.toolbar) as Toolbar
         setSupportActionBar(toolbar)
+
+        // Initialize Pokemon
+        Pokemon.initAll()
 
         val fab = findViewById(R.id.fab) as FloatingActionButton
         fab.setOnClickListener { view ->
@@ -69,12 +74,9 @@ class NavActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelected
     override fun onNavigationItemSelected(item: MenuItem): Boolean {
         // Handle navigation view item clicks here.
         val id = item.itemId
-        val normalEffectiveness = listOf(
-            Type.NORMAL,
-            Type.BUG
-        )
-        val normalType: PokeType = PokeType(Type.NORMAL, listOf(normalEffectiveness, listOf()))
-        normalType.type
+        val normalEffectiveness = listOf(Type.NORMAL, Type.BUG)
+//        val normalType: PokeType = PokeType(Type.NORMAL)
+//        normalType.primaryType
 //        val myPokemon = PokeType(Type.NORMAL, listOf(listOf()))
 
         when (id) {
