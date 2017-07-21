@@ -2,14 +2,12 @@ package xyz.venfo.apps.multidex
 
 import android.app.Application
 import android.content.res.Configuration
+import android.util.Log
 import io.realm.Realm
 import io.realm.RealmConfiguration
+import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
-import java.io.File
-import java.io.FileInputStream
-import java.io.IOException
-import java.io.InputStream
-import kotlin.jvm.javaClass
+import java.io.*
 
 class MultiDexApp: Application() {
   /**
@@ -21,18 +19,16 @@ class MultiDexApp: Application() {
     Realm.init(this)
     val config: RealmConfiguration = RealmConfiguration.Builder().build()
     Realm.setDefaultConfiguration(config)
-    val realm = Realm.getDefaultInstance()
+    val realmInstance = Realm.getDefaultInstance()
 
-    // Initialize Pokemon Database
-    realm.executeTransaction({
-      try {
-        // Obtain Poke type ids
-        val inputStream: InputStream = resources.openRawResource(R.raw.type_ids)
-        realm.createAllFromJson(PokeTypeId::class.java, inputStream)
-      } catch (e: IOException) {
-        throw RuntimeException(e)
-      }
-    })
+    // Delete the database
+    realmInstance.beginTransaction()
+    realmInstance.deleteAll()
+    realmInstance.commitTransaction()
+
+    // Initialize database
+    PokeTypeId.initPokeTypeIds(this, realmInstance)
+    PokeType.initPokeTypes(this, realmInstance)
   }
 
   /**

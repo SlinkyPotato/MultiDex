@@ -18,6 +18,7 @@ import io.realm.Realm
 import io.realm.RealmConfiguration
 import io.realm.RealmQuery
 import io.realm.RealmResults
+import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
 import kotlin.properties.Delegates
 
@@ -32,14 +33,22 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     val helloText: TextView = findViewById(R.id.helloText) as TextView
     val helloBtn: Button = findViewById(R.id.helloBtn) as Button
+    val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn) as Button
 
     realm = Realm.getDefaultInstance()
 
     helloBtn.setOnClickListener {
       val realmQuery: RealmQuery<PokeTypeId> = realm.where(PokeTypeId::class.java)
-      realmQuery.equalTo("id", 5)
+      realmQuery.equalTo("id", 15)
       val result: PokeTypeId = realmQuery.findFirst()
       helloText.text = result.type
+    }
+
+    pokeTypeBtn.setOnClickListener {
+      val realmQuery: RealmQuery<PokeType> = realm.where(PokeType::class.java)
+      realmQuery.equalTo("id", 0)
+      val normalType: PokeType = realmQuery.findFirst()
+      pokeTypeBtn.text = normalType.type
     }
 
     val fab = findViewById(R.id.fab) as FloatingActionButton

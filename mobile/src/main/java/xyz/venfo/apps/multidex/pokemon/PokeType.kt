@@ -1,34 +1,13 @@
 package xyz.venfo.apps.multidex.pokemon
 
+import android.app.Application
+import android.util.Log
+import io.realm.Realm
+import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
-
-/**
- * All of the Pokemon Types as Enums
- */
-class Type {
-
-  companion object {
-    val NORMAL = "Normal"
-    val FIRE = "Fire"
-    val WATER = "Water"
-    val ELECTRIC = "Electric"
-    val GRASS = "Grass"
-    val ICE = "Ice"
-    val FIGHTING = "Fighting"
-    val POISON = "Poison"
-    val GROUND = "Ground"
-    val FLYING = "Flying"
-    val PSYCHIC = "Psychic"
-    val BUG = "Bug"
-    val ROCK = "Rock"
-    val GHOST = "Ghost"
-    val DRAGON = "Dragon"
-    val DARK = "Dark"
-    val STEEL = "Steel"
-    val FAIRY = "Fairy"
-  }
-}
+import xyz.venfo.apps.multidex.R
+import java.io.InputStream
 
 /**
  * The Pokemon's Type information
@@ -40,21 +19,28 @@ class Type {
  * @param noDmg A list of Types that receive no damage
  * @param normalDmg A list of Types that receive 1x damage
  * @param doubleDmg A list of Types that receive 2x damage
- * @see Type
+ * @see PokeTypeId
  */
-data class PokeType(
-    @PrimaryKey val type: Int,
-    val halfDmg: List<Type>,
-    val noDmg: List<Type>,
-    val normalDmg: List<Type>,
-    val doubleDmg: List<Type>) {
+open class PokeType (
+    @PrimaryKey var id: Long = 0,
+    var type: String = "",
+    var halfDmg: RealmList<PokeTypeId> = RealmList(),
+    var noDmg: List<PokeTypeId> = RealmList(),
+    var normalDmg: List<PokeTypeId> = RealmList(),
+    var doubleDmg: List<PokeTypeId> = RealmList()
+): RealmObject() {
   companion object {
-    fun initAll() {
-      val myVals = Type.NORMAL
-      System.out.println(Type.NORMAL)
-      /*val realm: Realm = Realm.getDefaultInstance()
-      realm.beginTransaction()
-      realm.commitTransaction()*/
+    fun initPokeTypes(context: Application, realmInstance: Realm) {
+      realmInstance.executeTransactionAsync ({ realm ->
+        // Initialize PokeTypes
+        val inputStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
+        // TODO: handle PokeType creation
+        realm.createAllFromJson(PokeType::class.java, inputStream)
+      }, {
+        Log.i("Realm: ", "Successfully created PokeTypes.")
+      }, { error ->
+        Log.wtf("Realm: ", "Unable to create PokeTypes. " + error.localizedMessage)
+      })
     }
   }
 }
