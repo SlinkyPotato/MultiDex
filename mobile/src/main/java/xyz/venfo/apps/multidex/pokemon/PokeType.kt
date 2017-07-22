@@ -2,10 +2,13 @@ package xyz.venfo.apps.multidex.pokemon
 
 import android.app.Application
 import android.util.Log
+import com.google.gson.Gson
 import io.realm.Realm
 import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
+import org.json.JSONArray
+import org.json.JSONObject
 import xyz.venfo.apps.multidex.R
 import java.io.InputStream
 
@@ -25,16 +28,19 @@ open class PokeType (
     @PrimaryKey var id: Long = 0,
     var type: String = "",
     var halfDmg: RealmList<PokeTypeId> = RealmList(),
-    var noDmg: List<PokeTypeId> = RealmList(),
-    var normalDmg: List<PokeTypeId> = RealmList(),
-    var doubleDmg: List<PokeTypeId> = RealmList()
+    var noDmg: RealmList<PokeTypeId> = RealmList(),
+    var normalDmg: RealmList<PokeTypeId> = RealmList(),
+    var doubleDmg: RealmList<PokeTypeId> = RealmList()
 ): RealmObject() {
   companion object {
     fun initPokeTypes(context: Application, realmInstance: Realm) {
+//      val gson: Gson = Gson()
+//      gson.toJson(1)
+//      val values = intArrayOf(1, 2)
       realmInstance.executeTransactionAsync ({ realm ->
         // Initialize PokeTypes
         val inputStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
-        // TODO: handle PokeType creation
+//        val jsonArray: JSONArray =
         realm.createAllFromJson(PokeType::class.java, inputStream)
       }, {
         Log.i("Realm: ", "Successfully created PokeTypes.")
