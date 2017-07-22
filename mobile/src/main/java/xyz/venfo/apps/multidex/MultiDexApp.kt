@@ -2,7 +2,10 @@ package xyz.venfo.apps.multidex
 
 import android.app.Application
 import android.content.res.Configuration
+import android.util.JsonReader
 import android.util.Log
+import com.google.gson.JsonObject
+import com.google.gson.JsonParser
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import xyz.venfo.apps.multidex.pokemon.PokeType
@@ -21,14 +24,16 @@ class MultiDexApp: Application() {
     Realm.setDefaultConfiguration(config)
     val realmInstance = Realm.getDefaultInstance()
 
-    // Delete the database
-    realmInstance.beginTransaction()
-    realmInstance.deleteAll()
-    realmInstance.commitTransaction()
-
     // Initialize database
-    PokeTypeId.initPokeTypeIds(this, realmInstance)
-    PokeType.initPokeTypes(this, realmInstance)
+    realmInstance.executeTransactionAsync ({ realm ->
+      realm.deleteAll()
+//      PokeTypeId.initPokeTypeIds(this, realm)
+//      PokeType.initPokeTypes(this, realm)
+    }, {
+      Log.i("Realm: ", "Successfully initialized database.")
+    }, { error ->
+      Log.wtf("Realm: ", "Unable to initialize database. " + error.localizedMessage)
+    })
   }
 
   /**

@@ -16,22 +16,21 @@ import java.io.InputStream
  * @param type String
  */
 open class PokeTypeId(
-    @PrimaryKey var id: Long = 0, // must have default value to init default constructor
+    @PrimaryKey var id: Int = 0, // must have default value to init default constructor
     var type: String = ""
-): RealmObject() {
+) : RealmObject() {
   // Kotlin compiler generates standard getters and setters. Realm will overload them and code inside them is ignored.
 
   companion object {
     fun initPokeTypeIds(context: Application, realmInstance: Realm) {
-      realmInstance.executeTransactionAsync ({ realm ->
-        // Obtain Poke type ids
-        val inputStream: InputStream = context.resources.openRawResource(R.raw.type_ids)
-        realm.createAllFromJson(PokeTypeId::class.java, inputStream)
-      }, {
+      try {
+        // Initialize PokeTypeIds
+        val typeIdsStream: InputStream = context.resources.openRawResource(R.raw.type_ids)
+        realmInstance.createAllFromJson(PokeTypeId::class.java, typeIdsStream)
         Log.i("Realm: ", "Successfully created PokeTypeIds.")
-      }, {error ->
+      } catch (error: Exception) {
         Log.wtf("Realm: ", "Unable to create PokeTypeIds. " + error.localizedMessage)
-      })
+      }
     }
   }
 }
