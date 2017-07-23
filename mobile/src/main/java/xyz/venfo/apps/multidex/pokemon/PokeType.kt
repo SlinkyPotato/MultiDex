@@ -3,14 +3,10 @@ package xyz.venfo.apps.multidex.pokemon
 import android.app.Application
 import android.util.JsonReader
 import android.util.Log
-import com.google.gson.Gson
 import io.realm.Realm
 import io.realm.RealmList
 import io.realm.RealmObject
-import io.realm.RealmQuery
 import io.realm.annotations.PrimaryKey
-import org.json.JSONArray
-import org.json.JSONObject
 import xyz.venfo.apps.multidex.R
 import java.io.InputStream
 import java.io.InputStreamReader
@@ -63,16 +59,13 @@ open class PokeType (
       val pokeTypesStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
       val jsonReader: JsonReader = JsonReader(InputStreamReader(pokeTypesStream, "UTF-8"))
       try {
-//        val pokeTypes: MutableList<PokeType> = mutableListOf()
-
         // Read the poke types
         jsonReader.beginArray()
         while (jsonReader.hasNext()) {
-          val pokeType: PokeType = readPokeType(jsonReader)
+          val pokeType: PokeType = readPokeType(jsonReader, realm)
 
           // Insert PokeType into database
           realm.copyToRealm(pokeType)
-//          realm.createObject(PokeType::class.java, pokeType)
         }
         jsonReader.endArray()
         // Add Poketypes to database
@@ -88,7 +81,7 @@ open class PokeType (
     /**
      * Read PokeType Object
      */
-    fun readPokeType(reader: JsonReader): PokeType {
+    fun readPokeType(reader: JsonReader, realm: Realm): PokeType {
       var id: Int = -1
       val type: String
       var halfDmg: RealmList<PokeTypeId> = RealmList()
@@ -102,10 +95,10 @@ open class PokeType (
         // Handle various field types
         when (field) {
           "id" -> id = reader.nextInt()
-          "halfDmg" -> halfDmg = readDmg(reader)
-          "noDmg" -> noDmg = readDmg(reader)
-          "normalDmg" -> normalDmg = readDmg(reader)
-          "doubleDmg" -> doubleDmg = readDmg(reader)
+          "halfDmg" -> halfDmg = readDmg(reader, realm)
+          "noDmg" -> noDmg = readDmg(reader, realm)
+          "normalDmg" -> normalDmg = readDmg(reader, realm)
+          "doubleDmg" -> doubleDmg = readDmg(reader, realm)
           else -> {
             Log.wtf("JSON: ", "Unknown read in type_effects.json.")
             reader.skipValue()
@@ -123,18 +116,48 @@ open class PokeType (
      * @param reader
      * @return RealmList<PokeTypeId>
      */
-    fun readDmg(reader: JsonReader): RealmList<PokeTypeId> {
+    fun readDmg(reader: JsonReader, realm: Realm): RealmList<PokeTypeId> {
       val dmgEffect: MutableList<PokeTypeId> = mutableListOf()
       reader.beginArray()
       while (reader.hasNext()) {
         val pokeTypeId: Int = reader.nextInt()
-        val pkTypeObj: PokeTypeId = PokeTypeId(pokeTypeId, TYPES.getOrDefault(pokeTypeId, ""))
+        val pkTypeObj: PokeTypeId = realm
+            .where(PokeTypeId::class.java)
+            .equalTo("id", pokeTypeId)
+            .findFirst()
         dmgEffect.add(pkTypeObj)
       }
       reader.endArray()
       val realmList: RealmList<PokeTypeId> = RealmList()
       realmList.addAll(dmgEffect.toList())
       return realmList
+    }
+  }
+}
+
+/**
+ * PokeType Id Class
+ *
+ * The class must be open.
+ * @param id Int The type id
+ * @param type String
+ */
+open class PokeTypeId(
+    @PrimaryKey var id: Int = 0, // must have default value to init default constructor
+    var type: String = ""
+) : RealmObject() {
+  // Kotlin compiler generates standard getters and setters. Realm will overload them and code inside them is ignored.
+
+  companion object {
+    fun initPokeTypeIds(context: Application, realmInstance: Realm) {
+      try {
+        // Initialize PokeTypeIds
+        val typeIdsStream: InputStream = context.resources.openRawResource(R.raw.type_ids)
+        realmInstance.createAllFromJson(PokeTypeId::class.java, typeIdsStream)
+        Log.i("Realm: ", "Successfully created PokeTypeIds.")
+      } catch (error: Exception) {
+        Log.wtf("Realm: ", "Unable to create PokeTypeIds. " + error.localizedMessage)
+      }
     }
   }
 }

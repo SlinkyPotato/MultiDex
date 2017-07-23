@@ -2,15 +2,11 @@ package xyz.venfo.apps.multidex
 
 import android.app.Application
 import android.content.res.Configuration
-import android.util.JsonReader
 import android.util.Log
-import com.google.gson.JsonObject
-import com.google.gson.JsonParser
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
-import java.io.*
 
 class MultiDexApp: Application() {
   /**
@@ -27,8 +23,8 @@ class MultiDexApp: Application() {
     // Initialize database
     realmInstance.executeTransactionAsync ({ realm ->
       realm.deleteAll()
-//      PokeTypeId.initPokeTypeIds(this, realm)
-//      PokeType.initPokeTypes(this, realm)
+      PokeTypeId.initPokeTypeIds(this, realm)
+      PokeType.initPokeTypes(this, realm)
     }, {
       Log.i("Realm: ", "Successfully initialized database.")
     }, { error ->
