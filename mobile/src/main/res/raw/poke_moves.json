@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "name": "Pound",
+    "type": 0,
+    "categoryId": 0,
+    "condId": 4,
+    "powerPoint": 35,
+    "power": 40,
+    "accuracy": 100,
+    "generation": 1
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": 0,
+    "category": "Physical"
+  },
+  {
+    "id": 1,
+    "category": "Special"
+  },
+  {
+    "id": 2,
+    "category": "Status"
+  }
+]

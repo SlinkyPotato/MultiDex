@@ -5,6 +5,9 @@ import android.content.res.Configuration
 import android.util.Log
 import io.realm.Realm
 import io.realm.RealmConfiguration
+import xyz.venfo.apps.multidex.moves.ContestType
+import xyz.venfo.apps.multidex.moves.MoveCategory
+import xyz.venfo.apps.multidex.moves.PokeMove
 import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
 
@@ -25,6 +28,9 @@ class MultiDexApp: Application() {
       realm.deleteAll()
       PokeTypeId.initPokeTypeIds(this, realm)
       PokeType.initPokeTypes(this, realm)
+      MoveCategory.initCategories(this, realm)
+      ContestType.initContestTypes(this, realm)
+      PokeMove.initPokeMoves(this, realm)
     }, {
       Log.i("Realm: ", "Successfully initialized database.")
     }, { error ->

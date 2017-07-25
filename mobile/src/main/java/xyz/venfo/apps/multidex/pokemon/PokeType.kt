@@ -16,7 +16,7 @@ import java.io.InputStreamReader
  *
  * This class contains the specific type along with the type's weakness and effectiveness comparisons.
  *
- * @param type Type The primary type of the Pokemon
+ * @param type {Type} The primary type of the Pokemon
  * @param halfDmg A list of Types that receive half damage
  * @param noDmg A list of Types that receive no damage
  * @param normalDmg A list of Types that receive 1x damage
@@ -55,10 +55,11 @@ open class PokeType (
     )
 
     fun initPokeTypes(context: Application, realm: Realm) {
-      // Initialize PokeTypes
-      val pokeTypesStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
-      val jsonReader: JsonReader = JsonReader(InputStreamReader(pokeTypesStream, "UTF-8"))
+      var jsonReader: JsonReader? = null
       try {
+        // Initialize PokeTypes
+        val pokeTypesStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
+        jsonReader = JsonReader(InputStreamReader(pokeTypesStream, "UTF-8"))
         // Read the poke types
         jsonReader.beginArray()
         while (jsonReader.hasNext()) {
@@ -69,12 +70,12 @@ open class PokeType (
         }
         jsonReader.endArray()
         // Add Poketypes to database
-        Log.i("Realm: ", "Successfully created PokeTypes.")
+        Log.i("Realm", " Successfully created PokeTypes.")
       } catch(error: Exception) {
-        Log.wtf("Realm: ", "Unable to create PokeTypes. " + error.localizedMessage)
+        Log.wtf("Realm", " Unable to create PokeTypes. " + error.localizedMessage)
         throw Exception()
       } finally {
-        jsonReader.close()
+        if (jsonReader != null ) jsonReader.close() // only reader needs to be closed
       }
     }
 
@@ -100,7 +101,7 @@ open class PokeType (
           "normalDmg" -> normalDmg = readDmg(reader, realm)
           "doubleDmg" -> doubleDmg = readDmg(reader, realm)
           else -> {
-            Log.wtf("JSON: ", "Unknown read in type_effects.json.")
+            Log.wtf("JSON", " Unknown read in type_effects.json.")
             reader.skipValue()
           }
         }
@@ -131,33 +132,6 @@ open class PokeType (
       val realmList: RealmList<PokeTypeId> = RealmList()
       realmList.addAll(dmgEffect.toList())
       return realmList
-    }
-  }
-}
-
-/**
- * PokeType Id Class
- *
- * The class must be open.
- * @param id Int The type id
- * @param type String
- */
-open class PokeTypeId(
-    @PrimaryKey var id: Int = 0, // must have default value to init default constructor
-    var type: String = ""
-) : RealmObject() {
-  // Kotlin compiler generates standard getters and setters. Realm will overload them and code inside them is ignored.
-
-  companion object {
-    fun initPokeTypeIds(context: Application, realmInstance: Realm) {
-      try {
-        // Initialize PokeTypeIds
-        val typeIdsStream: InputStream = context.resources.openRawResource(R.raw.type_ids)
-        realmInstance.createAllFromJson(PokeTypeId::class.java, typeIdsStream)
-        Log.i("Realm: ", "Successfully created PokeTypeIds.")
-      } catch (error: Exception) {
-        Log.wtf("Realm: ", "Unable to create PokeTypeIds. " + error.localizedMessage)
-      }
     }
   }
 }

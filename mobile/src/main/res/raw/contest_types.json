@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "condition": "Cool"
+  },
+  {
+    "id": 1,
+    "condition": "Beautiful"
+  },
+  {
+    "id": 2,
+    "condition": "Cute"
+  },
+  {
+    "id": 3,
+    "condition": "Clever"
+  },
+  {
+    "id": 4,
+    "condition": "Tough"
+  }
+]

@@ -12,12 +12,9 @@ import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
 import android.widget.Button
-import android.widget.LinearLayout
 import android.widget.TextView
 import io.realm.Realm
-import io.realm.RealmConfiguration
 import io.realm.RealmQuery
-import io.realm.RealmResults
 import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
 import kotlin.properties.Delegates
