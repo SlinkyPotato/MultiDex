@@ -1,22 +1,22 @@
 [
   {
     "id": 0,
-    "condition": "Cool"
+    "type": "Cool"
   },
   {
     "id": 1,
-    "condition": "Beautiful"
+    "type": "Beautiful"
   },
   {
     "id": 2,
-    "condition": "Cute"
+    "type": "Cute"
   },
   {
     "id": 3,
-    "condition": "Clever"
+    "type": "Clever"
   },
   {
     "id": 4,
-    "condition": "Tough"
+    "type": "Tough"
   }
 ]

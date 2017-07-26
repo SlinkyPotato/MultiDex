@@ -15,11 +15,15 @@ import java.io.InputStreamReader
  * The Pokemon's Move Information
  *
  * This class contains specific move information
+ *
+ * Notes:
+ *  * Karate Chop (2) is normal in gen 1
+ *
  * @param id {String}
  * @param name {PokeType}
  * @param type {PokeType}
  * @param category {Int}
- * @param condition {Int}
+ * @param contestType {Int}
  * @param powerPoint {Int}
  * @param power {Int}
  * @param accuracy {Int}
@@ -30,12 +34,15 @@ open class PokeMove(
     var name: String = "",
     var type: PokeType = PokeType(),
     var category: MoveCategory = MoveCategory(),
-    var condition: ContestType = ContestType(),
+    var contestType: ContestType = ContestType(),
     var powerPoint: Int = -1,
     var power: Int = -1,
     var accuracy: Int = -1,
-    var generation: Int = 0 // Gen 1 starts at 1
-): RealmObject(){
+    var generation: Int = 0, // Gen 1 starts at 1
+    var description: String = "",
+    var effect: String = "",
+    var notes: String = ""
+) : RealmObject() {
   companion object {
     fun initPokeMoves(context: Application, realm: Realm) {
       var jsonReader: JsonReader? = null
@@ -59,18 +66,21 @@ open class PokeMove(
     fun readPokeMove(reader: JsonReader, realm: Realm): PokeMove {
       val pokeMove: PokeMove = PokeMove()
       reader.beginObject()
-      while(reader.hasNext()) {
+      while (reader.hasNext()) {
         val field: String = reader.nextName()
-        when (field){
+        when (field) {
           "id" -> pokeMove.id = reader.nextInt()
           "name" -> pokeMove.name = reader.nextString()
           "type" -> pokeMove.type = readPokeType(reader.nextInt(), realm)
           "categoryId" -> pokeMove.category = readCategory(reader.nextInt(), realm)
-          "condId" -> pokeMove.condition = readCond(reader.nextInt(), realm)
+          "contestId" -> pokeMove.contestType = readContestType(reader.nextInt(), realm)
           "powerPoint" -> pokeMove.powerPoint = reader.nextInt()
           "power" -> pokeMove.power = reader.nextInt()
           "accuracy" -> pokeMove.accuracy = reader.nextInt()
           "generation" -> pokeMove.generation = reader.nextInt()
+          "description" -> pokeMove.description = reader.nextString()
+          "effect" -> pokeMove.effect = reader.nextString()
+          "notes" -> pokeMove.notes = reader.nextString()
           else -> {
             Log.wtf("JSON", " Unknown read in poke_moves.json")
             reader.skipValue()
@@ -89,8 +99,8 @@ open class PokeMove(
       return realm.where(MoveCategory::class.java).equalTo("id", categoryId).findFirst()
     }
 
-    fun readCond(condId: Int, realm: Realm): ContestType {
-      return realm.where(ContestType::class.java).equalTo("id", condId).findFirst()
+    fun readContestType(typeId: Int, realm: Realm): ContestType {
+      return realm.where(ContestType::class.java).equalTo("id", typeId).findFirst()
     }
   }
 }

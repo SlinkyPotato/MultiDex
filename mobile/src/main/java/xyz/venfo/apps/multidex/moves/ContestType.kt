@@ -19,7 +19,7 @@ open class ContestType(
 ) : RealmObject() {
 
   companion object {
-    val COND: Map<Int, String> = mapOf(
+    val TYPES: Map<Int, String> = mapOf(
         0 to "Cool",
         1 to "Beautiful",
         2 to "Cute",
