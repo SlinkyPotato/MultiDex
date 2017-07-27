@@ -1,0 +1,78 @@
+[
+  {
+    "id": 0,
+    "type": "Normal"
+  },
+  {
+    "id": 1,
+    "type": "Fuego"
+  },
+  {
+    "id": 2,
+    "type": "Agua"
+  },
+  {
+    "id": 3,
+    "type": "Eléctrico"
+  },
+  {
+    "id": 4,
+    "type": "Planta"
+  },
+  {
+    "id": 5,
+    "type": "Hielo"
+  },
+  {
+    "id": 6,
+    "type": "Lucha"
+  },
+  {
+    "id": 7,
+    "type": "Veneno"
+  },
+  {
+    "id": 8,
+    "type": "Tierra"
+  },
+  {
+    "id": 9,
+    "type": "Volador"
+  },
+  {
+    "id": 10,
+    "type": "Psíquico"
+  },
+  {
+    "id": 11,
+    "type": "Bicho"
+  },
+  {
+    "id": 12,
+    "type": "Roca"
+  },
+  {
+    "id": 13,
+    "type": "Fantasma"
+  },
+  {
+    "id": 14,
+    "type": "Dragón"
+  },
+  {
+    "id": 15,
+    "type": "Siniestro"
+  },
+  {
+    "id": 16,
+    "type": "Acero"
+  },
+  {
+    "id": 17,
+    "type": "Hada"
+  },
+  {
+    "id": 18,
+    "type": "???"
+  }
+]

@@ -1,14 +1,17 @@
 [
   {
     "id": 0,
-    "category": "Physical"
+    "category": "Physical",
+    "description": "Physical damage influenced by attack and defense."
   },
   {
     "id": 1,
-    "category": "Special"
+    "category": "Special",
+    "description": "Special damage influenced by special attack and special defense."
   },
   {
     "id": 2,
-    "category": "Status"
+    "category": "Status",
+    "description": "No damage but might affect attributes and other other traits."
   }
 ]

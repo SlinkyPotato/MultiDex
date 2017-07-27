@@ -26,7 +26,7 @@ open class PokeTypeId(
       var typeIdsStream: InputStream? = null
       try {
         // Initialize PokeTypeIds
-        typeIdsStream = context.resources.openRawResource(R.raw.type_ids)
+        typeIdsStream = context.resources.openRawResource(R.raw.poke_types)
         realmInstance.createAllFromJson(PokeTypeId::class.java, typeIdsStream)
         Log.i("Realm", " Successfully created PokeTypeIds.")
       } catch (error: Exception) {

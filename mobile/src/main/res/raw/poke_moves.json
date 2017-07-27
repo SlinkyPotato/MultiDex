@@ -2,13 +2,6 @@
   {
     "id": 1,
     "name": "Pound",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 35,
-    "power": 40,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -16,13 +9,6 @@
   {
     "id": 2,
     "name": "Karate Chop",
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 25,
-    "power": 50,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -30,13 +16,6 @@
   {
     "id": 3,
     "name": "Double Slap",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 2,
-    "powerPoint": 10,
-    "power": 15,
-    "accuracy": 85,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -44,13 +23,6 @@
   {
     "id": 4,
     "name": "Comet Punch",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 15,
-    "power": 18,
-    "accuracy": 85,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -58,13 +30,6 @@
   {
     "id": 5,
     "name": "Mega Punch",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 80,
-    "accuracy": 85,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -72,13 +37,6 @@
   {
     "id": 6,
     "name": "Pay Day",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 3,
-    "powerPoint": 20,
-    "power": 40,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -86,13 +44,6 @@
   {
     "id": 7,
     "name": "Fire Punch",
-    "type": 1,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 15,
-    "power": 75,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -100,13 +51,6 @@
   {
     "id": 8,
     "name": "Ice Punch",
-    "type": 5,
-    "categoryId": 0,
-    "contestId": 1,
-    "powerPoint": 15,
-    "power": 75,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -114,13 +58,6 @@
   {
     "id": 9,
     "name": "Thunder Punch",
-    "type": 3,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 15,
-    "power": 75,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -128,13 +65,6 @@
   {
     "id": 10,
     "name": "Scratch",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 35,
-    "power": 40,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -142,13 +72,6 @@
   {
     "id": 11,
     "name": "Vice Grip",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 30,
-    "power": 55,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -156,13 +79,6 @@
   {
     "id": 12,
     "name": "Guillotine",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 5,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -170,13 +86,6 @@
   {
     "id": 13,
     "name": "Razor Wind",
-    "type": 0,
-    "categoryId": 1,
-    "contestId": 0,
-    "powerPoint": 10,
-    "power": 80,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -184,13 +93,6 @@
   {
     "id": 14,
     "name": "Swords Dance",
-    "type": 0,
-    "categoryId": 2,
-    "contestId": 1,
-    "powerPoint": 20,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -198,24 +100,13 @@
   {
     "id": 15,
     "name": "Cut",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 30,
-    "power": 50,
-    "accuracy": 95,
-    "generation": 1
+    "description": "",
+    "effect": "",
+    "notes": ""
   },
   {
     "id": 16,
     "name": "Gust",
-    "type": 9,
-    "categoryId": 1,
-    "contestId": 3,
-    "powerPoint": 35,
-    "power": 40,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -223,13 +114,6 @@
   {
     "id": 17,
     "name": "Wing Attack",
-    "type": 9,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 35,
-    "power": 60,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -237,13 +121,6 @@
   {
     "id": 18,
     "name": "Whirlwind",
-    "type": 0,
-    "categoryId": 2,
-    "contestId": 3,
-    "powerPoint": 20,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -251,13 +128,6 @@
   {
     "id": 19,
     "name": "Fly",
-    "type": 9,
-    "categoryId": 0,
-    "contestId": 3,
-    "powerPoint": 15,
-    "power": 90,
-    "accuracy": 95,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -265,13 +135,6 @@
   {
     "id": 20,
     "name": "Bind",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 15,
-    "accuracy": 85,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -279,13 +142,6 @@
   {
     "id": 21,
     "name": "Slam",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 80,
-    "accuracy": 75,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -293,13 +149,6 @@
   {
     "id": 22,
     "name": "Vine Whip",
-    "type": 4,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 25,
-    "power": 45,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -307,13 +156,6 @@
   {
     "id": 23,
     "name": "Stomp",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 65,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -321,13 +163,6 @@
   {
     "id": 24,
     "name": "Double Kick",
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 30,
-    "power": 30,
-    "accuracy": 100,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -335,13 +170,6 @@
   {
     "id": 25,
     "name": "Mega Kick",
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 5,
-    "power": 120,
-    "accuracy": 75,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
@@ -349,15 +177,4376 @@
   {
     "id": 26,
     "name": "Jump Kick",
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 10,
-    "power": 100,
-    "accuracy": 95,
-    "generation": 1,
     "description": "",
     "effect": "",
     "notes": ""
-  }
+  },
+  {
+    "id": 27,
+    "name": "Rolling Kick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "name": "Sand Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "name": "Headbutt",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "name": "Horn Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "name": "Fury Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "name": "Horn Drill",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "name": "Tackle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "name": "Body Slam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "name": "Wrap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "name": "Take Down",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "name": "Thrash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "name": "Double-Edge",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "name": "Tail Whip",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "name": "Poison Sting",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "name": "Twineedle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "name": "Pin Missile",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "name": "Leer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "name": "Bite",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "name": "Growl",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "name": "Roar",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "name": "Sing",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "name": "Supersonic",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "name": "Sonic Boom",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "name": "Disable",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "name": "Acid",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "name": "Ember",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "name": "Flamethrower",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "name": "Mist",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "name": "Water Gun",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "name": "Hydro Pump",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "name": "Surf",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "name": "Ice Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "name": "Blizzard",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "name": "Psybeam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "name": "Bubble Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "name": "Aurora Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "name": "Hyper Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "name": "Peck",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "name": "Drill",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "name": "Submission",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "name": "Low Kick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "name": "Counter",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "name": "Seismic Toss",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "name": "Strength",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "name": "Absorb",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "name": "Mega Drain",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "name": "Leech Seed",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "name": "Growth",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "name": "Razor Leaf",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "name": "Solar Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "name": "Poison Power",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "name": "Stun Powder",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "name": "Sleep Power",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "name": "Petal Dance",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "name": "String Shot",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "name": "Dragon Rage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "name": "Fire Spin",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "name": "Thunder Shock",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "name": "Thunderbolt",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "name": "Thunder Wave",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "name": "Thunder",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "name": "Rock Throw",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "name": "Earthquake",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "name": "Fissure",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "name": "Dig",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "name": "Toxic",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "name": "Confusion",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "name": "Psychic",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "name": "Hypnosis",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "name": "Meditate",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "name": "Agility",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "name": "Quick Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "name": "Rage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "name": "Teleport",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 101,
+    "name": "Night Shade",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 102,
+    "name": "Mimic",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 103,
+    "name": "Screech",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 104,
+    "name": "Double Team",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 105,
+    "name": "Recover",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 106,
+    "name": "Harden",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 107,
+    "name": "Minimize",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 108,
+    "name": "Smokescreen",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 109,
+    "name": "Confuse Ray",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 110,
+    "name": "Withdraw",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 111,
+    "name": "Defense Curl",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 112,
+    "name": "Barrier",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 113,
+    "name": "Light Screen",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 114,
+    "name": "Haze",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 115,
+    "name": "Reflect",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 116,
+    "name": "Focus Energy",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 117,
+    "name": "Bide",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 118,
+    "name": "Metronome",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 119,
+    "name": "Mirror Move",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 120,
+    "name": "Self-Destruct",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 121,
+    "name": "Egg Bomb",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 122,
+    "name": "Lick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 123,
+    "name": "Smog",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 124,
+    "name": "Sludge",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 125,
+    "name": "Bone Club",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 126,
+    "name": "Fire Blast",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 127,
+    "name": "Waterfall",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 128,
+    "name": "Clamp",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 129,
+    "name": "Swift",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 130,
+    "name": "Skull Bash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 131,
+    "name": "Spike Cannon",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 132,
+    "name": "Constrict",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 133,
+    "name": "Amnesia",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 134,
+    "name": "Kinesis",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 135,
+    "name": "Soft-Boiled",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 136,
+    "name": "High Jump Kick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 137,
+    "name": "Glare",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 138,
+    "name": "Dream Eater",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 139,
+    "name": "Poison Gas",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 140,
+    "name": "Barrage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 141,
+    "name": "Leech Life",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 142,
+    "name": "Lovely Kiss",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 143,
+    "name": "Sky Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 144,
+    "name": "Transform",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 145,
+    "name": "Bubble",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 146,
+    "name": "Dizzy Punch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 147,
+    "name": "Spore",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 148,
+    "name": "Flash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 149,
+    "name": "Psywave",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 150,
+    "name": "Splash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 151,
+    "name": "Acid Armor",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 152,
+    "name": "Crabhammer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 153,
+    "name": "Explosion",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 154,
+    "name": "Fury Swipes",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 155,
+    "name": "Bonemerage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 156,
+    "name": "Rest",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 157,
+    "name": "Rock Slide",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 158,
+    "name": "Hyper Fang",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 159,
+    "name": "Sharpen",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 160,
+    "name": "Conversion",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 161,
+    "name": "Tri Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 162,
+    "name": "Super Fang",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 163,
+    "name": "Slash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 164,
+    "name": "Substitute",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 165,
+    "name": "Struggle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 166,
+    "name": "Sketch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 167,
+    "name": "Triple Kick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 168,
+    "name": "Thief",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 169,
+    "name": "Spider Web",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 170,
+    "name": "Mind Reader",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 171,
+    "name": "Nightmare",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 172,
+    "name": "Flame Wheel",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 173,
+    "name": "Snore",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 174,
+    "name": "Curse",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 175,
+    "name": "Flail",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 176,
+    "name": "Conversion 2",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 177,
+    "name": "Aeroblast",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 178,
+    "name": "Cotton Spore",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 179,
+    "name": "Reversal",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 180,
+    "name": "Spite",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 181,
+    "name": "Powder Snow",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 182,
+    "name": "Protect",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 183,
+    "name": "Mach Punch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 184,
+    "name": "Scary Face",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 185,
+    "name": "Feint Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 186,
+    "name": "Sweet Kiss",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 187,
+    "name": "Belly Drum",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 188,
+    "name": "Sludge Bomb",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 189,
+    "name": "Mud-Slap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 190,
+    "name": "Octazooka",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 191,
+    "name": "Spikes",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 192,
+    "name": "Zap Cannon",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 193,
+    "name": "Foresight",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 194,
+    "name": "Destiny Bond",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 195,
+    "name": "Perish Song",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 196,
+    "name": "Icy Wind",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 197,
+    "name": "Detect",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 198,
+    "name": "Bone Rush",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 199,
+    "name": "Lock-On",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 200,
+    "name": "Outrage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 201,
+    "name": "Sandstorm",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 202,
+    "name": "Giga Drain",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 203,
+    "name": "Endure",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 204,
+    "name": "Charm",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 205,
+    "name": "Rollout",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 206,
+    "name": "False Swipe",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 207,
+    "name": "Swagger",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 208,
+    "name": "Milk Drink",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 209,
+    "name": "Spark",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 210,
+    "name": "Fury Cutter",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 211,
+    "name": "Steel Wing",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 212,
+    "name": "Mean Look",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 213,
+    "name": "Attract",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 214,
+    "name": "Sleep Talk",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 215,
+    "name": "Heal Bell",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 216,
+    "name": "Return",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 217,
+    "name": "Present",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 218,
+    "name": "Frustration",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 219,
+    "name": "Safeguard",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 220,
+    "name": "Pain Split",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 221,
+    "name": "Sacred Fire",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 222,
+    "name": "Magnitude",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 223,
+    "name": "Dynamic Punch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 224,
+    "name": "Megahorn",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 225,
+    "name": "Dragon Breath",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 226,
+    "name": "Baton Pass",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 227,
+    "name": "Encore",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 228,
+    "name": "Pursuit",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 229,
+    "name": "Rapid Spin",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 230,
+    "name": "Sweet Scent",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 231,
+    "name": "Iron Tail",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 232,
+    "name": "Metal Claw",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 233,
+    "name": "Vital Throw",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 234,
+    "name": "Morning Sun",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 235,
+    "name": "Synthesis",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 236,
+    "name": "Moonlight",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 237,
+    "name": "Hidden Power",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 238,
+    "name": "Cross Chop",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 239,
+    "name": "Twister",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 240,
+    "name": "Rain Dance",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 241,
+    "name": "Sunny Day",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 242,
+    "name": "Crunch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 243,
+    "name": "Mirror Coat",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 244,
+    "name": "Psych Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 245,
+    "name": "Extreme Speed",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 246,
+    "name": "Ancient Power",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 247,
+    "name": "Shadow Ball",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 248,
+    "name": "Future Sight",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 249,
+    "name": "Rock Smash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 250,
+    "name": "Whirlpool",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 251,
+    "name": "Beat Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 252,
+    "name": "Fake Out",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 253,
+    "name": "Uproar",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 254,
+    "name": "Stockpile",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 255,
+    "name": "Spit Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 256,
+    "name": "Swallow",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 257,
+    "name": "Heat Wave",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 258,
+    "name": "Hail",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 259,
+    "name": "Torment",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 260,
+    "name": "Flatter",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 261,
+    "name": "Will-O-Wisp",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 262,
+    "name": "Memento",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 263,
+    "name": "Facade",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 264,
+    "name": "Focus Punch",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 265,
+    "name": "Smelling Salts",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 266,
+    "name": "Follow Me",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": ,
+    "name": "",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
 ]
