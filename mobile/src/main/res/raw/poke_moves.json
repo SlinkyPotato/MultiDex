@@ -1,7 +1,14 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "name": "Pound",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 1,
+    "name": "Karate Chop",
     "description": "",
     "effect": "",
     "notes": ""
@@ -449,7 +456,7 @@
   },
   {
     "id": 65,
-    "name": "Drill",
+    "name": "Drill Peck",
     "description": "",
     "effect": "",
     "notes": ""
@@ -533,21 +540,21 @@
   },
   {
     "id": 77,
-    "name": "Poison Power",
+    "name": "Poison Powder",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
     "id": 78,
-    "name": "Stun Powder",
+    "name": "Stun Spore",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
     "id": 79,
-    "name": "Sleep Power",
+    "name": "Sleep Powder",
     "description": "",
     "effect": "",
     "notes": ""
@@ -1079,7 +1086,7 @@
   },
   {
     "id": 155,
-    "name": "Bonemerage",
+    "name": "Bonemerang",
     "description": "",
     "effect": "",
     "notes": ""
@@ -1862,2691 +1869,3174 @@
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 267,
+    "name": "Nature Power",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 268,
+    "name": "Charge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 269,
+    "name": "Taunt",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 270,
+    "name": "Helping Hand",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 271,
+    "name": "Trick",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 272,
+    "name": "Role Play",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 273,
+    "name": "Wish",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 274,
+    "name": "Assist",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 275,
+    "name": "Ingrain",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 276,
+    "name": "Superpower",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 277,
+    "name": "Magic Coat",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 278,
+    "name": "Recycle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 279,
+    "name": "Revenge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 280,
+    "name": "Brick Break",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 281,
+    "name": "Yawn",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 282,
+    "name": "Knock Off",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 283,
+    "name": "Endeavor",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 284,
+    "name": "Eruption",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 285,
+    "name": "Skill Swap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 286,
+    "name": "Imprison",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 287,
+    "name": "Refresh",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 288,
+    "name": "Grudge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 289,
+    "name": "Snatch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 290,
+    "name": "Secret Power",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 291,
+    "name": "Dive",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 292,
+    "name": "Arm Thrust",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 293,
+    "name": "Camouflage",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 294,
+    "name": "Tail Glow",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 295,
+    "name": "Luster Purge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 296,
+    "name": "Mist Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 297,
+    "name": "Feather Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 298,
+    "name": "Teeter Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 299,
+    "name": "Blaze Kick",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 300,
+    "name": "Mud Sport",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 301,
+    "name": "Ice Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 302,
+    "name": "Needle Arm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 303,
+    "name": "Slack Off",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 304,
+    "name": "Hyper Voice",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 305,
+    "name": "Poison Fang",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 306,
+    "name": "Crush Claw",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 307,
+    "name": "Blast Burn",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 308,
+    "name": "Hydro Cannon",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 309,
+    "name": "Meteor Mash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 310,
+    "name": "Astonish",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 311,
+    "name": "Weather Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 312,
+    "name": "Aromatherapy",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 313,
+    "name": "Fake Tears",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 314,
+    "name": "Air Cutter",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 315,
+    "name": "Overheat",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 316,
+    "name": "Odor Sleuth",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 317,
+    "name": "Rock Tomb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 318,
+    "name": "Silver Wind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 319,
+    "name": "Metal Sound",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 320,
+    "name": "Grass Whistle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 321,
+    "name": "Tickle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 322,
+    "name": "Cosmic Power",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 323,
+    "name": "Water Spout",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 324,
+    "name": "Signal Beam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 325,
+    "name": "Shadow Punch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 326,
+    "name": "Extrasensory",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 327,
+    "name": "Sky Uppercut",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 328,
+    "name": "Sand Tomb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 329,
+    "name": "Sheer Cold",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 330,
+    "name": "Muddy Water",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 331,
+    "name": "Bullet Seed",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 332,
+    "name": "Aerial Ace",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 333,
+    "name": "Icicle Spear",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 334,
+    "name": "Iron Defense",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 335,
+    "name": "Block",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 336,
+    "name": "Howl",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 337,
+    "name": "Dragon Claw",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 338,
+    "name": "Frenzy Plant",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 339,
+    "name": "Bulk Up",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 340,
+    "name": "Bounce",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 341,
+    "name": "Mud Shot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 342,
+    "name": "Poison Tail",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 343,
+    "name": "Covet",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 344,
+    "name": "Volt Tackle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 345,
+    "name": "Magical Leaf",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 346,
+    "name": "Water Sport",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 347,
+    "name": "Calm Mind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 348,
+    "name": "Leaf Blade",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 349,
+    "name": "Dragon Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 350,
+    "name": "Rock Blast",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 351,
+    "name": "Shock Wave",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 352,
+    "name": "Water Pulse",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 353,
+    "name": "Doom Desire",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 354,
+    "name": "Psycho Boost",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 355,
+    "name": "Roost",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 356,
+    "name": "Gravity",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 357,
+    "name": "Miracle Eye",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 358,
+    "name": "Wake-Up Slap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 359,
+    "name": "Hammer Arm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 360,
+    "name": "Gyro Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 361,
+    "name": "Healing Wish",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 362,
+    "name": "Brine",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 363,
+    "name": "Natural Gift",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 364,
+    "name": "Feint",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 365,
+    "name": "Pluck",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 366,
+    "name": "Tailwind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 367,
+    "name": "Acupressure",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 368,
+    "name": "Metal Burst",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 369,
+    "name": "U-turn",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 370,
+    "name": "Close Combat",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 371,
+    "name": "Payback",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 372,
+    "name": "Assurance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 373,
+    "name": "Embargo",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 374,
+    "name": "Fling",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 375,
+    "name": "Psycho Shift",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 376,
+    "name": "Trump Card",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 377,
+    "name": "Heal Block",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 378,
+    "name": "Wring Out",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 379,
+    "name": "Power Trick",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 380,
+    "name": "Gastro Acid",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 381,
+    "name": "Lucky Chant",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 382,
+    "name": "Me First",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 383,
+    "name": "Copycat",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 384,
+    "name": "Power Swap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 385,
+    "name": "Guard Swap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 386,
+    "name": "Punishment",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 387,
+    "name": "Last Resort",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 388,
+    "name": "Worry Seed",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 389,
+    "name": "Sucker Punch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 390,
+    "name": "Toxic Spikes",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 391,
+    "name": "Heart Swap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 392,
+    "name": "Aqua Ring",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 393,
+    "name": "Magnet Rise",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 394,
+    "name": "Flare Blitz",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 395,
+    "name": "Force Palm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 396,
+    "name": "Aura Sphere",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 397,
+    "name": "Rock Polish",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 398,
+    "name": "Auraa Sphere",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 399,
+    "name": "Dark Pusle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 400,
+    "name": "Night Slash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 401,
+    "name": "Aqua Tail",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 402,
+    "name": "Seed Bomb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 403,
+    "name": "Air Slash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 404,
+    "name": "X-Scissor",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 405,
+    "name": "Bug Buzz",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 406,
+    "name": "Dragon Pusle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 407,
+    "name": "Dragon Rush",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 408,
+    "name": "Power Gem",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 409,
+    "name": "Drain Punch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 410,
+    "name": "Vacuum Wave",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 411,
+    "name": "Focus Blast",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 412,
+    "name": "Energy Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 413,
+    "name": "Brave Bird",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 414,
+    "name": "Earth Power",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 415,
+    "name": "Switcheroo",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 416,
+    "name": "Giga Impact",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 417,
+    "name": "Nasty Plot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 418,
+    "name": "Bullet Punch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 419,
+    "name": "Avalanche",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 420,
+    "name": "Ice Shard",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 421,
+    "name": "Shadow Claw",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 422,
+    "name": "Thunder Fang",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 423,
+    "name": "Ice Fang",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 424,
+    "name": "Fire Fang",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 425,
+    "name": "Shadow Sneak",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 426,
+    "name": "Mud Bomb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 427,
+    "name": "Psycho Cut",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 428,
+    "name": "Zen Headbutt",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 429,
+    "name": "Mirror Shot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 430,
+    "name": "Flash Cannon",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 431,
+    "name": "Rock Climb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 432,
+    "name": "Defog",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 433,
+    "name": "Trick Room",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 434,
+    "name": "Draco Meteor",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 435,
+    "name": "Discharge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 436,
+    "name": "Lava Plume",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 437,
+    "name": "Leaf Storm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 438,
+    "name": "Power Whip",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 439,
+    "name": "Rock Wrecker",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 440,
+    "name": "Cross ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 441,
+    "name": "Gunk Shot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 442,
+    "name": "Iron Head",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 443,
+    "name": "Magnet Bomb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 444,
+    "name": "Stone Edge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 445,
+    "name": "Captivate",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 446,
+    "name": "Stealth ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 447,
+    "name": "Grass Knot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 448,
+    "name": "Chatter",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 449,
+    "name": "Judgment",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 450,
+    "name": "Bug Bite",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 451,
+    "name": "Charge Beam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 452,
+    "name": "Wood Hammer",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 453,
+    "name": "Aqua Jet",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 454,
+    "name": "Attack Order",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 455,
+    "name": "Defend Order",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 456,
+    "name": "Heal Order",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 457,
+    "name": "Head Smash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 458,
+    "name": "Double Hit",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 459,
+    "name": "Roar of Time",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 460,
+    "name": "Spacial Rend",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 461,
+    "name": "Lunar Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 462,
+    "name": "Crush Grip",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 463,
+    "name": "Magma Storm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 464,
+    "name": "Dark Void",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 465,
+    "name": "Seed Flare",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 466,
+    "name": "Ominous Wind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 467,
+    "name": "Shadow Force",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 468,
+    "name": "Hone Claws",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 469,
+    "name": "Wide Guard",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 470,
+    "name": "Guard Split",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 471,
+    "name": "Power Split",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 472,
+    "name": "Wonder Room",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 473,
+    "name": "Psyshock",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 474,
+    "name": "Venoshock",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 475,
+    "name": "Autotomize",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 476,
+    "name": "Rage Powder",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 477,
+    "name": "Telekinesis",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 478,
+    "name": "Magic Room",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 479,
+    "name": "Smack Down",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 480,
+    "name": "Storm Throw",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 481,
+    "name": "Flame Burst",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 482,
+    "name": "Sludge Wave",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 483,
+    "name": "Quiver Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 484,
+    "name": "Heavy Slam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 485,
+    "name": "Synchronoise",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 486,
+    "name": "Electro Ball",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 487,
+    "name": "Soak",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 488,
+    "name": "Flame Charge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 489,
+    "name": "Coil",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 490,
+    "name": "Low Sweep",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 491,
+    "name": "Acid Spray",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 492,
+    "name": "Foul Play",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 493,
+    "name": "Simple Beam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 494,
+    "name": "Entrainment",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 495,
+    "name": "After You",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 496,
+    "name": "Round",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 497,
+    "name": "Echoed Voice",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 498,
+    "name": "Chip Away",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 499,
+    "name": "Clear Smog",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 500,
+    "name": "Stored Power",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 501,
+    "name": "Quick Guard",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 502,
+    "name": "Ally Switch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 503,
+    "name": "Scald",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 504,
+    "name": "Shell Smash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 505,
+    "name": "Heal Pulse",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 506,
+    "name": "Hex",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 507,
+    "name": "Sky Drop",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 508,
+    "name": "Shift Gear",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 509,
+    "name": "Circle Throw",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 510,
+    "name": "Incinerate",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 511,
+    "name": "Quash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 512,
+    "name": "Acrobatics",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 513,
+    "name": "Reflect Type",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 514,
+    "name": "Retaliate",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 515,
+    "name": "Final Gambit",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 516,
+    "name": "Bestow",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 517,
+    "name": "Inferno",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 518,
+    "name": "Water Pledge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 519,
+    "name": "Fire Pledge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 520,
+    "name": "Grass Pledge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 521,
+    "name": "Volt Switch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 522,
+    "name": "Struggle Bug",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 523,
+    "name": "Bulldoze",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 524,
+    "name": "Frost Breath",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 525,
+    "name": "Dragon Tail",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 526,
+    "name": "Work Up",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 527,
+    "name": "Electroweb",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 528,
+    "name": "Wild Charge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 529,
+    "name": "Drill Run",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 530,
+    "name": "Dual Chop",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 531,
+    "name": "Heart Stamp",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 532,
+    "name": "Horn Leech",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 533,
+    "name": "Sacred Sword",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 534,
+    "name": "Razor Shell",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 535,
+    "name": "Heat Crash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 536,
+    "name": "Leaf Tornado",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 537,
+    "name": "Steamroller",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 538,
+    "name": "Cotton Guard",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 539,
+    "name": "Night Daze",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 540,
+    "name": "Psystrike",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 541,
+    "name": "Tail Slap",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 542,
+    "name": "Hurricane",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 543,
+    "name": "Head Charge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 544,
+    "name": "Gear Grind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 545,
+    "name": "Searing Shot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 546,
+    "name": "Techno Blast",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 547,
+    "name": "Relic Song",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 548,
+    "name": "Secret Sword",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 549,
+    "name": "Glaciate",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 550,
+    "name": "Bolt Strike",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 551,
+    "name": "Blue Flare",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 552,
+    "name": "Fiery Dance",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 553,
+    "name": "Freeze Shock",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 554,
+    "name": "Ice Beam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 555,
+    "name": "Snarl",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 556,
+    "name": "Icicle Crash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 557,
+    "name": "V-create",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 558,
+    "name": "Fusion Flare",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 559,
+    "name": "Fusion Bolt",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 560,
+    "name": "Flying Press",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 561,
+    "name": "Mat Block",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 562,
+    "name": "Belch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 563,
+    "name": "Rototiller",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 564,
+    "name": "Sticky Web",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 565,
+    "name": "Fell Stinger",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 566,
+    "name": "Phantom Force",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 567,
+    "name": "Trick-or-Treat",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 568,
+    "name": "Noble Roar",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 569,
+    "name": "Ion Deluge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 570,
+    "name": "Parabolic Charge",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 571,
+    "name": "Forest's Curse",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 572,
+    "name": "Petal Blizzard",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 573,
+    "name": "Freeze-Dry",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 574,
+    "name": "Disarming Vo ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 575,
+    "name": "Parting Shot",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 576,
+    "name": "Topsy-Turvy",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 577,
+    "name": "Draining Kiss",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 578,
+    "name": "Crafty Shield",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 579,
+    "name": "Flower Shield",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 580,
+    "name": "Grassy Terrain",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 581,
+    "name": "Misty Terrain",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 582,
+    "name": "Electrify",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 583,
+    "name": "Play Rough",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 584,
+    "name": "Fairy Wind",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 585,
+    "name": "Moonblast",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 586,
+    "name": "Boomburst",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 587,
+    "name": "Fairy Lock ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 588,
+    "name": "King's Shield",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 589,
+    "name": "Play N ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 590,
+    "name": "Confide",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 591,
+    "name": "Diamond Storm",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 592,
+    "name": "Steam Eruption",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 593,
+    "name": "Hyperspace Hole",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 594,
+    "name": "Water Shuriken",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 595,
+    "name": "Mystical ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 596,
+    "name": "Spiky Shield",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 597,
+    "name": "Aromatic Mist",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 598,
+    "name": "Eerie Impulse",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 599,
+    "name": "Venom Drench",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 600,
+    "name": "Powder",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 601,
+    "name": "Geomancy",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 602,
+    "name": "Magnetic Flux",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 603,
+    "name": "Happy Hour",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 604,
+    "name": "Electric Terrain",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 605,
+    "name": "Dazzling Gleam",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 606,
+    "name": "Celebrate",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 607,
+    "name": "Hold Hands",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 608,
+    "name": "Baby-Doll Eyes",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 609,
+    "name": "Nuzzle",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 610,
+    "name": "Hold Back",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 611,
+    "name": "Infestation",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 612,
+    "name": "Power-Up Punch",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 613,
+    "name": "Oblivion Wing",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 614,
+    "name": "Thousand Arrows",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 615,
+    "name": "Thousand Waves",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 616,
+    "name": "Land's Wrath",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 617,
+    "name": "Light of Ruin",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 618,
+    "name": "Origin Pulse",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 619,
+    "name": "Precip ",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 620,
+    "name": "Dragon Ascent",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 621,
+    "name": "Hyperspace Fury",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 622,
+    "name": "Breakneck Blitz",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 623,
+    "name": "Breakneck Blitz",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 624,
+    "name": "All-Out Pummeling",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 625,
+    "name": "All-Out Pummeling",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 626,
+    "name": "Supersonic Skystrike",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 627,
+    "name": "Supersonic Skystrike",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 628,
+    "name": "Acid Downpour",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 629,
+    "name": "Acid Downpour",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 630,
+    "name": "Tectonic Rage",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 631,
+    "name": "Tectonic Rage",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 632,
+    "name": "Continental Crush",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 633,
+    "name": "Continental Crush",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 634,
+    "name": "Savage Spin-Out",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 635,
+    "name": "Savage Spin-Out",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 636,
+    "name": "Never-Ending Nightmare",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 637,
+    "name": "Never-Ending Nightmare",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 638,
+    "name": "Corkscrew Crash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 639,
+    "name": "Corkscrew Crash",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 640,
+    "name": "Inferno Overdrive",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 641,
+    "name": "Inferno Overdrive",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 642,
+    "name": "Hydro Vortex",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 643,
+    "name": "Hydro Vortex",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 644,
+    "name": "Bloom Doom",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 645,
+    "name": "Bloom Doom",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 646,
+    "name": "Gigavolt Havoc",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 647,
+    "name": "Gigavolt Havoc",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 648,
+    "name": "Shattered Psyche",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 649,
+    "name": "Shattered Psyche",
     "description": "",
     "effect": "",
     "notes": ""
   },
   {
-    "id": ,
-    "name": "",
+    "id": 650,
+    "name": "Subzero Slammer",
     "description": "",
     "effect": "",
     "notes": ""
   },
+  {
+    "id": 651,
+    "name": "Subzero Slammer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 652,
+    "name": "Devastating Drake",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 653,
+    "name": "Devastating Drake",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 654,
+    "name": "Black Hole Eclipse",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 655,
+    "name": "Black Hole Eclipse",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 656,
+    "name": "Twinkle Tackle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 657,
+    "name": "Twinkle Tackle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 658,
+    "name": "Catastropika",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 659,
+    "name": "Shore Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 660,
+    "name": "First Impression",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 661,
+    "name": "Baneful Bunker",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 662,
+    "name": "Spirit Shackle",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 663,
+    "name": "Darkest Lariat",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 664,
+    "name": "Sparkling Aria",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 665,
+    "name": "Ice Hammer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 666,
+    "name": "Floral Healing",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 667,
+    "name": "High Horsepower",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 668,
+    "name": "Strength Sap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 669,
+    "name": "Solar Blade",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 670,
+    "name": "Leafage",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 671,
+    "name": "Spotlight",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 672,
+    "name": "Toxic Thread",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 673,
+    "name": "Laser Focus",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 674,
+    "name": "Gear Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 675,
+    "name": "Throat Chop",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 676,
+    "name": "Pollen Puff",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 677,
+    "name": "Anchor Shot",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 678,
+    "name": "Psychic Terrain",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 679,
+    "name": "Lunge",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 680,
+    "name": "Fire Lash",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 681,
+    "name": "Power Trip",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 682,
+    "name": "Burn Up",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 683,
+    "name": "Speed Swap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 684,
+    "name": "Smart Strike",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 685,
+    "name": "Purify",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 686,
+    "name": "Revelation Dance",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 687,
+    "name": "Core Enforcer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 688,
+    "name": "Trop Kick",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 689,
+    "name": "Instruct",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 690,
+    "name": "Beak Blast",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 691,
+    "name": "Clanging Scales",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 692,
+    "name": "Dragon Hammer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 693,
+    "name": "Brutal Swing",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 694,
+    "name": "Aurora Veil",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 695,
+    "name": "Sinister Arrow Raid",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 696,
+    "name": "Malicious Moonsault",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 697,
+    "name": "Oceanic Operetta",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 698,
+    "name": "Guardian of Alola",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 699,
+    "name": "Soul-Stealing 7-Star Strike",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 700,
+    "name": "Stoked Sparksurfer",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 701,
+    "name": "Pulverizing Pancake",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 702,
+    "name": "Extreme Evoboost",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 703,
+    "name": "Genesis Supernova",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 704,
+    "name": "Shell Trap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 705,
+    "name": "Fleur Cannon",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 706,
+    "name": "Psychic Fangs",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 707,
+    "name": "Stomping Tantrum",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 708,
+    "name": "Shadow Bone",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 709,
+    "name": "Accelerock",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 710,
+    "name": "Liquidation",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 711,
+    "name": "Prismatic Laser",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 712,
+    "name": "Spectral Thief",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 713,
+    "name": "Sunsteel Strike",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 714,
+    "name": "Moongeist Beam",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 715,
+    "name": "Tearful Look",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 716,
+    "name": "Zing Zap",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 717,
+    "name": "Nature's Madness",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 718,
+    "name": "Multi-Attack",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  },
+  {
+    "id": 719,
+    "name": "10,000,000 Volt Thunderbolt",
+    "description": "",
+    "effect": "",
+    "notes": ""
+  }
 ]
