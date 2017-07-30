@@ -1,5042 +1,4349 @@
 [
   {
-    "id": 0,
-    "name": "Pound",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
     "id": 1,
-    "name": "Karate Chop",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Destructor",
+    "description": "Golpea con las patas o la cola.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 2,
-    "name": "Karate Chop",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe K\u00e1rate",
+    "description": "Da un golpe cortante. Suele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 3,
-    "name": "Double Slap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Bofet\u00f3n",
+    "description": "Abofetea de dos a cinco veces seguidas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 4,
-    "name": "Comet Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Cometa",
+    "description": "Pega de dos a cinco veces seguidas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 5,
-    "name": "Mega Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Megapu\u00f1o",
+    "description": "Un pu\u00f1etazo de gran potencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 6,
-    "name": "Pay Day",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "D\u00eda de Pago",
+    "description": "Arroja monedas al objetivo.\nLas recupera al final del combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 7,
-    "name": "Fire Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Fuego",
+    "description": "Pu\u00f1etazo ardiente. Puede quemar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 8,
-    "name": "Ice Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Hielo",
+    "description": "Pu\u00f1etazo helado. Puede congelar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 9,
-    "name": "Thunder Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Trueno",
+    "description": "Pu\u00f1etazo el\u00e9ctrico. Puede paralizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 10,
-    "name": "Scratch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ara\u00f1azo",
+    "description": "Ara\u00f1a con afiladas garras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 11,
-    "name": "Vice Grip",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Agarre",
+    "description": "Atrapa y atenaza al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 12,
-    "name": "Guillotine",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Guillotina",
+    "description": "Ataque con pinzas que debilita al oponente de un \ngolpe si acierta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 13,
-    "name": "Razor Wind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Cortante",
+    "description": "Primero se prepara y en el segundo turno\nataca al oponente con r\u00e1fagas de viento\ncortante. Alta probabilidad de ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 14,
-    "name": "Swords Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Espada",
+    "description": "Baile fren\u00e9tico que aumenta mucho el Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 15,
-    "name": "Cut",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Corte",
+    "description": "Corta con garras, guada\u00f1as, etc. Tambi\u00e9n sirve para \ncortar \u00e1rboles finos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 16,
-    "name": "Gust",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tornado",
+    "description": "Crea un tornado con las alas y lo lanza contra el \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 17,
-    "name": "Wing Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque Ala",
+    "description": "Golpea al objetivo con unas grandes alas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 18,
-    "name": "Whirlwind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Remolino",
+    "description": "Se lleva al objetivo, que es cambiado por otro \nPok\u00e9mon. Si es un Pok\u00e9mon salvaje, acaba el \ncombate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 19,
-    "name": "Fly",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vuelo",
+    "description": "Primer turno: vuela. Segundo turno: ataca. Fuera de \ncombate, permite ir a sitios ya conocidos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 20,
-    "name": "Bind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Atadura",
+    "description": "Ata y oprime de cuatro a cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 21,
-    "name": "Slam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Atizar",
+    "description": "Golpea con las extremidades.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 22,
-    "name": "Vine Whip",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "L\u00e1tigo Cepa",
+    "description": "Azota al objetivo con ramas finas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 23,
-    "name": "Stomp",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pisot\u00f3n",
+    "description": "Tremendo pisot\u00f3n que puede hacer retroceder al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 24,
-    "name": "Double Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Patada",
+    "description": "Una patada doble. Golpea dos veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 25,
-    "name": "Mega Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Megapatada",
+    "description": "Patada de extrema fuerza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 26,
-    "name": "Jump Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Patada Salto",
+    "description": "Da un salto y pega una patada. Si falla, se lesiona. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 27,
-    "name": "Rolling Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Patada Giro",
+    "description": "Da una patada r\u00e1pida y circular.\nPuede hacer retroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 28,
-    "name": "Sand Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque Arena",
+    "description": "Arroja arena a la cara y baja la Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 29,
-    "name": "Headbutt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Cabeza",
+    "description": "Lanza un potente cabezazo que puede hacer \nretroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 30,
-    "name": "Horn Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cornada",
+    "description": "Ataca al objetivo con una cornada.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 31,
-    "name": "Fury Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque Furia",
+    "description": "Cornea al objetivo de dos a cinco veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 32,
-    "name": "Horn Drill",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Perforador",
+    "description": "Ataque con taladro que fulmina en un golpe al\nobjetivo si le toca.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 33,
-    "name": "Tackle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Placaje",
+    "description": "Embiste con todo el cuerpo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 34,
-    "name": "Body Slam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Cuerpo",
+    "description": "Salta sobre el objetivo con todo su peso.\nPuede paralizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 35,
-    "name": "Wrap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Constricci\u00f3n",
+    "description": "Oprime al objetivo de cuatro a cinco turnos con ramas \no con su cuerpo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 36,
-    "name": "Take Down",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Derribo",
+    "description": "Carga desmedida que tambi\u00e9n hiere al agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 37,
-    "name": "Thrash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe",
+    "description": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 38,
-    "name": "Double-Edge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Filo",
+    "description": "Ataque arriesgado que tambi\u00e9n hiere al agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 39,
-    "name": "Tail Whip",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "L\u00e1tigo",
+    "description": "Agita la cola para bajar la Defensa del equipo rival. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 40,
-    "name": "Poison Sting",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Picotazo Ven",
+    "description": "Lanza un aguij\u00f3n t\u00f3xico que puede envenenar al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 41,
-    "name": "Twineedle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Ataque",
+    "description": "Pincha dos veces con dos espinas. Puede envenenar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 42,
-    "name": "Pin Missile",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pin Misil",
+    "description": "Lanza finas p\u00faas que hieren de dos a cinco veces. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 43,
-    "name": "Leer",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Malicioso",
+    "description": "Intimida a los rivales para bajar su Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 44,
-    "name": "Bite",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mordisco",
+    "description": "Un voraz bocado que puede hacer retroceder al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 45,
-    "name": "Growl",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gru\u00f1ido",
+    "description": "Dulce gru\u00f1ido que reduce el Ataque del contrincante. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 46,
-    "name": "Roar",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rugido",
+    "description": "Se lleva al objetivo, que es cambiado por otro \nPok\u00e9mon. Si es un Pok\u00e9mon salvaje, acaba el \ncombate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 47,
-    "name": "Sing",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Canto",
+    "description": "Cancioncilla que hace dormir profundamente al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 48,
-    "name": "Supersonic",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Supers\u00f3nico",
+    "description": "Raras ondas s\u00f3nicas que confunden al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 49,
-    "name": "Sonic Boom",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba S\u00f3nica",
+    "description": "Lanza ondas de choque que restan 20 PS al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 50,
-    "name": "Disable",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Anulaci\u00f3n",
+    "description": "Desactiva el \u00faltimo movimiento del objetivo durante \ncuatro turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 51,
-    "name": "Acid",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "\u00c1cido",
+    "description": "Roc\u00eda a los enemigos con un \u00e1cido corrosivo. \nPuede bajar la Defensa Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 52,
-    "name": "Ember",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ascuas",
+    "description": "Ataca con llamas peque\u00f1as que pueden causar \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 53,
-    "name": "Flamethrower",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lanzallamas",
+    "description": "Ataca con una gran r\u00e1faga de fuego que puede causar \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 54,
-    "name": "Mist",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Neblina",
+    "description": "Rodea de fina niebla al usuario y protege las \ncaracter\u00edsticas de su equipo durante cinco turnos. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 55,
-    "name": "Water Gun",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pistola Agua",
+    "description": "Ataca disparando agua con gran potencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 56,
-    "name": "Hydro Pump",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hidrobomba",
+    "description": "Lanza una gran masa de agua a presi\u00f3n para atacar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 57,
     "name": "Surf",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "description": "Inunda el campo de batalla con una ola gigante. \nFuera de batalla sirve para moverse sobre el agua. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 58,
-    "name": "Ice Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Hielo",
+    "description": "Rayo de hielo que puede llegar a congelar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 59,
-    "name": "Blizzard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ventisca",
+    "description": "Tormenta de hielo que puede llegar a congelar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 60,
-    "name": "Psybeam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicorrayo",
+    "description": "Extra\u00f1o rayo que puede causar confusi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 61,
-    "name": "Bubble Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Burbuja",
+    "description": "Diluvio de burbujas que puede bajar la Velocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 62,
-    "name": "Aurora Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Aurora",
+    "description": "Rayo multicolor que puede reducir el Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 63,
-    "name": "Hyper Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hiperrayo",
+    "description": "Es eficaz, pero el atacante deber\u00e1 descansar en el \nsiguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 64,
-    "name": "Peck",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Picotazo",
+    "description": "Ensarta al objetivo con un cuerno o pico punzante. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 65,
-    "name": "Drill Peck",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pico Taladro",
+    "description": "Picotazo giratorio y perforador muy potente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 66,
-    "name": "Submission",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sumisi\u00f3n",
+    "description": "Tira al objetivo al suelo. Tambi\u00e9n hiere al agresor. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 67,
-    "name": "Low Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Patada Baja",
+    "description": "Patada baja. Cuanto m\u00e1s pesa el objetivo, m\u00e1s da\u00f1o \ncausa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 68,
-    "name": "Counter",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Contraataque",
+    "description": "Devuelve un golpe f\u00edsico por duplicado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 69,
-    "name": "Seismic Toss",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mov. S\u00edsmico",
+    "description": "La gravedad derriba al objetivo. Se restar\u00e1n tantos PS \ncomo nivel tenga el agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 70,
-    "name": "Strength",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuerza",
+    "description": "Potente pu\u00f1etazo. Fuera de combate sirve para mover \nrocas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 71,
-    "name": "Absorb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Absorber",
+    "description": "Absorbe la mitad del da\u00f1o producido en el objetivo \npara restaurar los PS del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 72,
-    "name": "Mega Drain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Megaagotar",
+    "description": "Absorbe la mitad del da\u00f1o producido en el objetivo \npara restaurar los PS del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 73,
-    "name": "Leech Seed",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Drenadoras",
+    "description": "Planta semillas que absorben PS para recuperar la \nsalud del usuario en cada turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 74,
-    "name": "Growth",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Desarrollo",
+    "description": "El cuerpo del usuario crece a marchas forzadas y \naumenta el Ataque y el Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 75,
-    "name": "Razor Leaf",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hoja Afilada",
+    "description": "Corta con hojas afiladas. Suele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 76,
-    "name": "Solar Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Solar",
+    "description": "Primer turno: absorbe luz.\nSegundo turno: lanza un potente rayo de energ\u00eda. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 77,
-    "name": "Poison Powder",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Polvo Veneno",
+    "description": "Polvo t\u00f3xico que envenena al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 78,
-    "name": "Stun Spore",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paralizador",
+    "description": "Esparce polvo que paraliza al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 79,
-    "name": "Sleep Powder",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Somn\u00edfero",
+    "description": "Esparce polvo que duerme al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 80,
-    "name": "Petal Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza P\u00e9talo",
+    "description": "Lanza p\u00e9talos de dos a tres turnos y acaba \nconfundiendo al atacante.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 81,
-    "name": "String Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Disparo Demora",
+    "description": "Lanza seda a los rivales y reduce mucho su\nVelocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 82,
-    "name": "Dragon Rage",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Furia Drag\u00f3n",
+    "description": "R\u00e1faga de furiosas ondas de choque que quitan \n40 PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 83,
-    "name": "Fire Spin",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Giro Fuego",
+    "description": "Un aro de fuego que atrapa al objetivo de cuatro a \ncinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 84,
-    "name": "Thunder Shock",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Impactrueno",
+    "description": "Ataque el\u00e9ctrico que puede paralizar al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 85,
-    "name": "Thunderbolt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo",
+    "description": "Potente ataque el\u00e9ctrico que puede paralizar al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 86,
-    "name": "Thunder Wave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Trueno",
+    "description": "Una ligera descarga que paraliza al objetivo si lo \nalcanza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 87,
-    "name": "Thunder",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Trueno",
+    "description": "Un poderoso rayo que da\u00f1a al objetivo y puede \nparalizarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 88,
-    "name": "Rock Throw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lanzarrocas",
+    "description": "Tira una peque\u00f1a roca al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 89,
-    "name": "Earthquake",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Terremoto",
+    "description": "Un terremoto que afecta a los Pok\u00e9mon de alrededor \nen combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 90,
-    "name": "Fissure",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fisura",
+    "description": "Abre una grieta en el suelo y mete al objetivo en ella. \nFulmina en un golpe.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 91,
-    "name": "Dig",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Excavar",
+    "description": "Primer turno: cava. Segundo turno: ataca. Tambi\u00e9n \nsirve para salir de ciertas zonas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 92,
-    "name": "Toxic",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "T\u00f3xico",
+    "description": "Envenena gravemente al objetivo y causa un da\u00f1o \nmayor en cada turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 93,
-    "name": "Confusion",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Confusi\u00f3n",
+    "description": "D\u00e9bil ataque telequin\u00e9tico que puede causar \nconfusi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 94,
-    "name": "Psychic",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ps\u00edquico",
+    "description": "Fuerte ataque telequin\u00e9tico que puede bajar la \nDefensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 95,
-    "name": "Hypnosis",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hipnosis",
+    "description": "Ataque hipn\u00f3tico que hace dormir profundamente al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 96,
-    "name": "Meditate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Meditaci\u00f3n",
+    "description": "El usuario reposa y medita para potenciar el Ataque. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 97,
-    "name": "Agility",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Agilidad",
+    "description": "Relaja el cuerpo para ganar mucha Velocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 98,
-    "name": "Quick Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque R\u00e1pido",
+    "description": "Ataque r\u00e1pido que permite golpear en primer lugar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 99,
-    "name": "Rage",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Furia",
+    "description": "Al usarse, aumenta el Ataque del usuario cada vez\nque es golpeado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 100,
-    "name": "Teleport",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Teletransporte",
+    "description": "Permite huir al instante de combates contra Pok\u00e9mon \nsalvajes o viajar al \u00faltimo Centro Pok\u00e9mon visitado. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 101,
-    "name": "Night Shade",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tinieblas",
+    "description": "Produce un espejismo ante el objetivo, que pierde \ntantos PS como nivel tenga el agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 102,
-    "name": "Mimic",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mim\u00e9tico",
+    "description": "Copia el \u00faltimo movimiento usado por el objetivo, y \npuede utilizarlo mientras est\u00e9 en el combate.\n",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 103,
-    "name": "Screech",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chirrido",
+    "description": "Alarido agudo que reduce mucho la Defensa del \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 104,
-    "name": "Double Team",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Equipo",
+    "description": "Crea copias de s\u00ed mismo para mejorar la Evasi\u00f3n. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 105,
-    "name": "Recover",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Recuperaci\u00f3n",
+    "description": "Restaura hasta la mitad de los PS m\u00e1ximos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 106,
-    "name": "Harden",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fortaleza",
+    "description": "Tensa la musculatura del usuario para aumentar la \nDefensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 107,
-    "name": "Minimize",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Reducci\u00f3n",
+    "description": "El usuario mengua para aumentar mucho la Evasi\u00f3n. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 108,
-    "name": "Smokescreen",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pantalla de Humo",
+    "description": "Baja la Precisi\u00f3n del objetivo con una nube de humo \no tinta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 109,
-    "name": "Confuse Ray",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Confuso",
+    "description": "Rayo siniestro que confunde al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 110,
-    "name": "Withdraw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Refugio",
+    "description": "El usuario se resguarda en su coraza por lo que le\nsube la Defensa. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 111,
-    "name": "Defense Curl",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rizo Defensa",
+    "description": "Se enrosca para ocultar su punto d\u00e9bil. Sube la \nDefensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 112,
-    "name": "Barrier",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Barrera",
+    "description": "Crea una barrera que aumenta mucho la Defensa. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 113,
-    "name": "Light Screen",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pantalla de Luz",
+    "description": "Pared de luz que reduce durante cinco turnos el da\u00f1o \nproducido por los ataques especiales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 114,
-    "name": "Haze",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Niebla",
+    "description": "Neblina que elimina los cambios de caracter\u00edsticas de \ntodos los Pok\u00e9mon en combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 115,
-    "name": "Reflect",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Reflejo",
+    "description": "Pared de luz que reduce durante cinco turnos el da\u00f1o \nproducido por los ataques f\u00edsicos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 116,
-    "name": "Focus Energy",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Foco Energ\u00eda",
+    "description": "Concentra energ\u00eda para aumentar las posibilidades \nde un golpe cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 117,
-    "name": "Bide",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Venganza",
+    "description": "Espera dos turnos para atacar con el doble de \npotencia del da\u00f1o recibido.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 118,
-    "name": "Metronome",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Metr\u00f3nomo",
+    "description": "El usuario mueve un dedo y estimula su cerebro \npara usar al azar casi cualquier movimiento.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 119,
-    "name": "Mirror Move",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mov. Espejo",
+    "description": "Contraataca con el mismo movimiento empleado \npor el objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 120,
-    "name": "Self-Destruct",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Autodestrucci\u00f3n",
+    "description": "El atacante explota y hiere a todos a su alrededor. \nEl usuario se debilita de inmediato.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 121,
-    "name": "Egg Bomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba Huevo",
+    "description": "Arroja un huevo al objetivo con gran fuerza. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 122,
-    "name": "Lick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Leng\u00fcetazo",
+    "description": "Una lengua ataca al objetivo. Puede causar par\u00e1lisis. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 123,
-    "name": "Smog",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Poluci\u00f3n",
+    "description": "El objetivo es atacado con gases t\u00f3xicos que pueden \nllegar a envenenar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 124,
-    "name": "Sludge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Residuos",
+    "description": "Arroja residuos al objetivo. Puede llegar a envenenar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 125,
-    "name": "Bone Club",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hueso Palo",
+    "description": "Aporrea con un hueso. Puede hacer retroceder al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 126,
-    "name": "Fire Blast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llamarada",
+    "description": "Llama intensa que chamusca y puede causar \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 127,
-    "name": "Waterfall",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cascada",
+    "description": "Embiste con un gran impulso que puede hacer \nretroceder. Tambi\u00e9n sirve para remontar cascadas. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 128,
-    "name": "Clamp",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tenaza",
+    "description": "Atrapa y atenaza con fuerza durante cuatro o cinco \nturnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 129,
-    "name": "Swift",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rapidez",
+    "description": "Lanza rayos en forma de estrella que no fallan nunca. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 130,
-    "name": "Skull Bash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cabezazo",
+    "description": "Primer turno: se prepara y sube la Defensa del \nusuario. Segundo turno: da el cabezazo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 131,
-    "name": "Spike Cannon",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Clavo Ca\u00f1\u00f3n",
+    "description": "Lanza finas p\u00faas que hieren de dos a cinco veces. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 132,
-    "name": "Constrict",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Restricci\u00f3n",
+    "description": "Constri\u00f1e para herir y puede bajar la Velocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 133,
     "name": "Amnesia",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "description": "El usuario olvida sus preocupaciones y aumenta \nmucho la Defensa Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 134,
-    "name": "Kinesis",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Kin\u00e9tico",
+    "description": "Dobla una cuchara para distraer al objetivo y bajar \nsu nivel de Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 135,
-    "name": "Soft-Boiled",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Amortiguador",
+    "description": "Restaura la mitad de los PS m\u00e1ximos del usuario. \nFuera de combate se usa para transferir parte de \nsus PS a un aliado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 136,
-    "name": "High Jump Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pat. Salto Alta",
+    "description": "Salta muy alto y lanza una patada. Si falla, da\u00f1ar\u00e1 \nal usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 137,
-    "name": "Glare",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Deslumbrar",
+    "description": "Intimida y asusta al objetivo con la mirada para \ndejarlo paralizado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 138,
-    "name": "Dream Eater",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Come Sue\u00f1os",
+    "description": "Restaura al usuario la mitad del da\u00f1o causado a un \nobjetivo dormido.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 139,
-    "name": "Poison Gas",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gas Venenoso",
+    "description": "Lanza una nube de gas t\u00f3xico al objetivo.\nProduce envenenamiento.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 140,
-    "name": "Barrage",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Presa",
+    "description": "Arroja esferas al objetivo entre dos y cinco veces \nseguidas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 141,
-    "name": "Leech Life",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chupavidas",
+    "description": "Restaura al usuario la mitad del da\u00f1o causado al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 142,
-    "name": "Lovely Kiss",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Beso Amoroso",
+    "description": "Con una cara que asusta, da un beso al objetivo y \nlo adormece.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 143,
-    "name": "Sky Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque A\u00e9reo",
+    "description": "Ataque en dos turnos que suele ser cr\u00edtico.\nPuede hacer retroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 144,
-    "name": "Transform",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Transformaci\u00f3n",
+    "description": "El usuario se transforma en una copia del objetivo, \ncon los mismos movimientos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 145,
-    "name": "Bubble",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Burbuja",
+    "description": "Lanza burbujas a los contrincantes y puede reducir \nsu Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 146,
-    "name": "Dizzy Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Mareo",
+    "description": "R\u00edtmicos pu\u00f1etazos que pueden causar confusi\u00f3n. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 147,
-    "name": "Spore",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Espora",
+    "description": "Esparce esporas que inducen al sue\u00f1o.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 148,
-    "name": "Flash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Destello",
+    "description": "Luz cegadora que baja la Precisi\u00f3n del objetivo. \nTambi\u00e9n puede usarse para iluminar lugares oscuros. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 149,
-    "name": "Psywave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicoonda",
+    "description": "Ataque con una onda de energ\u00eda de intensidad \nvariable.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 150,
-    "name": "Splash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Salpicadura",
+    "description": "No tiene ning\u00fan efecto. Solo salpica.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 151,
-    "name": "Acid Armor",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Armadura \u00c1cida",
+    "description": "Transforma la estructura celular para hacerse l\u00edquido y \naumenta mucho la Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 152,
-    "name": "Crabhammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Martillazo",
+    "description": "Golpea con fuerza con una pinza enorme.\nSuele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 153,
-    "name": "Explosion",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Explosi\u00f3n",
+    "description": "El atacante causa una grand\u00edsima explosi\u00f3n y hiere \na todos a su alrededor. El usuario se debilita de \ninmediato.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 154,
-    "name": "Fury Swipes",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpes Furia",
+    "description": "Ara\u00f1a r\u00e1pidamente de dos a cinco veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 155,
-    "name": "Bonemerang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Huesomerang",
+    "description": "Lanza un hueso a modo de bumer\u00e1n que golpea dos \nveces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 156,
-    "name": "Rest",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Descanso",
+    "description": "Restaura todos los PS y cura todos los problemas de \nestado del usuario. Duerme los dos pr\u00f3ximos turnos. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 157,
-    "name": "Rock Slide",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Avalancha",
+    "description": "Lanza grandes pedruscos. Puede hacer retroceder a \nlos rivales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 158,
-    "name": "Hyper Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hipercolmillo",
+    "description": "Ataque con finos colmillos. Puede hacer retroceder al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 159,
-    "name": "Sharpen",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Afilar",
+    "description": "El perfil del usuario se hace m\u00e1s afilado y su Ataque \nmejora.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 160,
-    "name": "Conversion",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Conversi\u00f3n",
+    "description": "Cambia el tipo del usuario por el del primero de sus \nmovimientos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 161,
-    "name": "Tri Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Triataque",
+    "description": "Ataque triple que puede paralizar, quemar o congelar \nal objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 162,
-    "name": "Super Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Superdiente",
+    "description": "Finos colmillos que reducen a la mitad los PS del \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 163,
-    "name": "Slash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cuchillada",
+    "description": "Ataca con cuchillas o con pinzas. Suele dar un golpe \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 164,
-    "name": "Substitute",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sustituto",
+    "description": "Utiliza parte de los PS propios para crear un sustituto \nque act\u00faa como se\u00f1uelo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 165,
-    "name": "Struggle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Combate",
+    "description": "Solo se usa como \u00faltimo recurso al acabarse los PP. \nHiere un poco al agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 166,
-    "name": "Sketch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Esquema",
+    "description": "Aprende de forma permanente el \u00faltimo movimiento \nutilizado por el objetivo. Es de un solo uso.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 167,
-    "name": "Triple Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Triple Patada",
+    "description": "Patea hasta tres veces seguidas y cada vez m\u00e1s\nfuerte. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 168,
-    "name": "Thief",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ladr\u00f3n",
+    "description": "Ataca y le quita el objeto al objetivo siempre y \ncuando el agresor no lleve ninguno. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 169,
-    "name": "Spider Web",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Telara\u00f1a",
+    "description": "Enreda al objetivo para evitar que abandone la batalla. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 170,
-    "name": "Mind Reader",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tel\u00e9pata",
+    "description": "El usuario adivina los movimientos del objetivo para \nhacer que su siguiente ataque no falle.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 171,
-    "name": "Nightmare",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pesadilla",
+    "description": "El objetivo dormido sufre una pesadilla que le hace \nperder PS en cada turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 172,
-    "name": "Flame Wheel",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rueda Fuego",
+    "description": "Ataca envuelto en fuego. Puede causar quemaduras. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 173,
-    "name": "Snore",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ronquido",
+    "description": "Fuerte ronquido que solo puede usarse dormido. \nPuede hacer retroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 174,
-    "name": "Curse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Maldici\u00f3n",
+    "description": "Un movimiento que tiene efectos distintos si el \nusuario es de tipo Fantasma o no.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 175,
-    "name": "Flail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Azote",
+    "description": "Ataque fren\u00e9tico. Cuantos menos PS tenga el usuario, \nm\u00e1s da\u00f1o producir\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 176,
-    "name": "Conversion 2",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Conversi\u00f3n2",
+    "description": "El usuario cambia de tipo para hacerse resistente \nal \u00faltimo tipo de movimiento usado por el objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 177,
-    "name": "Aeroblast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aerochorro",
+    "description": "Lanza un chorro de aire que suele dar un golpe \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 178,
-    "name": "Cotton Spore",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Esporagod\u00f3n",
+    "description": "Adhiere esporas a los rivales para reducir mucho su \nVelocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 179,
-    "name": "Reversal",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Inversi\u00f3n",
+    "description": "Ataque desesperado que causa m\u00e1s da\u00f1o cuantos \nmenos PS tenga el usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 180,
-    "name": "Spite",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rencor",
+    "description": "Da rienda suelta a su rencor para reducir cuatro PP \ndel \u00faltimo movimiento usado por el objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 181,
-    "name": "Powder Snow",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Nieve Polvo",
+    "description": "Lanza nieve que puede llegar a congelar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 182,
-    "name": "Protect",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Protecci\u00f3n",
+    "description": "Frena todos los ataques, pero puede fallar si se usa \nrepetidamente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 183,
-    "name": "Mach Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ultrapu\u00f1o",
+    "description": "Pu\u00f1etazo que se da r\u00e1pido para golpear primero. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 184,
-    "name": "Scary Face",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cara Susto",
+    "description": "Asusta al objetivo para reducir mucho su Velocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 185,
-    "name": "Feint Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Finta",
+    "description": "Enga\u00f1a al objetivo para acercarse y dar un pu\u00f1etazo \nque no falla.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 186,
-    "name": "Sweet Kiss",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Beso Dulce",
+    "description": "Da un beso con tal dulzura que causa confusi\u00f3n. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 187,
-    "name": "Belly Drum",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tambor",
+    "description": "Reduce la mitad de los PS m\u00e1ximos para mejorar \nal m\u00e1ximo el Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 188,
-    "name": "Sludge Bomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba Lodo",
+    "description": "Arroja residuos al objetivo. Puede llegar a envenenar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 189,
-    "name": "Mud-Slap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bofet\u00f3n Lodo",
+    "description": "Echa lodo en la cara para bajar la Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 190,
-    "name": "Octazooka",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulpoca\u00f1\u00f3n",
+    "description": "Dispara tinta a la cara. Puede bajar la Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 191,
-    "name": "Spikes",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "P\u00faas",
+    "description": "Esparce p\u00faas alrededor del equipo rival que hieren \na los Pok\u00e9mon rivales que entran en combate. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 192,
-    "name": "Zap Cannon",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Electroca\u00f1\u00f3n",
+    "description": "Dispara una descarga el\u00e9ctrica que causa da\u00f1o y \npar\u00e1lisis.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 193,
-    "name": "Foresight",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Profec\u00eda",
+    "description": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pok\u00e9mon evasivos. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 194,
-    "name": "Destiny Bond",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mismo Destino",
+    "description": "Si el usuario se debilita por un ataque rival antes de \nusar otro movimiento, el Pok\u00e9mon rival se debilitar\u00e1 \ntambi\u00e9n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 195,
-    "name": "Perish Song",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Canto Mortal",
+    "description": "Si un Pok\u00e9mon escucha este canto y no es cambiado \npor otro en tres turnos, acaba debilit\u00e1ndose. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 196,
-    "name": "Icy Wind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Hielo",
+    "description": "Ataque con aire helado que baja la Velocidad de los \nrivales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 197,
-    "name": "Detect",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Detecci\u00f3n",
+    "description": "Frena todos los ataques, pero puede fallar si se usa \nrepetidamente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 198,
-    "name": "Bone Rush",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque \u00d3seo",
+    "description": "Hueso en ristre, aporrea al objetivo de dos a cinco \nveces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 199,
-    "name": "Lock-On",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fijar Blanco",
+    "description": "Fija el blanco para que el siguiente ataque no falle. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 200,
-    "name": "Outrage",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Enfado",
+    "description": "Ataca de dos a tres turnos y acaba confundiendo al \nagresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 201,
-    "name": "Sandstorm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tormenta Arena",
+    "description": "Tormenta de arena que dura cinco turnos y hiere a \ntodos, excepto a los de tipo Roca, Tierra y Acero. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 202,
-    "name": "Giga Drain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gigadrenado",
+    "description": "Un ataque que absorbe nutrientes. Quien lo usa \nrecupera la mitad de los PS del da\u00f1o que produce. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 203,
-    "name": "Endure",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aguante",
+    "description": "Resiste cualquier ataque y deja al menos 1 PS. \nPuede fallar si se usa repetidamente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 204,
-    "name": "Charm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Encanto",
+    "description": "Engatusa al objetivo y reduce bastante su Ataque. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 205,
-    "name": "Rollout",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Desenrollar",
+    "description": "El atacante rueda contra el objetivo durante cinco \nturnos, cada vez con mayor fuerza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 206,
-    "name": "False Swipe",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Falsotortazo",
+    "description": "Ataque moderado que no debilita al objetivo y le deja \nal menos 1 PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 207,
-    "name": "Swagger",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Contoneo",
+    "description": "Provoca confusi\u00f3n en el objetivo, pero tambi\u00e9n sube \nmucho su Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 208,
-    "name": "Milk Drink",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Batido",
+    "description": "Restaura la mitad de los PS m\u00e1ximos del usuario. \nFuera de combate se usa para transferir parte de \nsus PS a un aliado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 209,
-    "name": "Spark",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chispa",
+    "description": "Ataque el\u00e9ctrico que puede llegar a paralizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 210,
-    "name": "Fury Cutter",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Corte Furia",
+    "description": "Ataque con garras o guada\u00f1a que crece en intensidad \nsi se usa repetidas veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 211,
-    "name": "Steel Wing",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ala de Acero",
+    "description": "Alas macizas que golpean al objetivo y pueden subir \nla Defensa del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 212,
-    "name": "Mean Look",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mal de Ojo",
+    "description": "Mal de ojo que impide al objetivo huir de la batalla. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 213,
-    "name": "Attract",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Atracci\u00f3n",
+    "description": "Si el objetivo es del sexo opuesto, se enamorar\u00e1 y \nbajar\u00e1 la posibilidad de que ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 214,
-    "name": "Sleep Talk",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Son\u00e1mbulo",
+    "description": "Mientras duerme, usa uno de sus movimientos \nelegido al azar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 215,
-    "name": "Heal Bell",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Campana Cura",
+    "description": "Ta\u00f1ido que cura los problemas de estado de todos \nlos Pok\u00e9mon del equipo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 216,
-    "name": "Return",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Retribuci\u00f3n",
+    "description": "Cuanto mayor sea la amistad con el Entrenador, m\u00e1s \npoderoso ser\u00e1 este ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 217,
-    "name": "Present",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Presente",
+    "description": "Quien lo usa ataca al objetivo d\u00e1ndole un regalo con \nbomba trampa. Sin embargo, a veces restaura sus PS. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 218,
-    "name": "Frustration",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Frustraci\u00f3n",
+    "description": "Cuanto menor sea la amistad con el Entrenador, m\u00e1s \npoderoso ser\u00e1 este ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 219,
-    "name": "Safeguard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Velo Sagrado",
+    "description": "Un escudo que protege de problemas de estado, \ncomo el sue\u00f1o o la par\u00e1lisis, durante cinco turnos. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 220,
-    "name": "Pain Split",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Divide Dolor",
+    "description": "Suma los PS del usuario a los del objetivo y los \nreparte a partes iguales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 221,
-    "name": "Sacred Fire",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuego Sagrado",
+    "description": "Fuego m\u00edstico de gran intensidad que puede causar \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 222,
-    "name": "Magnitude",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Magnitud",
+    "description": "Sacudida s\u00edsmica de intensidad variable que afecta \na todos los Pok\u00e9mon a su alrededor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 223,
-    "name": "Dynamic Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Din\u00e1mico",
+    "description": "Pu\u00f1etazo con toda la fuerza concentrada. Causa \nconfusi\u00f3n si atina.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 224,
-    "name": "Megahorn",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Megacuerno",
+    "description": "Violenta embestida con cuernos imponentes.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 225,
-    "name": "Dragon Breath",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Dragoaliento",
+    "description": "Poderosa r\u00e1faga de aliento que golpea al objetivo y \npuede paralizarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 226,
-    "name": "Baton Pass",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Relevo",
+    "description": "Cambia el puesto con un compa\u00f1ero y le pasa los \ncambios de caracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 227,
-    "name": "Encore",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Otra Vez",
+    "description": "El objetivo repite su \u00faltimo movimiento durante tres \nturnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 228,
-    "name": "Pursuit",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Persecuci\u00f3n",
+    "description": "Hace el doble de da\u00f1o al objetivo que pide el relevo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 229,
-    "name": "Rapid Spin",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Giro R\u00e1pido",
+    "description": "Ataque giratorio que puede eliminar movimientos \ncomo Atadura, Constricci\u00f3n, Drenadoras y P\u00faas. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 230,
-    "name": "Sweet Scent",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Dulce Aroma",
+    "description": "Un dulce aroma engatusa al objetivo, por lo que se \nreduce mucho su Evasi\u00f3n. En la hierba alta sirve para \natraer a Pok\u00e9mon salvajes.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 231,
-    "name": "Iron Tail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cola F\u00e9rrea",
+    "description": "Ataca con una cola f\u00e9rrea y puede bajar la Defensa \ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 232,
-    "name": "Metal Claw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Garra Metal",
+    "description": "Ataque con garras de acero que puede aumentar el \nAtaque del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 233,
-    "name": "Vital Throw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tiro Vital",
+    "description": "El usuario ataca el \u00faltimo, pero no falla.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 234,
-    "name": "Morning Sun",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sol Matinal",
+    "description": "Restaura PS del usuario. La cantidad var\u00eda seg\u00fan \nel tiempo que haga.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 235,
-    "name": "Synthesis",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "S\u00edntesis",
+    "description": "Restaura PS del usuario. La cantidad var\u00eda seg\u00fan \nel tiempo que haga.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 236,
-    "name": "Moonlight",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Luz Lunar",
+    "description": "Restaura PS del usuario. La cantidad var\u00eda seg\u00fan \nel tiempo que haga.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 237,
-    "name": "Hidden Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Poder Oculto",
+    "description": "Movimiento cuyo tipo var\u00eda en funci\u00f3n del Pok\u00e9mon \nque lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 238,
-    "name": "Cross Chop",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tajo Cruzado",
+    "description": "Corte doble que suele propinar un golpe cr\u00edtico. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 239,
-    "name": "Twister",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cicl\u00f3n",
+    "description": "Crea un violento tornado para hacer trizas al enemigo. \nPuede hacerlo retroceder.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 240,
-    "name": "Rain Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Lluvia",
+    "description": "Genera una fuerte lluvia que refuerza los movimientos \nde tipo Agua durante cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 241,
-    "name": "Sunny Day",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "D\u00eda Soleado",
+    "description": "Quien lo usa intensifica el efecto del sol durante \ncinco turnos, lo que potencia los movimientos de \ntipo Fuego.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 242,
-    "name": "Crunch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Triturar",
+    "description": "Tritura con afilados colmillos y puede bajar la Defensa \ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 243,
-    "name": "Mirror Coat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Manto Espejo",
+    "description": "Responde a un ataque especial ocasionando el doble \ndel da\u00f1o recibido.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 244,
-    "name": "Psych Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "M\u00e1s Psique",
+    "description": "Quien lo usa se sume en un trance y copia cualquier\ncambio que haya en las caracter\u00edsticas de su objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 245,
-    "name": "Extreme Speed",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Veloc. Extrema",
+    "description": "Ataque muy r\u00e1pido que siempre se realiza el primero. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 246,
-    "name": "Ancient Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Poder Pasado",
+    "description": "Ataque prehist\u00f3rico que puede subir todas las \ncaracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 247,
-    "name": "Shadow Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bola Sombra",
+    "description": "Lanza una bola oscura que puede bajar la Defensa \nEspecial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 248,
-    "name": "Future Sight",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Premonici\u00f3n",
+    "description": "Concentra energ\u00eda ps\u00edquica para golpear al objetivo \ndos turnos despu\u00e9s.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 249,
-    "name": "Rock Smash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Roca",
+    "description": "Ataque con los pu\u00f1os. Puede bajar la Defensa del \nobjetivo. Puede romper rocas fuera del combate. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 250,
-    "name": "Whirlpool",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Torbellino",
+    "description": "Una tromba de agua atrapa al objetivo durante cuatro \no cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 251,
-    "name": "Beat Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paliza",
+    "description": "Ataque de todo el equipo Pok\u00e9mon. Cuantos m\u00e1s \nhaya, m\u00e1s veces se atacar\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 252,
-    "name": "Fake Out",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sorpresa",
+    "description": "Ataca primero y, adem\u00e1s, hace retroceder al \nobjetivo. Solo sirve en el primer turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 253,
-    "name": "Uproar",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Alboroto",
+    "description": "Ataca de forma alborotada durante tres turnos. \nMantiene despiertos a todos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 254,
-    "name": "Stockpile",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Reserva",
+    "description": "Acumula energ\u00eda y sube la Defensa y la Defensa \nEspecial. Puede utilizarse hasta tres veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 255,
-    "name": "Spit Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Escupir",
+    "description": "Libera de una vez la energ\u00eda acumulada con \nReserva.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 256,
-    "name": "Swallow",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tragar",
+    "description": "Absorbe la energ\u00eda acumulada con Reserva y \nrestaura PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 257,
-    "name": "Heat Wave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda \u00cdgnea",
+    "description": "Provoca un viento abrasador que puede quemar al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 258,
-    "name": "Hail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Granizo",
+    "description": "Tormenta de granizo que dura cinco turnos. Hiere \na todos los Pok\u00e9mon excepto a los de tipo Hielo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 259,
-    "name": "Torment",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tormento",
+    "description": "Atormenta y enfurece al objetivo, que no puede \nusar dos veces seguidas el mismo movimiento. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 260,
-    "name": "Flatter",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Camelo",
+    "description": "Halaga al objetivo y lo confunde, pero tambi\u00e9n \nsube su Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 261,
-    "name": "Will-O-Wisp",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuego Fatuo",
+    "description": "Siniestra llama morada que produce quemaduras. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 262,
-    "name": "Memento",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Legado",
+    "description": "El usuario se debilita, pero baja mucho tanto el \nAtaque como el Ataque Especial del objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 263,
-    "name": "Facade",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Imagen",
+    "description": "Ataca con el doble de potencia si el usuario est\u00e1 \nquemado, paralizado o envenenado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 264,
-    "name": "Focus Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Certero",
+    "description": "Se concentra para dar un pu\u00f1etazo. Falla si se \nsufre un golpe antes de su uso.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 265,
-    "name": "Smelling Salts",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Est\u00edmulo",
+    "description": "Hace el doble de da\u00f1o a objetivos paralizados, \npero tambi\u00e9n cura la par\u00e1lisis.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 266,
-    "name": "Follow Me",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Se\u00f1uelo",
+    "description": "Llama la atenci\u00f3n para concentrar todos los\nataques de todos los del equipo rival hacia s\u00ed\nmismo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 267,
-    "name": "Nature Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Adaptaci\u00f3n",
+    "description": "Usa el poder de la naturaleza para atacar.\nSu efecto var\u00eda seg\u00fan el entorno de combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 268,
-    "name": "Charge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Carga",
+    "description": "Recarga energ\u00eda para potenciar el siguiente \nmovimiento de tipo El\u00e9ctrico. Tambi\u00e9n sube la \nDefensa Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 269,
-    "name": "Taunt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mofa",
+    "description": "Enfurece al objetivo para que solo use\nmovimientos de ataque durante tres turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 270,
-    "name": "Helping Hand",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Refuerzo",
+    "description": "El usuario ayuda a un aliado reforzando la\npotencia de su ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 271,
-    "name": "Trick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Truco",
+    "description": "Enga\u00f1a al objetivo desprevenido e intercambia \nobjetos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 272,
-    "name": "Role Play",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Imitaci\u00f3n",
+    "description": "Imita al objetivo por completo y copia su habilidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 273,
-    "name": "Wish",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Deseo",
+    "description": "Restaura la mitad de los PS m\u00e1ximos en el\nsiguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 274,
-    "name": "Assist",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ayuda",
+    "description": "Usa un movimiento de un miembro del equipo \nelegido al azar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 275,
-    "name": "Ingrain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Arraigo",
+    "description": "Echa ra\u00edces para recuperar PS en cada turno, pero \nimpide el relevo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 276,
-    "name": "Superpower",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuerza Bruta",
+    "description": "Ataque de gran potencia, pero que reduce el \nAtaque y la Defensa del agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 277,
-    "name": "Magic Coat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Capa M\u00e1gica",
+    "description": "Barrera capaz de devolver al agresor movimientos \ncomo Drenadoras y otros que alteran el estado o \nlas caracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 278,
-    "name": "Recycle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Reciclaje",
+    "description": "Recicla y as\u00ed recupera un objeto equipado de un \nsolo uso que ya haya sido empleado durante el \ncombate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 279,
-    "name": "Revenge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Desquite",
+    "description": "Ataque que produce el doble de da\u00f1o si el usuario \nes herido en el mismo turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 280,
-    "name": "Brick Break",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Demolici\u00f3n",
+    "description": "Potente ataque que tambi\u00e9n es capaz de destruir \nbarreras como Pantalla de Luz y Reflejo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 281,
-    "name": "Yawn",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bostezo",
+    "description": "Gran bostezo que induce al sue\u00f1o al objetivo en \nel siguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 282,
-    "name": "Knock Off",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Desarme",
+    "description": "Impide al objetivo usar el objeto que lleva durante \nel combate. La potencia del movimiento se \nmultiplica si el objetivo lleva un objeto.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 283,
-    "name": "Endeavor",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Esfuerzo",
+    "description": "Reduce los PS del objetivo para que igualen a los \ndel atacante.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 284,
-    "name": "Eruption",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Estallido",
+    "description": "Furia explosiva. Cuanto menor sea el n\u00famero de \nPS del usuario, menos da\u00f1o har\u00e1 el ataque. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 285,
-    "name": "Skill Swap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Intercambio",
+    "description": "Usa el poder ps\u00edquico para intercambiar\nhabilidades con el objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 286,
-    "name": "Imprison",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cerca",
+    "description": "Impide a los contrincantes usar ataques conocidos \npor el usuario durante el combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 287,
-    "name": "Refresh",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Alivio",
+    "description": "Descansa para curar par\u00e1lisis, envenenamiento o \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 288,
-    "name": "Grudge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rabia",
+    "description": "Si el usuario se debilita al recibir un ataque, todos \nlos PP de este \u00faltimo ataque ser\u00e1n eliminados. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 289,
-    "name": "Snatch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Robo",
+    "description": "Roba el efecto de los movimientos de curaci\u00f3n \no de cambio de caracter\u00edsticas que se usen. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 290,
-    "name": "Secret Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Da\u00f1o Secreto",
+    "description": "Ataque cuyos efectos secundarios var\u00edan seg\u00fan el \nentorno de combate. Tambi\u00e9n se puede utilizar para \nconstruir una Base Secreta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 291,
-    "name": "Dive",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Buceo",
+    "description": "El usuario se sumerge en el primer turno\ny ataca en el segundo.\nPermite sumergirse hasta aguas profundas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 292,
-    "name": "Arm Thrust",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Empuj\u00f3n",
+    "description": "Fuertes empujones que golpean de dos a cinco veces \nseguidas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 293,
-    "name": "Camouflage",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Camuflaje",
+    "description": "Modifica el tipo del Pok\u00e9mon seg\u00fan el terreno de \ncombate donde est\u00e9.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 294,
-    "name": "Tail Glow",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "R\u00e1faga",
+    "description": "Se concentra en una r\u00e1faga de luz que sube \nmuch\u00edsimo el Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 295,
-    "name": "Luster Purge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Resplandor",
+    "description": "Fogonazo de luz que puede bajar la Defensa \nEspecial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 296,
-    "name": "Mist Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bola Neblina",
+    "description": "Banco de niebla que puede bajar el Ataque\nEspecial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 297,
-    "name": "Feather Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Pluma",
+    "description": "Envuelve al objetivo con un manto de plumas para \nreducir mucho su Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 298,
-    "name": "Teeter Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Caos",
+    "description": "Danza hist\u00e9rica que confunde a los Pok\u00e9mon que \nest\u00e1n alrededor del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 299,
-    "name": "Blaze Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Patada \u00cdgnea",
+    "description": "Patada que suele ser un golpe cr\u00edtico y puede \ncausar quemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 300,
-    "name": "Mud Sport",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chapoteo Lodo",
+    "description": "El usuario esparce lodo a su alrededor, lo que \ndebilita los movimientos de tipo El\u00e9ctrico durante \ncinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 301,
-    "name": "Ice Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bola Hielo",
+    "description": "El atacante rueda contra el objetivo durante cinco \nturnos, cada vez con mayor fuerza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 302,
-    "name": "Needle Arm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Brazo Pincho",
+    "description": "Pega con brazos de pinchos y puede hacer\nretroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 303,
-    "name": "Slack Off",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Relajo",
+    "description": "El usuario se relaja y restaura la mitad de sus PS \nm\u00e1ximos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 304,
-    "name": "Hyper Voice",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vozarr\u00f3n",
+    "description": "Grito desgarrador que inflige da\u00f1o al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 305,
-    "name": "Poison Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Colmillo Ven",
+    "description": "Colmillos t\u00f3xicos que pueden envenenar\ngravemente al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 306,
-    "name": "Crush Claw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Garra Brutal",
+    "description": "Hace trizas al objetivo con garras afiladas y puede \nbajar su Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 307,
-    "name": "Blast Burn",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Anillo \u00cdgneo",
+    "description": "Explosi\u00f3n de fuego. El atacante debe descansar el \nsiguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 308,
-    "name": "Hydro Cannon",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hidroca\u00f1\u00f3n",
+    "description": "Disparo de agua. El atacante debe descansar el \nsiguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 309,
-    "name": "Meteor Mash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Meteoro",
+    "description": "Pu\u00f1etazo que impacta como un meteorito y puede \nsubir el Ataque del agresor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 310,
-    "name": "Astonish",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Impresionar",
+    "description": "Impresiona tanto que puede hacer retroceder al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 311,
-    "name": "Weather Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Meteorobola",
+    "description": "El tipo y fuerza del ataque var\u00edan seg\u00fan el tiempo \nque haga.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 312,
-    "name": "Aromatherapy",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aromaterapia",
+    "description": "Cura todos los problemas de estado del equipo \ncon un suave aroma.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 313,
-    "name": "Fake Tears",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llanto Falso",
+    "description": "L\u00e1grimas de cocodrilo que bajan mucho la\nDefensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 314,
-    "name": "Air Cutter",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aire Afilado",
+    "description": "Viento cortante que azota. Suele ser un golpe \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 315,
-    "name": "Overheat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sofoco",
+    "description": "Ataque en toda regla que baja mucho el Ataque \nEspecial de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 316,
-    "name": "Odor Sleuth",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rastreo",
+    "description": "Permite atacar con cualquier movimiento a objetivos \nde tipo Fantasma y golpear a Pok\u00e9mon evasivos. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 317,
-    "name": "Rock Tomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tumba Rocas",
+    "description": "Tira rocas que detienen al objetivo y bajan su \nVelocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 318,
-    "name": "Silver Wind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Plata",
+    "description": "Fuerte viento con polvo de escamas. Puede subir \ntodas las caracter\u00edsticas de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 319,
-    "name": "Metal Sound",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Eco Met\u00e1lico",
+    "description": "Horrible chirrido met\u00e1lico que baja mucho la \nDefensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 320,
-    "name": "Grass Whistle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Silbato",
+    "description": "Agradable melod\u00eda que adormece al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 321,
-    "name": "Tickle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cosquillas",
+    "description": "Hace re\u00edr al objetivo para bajar su Ataque y \nDefensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 322,
-    "name": "Cosmic Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Masa C\u00f3smica",
+    "description": "Sube la Defensa y la Defensa Especial propias con \nenerg\u00eda m\u00edstica.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 323,
-    "name": "Water Spout",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Salpicar",
+    "description": "Chorro de agua. Cuantos menos PS tenga el \nusuario, menos da\u00f1ino ser\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 324,
-    "name": "Signal Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Rayo",
+    "description": "Ataca con un rayo de luz siniestro. Puede\nconfundir al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 325,
-    "name": "Shadow Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Sombra",
+    "description": "Pu\u00f1etazo ineludible procedente de las sombras. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 326,
-    "name": "Extrasensory",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paranormal",
+    "description": "Energ\u00eda muy extra\u00f1a que puede hacer retroceder \nal objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 327,
-    "name": "Sky Uppercut",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gancho Alto",
+    "description": "Gancho ascendente de gran \u00edmpetu.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 328,
-    "name": "Sand Tomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bucle Arena",
+    "description": "Enreda al objetivo en un remolino de arena de \ncuatro a cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 329,
-    "name": "Sheer Cold",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fr\u00edo Polar",
+    "description": "Ataque de fr\u00edo polar que debilita al objetivo si le \nalcanza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 330,
-    "name": "Muddy Water",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Agua Lodosa",
+    "description": "Ataque con agua lodosa que puede bajar la \nPrecisi\u00f3n del equipo rival.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 331,
-    "name": "Bullet Seed",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Recurrente",
+    "description": "Dispara r\u00e1pido de dos a cinco r\u00e1fagas de semillas \nde manera consecutiva.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 332,
-    "name": "Aerial Ace",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe A\u00e9reo",
+    "description": "El usuario lanza un ataque muy r\u00e1pido e ineludible. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 333,
-    "name": "Icicle Spear",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Car\u00e1mbano",
+    "description": "Ataca lanzando de dos a cinco r\u00e1fagas\nconsecutivas de car\u00e1mbanos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 334,
-    "name": "Iron Defense",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Defensa F\u00e9rrea",
+    "description": "Fortalece el cuerpo como si fuera de hierro y sube \nmucho la Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 335,
-    "name": "Block",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bloqueo",
+    "description": "Le corta el paso al objetivo para que no pueda \nescapar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 336,
-    "name": "Howl",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aullido",
+    "description": "Aullido que sube el \u00e1nimo y aumenta el Ataque. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 337,
-    "name": "Dragon Claw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Garra Drag\u00f3n",
+    "description": "Ara\u00f1a al objetivo con garras afiladas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 338,
-    "name": "Frenzy Plant",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Planta Feroz",
+    "description": "Golpea con una enorme planta. Quien lo usa no \npuede moverse en el siguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 339,
-    "name": "Bulk Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Corpulencia",
+    "description": "Robustece el cuerpo para subir el Ataque y la \nDefensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 340,
-    "name": "Bounce",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bote",
+    "description": "Primer turno: bota. Segundo turno: golpea. Puede \nparalizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 341,
-    "name": "Mud Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Disparo Lodo",
+    "description": "El usuario lanza lodo al objetivo y reduce su \nVelocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 342,
-    "name": "Poison Tail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cola Veneno",
+    "description": "Puede envenenar y dar un golpe cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 343,
-    "name": "Covet",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Antojo",
+    "description": "Se acerca con ternura al objetivo, pero le ataca \ny le roba el objeto que lleve.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 344,
-    "name": "Volt Tackle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Placaje El\u00e9c",
+    "description": "Quien lo usa electrifica su cuerpo para luego atacar. \nSe hiere mucho a s\u00ed mismo, pero puede paralizar al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 345,
-    "name": "Magical Leaf",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hoja M\u00e1gica",
+    "description": "Esparce extra\u00f1as hojas que persiguen al objetivo. \nNo se puede esquivar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 346,
-    "name": "Water Sport",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hidrochorro",
+    "description": "El usuario se empapa en agua, lo que debilita \nlos movimientos de tipo Fuego durante cinco \nturnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 347,
-    "name": "Calm Mind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paz Mental",
+    "description": "Aumenta la concentraci\u00f3n y calma el esp\u00edritu para \nsubir el Ataque Especial y la Defensa Especial. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 348,
-    "name": "Leaf Blade",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hoja Aguda",
+    "description": "Acuchilla con una hoja fina. Suele dar un golpe \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 349,
-    "name": "Dragon Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Drag\u00f3n",
+    "description": "Danza m\u00edstica que sube el Ataque y la Velocidad. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 350,
-    "name": "Rock Blast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pedrada",
+    "description": "Lanza pedruscos al objetivo de dos a cinco veces \nconsecutivas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 351,
-    "name": "Shock Wave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Voltio",
+    "description": "Ataque el\u00e9ctrico muy r\u00e1pido e ineludible.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 352,
-    "name": "Water Pulse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hidropulso",
+    "description": "Ataca con un potente chorro de agua. Puede \nconfundir al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 353,
-    "name": "Doom Desire",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Deseo Oculto",
+    "description": "Concentra un haz de luz y ataca dos turnos\ndespu\u00e9s.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 354,
-    "name": "Psycho Boost",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicoataque",
+    "description": "Ataque en toda regla que baja mucho el Ataque \nEspecial de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 355,
-    "name": "Roost",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Respiro",
+    "description": "Aterriza sobre la superficie para descansar.\nRecupera hasta la mitad del total de sus PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 356,
-    "name": "Gravity",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gravedad",
+    "description": "La gravedad aumenta durante cinco turnos, lo que \nimpide acciones que impliquen volar o levitar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 357,
-    "name": "Miracle Eye",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Gran Ojo",
+    "description": "Permite atacar con cualquier movimiento a objetivos \nde tipo Siniestro y golpear a Pok\u00e9mon evasivos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 358,
-    "name": "Wake-Up Slap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Espabila",
+    "description": "Inflige gran da\u00f1o a objetivos dormidos.\nSin embargo, los bofetones tambi\u00e9n los despiertan. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 359,
-    "name": "Hammer Arm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Machada",
+    "description": "Gira con fuerza el pu\u00f1o y da un gran golpe. No\nobstante, baja la Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 360,
-    "name": "Gyro Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Giro Bola",
+    "description": "Embiste al objetivo con un potente ataque giratorio. \nCuanto m\u00e1s lento es el usuario, m\u00e1s da\u00f1o causa. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 361,
-    "name": "Healing Wish",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Deseo Cura",
+    "description": "El Pok\u00e9mon cae debilitado, pero su sustituto\nrecupera su estado y los PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 362,
-    "name": "Brine",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Salmuera",
+    "description": "Si al objetivo le queda la mitad o menos de sus PS, \nel ataque ser\u00e1 el doble de fuerte.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 363,
-    "name": "Natural Gift",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Don Natural",
+    "description": "La baya que lleva presta su fuerza para atacar. El \ntipo de ataque y su fuerza dependen de la baya.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 364,
-    "name": "Feint",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Amago",
+    "description": "Permite golpear a objetivos que usan Protecci\u00f3n o \nDetecci\u00f3n y anula dichos movimientos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 365,
-    "name": "Pluck",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Picoteo",
+    "description": "Picotea al objetivo. Si este sostiene una baya, la \npicotea tambi\u00e9n y obtiene sus efectos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 366,
-    "name": "Tailwind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Af\u00edn",
+    "description": "Crea un fuerte remolino que aumenta la Velocidad \nde los Pok\u00e9mon de tu equipo durante cuatro\nturnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 367,
-    "name": "Acupressure",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acupresi\u00f3n",
+    "description": "Aplica presi\u00f3n en puntos clave de su cuerpo o de \nlos aliados para potenciar un par\u00e1metro de sus\ncaracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 368,
-    "name": "Metal Burst",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Represi\u00f3n Metal",
+    "description": "Devuelve al rival el \u00faltimo ataque recibido, pero con \nmucha m\u00e1s fuerza.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 369,
-    "name": "U-turn",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ida y Vuelta",
+    "description": "Tras atacar, vuelve a toda prisa para dar paso a \notro Pok\u00e9mon del equipo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 370,
-    "name": "Close Combat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "A Bocajarro",
+    "description": "Lucha abiertamente contra el objetivo sin protegerse. \nTambi\u00e9n reduce la Defensa y la Defensa Especial del \nusuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 371,
-    "name": "Payback",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vendetta",
+    "description": "El usuario contraataca con el doble de fuerza si el \nobjetivo usa un movimiento antes.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 372,
-    "name": "Assurance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Buena Baza",
+    "description": "Si el objetivo ya ha sufrido da\u00f1o en ese turno, la \nfuerza del ataque se duplica.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 373,
     "name": "Embargo",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "description": "Impide al objetivo usar el objeto que lleva. Su\nEntrenador tampoco puede usar objetos con \u00e9l. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 374,
-    "name": "Fling",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lanzamiento",
+    "description": "Lanza contra el objetivo el objeto que lleva. La fuerza \ndel ataque y su efecto var\u00edan seg\u00fan el objeto.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 375,
-    "name": "Psycho Shift",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicocambio",
+    "description": "Usa su poder mental para transferir al objetivo sus \nproblemas de estado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 376,
-    "name": "Trump Card",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "As Oculto",
+    "description": "Cuantos menos PP tenga el movimiento, mayor ser\u00e1 \nla fuerza para atacar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 377,
-    "name": "Heal Block",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Anticura",
+    "description": "Impide al objetivo usar movimientos, habilidades \ny objetos equipados que recuperan PS durante\ncinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 378,
-    "name": "Wring Out",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Estruj\u00f3n",
+    "description": "Estruja con fuerza al objetivo. Cuantos m\u00e1s PS \ntenga el objetivo, m\u00e1s fuerza tendr\u00e1 el ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 379,
-    "name": "Power Trick",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Truco Fuerza",
+    "description": "Usa sus poderes mentales para intercambiar su \ncaracter\u00edstica de Ataque por Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 380,
-    "name": "Gastro Acid",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bilis",
+    "description": "El usuario arroja sus jugos biliares al objetivo, lo \nque anula el efecto de la habilidad en uso.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 381,
-    "name": "Lucky Chant",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Conjuro",
+    "description": "Lanza al cielo un conjuro que protege a todo su\nequipo de golpes cr\u00edticos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 382,
-    "name": "Me First",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Yo Primero",
+    "description": "Se adelanta al movimiento que pretende usar el \nobjetivo y lo lanza antes con m\u00e1s fuerza. Si el\nusuario es m\u00e1s lento, falla.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 383,
-    "name": "Copycat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Copi\u00f3n",
+    "description": "Imita el movimiento usado justo antes.\nEl movimiento falla si no se ha usado a\u00fan ninguno. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 384,
-    "name": "Power Swap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cambia Fuerza",
+    "description": "El usuario emplea su poder mental para\nintercambiar los cambios en Ataque y Ataque\nEspecial con el objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 385,
-    "name": "Guard Swap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cambia Defensa",
+    "description": "El usuario emplea su poder mental para intercambiar \nlos cambios en Defensa y Defensa Especial con el\nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 386,
-    "name": "Punishment",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Castigo",
+    "description": "La fuerza del ataque aumenta cuanto m\u00e1s se\nha fortalecido el objetivo con cambios de\ncaracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 387,
-    "name": "Last Resort",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "\u00daltima Baza",
+    "description": "Este movimiento solo puede utilizarse tras haber \nusado al menos una vez todos los dem\u00e1s\nconocidos por el Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 388,
-    "name": "Worry Seed",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Abatidoras",
+    "description": "Se planta una semilla en el objetivo que le causa \npesar. Evita el sue\u00f1o gracias a la habilidad\nInsomnio.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 389,
-    "name": "Sucker Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Bajo",
+    "description": "Permite atacar primero. Falla si el objetivo no est\u00e1 \npreparando ning\u00fan ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 390,
-    "name": "Toxic Spikes",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "P\u00faas T\u00f3xicas",
+    "description": "Lanza una trampa de p\u00faas t\u00f3xicas a los pies del \nobjetivo. El veneno afecta a los Pok\u00e9mon que\nentran en combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 391,
-    "name": "Heart Swap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cambia Almas",
+    "description": "Usa la fuerza mental para intercambiar con el\nobjetivo los cambios en las caracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 392,
-    "name": "Aqua Ring",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acua Aro",
+    "description": "Un manto de agua cubre al Pok\u00e9mon que lo usa. \nRecupera algunos PS en cada turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 393,
-    "name": "Magnet Rise",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Levit\u00f3n",
+    "description": "Levita gracias a un campo magn\u00e9tico generado por \nelectricidad durante cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 394,
-    "name": "Flare Blitz",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Envite \u00cdgneo",
+    "description": "El Pok\u00e9mon se cubre de llamas y carga contra el \nobjetivo, aunque \u00e9l tambi\u00e9n recibe da\u00f1os. Puede\nquemar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 395,
-    "name": "Force Palm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Palmeo",
+    "description": "Ataca al objetivo con una onda de choque y puede \nllegar a paralizarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 396,
-    "name": "Aura Sphere",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Esfera Aural",
+    "description": "Libera una descarga de la fuerza del aura desde \nsu interior. Es infalible.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 397,
-    "name": "Rock Polish",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulimento",
+    "description": "Reduce la resistencia puliendo su cuerpo. Aumenta \nla Velocidad considerablemente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 398,
-    "name": "Auraa Sphere",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Puya Nociva",
+    "description": "Pincha al objetivo con un tent\u00e1culo o brazo\nenvenenado. Puede llegar a envenenar al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 399,
-    "name": "Dark Pusle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulso Umbr\u00edo",
+    "description": "Libera una horrible aura llena de malos pensamientos \ny puede hacer retroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 400,
-    "name": "Night Slash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tajo Umbr\u00edo",
+    "description": "Ataca al objetivo a la primera oportunidad. Suele \nser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 401,
-    "name": "Aqua Tail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acua Cola",
+    "description": "Ataca agitando la cola como si fuera una ola rabiosa \nen una tormenta devastadora.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 402,
-    "name": "Seed Bomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba Germen",
+    "description": "Lanza al objetivo una descarga de semillas explosivas \ndesde arriba.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 403,
-    "name": "Air Slash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tajo A\u00e9reo",
+    "description": "Ataca con una hoja de aire que incluso corta el cielo. \nTambi\u00e9n puede hacer retroceder al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 404,
-    "name": "X-Scissor",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tijera X",
+    "description": "Cruza las guada\u00f1as o las garras para atacar al\nobjetivo como si fueran unas tijeras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 405,
-    "name": "Bug Buzz",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Zumbido",
+    "description": "El usuario crea una onda s\u00f3nica da\u00f1ina moviendo\nsu cuerpo que tambi\u00e9n puede disminuir la Defensa\nEspecial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 406,
-    "name": "Dragon Pusle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulso Drag\u00f3n",
+    "description": "Abre mucho la boca y libera una onda de choque \nque ataca al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 407,
-    "name": "Dragon Rush",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Carga Drag\u00f3n",
+    "description": "Ataca de forma brutal mientras intimida al objetivo. \nTambi\u00e9n puede hacerlo retroceder.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 408,
-    "name": "Power Gem",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Joya de Luz",
+    "description": "Ataca con un rayo de luz que centellea como si lo \nformaran miles de joyas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 409,
-    "name": "Drain Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Drenaje",
+    "description": "Un golpe que drena energ\u00eda. El Pok\u00e9mon recupera \nla mitad de los PS arrebatados al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 410,
-    "name": "Vacuum Wave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Vac\u00edo",
+    "description": "Gira los pu\u00f1os y libera una onda de vac\u00edo contra \nel objetivo. Este movimiento siempre va primero.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 411,
-    "name": "Focus Blast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Certera",
+    "description": "Agudiza la concentraci\u00f3n mental y libera su poder. \nPuede disminuir la Defensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 412,
-    "name": "Energy Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Energibola",
+    "description": "A\u00fana fuerzas de la naturaleza y libera su ataque. \nPuede disminuir la Defensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 413,
-    "name": "Brave Bird",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "P\u00e1jaro Osado",
+    "description": "Pliega sus alas y ataca con un vuelo rasante. El \nPok\u00e9mon que lo usa tambi\u00e9n resulta seriamente \nda\u00f1ado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 414,
-    "name": "Earth Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tierra Viva",
+    "description": "La tierra a los pies del objetivo erupciona\nviolentamente. Puede disminuir la Defensa Especial \ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 415,
-    "name": "Switcheroo",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Trapicheo",
+    "description": "Intercambia con el objetivo los objetos que llevan \ntan r\u00e1pido que es imposible verlo a simple vista.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 416,
-    "name": "Giga Impact",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Giga Impacto",
+    "description": "Carga contra el objetivo usando toda la fuerza que \ntiene. El Pok\u00e9mon descansa el turno siguiente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 417,
-    "name": "Nasty Plot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Maquinaci\u00f3n",
+    "description": "Estimula su cerebro pensando en cosas malas.\nAumenta considerablemente el Ataque Especial. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 418,
-    "name": "Bullet Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Bala",
+    "description": "Ataca con fuertes pu\u00f1etazos tan r\u00e1pidos como\nproyectiles. Este movimiento siempre va primero. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 419,
-    "name": "Avalanche",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Alud",
+    "description": "Este ataque inflige el doble de da\u00f1o a un objetivo\nque haya golpeado al usuario en ese mismo turno. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 420,
-    "name": "Ice Shard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Canto Helado",
+    "description": "Crea bolas de hielo y las lanza a gran velocidad. \nEste movimiento siempre va primero.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 421,
-    "name": "Shadow Claw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Garra Umbr\u00eda",
+    "description": "Ataca con una garra afilada hecha de sombras.\nSuele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 422,
-    "name": "Thunder Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Colmillo Rayo",
+    "description": "Usa colmillos electrificados para morder. Puede hacer \nque el objetivo retroceda o se paralice.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 423,
-    "name": "Ice Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Colmillo Hielo",
+    "description": "Usa colmillos helados para morder. Puede hacer que \nel objetivo retroceda o se congele.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 424,
-    "name": "Fire Fang",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Colmillo \u00cdgneo",
+    "description": "Usa colmillos en llamas para morder. Puede hacer \nque el objetivo retroceda o reciba quemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 425,
-    "name": "Shadow Sneak",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sombra Vil",
+    "description": "Extiende su sombra y ataca al objetivo por la\nespalda. Este movimiento siempre va primero. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 426,
-    "name": "Mud Bomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba Fango",
+    "description": "Ataca lanzando una compacta bola de fango.\nPuede bajar la Precisi\u00f3n del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 427,
-    "name": "Psycho Cut",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicocorte",
+    "description": "Ataca al objetivo con cuchillas formadas por energ\u00eda \nps\u00edquica. Suele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 428,
-    "name": "Zen Headbutt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cabezazo Zen",
+    "description": "Concentra su energ\u00eda ps\u00edquica en la cabeza para \ngolpear. Puede hacer que el objetivo retroceda.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 429,
-    "name": "Mirror Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Disparo Espejo",
+    "description": "El usuario libera un haz de energ\u00eda desde su pulido \ncuerpo. Puede bajar la Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 430,
-    "name": "Flash Cannon",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Foco Resplandor",
+    "description": "El usuario concentra toda la luz del cuerpo y la libera. \nPuede bajar la Defensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 431,
-    "name": "Rock Climb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Treparrocas",
+    "description": "Ataca con una gran embestida. Puede confundir al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 432,
-    "name": "Defog",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Despejar",
+    "description": "Potente viento que barre el Reflejo o Pantalla de Luz \ndel objetivo y puede reducir su Evasi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 433,
-    "name": "Trick Room",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Espacio Raro",
+    "description": "Se crea un espacio extra\u00f1o en el que los Pok\u00e9mon \nlentos se mueven primero durante cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 434,
-    "name": "Draco Meteor",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cometa Draco",
+    "description": "Hace que grandes cometas caigan del cielo sobre \nel objetivo. Baja mucho el Ataque Especial del que \nlo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 435,
-    "name": "Discharge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chispazo",
+    "description": "Una deslumbradora onda el\u00e9ctrica afecta a los\nPok\u00e9mon que hay combatiendo alrededor. Puede \nparalizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 436,
-    "name": "Lava Plume",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Humareda",
+    "description": "Un infierno de llamas da\u00f1a a los Pok\u00e9mon adyacentes \nen combate. Puede quemar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 437,
-    "name": "Leaf Storm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lluevehojas",
+    "description": "Cae una lluvia de hojas afiladas. Baja mucho el\nAtaque Especial de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 438,
-    "name": "Power Whip",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Latigazo",
+    "description": "El usuario agita violentamente sus lianas o tent\u00e1culos \npara golpear al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 439,
-    "name": "Rock Wrecker",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Romperrocas",
+    "description": "Lanza una piedra enorme contra el objetivo, pero \ntiene que descansar el siguiente turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 440,
-    "name": "Cross ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Veneno X",
+    "description": "Tajo que puede envenenar al objetivo. Suele ser \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 441,
-    "name": "Gunk Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lanza Mugre",
+    "description": "Lanza contra el objetivo basura asquerosa. Puede \nenvenenar al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 442,
-    "name": "Iron Head",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cabeza de Hierro",
+    "description": "Ataca con su dura cabeza de hierro. Puede hacer \nque el objetivo retroceda.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 443,
-    "name": "Magnet Bomb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba Im\u00e1n",
+    "description": "Lanza unas bombas de hierro que se pegan al \nadversario. No se puede esquivar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 444,
-    "name": "Stone Edge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Roca Afilada",
+    "description": "Clava piedras muy afiladas al objetivo. Suele ser \ncr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 445,
-    "name": "Captivate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Seducci\u00f3n",
+    "description": "Si el objetivo es del sexo opuesto, queda embelesado \ny baja mucho su Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 446,
-    "name": "Stealth ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Trampa Rocas",
+    "description": "Una trampa de rocas que flota en el aire y da\u00f1a a \nlos objetivos que entran en combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 447,
-    "name": "Grass Knot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Hierba Lazo",
+    "description": "Enreda al objetivo con hierba y lo derriba.\nCuanto m\u00e1s pesado es el objetivo, m\u00e1s da\u00f1o inflige. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 448,
-    "name": "Chatter",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ch\u00e1chara",
+    "description": "Ataca con una onda de sonido muy ruidosa\ncompuesta  por palabras y confunde al objetivo. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 449,
-    "name": "Judgment",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sentencia",
+    "description": "Emite incontables haces de luz. Var\u00eda seg\u00fan el tipo \nde tabla que lleve el usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 450,
-    "name": "Bug Bite",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Picadura",
+    "description": "Pica al objetivo. Si el objetivo lleva una baya, el \nusuario se la come y se beneficia de su efecto.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 451,
-    "name": "Charge Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Carga",
+    "description": "Lanza un rayo el\u00e9ctrico contra el objetivo. Puede \nsubir el Ataque Especial de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 452,
-    "name": "Wood Hammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mazazo",
+    "description": "Arremete contra el objetivo con su robusto cuerpo. \nEl agresor tambi\u00e9n sufre bastante da\u00f1o.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 453,
-    "name": "Aqua Jet",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acua Jet",
+    "description": "Ataque r\u00e1pido que permite golpear en primer lugar. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 454,
-    "name": "Attack Order",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Al Ataque",
+    "description": "El usuario llama a sus s\u00fabditos para que ataquen \nal objetivo. Suele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 455,
-    "name": "Defend Order",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "A Defender",
+    "description": "El usuario llama a sus s\u00fabditos para que formen\nun escudo viviente. Sube la Defensa y la Defensa \nEspecial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 456,
-    "name": "Heal Order",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Auxilio",
+    "description": "El usuario llama a sus s\u00fabditos para que lo curen. \nRecupera hasta la mitad de los PS m\u00e1ximos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 457,
-    "name": "Head Smash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Testarazo",
+    "description": "El usuario arriesga su vida y lanza un cabezazo\ncon toda su fuerza. El agresor resulta seriamente \nda\u00f1ado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 458,
-    "name": "Double Hit",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Doble Golpe",
+    "description": "Golpea al objetivo dos veces seguidas con la cola \nu otras partes de su cuerpo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 459,
-    "name": "Roar of Time",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Distorsi\u00f3n",
+    "description": "Ataca al objetivo usando tal energ\u00eda que el tiempo \nse distorsiona. El usuario descansa el siguiente\nturno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 460,
-    "name": "Spacial Rend",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Corte Vac\u00edo",
+    "description": "Desgarra al objetivo y el espacio a su alrededor. \nSuele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 461,
-    "name": "Lunar Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Lunar",
+    "description": "El usuario se debilita, pero el Pok\u00e9mon que lo \nsustituye recupera su estado, los PS y los PP.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 462,
-    "name": "Crush Grip",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Agarr\u00f3n",
+    "description": "Estruja al objetivo con gran fuerza. Cuantos m\u00e1s \nPS le queden al objetivo, m\u00e1s fuerte ser\u00e1 el\nataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 463,
-    "name": "Magma Storm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Lluvia \u00cdgnea",
+    "description": "El objetivo queda atrapado en una tormenta de \nfuego que dura de cuatro a cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 464,
-    "name": "Dark Void",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Brecha Negra",
+    "description": "El objetivo es enviado a un mundo de tinieblas \nque lo hace dormir.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 465,
-    "name": "Seed Flare",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fogonazo",
+    "description": "Una onda de choque se libera del cuerpo. Puede \nbajar mucho la Defensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 466,
-    "name": "Ominous Wind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Aciago",
+    "description": "Produce un viento horripilante. Puede subir de golpe \ntodas las caracter\u00edsticas del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 467,
-    "name": "Shadow Force",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Umbr\u00edo",
+    "description": "En el primer turno, desaparece. En el segundo, \ngolpea al objetivo aunque se est\u00e9 protegiendo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 468,
-    "name": "Hone Claws",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Afilagarras",
+    "description": "El usuario se afila las garras para aumentar su Ataque \ny Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 469,
-    "name": "Wide Guard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vastaguardia",
+    "description": "Bloquea los ataques de objetivo m\u00faltiple lanzados \ncontra tu equipo durante un turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 470,
-    "name": "Guard Split",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Isoguardia",
+    "description": "El usuario emplea sus poderes para hacer la media \nde su Defensa y Defensa Especial con las de su\nobjetivo y compartirlas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 471,
-    "name": "Power Split",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Isofuerza",
+    "description": "El usuario emplea sus poderes para hacer la media \nde su Ataque y Ataque Especial con los de su\nobjetivo y compartirlos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 472,
-    "name": "Wonder Room",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Zona Extra\u00f1a",
+    "description": "Crea una zona misteriosa donde se intercambian \nla Defensa y la Defensa Especial de todos los\nPok\u00e9mon durante cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 473,
-    "name": "Psyshock",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Psicocarga",
+    "description": "Crea una onda ps\u00edquica que causa da\u00f1o f\u00edsico al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 474,
-    "name": "Venoshock",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Carga T\u00f3xica",
+    "description": "Ataca cubriendo al objetivo con un l\u00edquido venenoso. \nEl da\u00f1o ser\u00e1 doble si este ya est\u00e1 envenenado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 475,
-    "name": "Autotomize",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aligerar",
+    "description": "El usuario se sacude para hacerse m\u00e1s ligero y \naumentar mucho su Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 476,
-    "name": "Rage Powder",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Polvo Ira",
+    "description": "Usa un polvo que irrita y centra en el usuario la \natenci\u00f3n y los ataques de los rivales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 477,
-    "name": "Telekinesis",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Telequinesis",
+    "description": "El usuario emplea su poder mental para hacer flotar \nal objetivo, y lo convierte en un blanco f\u00e1cil durante \ntres turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 478,
-    "name": "Magic Room",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Zona M\u00e1gica",
+    "description": "Crea un espacio misterioso que inutiliza todos los \nobjetos de los Pok\u00e9mon durante cinco turnos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 479,
-    "name": "Smack Down",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Antia\u00e9reo",
+    "description": "El usuario ataca lanzando una piedra o un proyectil. \nPuede estrellar contra el suelo al objetivo si vuela.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 480,
-    "name": "Storm Throw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llave Cors\u00e9",
+    "description": "Lanza un golpe fulminante. Siempre resulta en un \ngolpe cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 481,
-    "name": "Flame Burst",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pirotecnia",
+    "description": "Golpea al objetivo con una llamarada que afecta \ntambi\u00e9n a los Pok\u00e9mon adyacentes.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 482,
-    "name": "Sludge Wave",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda T\u00f3xica",
+    "description": "Una onda t\u00f3xica que da\u00f1a a los Pok\u00e9mon de\nalrededor. Puede envenenar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 483,
-    "name": "Quiver Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Aleteo",
+    "description": "Danza m\u00edstica que sube el Ataque Especial, la \nDefensa Especial y la Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 484,
-    "name": "Heavy Slam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cuerpo Pesado",
+    "description": "El usuario golpea con todo su cuerpo. Cuanto mayor \nsea su peso comparado con el del objetivo, m\u00e1s da\u00f1o \ncausar\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 485,
-    "name": "Synchronoise",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sincrorruido",
+    "description": "Una extra\u00f1a onda que da\u00f1a a todos los Pok\u00e9mon \nadyacentes del mismo tipo que el que la ejecuta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 486,
-    "name": "Electro Ball",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bola Voltio",
+    "description": "Lanza una bola el\u00e9ctrica. Cuanto mayor sea la\nVelocidad del usuario en comparaci\u00f3n con la del \nobjetivo, mayor ser\u00e1 el da\u00f1o causado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 487,
-    "name": "Soak",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Anegar",
+    "description": "Potente lluvia que transforma al objetivo en un \nPok\u00e9mon de tipo Agua.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 488,
-    "name": "Flame Charge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Nitrocarga",
+    "description": "Llamas que golpean al objetivo y aumentan la \nVelocidad del atacante.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 489,
-    "name": "Coil",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Enrosque",
+    "description": "El usuario se concentra, lo que le permite aumentar \nsu Ataque, Defensa y Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 490,
-    "name": "Low Sweep",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Puntapi\u00e9",
+    "description": "Ataque r\u00e1pido dirigido a los pies del objetivo que \nle hace perder Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 491,
-    "name": "Acid Spray",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba \u00c1cida",
+    "description": "Ataca con un l\u00edquido corrosivo, reduciendo mucho \nla Defensa Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 492,
-    "name": "Foul Play",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Juego Sucio",
+    "description": "El usuario emplea la fuerza del objetivo para atacarlo. \nCuanto mayor es el Ataque del objetivo, m\u00e1s da\u00f1o\nprovoca.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 493,
-    "name": "Simple Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Simple",
+    "description": "Lanza una onda ps\u00edquica que hace que la habilidad \ndel objetivo pase a ser Simple.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 494,
-    "name": "Entrainment",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Amiga",
+    "description": "Una extra\u00f1a danza que hace que el usuario y el \nobjetivo tengan la misma habilidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 495,
-    "name": "After You",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cede Paso",
+    "description": "Si el usuario es el m\u00e1s r\u00e1pido, permite al objetivo \nusar un movimiento justo tras \u00e9l, adelant\u00e1ndose a \nPok\u00e9mon m\u00e1s r\u00e1pidos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 496,
-    "name": "Round",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Canon",
+    "description": "Un canto que ataca al objetivo. Cuantos m\u00e1s\nPok\u00e9mon lo usan, m\u00e1s aumenta de potencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 497,
-    "name": "Echoed Voice",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Eco Voz",
+    "description": "Un susurro que aumenta de potencia conforme el \nusuario y otros Pok\u00e9mon lo van utilizando.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 498,
-    "name": "Chip Away",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Guardia Baja",
+    "description": "Un ataque que busca los puntos d\u00e9biles del\nobjetivo y puede causarle da\u00f1o aunque cambien \nsus caracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 499,
-    "name": "Clear Smog",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Niebla Clara",
+    "description": "Ataca al objetivo con una extra\u00f1a niebla que elimina \nsus cambios de caracter\u00edsticas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 500,
-    "name": "Stored Power",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Poder Reserva",
+    "description": "Acumula poder para golpear. Cuanto m\u00e1s suban \nlas caracter\u00edsticas del usuario, mayor ser\u00e1 el da\u00f1o. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 501,
-    "name": "Quick Guard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Anticipo",
+    "description": "Protege a todo el equipo de los movimientos que \nse adelantan y atacan primero.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 502,
-    "name": "Ally Switch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cambio Banda",
+    "description": "Extra\u00f1o poder que intercambia la posici\u00f3n del \nusuario con la de un aliado sobre el terreno de \ncombate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 503,
-    "name": "Scald",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Escaldar",
+    "description": "Ataca arrojando agua hirviendo al objetivo.\nPuede causar quemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 504,
-    "name": "Shell Smash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rompecoraza",
+    "description": "El usuario rompe su coraza y baja su Defensa y\nDefensa Especial, pero aumenta mucho su Ataque, \nAtaque Especial y Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 505,
-    "name": "Heal Pulse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulso Cura",
+    "description": "Una onda curativa restaura los PS del objetivo a la \nmitad de su m\u00e1ximo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 506,
-    "name": "Hex",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Infortunio",
+    "description": "Ataque que causa un gran da\u00f1o a los objetivos que \nsufren problemas de estado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 507,
-    "name": "Sky Drop",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ca\u00edda Libre",
+    "description": "Primer turno: lanza al objetivo al aire. Segundo\nturno: lo hace caer. Mientras est\u00e1 en el aire, no lo \ndeja moverse.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 508,
-    "name": "Shift Gear",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cambio de Marcha",
+    "description": "Al hacer girar los engranajes, el usuario mejora su\nAtaque y aumenta su Velocidad espectacularmente. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 509,
-    "name": "Circle Throw",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llave Giro",
+    "description": "Lanza por los aires al objetivo y hace que salga otro \nPok\u00e9mon. Si es uno salvaje, acaba el combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 510,
-    "name": "Incinerate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Calcinaci\u00f3n",
+    "description": "Llamas que golpean a los objetivos adyacentes. \nSi estos llevan bayas u otros objetos, estos se\nquemar\u00e1n y ya no se podr\u00e1n usar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 511,
-    "name": "Quash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "\u00daltimo Lugar",
+    "description": "Consigue que el objetivo sea el \u00faltimo en moverse. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 512,
-    "name": "Acrobatics",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acr\u00f3bata",
+    "description": "Golpea \u00e1gilmente. Si el usuario no porta ning\u00fan \nobjeto, el objetivo resulta seriamente da\u00f1ado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 513,
-    "name": "Reflect Type",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Clonatipo",
+    "description": "Cambia el tipo del Pok\u00e9mon al mismo tipo que el \ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 514,
-    "name": "Retaliate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Represalia",
+    "description": "Venga a los amigos derrotados. Si en el turno\nanterior han derrotado a uno, la potencia del\nataque aumentar\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 515,
-    "name": "Final Gambit",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sacrificio",
+    "description": "El usuario se sacrifica caus\u00e1ndole un da\u00f1o al \nobjetivo equivalente a sus propios PS perdidos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 516,
-    "name": "Bestow",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ofrenda",
+    "description": "Entrega el objeto que lleva al objetivo en caso de \nque este no tenga ninguno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 517,
-    "name": "Inferno",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Infierno",
+    "description": "Ataca con una gran r\u00e1faga de fuego que causa \nquemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 518,
-    "name": "Water Pledge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voto Agua",
+    "description": "Ataca con columnas de agua. Combinado con \nVoto Fuego, crea un arco\u00edris y aumenta su\npotencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 519,
-    "name": "Fire Pledge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voto Fuego",
+    "description": "Ataca con columnas de fuego. Combinado con\nVoto Planta, crea un mar de llamas y aumenta su \npotencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 520,
-    "name": "Grass Pledge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voto Planta",
+    "description": "Ataca con columnas de hojas. Combinado con \nVoto Agua, crea un pantano y aumenta su\npotencia.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 521,
-    "name": "Volt Switch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voltiocambio",
+    "description": "Tras atacar, vuelve a toda prisa para dar paso a otro \nPok\u00e9mon del equipo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 522,
-    "name": "Struggle Bug",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Estoicismo",
+    "description": "El usuario opone resistencia y ataca a los oponentes. \nTambi\u00e9n reduce su Ataque Especial.\n",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 523,
-    "name": "Bulldoze",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Terratemblor",
+    "description": "Sacudida s\u00edsmica que afecta a los dem\u00e1s Pok\u00e9mon \nadyacentes y tambi\u00e9n reduce su Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 524,
-    "name": "Frost Breath",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vaho G\u00e9lido",
+    "description": "Quien lo usa ataca lanzando un aliento g\u00e9lido. \nSiempre resulta en un golpe cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 525,
-    "name": "Dragon Tail",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cola Drag\u00f3n",
+    "description": "Ataca al objetivo y lo obliga a cambiarse por otro \nPok\u00e9mon. Si es uno salvaje, acaba el combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 526,
-    "name": "Work Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Avivar",
+    "description": "Quien lo usa se concentra y potencia su Ataque y \nsu Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 527,
-    "name": "Electroweb",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Electrotela",
+    "description": "Atrapa y ataca a los objetivos con una telara\u00f1a \nel\u00e9ctrica. Tambi\u00e9n reduce su Velocidad.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 528,
-    "name": "Wild Charge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voltio Cruel",
+    "description": "Carga el\u00e9ctrica muy potente que tambi\u00e9n hiere \nligeramente a quien la usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 529,
-    "name": "Drill Run",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Taladradora",
+    "description": "El usuario golpea usando su cuerpo como un taladro. \nSuele ser cr\u00edtico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 530,
-    "name": "Dual Chop",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Bis",
+    "description": "Golpea dos veces seguidas con la cola u otras partes \nde su cuerpo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 531,
-    "name": "Heart Stamp",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Arrumaco",
+    "description": "Gr\u00e1cil gesto que asesta un golpe tremendo al objetivo \ny puede hacerlo retroceder.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 532,
-    "name": "Horn Leech",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Asta Drenaje",
+    "description": "Un golpe que drena energ\u00eda. El Pok\u00e9mon recupera \nla mitad de los PS arrebatados al objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 533,
-    "name": "Sacred Sword",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Espada Santa",
+    "description": "El usuario ataca con una espada, ignorando cualquier \ncambio en las caracter\u00edsticas del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 534,
-    "name": "Razor Shell",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Concha Filo",
+    "description": "Una afilada vieira ataca al objetivo. Tambi\u00e9n puede \nhacer disminuir su Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 535,
-    "name": "Heat Crash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Calor",
+    "description": "El usuario ataca con su cuerpo ardiente. Cuanto\nmayor sea su peso comparado con el del objetivo, \nm\u00e1s da\u00f1o causar\u00e1.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 536,
-    "name": "Leaf Tornado",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cicl\u00f3n de Hojas",
+    "description": "Tritura con afiladas hojas y puede bajar la Precisi\u00f3n \ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 537,
-    "name": "Steamroller",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rodillo de P\u00faas",
+    "description": "El usuario se hace una bola y arrolla al objetivo con \nsu cuerpo. Puede hacerlo retroceder.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 538,
-    "name": "Cotton Guard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rizo Algod\u00f3n",
+    "description": "Cubre al Pok\u00e9mon con una madeja protectora.\nAumenta much\u00edsimo la Defensa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 539,
-    "name": "Night Daze",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulso Noche",
+    "description": "Ataca al objetivo con una onda siniestra.\nPuede bajar su Precisi\u00f3n.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 540,
-    "name": "Psystrike",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda Mental",
+    "description": "Crea una onda ps\u00edquica que causa da\u00f1o f\u00edsico al \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 541,
-    "name": "Tail Slap",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Plumerazo",
+    "description": "Golpea con la cola u otras partes de su cuerpo de \ndos a cinco veces seguidas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 542,
-    "name": "Hurricane",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Vendaval",
+    "description": "Golpea al objetivo con un fuerte torbellino que\nenvuelve al rival y puede confundirlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 543,
-    "name": "Head Charge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ariete",
+    "description": "Propina un tremendo cabezazo. Tambi\u00e9n da\u00f1a al \nusuario un poco.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 544,
-    "name": "Gear Grind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rueda Doble",
+    "description": "Rota dos engranajes de hierro sobre el objetivo. \nGolpea dos veces.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 545,
-    "name": "Searing Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Bomba \u00cdgnea",
+    "description": "Un infierno de llamas da\u00f1a a los Pok\u00e9mon adyacentes \nen combate. Puede quemar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 546,
-    "name": "Techno Blast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tecno Shock",
+    "description": "Ataca al objetivo con un gran l\u00e1ser. El tipo del ataque \nlo determina el cartucho que porta el usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 547,
-    "name": "Relic Song",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Canto Arcaico",
+    "description": "Ataca conmoviendo a los rivales de alrededor con \nun antiguo canto. Puede dormirlos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 548,
-    "name": "Secret Sword",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Sable M\u00edstico",
+    "description": "Ensarta al objetivo con un sable, hiri\u00e9ndolo con su \nm\u00edstico poder. Produce da\u00f1o f\u00edsico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 549,
-    "name": "Glaciate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mundo G\u00e9lido",
+    "description": "Ataque con aire helado que baja la Velocidad del \nobjetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 550,
-    "name": "Bolt Strike",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ataque Fulgor",
+    "description": "Ataca envolvi\u00e9ndose de una gran carga el\u00e9ctrica y \nembistiendo al objetivo con ella. Puede paralizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 551,
-    "name": "Blue Flare",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llama Azul",
+    "description": "Ataca con una bella pero potente llama azul que \nrodea al objetivo. Puede quemarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 552,
-    "name": "Fiery Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Danza Llama",
+    "description": "Envuelve en llamas y da\u00f1a al objetivo. Puede\naumentar el Ataque Especial de quien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 553,
-    "name": "Freeze Shock",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo G\u00e9lido",
+    "description": "El usuario carga un bloque de hielo con electricidad \nen el primer turno y ataca con \u00e9l en el segundo.\nPuede paralizar.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 554,
-    "name": "Ice Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llama G\u00e9lida",
+    "description": "Ataca al objetivo en el segundo turno rode\u00e1ndolo \nde un aire g\u00e9lido. Puede causar quemaduras.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 555,
-    "name": "Snarl",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Alarido",
+    "description": "Ataca con un chillido desagradable que baja el \nAtaque Especial del rival.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 556,
-    "name": "Icicle Crash",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chuzos",
+    "description": "Lanza grandes car\u00e1mbanos. Puede hacer retroceder \nal objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 557,
-    "name": "V-create",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "V de Fuego",
+    "description": "Golpea con una V de llamas al objetivo. Baja la \nDefensa, la Defensa Especial y la Velocidad de \nquien lo usa.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 558,
-    "name": "Fusion Flare",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llama Fusi\u00f3n",
+    "description": "Ataca con una llamarada gigantesca. Aumenta su \npotencia si es influenciada por una gran energ\u00eda\nel\u00e9ctrica.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 559,
-    "name": "Fusion Bolt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rayo Fusi\u00f3n",
+    "description": "Ataca con una enorme descarga el\u00e9ctrica. Aumenta \nsu potencia si es influenciada por una gigantesca \nllamarada.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 560,
-    "name": "Flying Press",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Plancha Voladora",
+    "description": "El Pok\u00e9mon que lo usa se lanza sobre su oponente. \nEste movimiento es de tipo Lucha y tipo Volador al \nmismo tiempo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 561,
-    "name": "Mat Block",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Escudo Tatami",
+    "description": "El usuario usa un tatami para escudarse de los \nmovimientos enemigos. Protege tambi\u00e9n a los \naliados. No funciona contra ataques de estado. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 562,
-    "name": "Belch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Eructo",
+    "description": "El Pok\u00e9mon causa da\u00f1o a su oponente lanz\u00e1ndole \nun eructo. Para poder utilizar este movimiento tiene \nque llevar una baya y com\u00e9rsela.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 563,
-    "name": "Rototiller",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fertilizante",
+    "description": "Labra la tierra haciendo que sea m\u00e1s f\u00e1cil cultivarla y \nconsigue que aumente el Ataque y el Ataque Especial \nde los Pok\u00e9mon de tipo Planta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 564,
-    "name": "Sticky Web",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Red Viscosa",
+    "description": "Coloca una red pegajosa alrededor del equipo rival, \nhaciendo que baje la Velocidad de cualquier Pok\u00e9mon\nadversario que entre al combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 565,
-    "name": "Fell Stinger",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aguij\u00f3n Letal",
+    "description": "Al derrotar al objetivo utilizando este movimiento, \naumenta mucho el Ataque del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 566,
-    "name": "Phantom Force",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Golpe Fantasma",
+    "description": "El usuario desaparece en el primer turno y ataca a \nsu objetivo en el segundo. Permite acertar aunque \nel objetivo est\u00e9 protegi\u00e9ndose.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 567,
-    "name": "Trick-or-Treat",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Halloween",
+    "description": "Invita al objetivo a celebrar Halloween, haciendo \nque pase a ser tambi\u00e9n de tipo Fantasma adem\u00e1s \nde conservar sus propios tipos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 568,
-    "name": "Noble Roar",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Rugido de Guerra",
+    "description": "Intimida a su oponente con un rugido de guerra, \nhaciendo que disminuyan tanto su Ataque como \nsu Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 569,
-    "name": "Ion Deluge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cortina Plasma",
+    "description": "El Pok\u00e9mon disemina part\u00edculas con carga el\u00e9ctrica \nque convierten los movimientos de tipo Normal en\ntipo El\u00e9ctrico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 570,
-    "name": "Parabolic Charge",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Carga Par\u00e1bola",
+    "description": "Inflige da\u00f1o a todos los Pok\u00e9mon a su alrededor. \nEl usuario absorbe la mitad del da\u00f1o producido\npara restaurar sus propios PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 571,
-    "name": "Forest's Curse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Condena Silvana",
+    "description": "El objetivo es presa de la maldici\u00f3n del bosque,\npor lo que pasa a ser un Pok\u00e9mon de tipo Planta, \nadem\u00e1s de conservar sus tipos habituales.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 572,
-    "name": "Petal Blizzard",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Tormenta Floral",
+    "description": "El usuario desata un intenso vendaval de p\u00e9talos \nque da\u00f1a a los Pok\u00e9mon a su alrededor.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 573,
-    "name": "Freeze-Dry",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Liofilizaci\u00f3n",
+    "description": "Enfr\u00eda s\u00fabitamente al objetivo e incluso puede \ncongelarlo. Es supereficaz contra Pok\u00e9mon de \ntipo Agua.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 574,
-    "name": "Disarming Vo ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Voz Cautivadora",
+    "description": "Obnubila a los oponentes con su fascinante voz y \nles provoca da\u00f1os emocionales. Siempre acierta\nal objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 575,
-    "name": "Parting Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "\u00daltima Palabra",
+    "description": "El usuario se cambia por otro Pok\u00e9mon de su equipo, \npero antes amedrenta a su oponente y hace que\ndisminuyan su Ataque y Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 576,
-    "name": "Topsy-Turvy",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Reversi\u00f3n",
+    "description": "Invierte por completo los cambios en las\ncaracter\u00edsticas del Pok\u00e9mon objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 577,
-    "name": "Draining Kiss",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Beso Drenaje",
+    "description": "Absorbe PS del objetivo con un beso y restaura su\npropia energ\u00eda en una cantidad igual o superior a \nla mitad del da\u00f1o infligido.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 578,
-    "name": "Crafty Shield",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Truco Defensa",
+    "description": "Usa unos misteriosos poderes para protegerse a s\u00ed \nmismo y a sus aliados de ataques de estado, pero\nno de otro tipo de ataques.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 579,
-    "name": "Flower Shield",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Defensa Floral",
+    "description": "Aumenta la Defensa de todos los Pok\u00e9mon de tipo \nPlanta que hay en el combate usando unos\nmisteriosos poderes.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 580,
-    "name": "Grassy Terrain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Campo de Hierba",
+    "description": "Convierte el terreno de combate en un campo de \nhierba durante cinco turnos. Los Pok\u00e9mon que\nest\u00e9n en el suelo recuperan PS en cada turno.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 581,
-    "name": "Misty Terrain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Campo de Niebla",
+    "description": "Cubre de niebla el terreno de combate durante\ncinco turnos. Los Pok\u00e9mon que est\u00e9n en el suelo \nno se ven afectados por cambios de estado.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 582,
-    "name": "Electrify",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Electrificaci\u00f3n",
+    "description": "Si el Pok\u00e9mon objetivo queda electrificado antes de \nusar un movimiento, este ser\u00e1 de tipo El\u00e9ctrico.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 583,
-    "name": "Play Rough",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Caranto\u00f1a",
+    "description": "El Pok\u00e9mon que lo usa le hace cucamonas al \nobjetivo y lo ataca. Puede disminuir el Ataque\ndel objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 584,
-    "name": "Fairy Wind",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Viento Fe\u00e9rico",
+    "description": "El Pok\u00e9mon que lo usa desata un vendaval fe\u00e9rico \nque arremete contra el objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 585,
-    "name": "Moonblast",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuerza Lunar",
+    "description": "Invoca el poder de la luna para atacar al objetivo. \nPuede disminuir el Ataque Especial del objetivo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 586,
-    "name": "Boomburst",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Estruendo",
+    "description": "Ataca a todos los Pok\u00e9mon a su alrededor con una \npotent\u00edsima onda sonora.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 587,
-    "name": "Fairy Lock ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cerrojo Fe\u00e9rico",
+    "description": "Consigue que ning\u00fan Pok\u00e9mon pueda huir en el \nsiguiente turno echando un cerrojo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 588,
-    "name": "King's Shield",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Escudo Real",
+    "description": "Asume una estrategia defensiva a la par que se \nprotege de cualquier da\u00f1o. Disminuye mucho \nel Ataque de cualquier Pok\u00e9mon que lo toque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 589,
-    "name": "Play N ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Camarader\u00eda",
+    "description": "Se hace amigo de su oponente y consigue que a \neste se le quiten las ganas de combatir. Adem\u00e1s, \nreduce su Ataque.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 590,
-    "name": "Confide",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Confidencia",
+    "description": "Hace que el objetivo pierda la concentraci\u00f3n \ncont\u00e1ndole un secreto. Disminuye el Ataque\nEspecial del oponente.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 591,
-    "name": "Diamond Storm",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Torm. Diamantes",
+    "description": "Desata un devastador vendaval de diamantes para \nda\u00f1ar a los oponentes. Puede aumentar la Defensa \ndel usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 592,
-    "name": "Steam Eruption",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Chorro de Vapor",
+    "description": "Envuelve al Pok\u00e9mon oponente con vapor\nextremadamente caliente que puede llegar a\nquemarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 593,
-    "name": "Hyperspace Hole",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paso Dimensional",
+    "description": "El usuario aparece junto a su objetivo usando un \nagujero interdimensional y le asesta un golpe que \nno puede esquivarse con Protecci\u00f3n ni Detecci\u00f3n. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 594,
-    "name": "Water Shuriken",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Shuriken de Agua",
+    "description": "Golpea al oponente de 2 a 5 veces con estrellas \narrojadizas hechas de mucosidad. El que lo usa\nsiempre ataca primero.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 595,
-    "name": "Mystical ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Llama Embrujada",
+    "description": "Lanza por su boca una singular llama a gran\ntemperatura con la que ataca a su oponente y\nbaja su Ataque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 596,
-    "name": "Spiky Shield",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Barrera Espinosa",
+    "description": "Protege al usuario de ataques, e inflige da\u00f1o a quien \nse los lance si entra en contacto con \u00e9l. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 597,
-    "name": "Aromatic Mist",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Niebla Arom\u00e1tica",
+    "description": "Consigue aumentar la Defensa Especial de un \nPok\u00e9mon de su equipo con una fragancia misteriosa. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 598,
-    "name": "Eerie Impulse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Onda An\u00f3mala",
+    "description": "Su cuerpo irradia unas raras ondas que, al alcanzar \na un oponente, hacen que disminuya mucho su\nAtaque Especial.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 599,
-    "name": "Venom Drench",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Trampa Venenosa",
+    "description": "Impregna a su objetivo con un l\u00edquido venenoso que \ndisminuye el Ataque, el At. Esp. y la Velocidad. \nSolo afecta a Pok\u00e9mon ya envenenados.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 600,
-    "name": "Powder",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Polvo Explosivo",
+    "description": "Esparce un polvo sobre el Pok\u00e9mon objetivo.\nSi este usa un movimiento de tipo Fuego en el\nmismo turno, el polvo explota y le inflige da\u00f1o.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 601,
-    "name": "Geomancy",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Geocontrol",
+    "description": "Concentra energ\u00eda durante el primer turno, de forma \nque su Velocidad, Ataque Especial y Defensa Especial \naumenten mucho en el segundo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 602,
-    "name": "Magnetic Flux",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Aura Magn\u00e9tica",
+    "description": "Manipula el campo magn\u00e9tico y logra aumentar la \nDefensa y la Def. Esp. de los Pok\u00e9mon aliados\nque cuenten con las habilidades M\u00e1s y Menos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 603,
-    "name": "Happy Hour",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Paga Extra",
+    "description": "Al usar este movimiento se consigue duplicar la \nrecompensa recibida tras el combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 604,
-    "name": "Electric Terrain",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Campo El\u00e9ctrico",
+    "description": "Durante cinco turnos, crea un campo el\u00e9ctrico en \nel terreno de combate que impide dormirse a los\nPok\u00e9mon que est\u00e9n en contacto con el suelo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 605,
-    "name": "Dazzling Gleam",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Brillo M\u00e1gico",
+    "description": "Inflige da\u00f1o a los oponentes con una potente luz. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 606,
-    "name": "Celebrate",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Celebraci\u00f3n",
+    "description": "El Pok\u00e9mon te felicita en un d\u00eda muy especial para ti. ",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 607,
-    "name": "Hold Hands",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Manos Juntas",
+    "description": "El Pok\u00e9mon le da la mano a un aliado y ambos se \nsienten muy felices.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 608,
-    "name": "Baby-Doll Eyes",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ojitos Tiernos",
+    "description": "Lanza una mirada al Pok\u00e9mon objetivo con ojos\nacaramelados, con lo que logra que su Ataque se \nreduzca. El que lo usa siempre ataca primero.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 609,
-    "name": "Nuzzle",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Moflete Est\u00e1tico",
+    "description": "Quien lo usa frota sus mofletes cargados de \nelectricidad contra el Pok\u00e9mon objetivo y\nconsigue paralizarlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 610,
-    "name": "Hold Back",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Clemencia",
+    "description": "El usuario se contiene a la hora de atacar y deja \nal Pok\u00e9mon objetivo con al menos 1 PS.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 611,
-    "name": "Infestation",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Acoso",
+    "description": "Hostiga al Pok\u00e9mon objetivo durante cuatro o cinco \nturnos e impide que pueda huir mientras tanto.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 612,
-    "name": "Power-Up Punch",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pu\u00f1o Incremento",
+    "description": "Cada vez que golpea a un oponente se endurecen \nsus pu\u00f1os. Si acierta al objetivo, el Ataque del\nusuario aumenta.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 613,
-    "name": "Oblivion Wing",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ala Mort\u00edfera",
+    "description": "El usuario absorbe energ\u00eda del Pok\u00e9mon objetivo y \naumenta sus PS en una cantidad igual o superior a \nla mitad del da\u00f1o infligido.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 614,
-    "name": "Thousand Arrows",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mil Flechas",
+    "description": "Acierta incluso a Pok\u00e9mon que est\u00e9n en el aire y \nlos hace caer al suelo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 615,
-    "name": "Thousand Waves",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Mil Temblores",
+    "description": "El usuario genera ondas s\u00edsmicas que se propagan \npor el suelo y sacuden a los oponentes. Los\nPok\u00e9mon alcanzados no podr\u00e1n huir del combate.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 616,
-    "name": "Land's Wrath",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Fuerza Tel\u00farica",
+    "description": "Acumula energ\u00eda de la corteza terrestre y la concentra \ncontra los oponentes, da\u00f1\u00e1ndolos.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 617,
-    "name": "Light of Ruin",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Luz Aniquiladora",
+    "description": "El usuario emplea el poder de la Flor Eterna para\nlanzar un potente rayo de luz, pero sufre bastante \nda\u00f1o al hacerlo.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 618,
-    "name": "Origin Pulse",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Pulso Primigenio",
+    "description": "Ataca al objetivo con una infinidad de rayos de luz \nazulada.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 619,
-    "name": "Precip ",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Filo del Abismo",
+    "description": "Hace que el poder latente de la tierra se manifieste en \nforma de hojas afiladas y ataca al objetivo con ellas.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 620,
-    "name": "Dragon Ascent",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Ascenso Draco",
+    "description": "El usuario se precipita desde el cielo a una velocidad \nde v\u00e9rtigo para atacar al objetivo, pero hace que\nbajen la Defensa y la Defensa Especial del usuario.",
+    "effect": null,
+    "notes": null
   },
   {
     "id": 621,
-    "name": "Hyperspace Fury",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 622,
-    "name": "Breakneck Blitz",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 623,
-    "name": "Breakneck Blitz",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 624,
-    "name": "All-Out Pummeling",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 625,
-    "name": "All-Out Pummeling",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 626,
-    "name": "Supersonic Skystrike",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 627,
-    "name": "Supersonic Skystrike",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 628,
-    "name": "Acid Downpour",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 629,
-    "name": "Acid Downpour",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 630,
-    "name": "Tectonic Rage",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 631,
-    "name": "Tectonic Rage",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 632,
-    "name": "Continental Crush",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 633,
-    "name": "Continental Crush",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 634,
-    "name": "Savage Spin-Out",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 635,
-    "name": "Savage Spin-Out",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 636,
-    "name": "Never-Ending Nightmare",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 637,
-    "name": "Never-Ending Nightmare",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 638,
-    "name": "Corkscrew Crash",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 639,
-    "name": "Corkscrew Crash",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 640,
-    "name": "Inferno Overdrive",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 641,
-    "name": "Inferno Overdrive",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 642,
-    "name": "Hydro Vortex",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 643,
-    "name": "Hydro Vortex",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 644,
-    "name": "Bloom Doom",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 645,
-    "name": "Bloom Doom",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 646,
-    "name": "Gigavolt Havoc",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 647,
-    "name": "Gigavolt Havoc",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 648,
-    "name": "Shattered Psyche",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 649,
-    "name": "Shattered Psyche",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 650,
-    "name": "Subzero Slammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 651,
-    "name": "Subzero Slammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 652,
-    "name": "Devastating Drake",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 653,
-    "name": "Devastating Drake",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 654,
-    "name": "Black Hole Eclipse",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 655,
-    "name": "Black Hole Eclipse",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 656,
-    "name": "Twinkle Tackle",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 657,
-    "name": "Twinkle Tackle",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 658,
-    "name": "Catastropika",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 659,
-    "name": "Shore Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 660,
-    "name": "First Impression",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 661,
-    "name": "Baneful Bunker",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 662,
-    "name": "Spirit Shackle",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 663,
-    "name": "Darkest Lariat",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 664,
-    "name": "Sparkling Aria",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 665,
-    "name": "Ice Hammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 666,
-    "name": "Floral Healing",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 667,
-    "name": "High Horsepower",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 668,
-    "name": "Strength Sap",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 669,
-    "name": "Solar Blade",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 670,
-    "name": "Leafage",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 671,
-    "name": "Spotlight",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 672,
-    "name": "Toxic Thread",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 673,
-    "name": "Laser Focus",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 674,
-    "name": "Gear Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 675,
-    "name": "Throat Chop",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 676,
-    "name": "Pollen Puff",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 677,
-    "name": "Anchor Shot",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 678,
-    "name": "Psychic Terrain",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 679,
-    "name": "Lunge",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 680,
-    "name": "Fire Lash",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 681,
-    "name": "Power Trip",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 682,
-    "name": "Burn Up",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 683,
-    "name": "Speed Swap",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 684,
-    "name": "Smart Strike",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 685,
-    "name": "Purify",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 686,
-    "name": "Revelation Dance",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 687,
-    "name": "Core Enforcer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 688,
-    "name": "Trop Kick",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 689,
-    "name": "Instruct",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 690,
-    "name": "Beak Blast",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 691,
-    "name": "Clanging Scales",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 692,
-    "name": "Dragon Hammer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 693,
-    "name": "Brutal Swing",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 694,
-    "name": "Aurora Veil",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 695,
-    "name": "Sinister Arrow Raid",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 696,
-    "name": "Malicious Moonsault",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 697,
-    "name": "Oceanic Operetta",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 698,
-    "name": "Guardian of Alola",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 699,
-    "name": "Soul-Stealing 7-Star Strike",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 700,
-    "name": "Stoked Sparksurfer",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 701,
-    "name": "Pulverizing Pancake",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 702,
-    "name": "Extreme Evoboost",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 703,
-    "name": "Genesis Supernova",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 704,
-    "name": "Shell Trap",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 705,
-    "name": "Fleur Cannon",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 706,
-    "name": "Psychic Fangs",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 707,
-    "name": "Stomping Tantrum",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 708,
-    "name": "Shadow Bone",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 709,
-    "name": "Accelerock",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 710,
-    "name": "Liquidation",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 711,
-    "name": "Prismatic Laser",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 712,
-    "name": "Spectral Thief",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 713,
-    "name": "Sunsteel Strike",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 714,
-    "name": "Moongeist Beam",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 715,
-    "name": "Tearful Look",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 716,
-    "name": "Zing Zap",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 717,
-    "name": "Nature's Madness",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 718,
-    "name": "Multi-Attack",
-    "description": "",
-    "effect": "",
-    "notes": ""
-  },
-  {
-    "id": 719,
-    "name": "10,000,000 Volt Thunderbolt",
-    "description": "",
-    "effect": "",
-    "notes": ""
+    "name": "Cerco Dimensi\u00f3n",
+    "description": "Ataca al objetivo con una r\u00e1faga de golpes que pasan \npor alto los efectos de movimientos como Protecci\u00f3n\no Detecci\u00f3n. Hace que baje la Defensa del usuario.",
+    "effect": null,
+    "notes": null
   }
 ]

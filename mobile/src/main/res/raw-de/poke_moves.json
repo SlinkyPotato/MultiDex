@@ -1,0 +1,4349 @@
+[
+  {
+    "id": 1,
+    "name": "Pfund",
+    "description": "Ein Hieb mit den Vorderbeinen oder dem Schweif.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 2,
+    "name": "Karateschlag",
+    "description": "Gute M\u00f6glichkeit, einen Volltreffer zu landen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 3,
+    "name": "Duplexhieb",
+    "description": "Trifft das Ziel zwei- bis f\u00fcnfmal hintereinander\nmit einem Duplexhieb.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 4,
+    "name": "Kometenhieb",
+    "description": "Trifft das Ziel zwei- bis f\u00fcnfmal hintereinander\nmit kr\u00e4ftigen Hieben.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 5,
+    "name": "Megahieb",
+    "description": "Ein unglaublich kr\u00e4ftiger Hieb.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 6,
+    "name": "Zahltag",
+    "description": "Das Ziel wird mit M\u00fcnzen beworfen.\nDas Geld wird nach dem Kampf aufgesammelt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 7,
+    "name": "Feuerschlag",
+    "description": "Feuriger Schlag, der dem Ziel eventuell\nVerbrennungen zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 8,
+    "name": "Eishieb",
+    "description": "Ein eisiger Schlag, der das Ziel eventuell einfriert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 9,
+    "name": "Donnerschlag",
+    "description": "Ein elektrischer Schlag, der das Ziel eventuell\nparalysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 10,
+    "name": "Kratzer",
+    "description": "Das Ziel wird mit scharfen Klauen zerkratzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 11,
+    "name": "Klammer",
+    "description": "Das Ziel wird umklammert und\nzusammengequetscht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 12,
+    "name": "Guillotine",
+    "description": "Kr\u00e4ftige Scheren-Attacke.\nF\u00fchrt beim Ziel sofort zum K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 13,
+    "name": "Klingensturm",
+    "description": "Eine Attacke, die \u00fcber zwei Runden geht.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 14,
+    "name": "Schwerttanz",
+    "description": "Ein wilder Kampftanz, der den eigenen\nAngriffs-Wert stark erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 15,
+    "name": "Zerschneider",
+    "description": "Ein Basisangriff mit Schere oder Klaue.\nDamit k\u00f6nnen kleine B\u00e4ume gef\u00e4llt werden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 16,
+    "name": "Windsto\u00df",
+    "description": "Trifft das Ziel mit einem Windsto\u00df\ndurch einen Fl\u00fcgelschlag.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 17,
+    "name": "Fl\u00fcgelschlag",
+    "description": "Trifft das Ziel mit ausgebreiteten Fl\u00fcgeln.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 18,
+    "name": "Wirbelwind",
+    "description": "Weht das Ziel weg und ersetzt es durch ein\nanderes Pok\u00e9mon. In der Wildnis endet der Kampf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "name": "Fliegen",
+    "description": "Steigt in Runde 1 empor und trifft das Ziel in\nRunde 2. Erm\u00f6glicht Flug in jede bekannte Stadt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 20,
+    "name": "Klammergriff",
+    "description": "Umklammert und quetscht das Ziel\n\u00fcber vier bis f\u00fcnf Runden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 21,
+    "name": "Slam",
+    "description": "Schlag mit einem langen Schweif, einer Ranke\noder \u00c4hnlichem.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 22,
+    "name": "Rankenhieb",
+    "description": "Peitschen\u00e4hnlicher Schlag mit Ranken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 23,
+    "name": "Stampfer",
+    "description": "Stampfen mit dem Fu\u00df. Das Ziel schreckt eventuell\nzur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 24,
+    "name": "Doppelkick",
+    "description": "Der Anwender tritt in einer Runde\nzweimal schnell zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 25,
+    "name": "Megakick",
+    "description": "Das Ziel wird mit einem extrem heftigen Tritt\nangegriffen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 26,
+    "name": "Sprungkick",
+    "description": "Der Angreifer h\u00fcpft hoch und tritt zu.\nBei Misserfolg schadet er sich selbst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 27,
+    "name": "Fegekick",
+    "description": "Heftiger Tritt aus einer schnellen Drehbewegung.\nL\u00e4sst das Ziel eventuell zur\u00fcckschrecken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 28,
+    "name": "Sandwirbel",
+    "description": "Senkt Genauigkeit des Zieles, indem ihm Sand\nins Gesicht geworfen wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 29,
+    "name": "Kopfnuss",
+    "description": "Rammt das Ziel mit einer Kopfnuss.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 30,
+    "name": "Hornattacke",
+    "description": "Spie\u00dft das Ziel mit einem spitzen Horn auf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 31,
+    "name": "Furienschlag",
+    "description": "Spie\u00dft das Ziel zwei- bis f\u00fcnfmal mit spitzem Horn\noder Schnabel auf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 32,
+    "name": "Hornbohrer",
+    "description": "K.O.-Attacke, bei der ein Horn als Bohrer\neingesetzt wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 33,
+    "name": "Tackle",
+    "description": "Trifft das Ziel mit vollem K\u00f6rpereinsatz.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 34,
+    "name": "Bodyslam",
+    "description": "Trifft das Ziel mit vollem K\u00f6rpereinsatz.\nBewirkt eventuell Paralyse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 35,
+    "name": "Wickel",
+    "description": "Umwickelt das Ziel \u00fcber vier bis f\u00fcnf Runden mit\nRanken oder \u00c4hnlichem und f\u00fcgt ihm Schaden zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 36,
+    "name": "Bodycheck",
+    "description": "R\u00fccksichtslose Attacke, bei der sich der Angreifer\nselbst leicht verletzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 37,
+    "name": "Fuchtler",
+    "description": "Attacke \u00fcber zwei bis drei Runden,\ndie den Angreifer verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 38,
+    "name": "Risikotackle",
+    "description": "Lebensgef\u00e4hrlicher Angriff, bei dem\nsich der Angreifer selbst verletzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 39,
+    "name": "Rutenschlag",
+    "description": "Hieb mit dem Schweif. Senkt die Verteidigung\ndes Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 40,
+    "name": "Giftstachel",
+    "description": "Angriff mit Giftstachel. Das Ziel wird eventuell\nvergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 41,
+    "name": "Duonadel",
+    "description": "Stacheln treffen das Ziel zweimal.\nDas Ziel wird eventuell vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 42,
+    "name": "Nadelrakete",
+    "description": "Spitze Nadeln treffen das Ziel zwei- bis f\u00fcnfmal\nhintereinander.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 43,
+    "name": "Silberblick",
+    "description": "Gegnerischer Verteidigungs-Wert wird\ndurch angsteinfl\u00f6\u00dfenden Blick gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 44,
+    "name": "Biss",
+    "description": "Bei\u00dft zu und l\u00e4sst das Ziel eventuell\nzur\u00fcckschrecken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 45,
+    "name": "Heuler",
+    "description": "Der Anwender nimmt das Ziel f\u00fcr sich ein\nund senkt dessen Angriffs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 46,
+    "name": "Br\u00fcller",
+    "description": "Verjagt das Ziel und ersetzt es durch ein anderes\nPok\u00e9mon. Beendet den Kampf in der Wildnis.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 47,
+    "name": "Gesang",
+    "description": "Ein Lied, das das Ziel in tiefen Schlaf versetzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 48,
+    "name": "Superschall",
+    "description": "Aussto\u00df bizarrer Schallwellen.\nDas Ziel wird verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 49,
+    "name": "Ultraschall",
+    "description": "Das Ziel wird von einer Schockwelle getroffen,\ndie stets 20 KP Schaden anrichtet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 50,
+    "name": "Aussetzer",
+    "description": "Die zuletzt eingesetzte Attacke des Zieles\nwird f\u00fcr mehrere Runden blockiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 51,
+    "name": "S\u00e4ure",
+    "description": "Verspr\u00fcht \u00e4tzende Fl\u00fcssigkeit, die eventuell\ndie Spezial-Verteidigung der Gegner in der\nN\u00e4he des Anwenders senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 52,
+    "name": "Glut",
+    "description": "Schwache Feuer-Attacke, durch die das Ziel\neventuell Verbrennungen erleidet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 53,
+    "name": "Flammenwurf",
+    "description": "Starke Feuer-Attacke, durch die das Ziel eventuell\nVerbrennungen erleidet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 54,
+    "name": "Wei\u00dfnebel",
+    "description": "Anwender sch\u00fctzt das Team mit einem Nebel.\nVerhindert Statussenkungen f\u00fcr f\u00fcnf Runden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 55,
+    "name": "Aquaknarre",
+    "description": "Das Ziel wird mit Wasser bespritzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 56,
+    "name": "Hydropumpe",
+    "description": "Spritzt eine Menge Wasser mit Hochdruck\nauf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 57,
+    "name": "Surfer",
+    "description": "Eine Welle bricht \u00fcber alle Pok\u00e9mon in der N\u00e4he\ndes Anwenders herein. Macht Surfen m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 58,
+    "name": "Eisstrahl",
+    "description": "Das Ziel wird von einem Eisstrahl getroffen\nund friert eventuell ein.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 59,
+    "name": "Blizzard",
+    "description": "Ein Schneesturm w\u00fctet, der das Ziel\neinfrieren kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 60,
+    "name": "Psystrahl",
+    "description": "Feuert einen Strahl ab, der das Ziel verwirren kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 61,
+    "name": "Blubbstrahl",
+    "description": "Verspr\u00fcht Blasen, die eventuell den Initiative-Wert\ndes Zieles senken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 62,
+    "name": "Aurorastrahl",
+    "description": "Regenbogenfarbener Strahl, der eventuell\nden Angriffs-Wert des Zieles senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 63,
+    "name": "Hyperstrahl",
+    "description": "Starke Attacke, die den Anwender zwingt,\neine Runde auszusetzen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 64,
+    "name": "Schnabel",
+    "description": "Greift das Ziel mit dem Schnabel oder Horn an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 65,
+    "name": "Bohrschnabel",
+    "description": "Korkenzieherangriff, bei dem der Schnabel\nals Bohrer dient.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 66,
+    "name": "\u00dcberroller",
+    "description": "Harte K\u00f6rperattacke, bei der sich der Angreifer\nselbst leicht verletzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 67,
+    "name": "Fu\u00dfkick",
+    "description": "Ein Tritt, der das Ziel umwirft. Je schwerer das Ziel\nist, desto mehr Schaden f\u00fcgt ihm die Attacke zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 68,
+    "name": "Konter",
+    "description": "Kontert physische Treffer und f\u00fcgt dem Ziel\ndas Doppelte des Schadens zu, den der Anwender\nerlitten hat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 69,
+    "name": "Geowurf",
+    "description": "Ziel wird mit der Kraft der Gravitation umgeworfen.\nRichtet Schaden gem\u00e4\u00df Level des Angreifers an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 70,
+    "name": "St\u00e4rke",
+    "description": "Das Ziel wird extrem stark getroffen.\nMacht Verschieben von Felsen m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 71,
+    "name": "Absorber",
+    "description": "Attacke, die die H\u00e4lfte des Schadens absorbiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 72,
+    "name": "Megasauger",
+    "description": "Attacke, die die H\u00e4lfte des Schadens absorbiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 73,
+    "name": "Egelsamen",
+    "description": "Ziel wird bepflanzt und verliert jede Runde KP,\ndie ein Pok\u00e9mon aus dem Team des Anwenders\nheilen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 74,
+    "name": "Wachstum",
+    "description": "Der K\u00f6rper w\u00e4chst. Dadurch steigen Angriff\nund Spezial-Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 75,
+    "name": "Rasierblatt",
+    "description": "Trifft das Ziel mit Bl\u00e4ttern. Hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 76,
+    "name": "Solarstrahl",
+    "description": "Absorbiert Licht in Runde 1.\nIn Runde 2 erfolgt der Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 77,
+    "name": "Giftpuder",
+    "description": "Verstreut giftigen Puder auf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 78,
+    "name": "Stachelspore",
+    "description": "Verstreut l\u00e4hmenden Puder.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 79,
+    "name": "Schlafpuder",
+    "description": "Verstreut Schlafpuder, der das Ziel eventuell\nin Schlaf versetzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 80,
+    "name": "Bl\u00e4ttertanz",
+    "description": "Angriff mit Bl\u00fctenbl\u00e4ttern f\u00fcr zwei bis drei Runden.\nAngreifer wird verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 81,
+    "name": "Fadenschuss",
+    "description": "Umwickelt Gegner in der N\u00e4he mit F\u00e4den aus\ndem Mund und senkt den Initiative-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 82,
+    "name": "Drachenwut",
+    "description": "St\u00f6\u00dft eine wutgeladene Schockwelle aus,\ndie stets 40 KP Schaden anrichtet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 83,
+    "name": "Feuerwirbel",
+    "description": "Das Ziel wird f\u00fcr vier bis f\u00fcnf Runden\nin einem Feuerkreis gefangen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 84,
+    "name": "Donnerschock",
+    "description": "Eine Elektro-Attacke, die das Ziel eventuell\nparalysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 85,
+    "name": "Donnerblitz",
+    "description": "Eine starke Elektro-Attacke, die das Ziel eventuell\nparalysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 86,
+    "name": "Donnerwelle",
+    "description": "Ein schwacher Stromsto\u00df, der das Ziel paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 87,
+    "name": "Donner",
+    "description": "Eine verheerende Elektro-Attacke,\ndie das Ziel eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 88,
+    "name": "Steinwurf",
+    "description": "Das Ziel wird mit einem kleinen Stein beworfen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 89,
+    "name": "Erdbeben",
+    "description": "Ein m\u00e4chtiges Beben, das die anderen Pok\u00e9mon\nin der N\u00e4he des Anwenders trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 90,
+    "name": "Geofissur",
+    "description": "Das Ziel wird in eine Erdspalte geworfen.\nIst die Attacke erfolgreich, f\u00fchrt sie zu einem K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 91,
+    "name": "Schaufler",
+    "description": "In Runde 1 gr\u00e4bt sich der Anwender ein und\nin Runde 2 greift er an. Macht Flucht aus\nH\u00f6hlen m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 92,
+    "name": "Toxin",
+    "description": "Vergiftet das Ziel mit einem potenten Toxin schwer.\nVergiftung wird von Runde zu Runde st\u00e4rker.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 93,
+    "name": "Konfusion",
+    "description": "Das Ziel wird von schwacher telekinetischer\nEnergie getroffen und eventuell verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 94,
+    "name": "Psychokinese",
+    "description": "Starke Psycho-Attacke, die eventuell die\nSpezial-Verteidigung des Zieles senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 95,
+    "name": "Hypnose",
+    "description": "Hypnose-Attacke, die das Ziel in Schlaf versetzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 96,
+    "name": "Meditation",
+    "description": "Anwender aktiviert Kr\u00e4fte, die tief in seinem\nInneren schlummern, und steigert so seinen\nAngriffs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 97,
+    "name": "Agilit\u00e4t",
+    "description": "Entspannt den K\u00f6rper, um den Initiative-Wert\nstark zu steigern.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 98,
+    "name": "Ruckzuckhieb",
+    "description": "Sehr schneller Angriff mit Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 99,
+    "name": "Raserei",
+    "description": "Erh\u00f6ht Angriff des Anwenders, wenn dieser\ngetroffen wird, solange die Attacke aktiviert ist.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 100,
+    "name": "Teleport",
+    "description": "Erm\u00f6glicht die sofortige Flucht vor wilden\nPok\u00e9mon. Kann den Anwender au\u00dferdem zum\nzuletzt besuchten Pok\u00e9mon-Center teleportieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 101,
+    "name": "Nachtnebel",
+    "description": "Das Ziel sieht eine Illusion. Richtet Schaden\ngem\u00e4\u00df dem Level des Anwenders an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 102,
+    "name": "Mimikry",
+    "description": "Kopiert die zuvor ausgef\u00fchrte Attacke des Zieles.\nKann im Kampf bis zur Auswechslung verwendet\nwerden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 103,
+    "name": "Kreideschrei",
+    "description": "St\u00f6\u00dft einen Schrei aus, um die Verteidigung\ndes Zieles stark zu senken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 104,
+    "name": "Doppelteam",
+    "description": "Erzeugt durch schnelle Bewegungen Ebenbilder,\num den Fluchtwert zu erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 105,
+    "name": "Genesung",
+    "description": "Eine Selbstheilung. KP des Anwenders werden\num 50 % des maximalen Wertes aufgef\u00fcllt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 106,
+    "name": "H\u00e4rtner",
+    "description": "St\u00e4rkt die Muskulatur und erh\u00f6ht\nden Verteidigungs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 107,
+    "name": "Komprimator",
+    "description": "Anwender schrumpft, um seinen Fluchtwert\nstark zu erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 108,
+    "name": "Rauchwolke",
+    "description": "Senkt Genauigkeit des Zieles mit Rauch,\nTinte oder \u00c4hnlichem.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 109,
+    "name": "Konfustrahl",
+    "description": "Ein fieser Strahl, der das Ziel verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 110,
+    "name": "Panzerschutz",
+    "description": "R\u00fcckzug in den harten Panzer.\nErh\u00f6ht den Verteidigungs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 111,
+    "name": "Einigler",
+    "description": "Verbirgt Schw\u00e4chen durch Einrollen und\nhebt gleichzeitig den Verteidigungs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 112,
+    "name": "Barriere",
+    "description": "Erzeugt eine Barriere, die den Verteidigungs-Wert\nstark erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 113,
+    "name": "Lichtschild",
+    "description": "Erzeugt eine Lichtwand und senkt den Schaden\ndurch Spezial-Angriffe f\u00fcr f\u00fcnf Runden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 114,
+    "name": "Dunkelnebel",
+    "description": "Erzeugt einen dunklen Nebel.\nAlle Ver\u00e4nderungen der Statuswerte\nder Kampfteilnehmer werden annulliert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 115,
+    "name": "Reflektor",
+    "description": "Eine mysteri\u00f6se Wand, die f\u00fcnf Runden\nden Schaden von physischen gegnerischen\nTreffern reduziert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 116,
+    "name": "Energiefokus",
+    "description": "Anwender atmet ein und b\u00fcndelt Kraft.\nDie Volltrefferquote steigt dadurch.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 117,
+    "name": "Geduld",
+    "description": "Ertr\u00e4gt zwei Runden Angriffe und schl\u00e4gt dann\nmit dem doppelten Wert des erlittenen Schadens\nzur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 118,
+    "name": "Metronom",
+    "description": "Bewegt Finger, um das Gehirn zu stimulieren.\nW\u00e4hlt zuf\u00e4llig eine Attacke aus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 119,
+    "name": "Spiegeltrick",
+    "description": "Kopiert die letzte Attacke des Zieles\nund greift es an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 120,
+    "name": "Finale",
+    "description": "Anwender sprengt sich, richtet rundum\nRiesenschaden an und wird dabei besiegt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 121,
+    "name": "Eierbombe",
+    "description": "Ein gro\u00dfes Ei wird auf das Ziel abgefeuert,\num ihm zu schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 122,
+    "name": "Schlecker",
+    "description": "Leck-Attacke mit langer Zunge.\nDas Ziel wird eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 123,
+    "name": "Smog",
+    "description": "Angriff mit Gas. Das Ziel kann\neventuell vergiftet werden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 124,
+    "name": "Schlammbad",
+    "description": "Wirft Schlamm auf das Ziel.\nDieses wird eventuell vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 125,
+    "name": "Knochenkeule",
+    "description": "Schl\u00e4gt das Ziel mit einer Keule und l\u00e4sst es\neventuell zur\u00fcckschrecken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 126,
+    "name": "Feuersturm",
+    "description": "Feuersbrunst, die das Ziel versengt und\nihm eventuell eine Verbrennung zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 127,
+    "name": "Kaskade",
+    "description": "Eine m\u00e4chtige Attacke, durch die das Ziel\neventuell zur\u00fcckschreckt. Wasserf\u00e4lle k\u00f6nnen\ndamit erklommen werden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 128,
+    "name": "Schnapper",
+    "description": "F\u00e4ngt und quetscht das Ziel \u00fcber vier bis f\u00fcnf\nRunden durch die harte Schale des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 129,
+    "name": "Sternschauer",
+    "description": "Verschie\u00dft sternf\u00f6rmige Strahlen, die stets treffen,\nauf Gegner in der Umgebung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 130,
+    "name": "Sch\u00e4delwumme",
+    "description": "Der Anwender erh\u00f6ht in Runde 1 seine\nVerteidigung und greift in Runde 2 an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 131,
+    "name": "Dornkanone",
+    "description": "Spitze Nadeln treffen das Ziel zwei- bis f\u00fcnfmal\nhintereinander.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 132,
+    "name": "Umklammerung",
+    "description": "Angriff mit langen Tentakeln oder Ranken.\nSenkt eventuell den Initiative-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 133,
+    "name": "Amnesie",
+    "description": "Ged\u00e4chtnisverlust, der die Spezial-Verteidigung\nstark erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 134,
+    "name": "Psykraft",
+    "description": "Lenkt Ziel durch Verbiegen eines L\u00f6ffels ab.\nSenkt dessen Genauigkeit.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 135,
+    "name": "Weichei",
+    "description": "KP des Anwenders werden um 50 % der\nmaximalen KP aufgef\u00fcllt. Heilung eines\nVerb\u00fcndeten au\u00dferhalb von K\u00e4mpfen m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 136,
+    "name": "Turmkick",
+    "description": "Sprungtritt mit Knie. Bei Misserfolg verletzt sich\nder Anwender selbst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 137,
+    "name": "Giftblick",
+    "description": "Sch\u00fcchtert Ziel mit dem Muster auf seinem Bauch\nein, sodass dieses paralysiert wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 138,
+    "name": "Traumfresser",
+    "description": "Attacke gegen schlafendes Ziel.\nDie H\u00e4lfte des zugef\u00fcgten Schadens\nwird dem Anwender gutgeschrieben.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 139,
+    "name": "Giftwolke",
+    "description": "H\u00fcllt Gegner in der Umgebung in Gas ein,\ndas sie vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 140,
+    "name": "Stakkato",
+    "description": "Wirft zwei- bis f\u00fcnfmal runde Gegenst\u00e4nde\nauf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 141,
+    "name": "Blutsauger",
+    "description": "Die H\u00e4lfte des zugef\u00fcgten Schadens\nwird dem Anwender gutgeschrieben.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 142,
+    "name": "Todeskuss",
+    "description": "Anwender zwingt dem Ziel einen Kuss auf,\nder Schlaf verursacht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 143,
+    "name": "Himmelsfeger",
+    "description": "Anwender greift in der zweiten Runde mit hoher\nVolltrefferquote an. Ziel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 144,
+    "name": "Wandler",
+    "description": "Anwender verwandelt sich in ein Abbild des Zieles\nund kann so auf die gleichen Attacken zugreifen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 145,
+    "name": "Blubber",
+    "description": "Angriff mit Blasen. Initiative-Wert des Zieles\nwird eventuell gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 146,
+    "name": "Irrschlag",
+    "description": "Rhythmische Schl\u00e4ge, die das Ziel\nverwirren k\u00f6nnen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 147,
+    "name": "Pilzspore",
+    "description": "Erzeugt eine Wolke aus einschl\u00e4fernden Sporen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 148,
+    "name": "Blitz",
+    "description": "Erzeugt helles Licht, das die Genauigkeit\ndes Zieles senkt. Erhellt dunkle Orte.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 149,
+    "name": "Psywelle",
+    "description": "Anwender erzeugt eine mysteri\u00f6se Energiewelle,\nderen Intensit\u00e4t von Mal zu Mal anders ausf\u00e4llt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 150,
+    "name": "Platscher",
+    "description": "Nur ein Platscher, der \u00fcberhaupt nichts bewirkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 151,
+    "name": "S\u00e4urepanzer",
+    "description": "Verfl\u00fcssigt K\u00f6rperzellen des Anwenders.\nErh\u00f6ht den Verteidigungs-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 152,
+    "name": "Krabbhammer",
+    "description": "Schl\u00e4gt mit Schere zu. Hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 153,
+    "name": "Explosion",
+    "description": "Anwender explodiert, richtet bei allen Pok\u00e9mon\nin seiner Umgebung gro\u00dfen Schaden an und\nwird besiegt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 154,
+    "name": "Kratzfurie",
+    "description": "Beharkt das Ziel zwei- bis f\u00fcnfmal\nmit scharfen Klauen oder Sicheln.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 155,
+    "name": "Knochmerang",
+    "description": "Ein Bumerang aus Knochen, der zweimal trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 156,
+    "name": "Erholung",
+    "description": "Anwender wird vollkommen geheilt und schl\u00e4ft\ndie folgenden zwei Runden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 157,
+    "name": "Steinhagel",
+    "description": "Schleudert riesige Felsen auf Ziele in der\nUmgebung, die eventuell zur\u00fcckschrecken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 158,
+    "name": "Hyperzahn",
+    "description": "Angriff mit scharfen Rei\u00dfz\u00e4hnen.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 159,
+    "name": "Sch\u00e4rfer",
+    "description": "Anwender senkt die Polygonzahl, um Kanten\nzu erzeugen, die den Angriffs-Wert erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 160,
+    "name": "Umwandlung",
+    "description": "Wandelt den Typ des Anwenders in den Typ\nder ersten Attacke des Anwenders um.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 161,
+    "name": "Triplette",
+    "description": "Feuert drei Strahlen ab. Verursacht eventuell\nParalyse, Verbrennung oder Einfrieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 162,
+    "name": "Superzahn",
+    "description": "Greift mit scharfen Rei\u00dfz\u00e4hnen an.\nKP des Zieles werden halbiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 163,
+    "name": "Schlitzer",
+    "description": "Hieb mit Klauen oder \u00c4hnlichem.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 164,
+    "name": "Delegator",
+    "description": "Anwender setzt eine kleine Menge an KP ein,\num einen Doppelg\u00e4nger zu erzeugen,\nder f\u00fcr ihn Schl\u00e4ge einsteckt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 165,
+    "name": "Verzweifler",
+    "description": "Angriff nur bei verbrauchten AP.\nAnwender verletzt sich selbst leicht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 166,
+    "name": "Nachahmer",
+    "description": "Anwender lernt die letzte Attacke des Zieles\ndauerhaft. Nachahmer verschwindet nach\nGebrauch.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 167,
+    "name": "Dreifachkick",
+    "description": "Tritt das Ziel ein- bis dreimal nacheinander.\nDie H\u00e4rte der Tritte nimmt von Treffer zu Treffer zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 168,
+    "name": "Raub",
+    "description": "Erlaubt es, das Item des Zieles zu stehlen,\nsolang der Anwender selbst keins bei sich tr\u00e4gt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 169,
+    "name": "Spinnennetz",
+    "description": "Wickelt das Ziel ein. Flucht oder Tausch\nunm\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 170,
+    "name": "Willensleser",
+    "description": "Ahnt Bewegungen des Zieles voraus,\num zu gew\u00e4hrleisten, dass die n\u00e4chste\neigene Attacke trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 171,
+    "name": "Nachtmahr",
+    "description": "Dem schlafenden Ziel wird durch einen Alptraum in\njeder Runde Schaden zugef\u00fcgt, solang es schl\u00e4ft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 172,
+    "name": "Flammenrad",
+    "description": "Feuer-Attacke, die das Ziel eventuell verbrennt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 173,
+    "name": "Schnarcher",
+    "description": "Attacke nur im Schlaf m\u00f6glich.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 174,
+    "name": "Fluch",
+    "description": "Attacke, deren Wirkung davon abh\u00e4ngt,\nob der Anwender ein Geister-Pok\u00e9mon ist.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 175,
+    "name": "Dreschflegel",
+    "description": "Attacke richtet mehr Schaden an,\nwenn eigene KP niedrig sind.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 176,
+    "name": "Umwandlung2",
+    "description": "Anwender \u00e4ndert Typ und wird gegen\nletzten Angriffstyp resistent.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 177,
+    "name": "Luftsto\u00df",
+    "description": "Erzeugt Luftstrudel gegen das Ziel.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 178,
+    "name": "Baumwollsaat",
+    "description": "Watteb\u00e4usche heften sich an das Ziel.\nDer Initiative-Wert sinkt stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 179,
+    "name": "Gegenschlag",
+    "description": "Richtet mehr Schaden an, wenn eigene KP\nniedrig sind.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 180,
+    "name": "Groll",
+    "description": "AP der letzten Attacke des Zieles\nwerden um 4 gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 181,
+    "name": "Pulverschnee",
+    "description": "Angriff mit Schnee. Das Ziel wird\neventuell eingefroren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 182,
+    "name": "Schutzschild",
+    "description": "Anwender weicht jeder Attacke aus.\nScheitert eventuell bei Wiederholung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 183,
+    "name": "Tempohieb",
+    "description": "Extrem schneller Hieb, der stets zuerst trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 184,
+    "name": "Grimasse",
+    "description": "Jagt dem Ziel mit einer Grimasse Angst ein.\nDessen Initiative-Wert sinkt stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 185,
+    "name": "Finte",
+    "description": "Anwender n\u00e4hert sich mit Unschuldsmiene\ndem Ziel und schl\u00e4gt zu, sobald dieses\nunachtsam wird. Ein Treffer ist gewiss.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 186,
+    "name": "Bitterkuss",
+    "description": "Anwender k\u00fcsst das Ziel, das durch\ndiese Niedlichkeit verwirrt wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 187,
+    "name": "Bauchtrommel",
+    "description": "Der Anwender maximiert den Angriffs-Wert\nauf Kosten der H\u00e4lfte seiner maximalen KP.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 188,
+    "name": "Matschbombe",
+    "description": "Wirft Schlamm auf das Ziel.\nDieses wird eventuell vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 189,
+    "name": "Lehmschelle",
+    "description": "Schadet dem Ziel durch Matsch.\nDessen Genauigkeit sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 190,
+    "name": "Octazooka",
+    "description": "Schie\u00dft mit Tinte, um Schaden anzurichten\nund die Genauigkeit zu senken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 191,
+    "name": "Stachler",
+    "description": "Der Anwender verteilt Stacheln,\ndie gegnerische Pok\u00e9mon verletzen,\ndie in den Kampf gerufen werden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 192,
+    "name": "Blitzkanone",
+    "description": "Kanonen\u00e4hnlicher Elektro-Schuss,\nder schadet und paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 193,
+    "name": "Gesichte",
+    "description": "Erlaubt es, Geister-Pok\u00e9mon mit Normal-\nund Kampf-Attacken anzugreifen.\nIgnoriert den Fluchtwert des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 194,
+    "name": "Abgangsbund",
+    "description": "Wird der Anwender nach Einsatz dieser Attacke\nkampfunf\u00e4hig, f\u00fchrt dies auch beim Gegner,\nder ihn besiegt hat, zum K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 195,
+    "name": "Abgesang",
+    "description": "Wer diese Musik h\u00f6rt, wird nach drei Runden\nbesiegt. Rettung ist durch den Eintausch\neines neuen Pok\u00e9mon m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 196,
+    "name": "Eissturm",
+    "description": "Eis-Attacke, die dem Ziel Schaden zuf\u00fcgt\nund seinen Initiative-Wert senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 197,
+    "name": "Scanner",
+    "description": "Anwender weicht jeder Attacke aus.\nScheitert eventuell bei Wiederholung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 198,
+    "name": "Knochenhatz",
+    "description": "Greift Ziel zwei- bis f\u00fcnfmal in Folge\nmit einem harten Knochen an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 199,
+    "name": "Zielschuss",
+    "description": "Visiert das Ziel an und trifft in der\nn\u00e4chsten Runde garantiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 200,
+    "name": "Wutanfall",
+    "description": "Attacke \u00fcber zwei bis drei Runden,\ndie den Anwender verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 201,
+    "name": "Sandsturm",
+    "description": "Sandsturm f\u00fcr f\u00fcnf Runden. F\u00fcgt Pok\u00e9mon\nvon jedem Typ au\u00dfer Gestein, Boden und Stahl\nSchaden zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 202,
+    "name": "Gigasauger",
+    "description": "Das Ziel wird angegriffen und die H\u00e4lfte\ndes zugef\u00fcgten Schadens dem Angreifer\nals KP gutgeschrieben.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 203,
+    "name": "Ausdauer",
+    "description": "Nach fatalen Attacken bleibt stets 1 KP \u00fcbrig.\nMisserfolg bei Wiederholung m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 204,
+    "name": "Charme",
+    "description": "Bet\u00f6rt das Ziel und reduziert dessen\nAngriffs-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 205,
+    "name": "Walzer",
+    "description": "Attacke, die f\u00fcnf Runden dauert.\nDie H\u00e4rte nimmt von Mal zu Mal zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 206,
+    "name": "Trugschlag",
+    "description": "Ein Angriff, der dem Ziel zumindest 1 KP l\u00e4sst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 207,
+    "name": "Angeberei",
+    "description": "Verwirrt das Ziel und erh\u00f6ht dessen\nAngriffs-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 208,
+    "name": "Milchgetr\u00e4nk",
+    "description": "KP des Anwenders werden um 50 % der\nmaximalen KP aufgef\u00fcllt. Heilung eines\nVerb\u00fcndeten au\u00dferhalb von K\u00e4mpfen m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 209,
+    "name": "Funkensprung",
+    "description": "Elektro-Hieb, der das Ziel paralysieren kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 210,
+    "name": "Zornklinge",
+    "description": "Eine Attacke mit Scheren oder Klauen, deren H\u00e4rte\nbei aufeinanderfolgenden Treffern zunimmt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 211,
+    "name": "Stahlfl\u00fcgel",
+    "description": "Trifft das Ziel mit Stahlfl\u00fcgeln.\nVerteidigungs-Wert des Anwenders\nsteigt eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 212,
+    "name": "Horrorblick",
+    "description": "B\u00f6ser Blick, der die Flucht des Zieles vereitelt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 213,
+    "name": "Anziehung",
+    "description": "Angriff auf Anwender vom anderen Geschlecht\nwird unwahrscheinlich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 214,
+    "name": "Schlafrede",
+    "description": "Anwender setzt per Zufall eine ihm bekannte\nAttacke im Schlaf ein.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 215,
+    "name": "Vitalglocke",
+    "description": "L\u00e4utet beruhigend und heilt alle Statusprobleme\nim Team.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 216,
+    "name": "R\u00fcckkehr",
+    "description": "Angriff, dessen Kraft bei Freundschaft zum Trainer\ngr\u00f6\u00dfer wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 217,
+    "name": "Geschenk",
+    "description": "Eine Bombe als Geschenk. Kann auch KP\ndes Zieles wiederherstellen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 218,
+    "name": "Frustration",
+    "description": "Die Attacke wird st\u00e4rker, je weniger der Anwender\nseinen Trainer mag.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 219,
+    "name": "Bodyguard",
+    "description": "Team des Anwenders ist f\u00fcnf Runden\nvor Statusproblemen gesch\u00fctzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 220,
+    "name": "Leidteiler",
+    "description": "Addiert KP von Anwender und Ziel.\nTeilt sie gerecht auf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 221,
+    "name": "L\u00e4uterfeuer",
+    "description": "Mystische Feuer-Attacke, durch die das Ziel\neventuell Verbrennungen erleidet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 222,
+    "name": "Intensit\u00e4t",
+    "description": "Erdbebenartiger Angriff von zuf\u00e4lliger St\u00e4rke\ngegen andere Pok\u00e9mon in der Umgebung\ndes Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 223,
+    "name": "Wuchtschlag",
+    "description": "Kr\u00e4ftiger Schlag, der das Ziel bei Erfolg verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 224,
+    "name": "Vielender",
+    "description": "Brutaler Ramm-Angriff mit spitzem,\nbeeindruckendem Horn.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 225,
+    "name": "Feuerodem",
+    "description": "Fegt das Ziel mit zerst\u00f6rerisch hei\u00dfem Atem weg.\nParalysiert das Ziel eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 226,
+    "name": "Staffette",
+    "description": "Tauscht das eigene Pok\u00e9mon aus.\nAlle Statusver\u00e4nderungen bleiben bestehen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 227,
+    "name": "Zugabe",
+    "description": "Das Ziel wiederholt die letzte Attacke\ndrei Runden lang.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 228,
+    "name": "Verfolgung",
+    "description": "Die Attacke richtet beim Ziel doppelten\nSchaden an, falls es ausgetauscht wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 229,
+    "name": "Turbodreher",
+    "description": "Trifft das Ziel mit einer Dreh-Attacke. Befreit\nden Anwender unter anderem von Wickel,\nKlammergriff, Egelsamen und Stachler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 230,
+    "name": "Lockduft",
+    "description": "Senkt den Fluchtwert des Zieles stark.\nLockt im hohen Gras auch wilde Pok\u00e9mon an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 231,
+    "name": "Eisenschweif",
+    "description": "Attacke mit hartem Eisenschweif. Senkt eventuell\nden Verteidigungs-Wert des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 232,
+    "name": "Metallklaue",
+    "description": "Klauen-Attacke, die eventuell den Angriffs-Wert\ndes Anwenders erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 233,
+    "name": "\u00dcberwurf",
+    "description": "Anwender greift als Letzter an, hat daf\u00fcr aber\neine Treffergarantie beim eigenen Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 234,
+    "name": "Morgengrauen",
+    "description": "F\u00fcllt KP des Anwenders auf.\nDie Menge h\u00e4ngt vom Wetter ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 235,
+    "name": "Synthese",
+    "description": "F\u00fcllt KP des Anwenders auf.\nDie Menge h\u00e4ngt vom Wetter ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 236,
+    "name": "Mondschein",
+    "description": "F\u00fcllt KP des Anwenders auf.\nDie Menge h\u00e4ngt vom Wetter ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 237,
+    "name": "Kraftreserve",
+    "description": "Wirkung und Typ der Attacke h\u00e4ngen\nvom Anwender ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 238,
+    "name": "Kreuzhieb",
+    "description": "Doppelter Hieb mit den Unterarmen.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 239,
+    "name": "Windhose",
+    "description": "Trifft Ziele in der Umgebung mit einem heftigen\nWirbelsturm, was diese eventuell zur\u00fcckschrecken\nl\u00e4sst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 240,
+    "name": "Regentanz",
+    "description": "Anwender erzeugt starken Regen. Die St\u00e4rke von\nWasser-Attacken erh\u00f6ht sich f\u00fcnf Runden lang.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 241,
+    "name": "Sonnentag",
+    "description": "Die Sonne brennt unbarmherzig f\u00fcnf Runden lang.\nDadurch werden Attacken vom Typ Feuer verst\u00e4rkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 242,
+    "name": "Knirscher",
+    "description": "Bei\u00dft mit scharfen Rei\u00dfz\u00e4hnen zu und\nsenkt eventuell die Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 243,
+    "name": "Spiegelcape",
+    "description": "Kontert den Spezial-Angriff des Gegners\nmit doppeltem Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 244,
+    "name": "Psycho-Plus",
+    "description": "Der Anwender hypnotisiert sich selbst, um die\nStatusver\u00e4nderungen des Zieles zu kopieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 245,
+    "name": "Turbotempo",
+    "description": "Extrem schnelle und kraftvolle Attacke,\ndie stets zuerst trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 246,
+    "name": "Antik-Kraft",
+    "description": "Angriff mit antiker Kraft, der alle Statuswerte\nerh\u00f6hen kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 247,
+    "name": "Spukball",
+    "description": "Bewirft das Ziel mit gruseligem Ball und\nsenkt eventuell die Spezial-Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 248,
+    "name": "Seher",
+    "description": "Zwei Runden, nachdem Seher eingesetzt wurde,\nerfolgt der Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 249,
+    "name": "Zertr\u00fcmmerer",
+    "description": "Diese steinbrechende Attacke kann den\nVerteidigungs-Wert des Zieles senken und\nau\u00dferhalb von K\u00e4mpfen rissige Felsen zertr\u00fcmmern.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 250,
+    "name": "Whirlpool",
+    "description": "Das Ziel wird f\u00fcr vier bis f\u00fcnf Runden\nin einer Wasserhose gefangen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 251,
+    "name": "Pr\u00fcgler",
+    "description": "Das gesamte Team nimmt aktiv am Kampf teil.\nJe mehr Pok\u00e9mon, desto h\u00f6her die Anzahl der\nAngriffe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 252,
+    "name": "Mogelhieb",
+    "description": "Diese Attacke trifft zuerst. Das Ziel schreckt\nzur\u00fcck. Gelingt nur in der ersten Runde eines\nKampfes.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 253,
+    "name": "Aufruhr",
+    "description": "Anwender greift an, indem er \u00fcber drei Runden\nhinweg einen Aufruhr erzeugt. Verhindert Schlaf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 254,
+    "name": "Horter",
+    "description": "L\u00e4dt Kraft f\u00fcr sp\u00e4ter auf. Erh\u00f6ht Verteidigung\nund Spezial-Verteidigung. Kann bis zu dreimal\neingesetzt werden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 255,
+    "name": "Entfessler",
+    "description": "Entl\u00e4dt die Kraft, die w\u00e4hrend des Einsatzes\nvon Horter gesammelt wurde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 256,
+    "name": "Verzehrer",
+    "description": "Absorbiert die gehortete Kraft, um KP aufzuf\u00fcllen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 257,
+    "name": "Hitzewelle",
+    "description": "Ziele werden von Sturm aus hei\u00dfer Luft getroffen\nund verbrennen sich eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 258,
+    "name": "Hagelsturm",
+    "description": "Hagelsturm f\u00fcr f\u00fcnf Runden. Schadet allen,\nau\u00dfer Eis-Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 259,
+    "name": "Folterknecht",
+    "description": "Erz\u00fcrnt das Ziel, um wiederholten Einsatz\nderselben Attacke zu verhindern.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 260,
+    "name": "Schmeichler",
+    "description": "Schmeichelt dem Ziel, um es zu verwirren.\nErh\u00f6ht dessen Spezial-Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 261,
+    "name": "Irrlicht",
+    "description": "Angriff mit unheimlicher Flamme,\ndie das Ziel verbrennt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 262,
+    "name": "Memento-Mori",
+    "description": "Der Anwender wird besiegt. Gleichzeitig werden\nder Angriff und Spezial-Angriff des Zieles stark\ngesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 263,
+    "name": "Fassade",
+    "description": "Ist der Anwender vergiftet, paralysiert oder leidet\ner unter Verbrennungen, verdoppelt sich die Kraft\nder Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 264,
+    "name": "Power-Punch",
+    "description": "Anwender konzentriert sich, bevor er angreift.\nWird er vorher getroffen, ist die Attacke erfolglos.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 265,
+    "name": "Riechsalz",
+    "description": "Doppelt wirksam gegen paralysierte Ziele,\nheilt sie aber auch von der Paralyse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 266,
+    "name": "Spotlight",
+    "description": "Zieht Aufmerksamkeit auf sich.\nGegner greift nur Anwender an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 267,
+    "name": "Natur-Kraft",
+    "description": "Angriff mit der Kraft der Natur, dessen Typ vom\nOrt abh\u00e4ngt, an dem er durchgef\u00fchrt wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 268,
+    "name": "Ladevorgang",
+    "description": "L\u00e4dt Energie f\u00fcr die kommende Elektro-Attacke\nauf. Erh\u00f6ht die Spezial-Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 269,
+    "name": "Verh\u00f6hner",
+    "description": "Bringt das Ziel in Rage. Dieses kann \u00fcber\ndrei Runden hinweg nur noch angreifen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 270,
+    "name": "Rechte Hand",
+    "description": "Anwender steigert die Kraft eines Angriffes\neines Freundes.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 271,
+    "name": "Trickbetrug",
+    "description": "Der Anwender \u00fcberrumpelt das Ziel und\ntauscht mit ihm die getragenen Items.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 272,
+    "name": "Rollentausch",
+    "description": "Parodiert das Ziel und kopiert seine F\u00e4higkeit.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 273,
+    "name": "Wunschtraum",
+    "description": "Ein Wunsch f\u00fcllt in der n\u00e4chsten Runde\n50 % der KP des Anwenders bei diesem\noder einem eingewechselten Pok\u00e9mon auf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 274,
+    "name": "Zuschuss",
+    "description": "Greift zuf\u00e4llig mit einer Attacke\neines Teampartners an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 275,
+    "name": "Verwurzler",
+    "description": "Verwurzelung f\u00fcllt jede Runde KP auf.\nAustausch und Flucht sind unm\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 276,
+    "name": "Kraftkoloss",
+    "description": "Starke Attacke, die jedoch auch den Angriff\nund die Verteidigung des Anwenders senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 277,
+    "name": "Magiemantel",
+    "description": "Attacken wie Egelsamen und alle Attacken\nmit Status ver\u00e4ndernden Effekten prallen ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 278,
+    "name": "Aufbereitung",
+    "description": "Recycling eines getragenen Items,\ndas zuvor im Kampf verwendet wurde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 279,
+    "name": "Vergeltung",
+    "description": "Schaden verdoppelt sich, wenn der Anwender\nin der Runde bereits Schaden vom Ziel\ndes Angriffes genommen hat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 280,
+    "name": "Durchbruch",
+    "description": "Ein beherzter Handkantenschlag. Durchbricht\nBarrieren wie Lichtschild und Reflektor.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 281,
+    "name": "G\u00e4hner",
+    "description": "Angreifer g\u00e4hnt und das Ziel schl\u00e4ft\nin der n\u00e4chsten Runde ein.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 282,
+    "name": "Abschlag",
+    "description": "Schl\u00e4gt das Item des Zieles weg und vereitelt so\ndessen Gebrauch w\u00e4hrend des Kampfes. Mehr\nSchaden gegen Ziele, die ein Item bei sich tragen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 283,
+    "name": "Notsituation",
+    "description": "Trifft nur, wenn KP des Anwenders geringer\nals KP des Zieles sind. Senkt dessen KP auf\ndie H\u00f6he der KP des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 284,
+    "name": "Eruption",
+    "description": "Explosiver Angriff. Je h\u00f6her die KP des Anwenders\nsind, desto mehr Schaden wird angerichtet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 285,
+    "name": "Wertewechsel",
+    "description": "Anwender tauscht F\u00e4higkeit mit dem Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 286,
+    "name": "Begrenzer",
+    "description": "Hindert Gegner am Einsatz von Attacken,\ndie der Anwender selbst auch kennt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 287,
+    "name": "Heilung",
+    "description": "Selbstheilung bei Vergiftung,\nParalyse und Verbrennung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 288,
+    "name": "Nachspiel",
+    "description": "Bei K.O. des Anwenders werden die AP\nder Attacke, durch die er besiegt wurde,\nauf 0 herabgesetzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 289,
+    "name": "\u00dcbernahme",
+    "description": "Raubt den Effekt eingesetzter heilender\noder Werte ver\u00e4ndernder Attacken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 290,
+    "name": "Geheimpower",
+    "description": "Die Wirkung dieser Attacke ist ortsabh\u00e4ngig.\nSie erm\u00f6glicht es au\u00dferdem, Geheimbasen\nzu errichten.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 291,
+    "name": "Taucher",
+    "description": "Anwender taucht in Runde 1 ab und greift\nin Runde 2 aus der Tiefe an. Erm\u00f6glicht\nTauchg\u00e4nge zum Meeresgrund.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 292,
+    "name": "Armsto\u00df",
+    "description": "Schl\u00e4ge mit geradem Arm, die das Ziel\nzwei- bis f\u00fcnfmal treffen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 293,
+    "name": "Tarnung",
+    "description": "Der Typ des Anwenders passt sich der Umgebung\nan, sei es im Wasser, im Gras oder in einer H\u00f6hle.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 294,
+    "name": "Schweifglanz",
+    "description": "Ein blinkendes Licht, das den Spezial-Angriff\ndrastisch erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 295,
+    "name": "Scheinwerfer",
+    "description": "Angriff mit grellem Licht, der die\nSpezial-Verteidigung des Zieles\neventuell senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 296,
+    "name": "Nebelball",
+    "description": "Angriff mit einer Kugel aus Wasser,\ndie Nebel enth\u00e4lt. Senkt eventuell\nden Spezial-Angriff des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 297,
+    "name": "Daunenreigen",
+    "description": "H\u00fcllt das Ziel in Daunen und senkt\ndessen Angriffs-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 298,
+    "name": "Taumeltanz",
+    "description": "Ein Wackeltanz, der andere Pok\u00e9mon\nin der Umgebung des Anwenders verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 299,
+    "name": "Feuerfeger",
+    "description": "Starker Tritt mit hoher Volltrefferquote.\nVerursacht eventuell Verbrennung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 300,
+    "name": "Lehmsuhler",
+    "description": "Schw\u00e4cht Elektro-Attacken, solang der Anwender\nam Kampf teilnimmt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 301,
+    "name": "Frostbeule",
+    "description": "Attacke, die f\u00fcnf Runden dauert.\nDie H\u00e4rte nimmt von Mal zu Mal zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 302,
+    "name": "Nietenranke",
+    "description": "Angriff mit dornigen Armen.\nDas Ziel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 303,
+    "name": "Tagedieb",
+    "description": "Durch M\u00fc\u00dfiggang werden KP des Anwenders\num 50 % der maximalen KP aufgef\u00fcllt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 304,
+    "name": "Schallwelle",
+    "description": "Laute Attacke mit Schallwellen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 305,
+    "name": "Giftzahn",
+    "description": "Angriff mit giftigen Rei\u00dfz\u00e4hnen.\nDas Ziel wird eventuell schwer vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 306,
+    "name": "Zermalmklaue",
+    "description": "Angriff mit scharfen Klauen.\nSenkt eventuell den Verteidigungs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 307,
+    "name": "Lohekanonade",
+    "description": "Das Ziel wird von starker Explosion getroffen.\nAngreifer setzt eine Runde aus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 308,
+    "name": "Aquahaubitze",
+    "description": "Das Ziel wird von Wasserkanone getroffen.\nAngreifer setzt eine Runde aus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 309,
+    "name": "Sternenhieb",
+    "description": "Angriff mit einem harten, schnellen Schlag.\nErh\u00f6ht eventuell Angriffs-Wert des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 310,
+    "name": "Erstauner",
+    "description": "Anwender greift mit einem Schrei an. Ein Angriff,\nder das Ziel eventuell zur\u00fcckschrecken l\u00e4sst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 311,
+    "name": "Meteorologe",
+    "description": "Typ und St\u00e4rke der Attacke sind vom Wetter\nzum Zeitpunkt der Anwendung abh\u00e4ngig.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 312,
+    "name": "Aromakur",
+    "description": "Heilt alle Statusprobleme des Teams\nmit beruhigendem Duft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 313,
+    "name": "Trugtr\u00e4ne",
+    "description": "T\u00e4uscht Weinen vor, um die Spezial-Verteidigung\ndes Zieles stark zu senken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 314,
+    "name": "Windschnitt",
+    "description": "Greift mit rasierklingenartigem Wind an.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 315,
+    "name": "Hitzekoller",
+    "description": "Angriff mit voller Kraft, der den Spezial-Angriff\ndes Anwenders durch den R\u00fccksto\u00df stark senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 316,
+    "name": "Schn\u00fcffler",
+    "description": "Erlaubt es, Geister-Pok\u00e9mon mit Normal-\nund Kampf-Attacken anzugreifen.\nIgnoriert den Fluchtwert des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 317,
+    "name": "Felsgrab",
+    "description": "Angriff mit Felsen. Bei Erfolg wird der\nInitiative-Wert des Zieles gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 318,
+    "name": "Silberhauch",
+    "description": "Angriff mit Silberstaub. Eventuell werden\nalle Statuswerte des Anwenders erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 319,
+    "name": "Metallsound",
+    "description": "St\u00f6\u00dft einen spitzen Schrei aus, der die\nSpezial-Verteidigung des Zieles stark senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 320,
+    "name": "Grasfl\u00f6te",
+    "description": "Versetzt das Ziel durch eine sch\u00f6ne Melodie\nin Tiefschlaf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 321,
+    "name": "Spa\u00dfkanone",
+    "description": "Bringt das Ziel zum Lachen und senkt\ndadurch dessen Angriff und Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 322,
+    "name": "Kosmik-Kraft",
+    "description": "Erh\u00f6ht Verteidigung und Spezial-Verteidigung\ndurch eine mystische Kraft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 323,
+    "name": "Fontr\u00e4nen",
+    "description": "Wasser-Attacke, die wirkungsvoller ist,\nwenn KP des Anwenders hoch sind.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 324,
+    "name": "Ampelleuchte",
+    "description": "Strahlenattacke, die das Ziel eventuell verwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 325,
+    "name": "Finsterfaust",
+    "description": "Angriff mit der Faust aus dem Schattenreich.\nAusweichen unm\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 326,
+    "name": "Sondersensor",
+    "description": "Besonderer Angriff mit einer unsichtbaren Kraft,\ndie das Ziel eventuell zur\u00fcckschrecken l\u00e4sst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 327,
+    "name": "Himmelhieb",
+    "description": "Kinnhaken, der das Ziel gen Himmel schickt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 328,
+    "name": "Sandgrab",
+    "description": "Das Ziel leidet f\u00fcr vier bis f\u00fcnf Runden\nin einer Sandhose.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 329,
+    "name": "Eisesk\u00e4lte",
+    "description": "Angriff mit K\u00e4lte, die das Ziel bei Erfolg besiegt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 330,
+    "name": "Lehmbr\u00fche",
+    "description": "Greift mit Matsch an und senkt eventuell\ndie Genauigkeit des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 331,
+    "name": "Kugelsaat",
+    "description": "Der Anwender wirft zwei- bis f\u00fcnfmal\nin rascher Folge Samen auf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 332,
+    "name": "Aero-Ass",
+    "description": "Eine extrem schnelle Attacke, der das Ziel\nnicht ausweichen kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 333,
+    "name": "Eisspeer",
+    "description": "Feuert zwei bis f\u00fcnf Eiszapfen auf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 334,
+    "name": "Eisenabwehr",
+    "description": "Anwender st\u00e4rkt den K\u00f6rper, um den\nVerteidigungs-Wert stark zu erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 335,
+    "name": "R\u00fcckentzug",
+    "description": "Anwender versperrt den Fluchtweg des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 336,
+    "name": "Jauler",
+    "description": "Anwender jault, um seinen Kampfgeist\nund seinen Angriffs-Wert zu erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 337,
+    "name": "Drachenklaue",
+    "description": "Das Ziel wird mit riesigen, scharfen Klauen\nstark verletzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 338,
+    "name": "Fauna-Statue",
+    "description": "Angriff mit dickem Ast. Der Angreifer muss\neine Runde aussetzen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 339,
+    "name": "Protzer",
+    "description": "Pumpt den K\u00f6rper auf, um den Angriff\nund die Verteidigung zu erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 340,
+    "name": "Sprungfeder",
+    "description": "Angreifer springt und landet in der n\u00e4chsten Runde\nauf dem Ziel. Das Ziel wird eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 341,
+    "name": "Lehmschuss",
+    "description": "Angriff mit Lehm, der den Initiative-Wert\ndes Zieles senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 342,
+    "name": "Giftschweif",
+    "description": "Angriff mit hoher Volltrefferquote.\nDiese Schweifattacke vergiftet das Ziel eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 343,
+    "name": "Bezirzer",
+    "description": "Bittet charmant um das getragene Item\ndes Zieles und stiehlt es dann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 344,
+    "name": "Volttackle",
+    "description": "Angriff mit Elektro-Tackle. Der Anwender verletzt\nsich dabei. Das Ziel wird eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 345,
+    "name": "Zauberblatt",
+    "description": "Magischer Blattangriff, dem nicht auszuweichen ist.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 346,
+    "name": "Nassmacher",
+    "description": "Der Anwender l\u00e4sst Wasser herabregnen und\nschw\u00e4cht damit f\u00fcnf Runden lang Feuer-Attacken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 347,
+    "name": "Gedankengut",
+    "description": "Erh\u00f6ht Spezial-Angriff und Spezial-Verteidigung\ndurch Konzentration.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 348,
+    "name": "Laubklinge",
+    "description": "Hieb mit scharfkantigem Blatt.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 349,
+    "name": "Drachentanz",
+    "description": "Ein mystischer Tanz, der den\nAngriffs- und Initiative-Wert erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 350,
+    "name": "Felswurf",
+    "description": "Wirft zwei- bis f\u00fcnfmal in Folge Felsbl\u00f6cke\nauf das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 351,
+    "name": "Schockwelle",
+    "description": "Angriff mit schnellem Elektro-Schlag.\nAusweichen nicht m\u00f6glich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 352,
+    "name": "Aquawelle",
+    "description": "Angriff mit Wasserwelle, die das Ziel eventuell\nverwirren kann.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 353,
+    "name": "Kismetwunsch",
+    "description": "Angriff mit geb\u00fcndeltem Licht erfolgt zwei Runden\nnach Attackeneinsatz.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 354,
+    "name": "Psyschub",
+    "description": "Angriff mit voller Kraft, der den Spezial-Angriff\ndes Anwenders durch den R\u00fccksto\u00df stark senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 355,
+    "name": "Ruheort",
+    "description": "Anwender landet und ruht sich aus.\nKP des Anwenders werden um 50 %\nder maximalen KP aufgef\u00fcllt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 356,
+    "name": "Erdanziehung",
+    "description": "Die Gravitation wird f\u00fcr f\u00fcnf Runden erh\u00f6ht.\nMacht Fliegen unm\u00f6glich und verhindert Schwebe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 357,
+    "name": "Wunderauge",
+    "description": "Erlaubt es, Unlicht-Pok\u00e9mon mit Psycho-Attacken\nanzugreifen. Ignoriert den Fluchtwert des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 358,
+    "name": "Weckruf",
+    "description": "Richtet gro\u00dfen Schaden bei einem schlafenden Ziel\nan, weckt es aber auch auf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 359,
+    "name": "Hammerarm",
+    "description": "Anwender trifft mit einem starken Hieb.\nSenkt Initiative des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 360,
+    "name": "Gyroball",
+    "description": "Angriff mit hoher Geschwindigkeit. Je niedriger\ndie Initiative des Anwenders, desto h\u00f6her\nder Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 361,
+    "name": "Heilopfer",
+    "description": "Anwender geht K.O. Das an seine Stelle tretende\nPok\u00e9mon hat volle KP. Statusprobleme werden\ngeheilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 362,
+    "name": "Lake",
+    "description": "Hat das Ziel die H\u00e4lfte oder weniger\nseiner maximalen KP, trifft diese Attacke\nmit doppelter Kraft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 363,
+    "name": "Beerenkr\u00e4fte",
+    "description": "Anwender zieht aus seiner derzeitigen Beere Kraft.\nSie bestimmt Typ und St\u00e4rke der Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 364,
+    "name": "Offenlegung",
+    "description": "Ziele, die Schutzschild oder Scanner verwenden,\nwerden getroffen. Entfernt Effekte dieser Attacken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 365,
+    "name": "Pfl\u00fccker",
+    "description": "Anwender pickt das Ziel, nimmt die Beere,\nfalls das Ziel eine tr\u00e4gt, und erh\u00e4lt ihren Effekt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 366,
+    "name": "R\u00fcckenwind",
+    "description": "Anwender erzeugt einen Wirbelwind,\nder die Initiative aller Pok\u00e9mon im Team\nf\u00fcr vier Runden steigert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 367,
+    "name": "Akupressur",
+    "description": "Anwender erh\u00f6ht Druck auf Stresspunkte\nund steigert einen Statuswert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 368,
+    "name": "Metallsto\u00df",
+    "description": "Attacke mit gro\u00dfer Kraft gegen den Gegner,\nder dem Anwender in derselben Runde\nzuletzt Schaden zuf\u00fcgte.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 369,
+    "name": "Kehrtwende",
+    "description": "Nach der Attacke eilt der Anwender zur\u00fcck und\ntauscht den Platz mit einem anderen Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 370,
+    "name": "Nahkampf",
+    "description": "Nahkampf-Attacke ohne R\u00fccksicht auf Verluste.\nSenkt Verteidigung und Spezial-Verteidigung\ndes Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 371,
+    "name": "Gegensto\u00df",
+    "description": "Der Anwender l\u00e4dt die Attacke auf.\nHandelt das Ziel vor dem Anwender,\nverdoppelt sich die Kraft der Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 372,
+    "name": "Gewissheit",
+    "description": "Hat das Ziel w\u00e4hrend der Runde schon Schaden\ngenommen, wird die Kraft der Attacke verdoppelt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 373,
+    "name": "Itemsperre",
+    "description": "Das Ziel kann weder getragene Items nutzen,\nnoch kann sein Trainer Items auf es anwenden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 374,
+    "name": "Schleuder",
+    "description": "Anwender schleudert sein Item auf das Ziel.\nKraft und Effekt der Attacke h\u00e4ngen vom Item ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 375,
+    "name": "Psybann",
+    "description": "Anwender nutzt seine Suggestivkr\u00e4fte, um eigene\nStatusprobleme auf das Ziel zu transferieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 376,
+    "name": "Trumpfkarte",
+    "description": "Je weniger AP diese Attacke hat,\ndesto mehr Angriffskraft besitzt sie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 377,
+    "name": "Heilblockade",
+    "description": "Anwender verhindert f\u00fcr f\u00fcnf Runden,\ndass Ziele durch Attacken, F\u00e4higkeiten\noder Items KP regenerieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 378,
+    "name": "Auswringen",
+    "description": "Anwender presst sein Ziel aus. Je h\u00f6her die KP\ndes Zieles, desto kraftvoller die Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 379,
+    "name": "Krafttrick",
+    "description": "Anwender setzt Psycho-Kr\u00e4fte ein, um eigenen\nAngriffs- mit Verteidigungs-Wert auszutauschen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 380,
+    "name": "Magens\u00e4fte",
+    "description": "Anwender greift das Ziel mit eigenen Magens\u00e4ften\nan. Entfernt Effekte von dessen F\u00e4higkeit.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 381,
+    "name": "Beschw\u00f6rung",
+    "description": "Anwender singt eine Beschw\u00f6rungsformel,\ndie Volltreffer gegen sein Team verhindert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 382,
+    "name": "Egotrip",
+    "description": "Anwender stiehlt und f\u00fchrt die Attacke eines\nlangsameren Zieles zuerst und mit gr\u00f6\u00dferer\nKraft aus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 383,
+    "name": "Imitator",
+    "description": "Anwender imitiert gerade verwendete Attacke.\nDies schl\u00e4gt fehl, falls zuvor keine Attacke\nverwendet wurde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 384,
+    "name": "Krafttausch",
+    "description": "Psychische Kr\u00e4fte tauschen \u00c4nderungen an Angriff\nund Spezial-Angriff mit denen des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 385,
+    "name": "Schutztausch",
+    "description": "Psychische Kr\u00e4fte tauschen \u00c4nderungen\nan Verteidigung und Spezial-Verteidigung\nmit denen des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 386,
+    "name": "Strafattacke",
+    "description": "Je st\u00e4rker das Ziel durch Statusver\u00e4nderungen ist,\ndesto st\u00e4rker wirkt diese Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 387,
+    "name": "Zuflucht",
+    "description": "Diese Attacke kann nur eingesetzt werden,\nnachdem alle verf\u00fcgbaren Attacken ausgef\u00fchrt\nworden sind.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 388,
+    "name": "Sorgensamen",
+    "description": "Ziel wird bepflanzt. Wandelt F\u00e4higkeit\nin Insomnia um. Verhindert so Schlaf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 389,
+    "name": "Tiefschlag",
+    "description": "Erm\u00f6glicht den Erstschlag. Gelingt aber nur,\nwenn das Ziel gerade eine Attacke vorbereitet,\ndie KP-Schaden zuf\u00fcgen w\u00fcrde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 390,
+    "name": "Giftspitzen",
+    "description": "Anwender legt eine Falle mit Giftdornen aus.\nIn den Kampf eingewechselte gegnerische\nPok\u00e9mon werden vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 391,
+    "name": "Statustausch",
+    "description": "Anwender setzt Psycho-Kr\u00e4fte ein,\num Statusver\u00e4nderungen des Zieles\nmit den eigenen zu tauschen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 392,
+    "name": "Wasserring",
+    "description": "Anwender umgibt sich mit einem Schleier aus\nWasser. Dabei regeneriert er einige KP pro Runde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 393,
+    "name": "Magnetflug",
+    "description": "Anwender schwebt f\u00fcr f\u00fcnf Runden\ndurch elektrisch erzeugten Magnetismus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 394,
+    "name": "Flammenblitz",
+    "description": "Anwender h\u00fcllt sich in Flammen und st\u00fcrmt\nauf das Ziel zu, das sich eventuell verbrennt.\nAnwender nimmt selbst gro\u00dfen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 395,
+    "name": "Kraftwelle",
+    "description": "Das Ziel wird mit einer Schockwelle angegriffen,\ndie es eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 396,
+    "name": "Aurasph\u00e4re",
+    "description": "Tief aus dem Inneren des Anwenders\nl\u00f6st sich ein kraftvoller Sto\u00df Auraenergie.\nTrifft in jedem Fall.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 397,
+    "name": "Steinpolitur",
+    "description": "Anwender reduziert so gut wie m\u00f6glich den\nLuftwiderstand. Steigert den Initiative-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 398,
+    "name": "Gifthieb",
+    "description": "Ziel wird mit vergiftetem Arm oder Tentakel\nverletzt. Es wird dabei eventuell vergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 399,
+    "name": "Finsteraura",
+    "description": "Anwender greift mit f\u00fcrchterlicher Aura\nschlechter Gedanken an.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 400,
+    "name": "Nachthieb",
+    "description": "Anwender greift bei der ersten Gelegenheit mit\nscharfen Klauen an. Hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 401,
+    "name": "Nassschweif",
+    "description": "Anwender attackiert mit dem Schweif, als ob dieser\neine brutale Welle in einem tosenden Sturm sei.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 402,
+    "name": "Samenbomben",
+    "description": "Anwender l\u00e4sst eine Menge Samen mit\nharter Schale von oben auf das Ziel fallen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 403,
+    "name": "Luftschnitt",
+    "description": "Das Ziel wird mit einer Luftklinge angegriffen.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 404,
+    "name": "Kreuzschere",
+    "description": "Der Anwender f\u00fchrt eine Attacke aus,\ndie einer Scherenbewegung \u00e4hnelt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 405,
+    "name": "K\u00e4fergebrumm",
+    "description": "Anwender schl\u00e4gt mit den Fl\u00fcgeln und\nerzeugt eine Schockwelle. Senkt eventuell\nSpezial-Verteidigung des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 406,
+    "name": "Drachenpuls",
+    "description": "Das Ziel wird mit einer Schockwelle angegriffen,\ndie aus dem offenen Maul des Anwenders kommt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 407,
+    "name": "Drachensto\u00df",
+    "description": "Anwender f\u00fchrt einen Furcht einfl\u00f6\u00dfenden\nAngriff aus. Das Ziel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 408,
+    "name": "Juwelenkraft",
+    "description": "Anwender attackiert mit einem Lichtstrahl,\nder funkelt, als sei er aus Juwelen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 409,
+    "name": "Ableithieb",
+    "description": "Entzieht dem Ziel Energie. Die H\u00e4lfte des\nSchadens wird den KP des Anwenders\nzugerechnet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 410,
+    "name": "Vakuumwelle",
+    "description": "Ein Faustwirbel sendet eine Vakuumwelle\nauf das Ziel. Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 411,
+    "name": "Fokussto\u00df",
+    "description": "Anwender erh\u00f6ht seinen mentalen Fokus\nund greift dann an. Senkt eventuell\nSpezial-Verteidigung des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 412,
+    "name": "Energieball",
+    "description": "Anwender zieht Kraft aus der Natur\nund feuert sie auf das Ziel. Senkt eventuell\nSpezial-Verteidigung des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 413,
+    "name": "Sturzflug",
+    "description": "Anwender greift aus niedriger H\u00f6he an. Er erleidet\nbei dieser Attacke selbst gro\u00dfen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 414,
+    "name": "Erdkr\u00e4fte",
+    "description": "Der Boden unter dem Ziel erzittert durch die Kraft\nder Erde. Senkt eventuell Spezial-Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 415,
+    "name": "Wechseldich",
+    "description": "Item wird in Windeseile mit dem Ziel getauscht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 416,
+    "name": "Gigasto\u00df",
+    "description": "Anwender rennt mit seiner ganzen Kraft gegen\ndas Ziel an und muss dann eine Runde ruhen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 417,
+    "name": "R\u00e4nkeschmied",
+    "description": "Anwender stimuliert sein Gehirn und hat\nfinstere Gedanken. Steigert Spezial-Angriff stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 418,
+    "name": "Patronenhieb",
+    "description": "Das Ziel wird von ultraschnellen Hieben getroffen.\nErstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 419,
+    "name": "Lawine",
+    "description": "Wurde der Anwender in dieser Runde vom Ziel\ngetroffen, macht diese Attacke doppelten\nSchaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 420,
+    "name": "Eissplitter",
+    "description": "Das Ziel wird mit Eisklumpen beworfen.\nDiese Attacke hat Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 421,
+    "name": "Dunkelklaue",
+    "description": "Das Ziel wird mit scharfen Klauen aus der\nSchattenwelt attackiert. Hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 422,
+    "name": "Donnerzahn",
+    "description": "Anwender bei\u00dft mit elektrifizierten Rei\u00dfz\u00e4hnen zu.\nDas Ziel schreckt eventuell zur\u00fcck oder wird\nparalysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 423,
+    "name": "Eiszahn",
+    "description": "Anwender bei\u00dft mit eiskalten Rei\u00dfz\u00e4hnen zu.\nZiel schreckt eventuell zur\u00fcck oder friert ein.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 424,
+    "name": "Feuerzahn",
+    "description": "Anwender bei\u00dft mit flammenden Rei\u00dfz\u00e4hnen zu.\nZiel schreckt eventuell zur\u00fcck oder verbrennt sich.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 425,
+    "name": "Schattensto\u00df",
+    "description": "Anwender erweitert Schatten und greift das Ziel\nvon hinten an. Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 426,
+    "name": "Schlammbombe",
+    "description": "Anwender greift mit einem festen Schlammklumpen\nan. Senkt eventuell Genauigkeit des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 427,
+    "name": "Psychoklinge",
+    "description": "Das Ziel wird mit Klingen attackiert, die aus\nPsycho-Energie bestehen. Hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 428,
+    "name": "Zen-Kopfsto\u00df",
+    "description": "Anwender konzentriert seinen Willen und rammt\ndas Ziel. Dieses schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 429,
+    "name": "Spiegelsalve",
+    "description": "Anwender feuert Energiestrahl aus seinem K\u00f6rper\nab. Senkt eventuell Genauigkeit des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 430,
+    "name": "Lichtkanone",
+    "description": "Anwender sammelt Lichtenergie und feuert sie auf\neinmal ab. Senkt eventuell Spezial-Verteidigung\ndes Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 431,
+    "name": "Kraxler",
+    "description": "Eine st\u00fcrmische Attacke, die das Ziel eventuell\nverwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 432,
+    "name": "Auflockern",
+    "description": "Starker Wind hebt Attacken wie Reflektor und\nLichtschild des Zieles auf. Senkt au\u00dferdem\nden Fluchtwert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 433,
+    "name": "Bizarroraum",
+    "description": "Anwender erzeugt einen bizarren Raum,\nin dem langsame Pok\u00e9mon f\u00fcnf Runden\nlang zuerst agieren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 434,
+    "name": "Draco Meteor",
+    "description": "Kometen werden heraufbeschworen. Der R\u00fccksto\u00df\nreduziert den Spezial-Angriff des Anwenders stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 435,
+    "name": "Ladungssto\u00df",
+    "description": "Anwender greift die Pok\u00e9mon in seiner Umgebung\nmit Elektrizit\u00e4t an. Paralysiert eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 436,
+    "name": "Flammensturm",
+    "description": "Greift alles in seiner Umgebung mit tiefroten\nFlammen an. Ziel kann Verbrennungen erleiden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 437,
+    "name": "Bl\u00e4ttersturm",
+    "description": "Anwender erzeugt einen Sturm aus scharfen\nBl\u00e4ttern. R\u00fccksto\u00df senkt Spezial-Angriff des\nAnwenders stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 438,
+    "name": "Blattgei\u00dfel",
+    "description": "Anwender wirbelt seine Ranken oder Tentakel\npeitschenartig gegen das Ziel.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 439,
+    "name": "Felswerfer",
+    "description": "Anwender wirft einen riesigen Felsen auf das Ziel.\nIn der n\u00e4chsten Runde muss der Anwender ruhen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 440,
+    "name": "Giftstreich",
+    "description": "Ein schneidender Hieb, der das Ziel eventuell\nvergiftet. Hat eine hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 441,
+    "name": "M\u00fclltreffer",
+    "description": "Anwender schie\u00dft mit M\u00fcll auf das Ziel.\nVergiftet dieses eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 442,
+    "name": "Eisensch\u00e4del",
+    "description": "Ziel wird durch stahlharten Kopf des Anwenders\ngetroffen und schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 443,
+    "name": "Magnetbombe",
+    "description": "Ziel wird durch Haftbomben getroffen.\nDiese Attacke trifft immer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 444,
+    "name": "Steinkante",
+    "description": "Anwender sticht das Ziel mit spitzen Steinen.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 445,
+    "name": "Liebreiz",
+    "description": "Charme-Attacke, die den Spezial-Angriff des Zieles\nstark senkt, falls es dem anderen Geschlecht\nangeh\u00f6rt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 446,
+    "name": "Tarnsteine",
+    "description": "Falle mit schwebenden Steinen. In den Kampf\neingewechselte Ziele nehmen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 447,
+    "name": "Strauchler",
+    "description": "Ziel wird durch Gras ins Straucheln gebracht.\nJe schwerer das Ziel, desto mehr Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 448,
+    "name": "Geschw\u00e4tz",
+    "description": "Der Anwender labert das Ziel zu und greift es\nmit den dadurch entstehenden Schallwellen an,\nwodurch das Ziel verwirrt wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 449,
+    "name": "Urteilskraft",
+    "description": "Anwender feuert unz\u00e4hlige Lichtstrahlen ab.\nDeren Typ h\u00e4ngt von der gehaltenen Tafel ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 450,
+    "name": "K\u00e4ferbiss",
+    "description": "Anwender bei\u00dft das Ziel. Tr\u00e4gt dieses eine Beere,\nisst der Anwender sie und erh\u00e4lt ihren Effekt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 451,
+    "name": "Ladestrahl",
+    "description": "Ziel wird von einem Elektrostrahl getroffen.\nSteigert eventuell Spezial-Angriff des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 452,
+    "name": "Holzhammer",
+    "description": "Anwender attackiert mit seinem robusten K\u00f6rper.\nEr erleidet dabei auch selbst gro\u00dfen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 453,
+    "name": "Wasserd\u00fcse",
+    "description": "Sehr schneller Angriff mit Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 454,
+    "name": "Schlagbefehl",
+    "description": "Anwender ruft seine Untergebenen zum Angriff.\nHat eine hohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 455,
+    "name": "Blockbefehl",
+    "description": "Untergebene bilden einen lebenden Schild\num den Anwender. Steigert Verteidigung\nund Spezial-Verteidigung.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 456,
+    "name": "Heilbefehl",
+    "description": "Untergebene heilen den Anwender.\nKP des Anwenders werden um 50 %\nder maximalen KP aufgef\u00fcllt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 457,
+    "name": "Kopfsto\u00df",
+    "description": "Anwender greift unter Einsatz seines Lebens\nmit einem Kopfsto\u00df an und nimmt dabei selbst\njede Menge Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 458,
+    "name": "Doppelschlag",
+    "description": "Anwender trifft das Ziel mit dem Schweif\noder \u00c4hnlichem. Ziel wird doppelt getroffen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 459,
+    "name": "Zeitenl\u00e4rm",
+    "description": "Anwender attackiert mit einer Kraft, die selbst\ndie Zeit verzerrt. In der n\u00e4chsten Runde muss er\nruhen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 460,
+    "name": "Raumschlag",
+    "description": "Schwere, raumgreifende Attacke.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 461,
+    "name": "Lunartanz",
+    "description": "Anwender geht K.O. Das an seine Stelle\ntretende Pok\u00e9mon hat daf\u00fcr volle KP und AP.\nStatusprobleme werden geheilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 462,
+    "name": "Quetschgriff",
+    "description": "Ziel wird mit gro\u00dfer Kraft getroffen. Je h\u00f6her\ndie KP des Zieles, desto st\u00e4rker die Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 463,
+    "name": "Lavasturm",
+    "description": "Das Ziel wird in einen Feuersog gezogen,\nder vier bis f\u00fcnf Runden aktiv ist.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 464,
+    "name": "Schlummerort",
+    "description": "Das Ziel wird in eine Welt der Dunkelheit gezogen\nund in Schlaf versetzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 465,
+    "name": "Schocksamen",
+    "description": "Anwender erzeugt eine Schockwelle.\nSpezial-Verteidigung des Zieles wird stark gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 466,
+    "name": "Unheilb\u00f6en",
+    "description": "Das Ziel treffen abscheuliche Winde.\nSteigert eventuell alle Statuswerte des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 467,
+    "name": "Schemenkraft",
+    "description": "Anwender verschwindet in Runde 1\nund attackiert in Runde 2. Trifft auch,\nwenn sich das Ziel selbst sch\u00fctzt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 468,
+    "name": "Klauenwetzer",
+    "description": "Wetzt seine Klauen, um sie zu sch\u00e4rfen.\nErh\u00f6ht Angriff und Genauigkeit des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 469,
+    "name": "Rundumschutz",
+    "description": "Sch\u00fctzt eine Runde lang vor Angriffen,\ndie alle Pok\u00e9mon auf deiner Seite treffen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 470,
+    "name": "Schutzteiler",
+    "description": "Durch Psycho-Kr\u00e4fte werden Verteidigung und\nSpezial-Verteidigung des Anwenders und des\nZieles addiert und in zwei gleiche H\u00e4lften geteilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 471,
+    "name": "Kraftteiler",
+    "description": "Durch Psycho-Kr\u00e4fte werden Angriff und\nSpezial-Angriff des Anwenders und des Zieles\naddiert und in zwei gleiche H\u00e4lften geteilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 472,
+    "name": "Wunderraum",
+    "description": "Anwender erzeugt bizarren Raum, in dem \u00fcber\nf\u00fcnf Runden die Verteidigung aller Pok\u00e9mon\nmit ihrer Spezial-Verteidigung getauscht wird.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 473,
+    "name": "Psychoschock",
+    "description": "Anwender erzeugt eine seltsame Energiewelle,\ndie dem Ziel physischen Schaden zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 474,
+    "name": "Giftschock",
+    "description": "\u00dcbersch\u00fcttet das Ziel mit einer speziellen\ntoxischen Fl\u00fcssigkeit. Doppelt so stark gegen\nvergiftete Ziele.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 475,
+    "name": "Autotomie",
+    "description": "Anwender trennt sich von \u00fcberfl\u00fcssigen\nK\u00f6rperteilen und steigert seine Initiative\nstark. Sein Gewicht nimmt deutlich ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 476,
+    "name": "Wutpulver",
+    "description": "Anwender zieht gegnerische Aufmerksamkeit und\nAngriffe auf sich, indem er ein Wut erzeugendes\nPulver \u00fcber sich streut.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 477,
+    "name": "Telekinese",
+    "description": "Bringt das Ziel durch Psycho-Kr\u00e4fte zum\nSchweben. Dieses l\u00e4sst sich so \u00fcber drei\nRunden hinweg besonders leicht treffen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 478,
+    "name": "Magieraum",
+    "description": "Anwender erzeugt einen bizarren Raum,\nin dem \u00fcber f\u00fcnf Runden die Wirkung aller von\nPok\u00e9mon getragenen Items aufgehoben ist.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 479,
+    "name": "Katapult",
+    "description": "Greift das Ziel mit Steinen und Wurfgeschossen an.\nFliegende Ziele fallen dabei vom Himmel und\nlanden auf dem Boden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 480,
+    "name": "Bergsturm",
+    "description": "Ein Angriff mit voller Wucht und Volltreffergarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 481,
+    "name": "Funkenflug",
+    "description": "Bei Erfolg greift der Anwender mit berstenden\nFeuerblasen an. Die Funken der geplatzten Blasen\ntreffen auch benachbarte Ziele.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 482,
+    "name": "Schlammwoge",
+    "description": "Greift Pok\u00e9mon in der N\u00e4he des Anwenders mit\neiner Schlammwelle an. Diese werden eventuell\nvergiftet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 483,
+    "name": "Falterreigen",
+    "description": "Anwender legt beh\u00e4nde einen mystischen,\nformvollendeten Tanz aufs Parkett. Spezial-Angriff,\nSpezial-Verteidigung und Initiative steigen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 484,
+    "name": "Rammboss",
+    "description": "Anwender rammt das Ziel mit massivem K\u00f6rper.\nJe schwerer er im Vergleich zum Ziel ist,\ndesto st\u00e4rker die Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 485,
+    "name": "Synchrol\u00e4rm",
+    "description": "F\u00fcgt Pok\u00e9mon vom selben Typ, die sich in der\nN\u00e4he des Anwenders aufhalten, mit seltsamen\nDruckwellen Schaden zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 486,
+    "name": "Elektroball",
+    "description": "Je h\u00f6her die Initiative des Anwenders im Vergleich\nzum Ziel ist, desto st\u00e4rker trifft dieses eine\ngeballte Ladung Strom.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 487,
+    "name": "\u00dcberflutung",
+    "description": "\u00dcbersch\u00fcttet das Ziel mit Unmengen an Wasser\nund \u00e4ndert den Typ damit in Wasser um.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 488,
+    "name": "Nitroladung",
+    "description": "Anwender h\u00fcllt sich in Flammen und\ngreift das Ziel an. Sammelt seine Energie\nund erh\u00f6ht dadurch die eigene Initiative.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 489,
+    "name": "Einrollen",
+    "description": "Anwender rollt sich zusammen und sammelt sich.\nDabei werden Angriff, Verteidigung und\nGenauigkeit erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 490,
+    "name": "Fu\u00dftritt",
+    "description": "Anwender greift mit blitzschnellen Bewegungen\ndie Beine des Zieles an und senkt dessen Initiative. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 491,
+    "name": "S\u00e4urespeier",
+    "description": "Anwender greift an, indem er eine \u00e4tzende\nFl\u00fcssigkeit auf das Ziel speit. Senkt dessen\nSpezial-Verteidigung stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 492,
+    "name": "Schmarotzer",
+    "description": "Anwender macht sich die Kraft des Zieles zunutze.\nJe h\u00f6her dessen Angriff, desto mehr Schaden\nrichtet die Attacke an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 493,
+    "name": "Wankelstrahl",
+    "description": "Bestrahlt das Ziel mit mysteri\u00f6sen Energiewellen.\nBei einem Treffer wird dessen F\u00e4higkeit\nzu Wankelmut.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 494,
+    "name": "Zwango",
+    "description": "Anwender tanzt zu einem seltsamem Rhythmus\nund zwingt das Ziel mitzumachen. Dieses nimmt\ndabei die F\u00e4higkeit des Anwenders an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 495,
+    "name": "Galanterie",
+    "description": "Anwender erm\u00f6glicht dem Ziel direkt nach ihm\nzu handeln, solange der Anwender als Erstes\nzum Zug kommt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 496,
+    "name": "Kanon",
+    "description": "Angriff mit Gesang. Singt der Anwender mit allen\nim Kanon, steigt die St\u00e4rke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 497,
+    "name": "Widerhall",
+    "description": "Angriff mit widerhallender Stimme. Wenn in\njeder Runde ein Teilnehmer wiederholt\ndie Attacke einsetzt, steigt die St\u00e4rke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 498,
+    "name": "Zerm\u00fcrben",
+    "description": "Eine durchdachte Attacke zu rechter Zeit.\nRichtet unabh\u00e4ngig von den Statusver\u00e4nderungen\ndes Zieles Schaden an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 499,
+    "name": "Kl\u00e4rsmog",
+    "description": "Anwender greift das Ziel mit spezialgefertigtem\nSmog an. Setzt dessen Statusver\u00e4nderungen\nzur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 500,
+    "name": "Kraftvorrat",
+    "description": "Angriff mit angesparter Energie.\nJe h\u00f6her die Statuswerte des Anwenders,\ndesto st\u00e4rker f\u00e4llt die Attacke aus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 501,
+    "name": "Rapidschutz",
+    "description": "Sch\u00fctzt Anwender und Mitstreiter vor gegnerischen\nErstschlag-Attacken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 502,
+    "name": "Seitentausch",
+    "description": "Wundersame Kr\u00e4fte teleportieren den Anwender\nan den Platz eines Mitstreiters.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 503,
+    "name": "Siedewasser",
+    "description": "Heizt dem Ziel mit einem Schwall siedend hei\u00dfen\nKochwassers ein. Das Ziel erleidet dabei eventuell\nVerbrennungen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 504,
+    "name": "Hausbruch",
+    "description": "Anwender zerbricht seine Schale und senkt seine\nVerteidigung und Spezial-Verteidigung, aber daf\u00fcr\nsteigen Angriff, Spezial-Angriff und Initiative stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 505,
+    "name": "Heilwoge",
+    "description": "Anwender l\u00f6st eine Schmerzen lindernde Welle aus\nund heilt dabei das Ziel mit der H\u00e4lfte seiner\nmaximalen KP.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 506,
+    "name": "B\u00fcrde",
+    "description": "Eine Attacke, bei der der Anwender das Ziel\nbedr\u00e4ngt. F\u00fcgt Zielen mit Statusproblemen\nhohen Schaden zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 507,
+    "name": "Freier Fall",
+    "description": "Steigt in Runde 1 mit dem Ziel in die Luft auf\nund l\u00e4sst es in Runde 2 fallen. Das Ziel kann\ndabei nicht angreifen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 508,
+    "name": "Gangwechsel",
+    "description": "Durch Drehen der Zahnr\u00e4der erh\u00f6ht sich nicht nur\nder Angriffs-Wert, sondern auch die Initiative\ndes Anwenders stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 509,
+    "name": "\u00dcberkopfwurf",
+    "description": "Schleudert das Ziel davon und bewirkt damit,\ndass ein anderes Pok\u00e9mon eingewechselt wird.\nBeendet K\u00e4mpfe gegen wilde Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 510,
+    "name": "Ein\u00e4schern",
+    "description": "Eine Feuer-Attacke. Tr\u00e4gt das Ziel eine Beere\noder ein \u00e4hnliches Item bei sich, wird dieses\nvon den Flammen verzehrt und geht verloren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 511,
+    "name": "Verz\u00f6gerung",
+    "description": "Anwender stemmt sich gegen das Ziel und bewirkt,\ndass dieses erst als Letztes angreift.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 512,
+    "name": "Akrobatik",
+    "description": "Ein graziler Angriff auf das Ziel.\nTr\u00e4gt der Anwender kein Item bei sich,\nrichtet die Attacke gro\u00dfen Schaden an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 513,
+    "name": "Typenspiegel",
+    "description": "Anwender bildet das Ziel nach und nimmt dabei\ndessen Typ an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 514,
+    "name": "Heimzahlung",
+    "description": "Anwender nimmt Rache f\u00fcr einen besiegten\nMitstreiter. Wurde in der vorigen Runde ein\nMitstreiter besiegt, steigt die Kraft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 515,
+    "name": "Wagemut",
+    "description": "Ein Angriff, der dem Ziel Schaden in H\u00f6he\nder aktuellen KP des Anwenders zuf\u00fcgt.\nLetzterer wird dadurch selbst besiegt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 516,
+    "name": "Offerte",
+    "description": "Tr\u00e4gt das Ziel gerade kein Item bei sich,\nerh\u00e4lt es das Item, das sich aktuell im Besitz\ndes Anwenders befindet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 517,
+    "name": "Inferno",
+    "description": "Anwender greift das Ziel an, indem er es\nmit dichten Flammen umh\u00fcllt. Ziel erleidet\nVerbrennungen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 518,
+    "name": "Wassers\u00e4ulen",
+    "description": "Ein Angriff mit Wassers\u00e4ulen. Mit Feuers\u00e4ulen\nkombiniert steigt die Wirkung und ein Regenbogen\nerscheint.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 519,
+    "name": "Feuers\u00e4ulen",
+    "description": "Ein Angriff mit Feuers\u00e4ulen. Mit Pflanzs\u00e4ulen\nkombiniert steigt die Wirkung und die Umgebung\nwird zu einem Meer aus Feuer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 520,
+    "name": "Pflanzs\u00e4ulen",
+    "description": "Ein Angriff mit Pflanzs\u00e4ulen. Mit Wassers\u00e4ulen\nkombiniert steigt die Wirkung und die Umgebung\nwird zu einem Sumpf.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 521,
+    "name": "Voltwechsel",
+    "description": "Anwender kehrt nach dem Angriff mit\natemberaubender Geschwindigkeit zur\u00fcck\nund tauscht Platz mit einem anderen Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 522,
+    "name": "K\u00e4fertrutz",
+    "description": "Anwender leistet Widerstand und greift an.\nDer Spezial-Angriff der Ziele sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 523,
+    "name": "Dampfwalze",
+    "description": "Anwender greift an, indem er den Boden\num sich herum plattwalzt. Die Initiative aller\nbetroffenen Pok\u00e9mon sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 524,
+    "name": "Eisesodem",
+    "description": "Anwender greift an, indem er dem Ziel eisigen\nAtem entgegenhaucht. Volltreffergarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 525,
+    "name": "Drachenrute",
+    "description": "Putzt das Ziel vom Feld und wechselt\nes mit einem anderen Pok\u00e9mon aus.\nBeendet K\u00e4mpfe gegen wilde Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 526,
+    "name": "Kraftschub",
+    "description": "Anwender erh\u00e4lt einen Kraftschub,\nder seinen Angriff und Spezial-Angriff erh\u00f6ht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 527,
+    "name": "Elektronetz",
+    "description": "F\u00e4ngt Ziele mit einem elektrischen Netz\nund senkt deren Initiative.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 528,
+    "name": "Stromsto\u00df",
+    "description": "Anwender erzeugt Spannung und greift an,\nindem er auf Kollisionskurs geht. Er selbst\nerleidet dabei ebenfalls leichten Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 529,
+    "name": "Schlagbohrer",
+    "description": "Anwender rammt das Ziel, w\u00e4hrend er\nseinen K\u00f6rper wie einen Bohrer dreht.\nHohe Volltrefferquote.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 530,
+    "name": "Doppelhieb",
+    "description": "Versetzt dem Ziel mit massiven Extremit\u00e4ten Hiebe.\nAngriff erfolgt zweimal hintereinander.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 531,
+    "name": "Herzstempel",
+    "description": "Verleitet Ziel durch Kokettieren zu Unachtsamkeit\nund verpasst ihm dann einen harten Schlag.\nZiel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 532,
+    "name": "Holzgeweih",
+    "description": "Greift Ziel mit Astgeweih an und zapft diesem\nN\u00e4hrstoffe ab. Anwender wird um die H\u00e4lfte\ndes zugef\u00fcgten Schadens geheilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 533,
+    "name": "Sanctoklinge",
+    "description": "Schneideangriff mit langem Horn.\nRichtet Schaden unabh\u00e4ngig von\nStatusver\u00e4nderungen des Zieles an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 534,
+    "name": "Kalkklinge",
+    "description": "Schneideangriff mit einer scharfen Muschelschale.\nSenkt eventuell die Verteidigung des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 535,
+    "name": "Brandstempel",
+    "description": "Rempelattacke mit brennendem K\u00f6rper.\nJe schwerer der Anwender im Vergleich\nzum Ziel ist, desto st\u00e4rker die Attacke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 536,
+    "name": "Grasmixer",
+    "description": "Anwender greift an, indem er das Ziel in scharfes\nBlattwerk einwickelt. Kann die Genauigkeit senken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 537,
+    "name": "Quetschwalze",
+    "description": "Anwender rollt mit rundlichem K\u00f6rper \u00fcber das Ziel\nund dr\u00fcckt es platt. Ziel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 538,
+    "name": "Watteschild",
+    "description": "Anwender sch\u00fctzt sich, indem er\nsich in einen luftigen Flaum h\u00fcllt.\nErh\u00f6ht die Verteidigung drastisch.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 539,
+    "name": "Nachtflut",
+    "description": "Anwender greift Ziel mit finsteren Schockwellen an.\nSenkt eventuell die Genauigkeit.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 540,
+    "name": "Psychosto\u00df",
+    "description": "Anwender erzeugt seltsame Energiewellen,\ndie dem Ziel physischen Schaden zuf\u00fcgen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 541,
+    "name": "Kehrschelle",
+    "description": "Anwender greift das Ziel mit seiner schlagfesten\nRute zwei- bis f\u00fcnfmal hintereinander an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 542,
+    "name": "Orkan",
+    "description": "Anwender greift das Ziel an, indem er es mit\nheftigen Windb\u00f6en umgibt. Ziel wird eventuell\nverwirrt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 543,
+    "name": "Steinsch\u00e4del",
+    "description": "Rempelattacke mit ausgeflippter Retrofrisur.\nAnwender nimmt selbst leichten Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 544,
+    "name": "Klikkdiskus",
+    "description": "Anwender greift an, indem er st\u00e4hlerne Zahnr\u00e4der\nauf das Ziel schleudert. Angriff erfolgt zweimal\nhintereinander.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 545,
+    "name": "Flammenball",
+    "description": "Greift alles in seiner Umgebung mit tiefroten\nFlammen an. Ziel kann Verbrennungen erleiden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 546,
+    "name": "Techblaster",
+    "description": "Anwender feuert ein Lichtgeschoss auf das\nZiel ab. Der Typ der Attacke h\u00e4ngt von dem\ndes Moduls ab.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 547,
+    "name": "Urgesang",
+    "description": "Anwender greift mit Urgesang an, der Ziele\nin der N\u00e4he im tiefsten Inneren anspricht.\nDiese schlafen eventuell ein.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 548,
+    "name": "Mystoschwert",
+    "description": "Schneideangriff mit dem langen Schwert\ndes Anwenders. Die mysteri\u00f6se Kraft aus\ndem Horn erzeugt physischen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 549,
+    "name": "Eiszeit",
+    "description": "Anwender greift an, indem er dem Ziel klirrend\nkalte Luft entgegenbl\u00e4st. Senkt die Initiative des\nZieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 550,
+    "name": "Blitzschlag",
+    "description": "L\u00e4dt seinen K\u00f6rper mit einer gewaltigen Menge\nan Elektrizit\u00e4t auf und rammt damit das Ziel.\nZiel wird eventuell paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 551,
+    "name": "Blauflammen",
+    "description": "Anwender greift an, indem er das Ziel in\nwundersch\u00f6ne, intensivblaue Flammen h\u00fcllt,\ndie es eventuell verbrennen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 552,
+    "name": "Feuerreigen",
+    "description": "H\u00fcllt das Ziel mit einer Feuerhose in Flammen.\nKann den Spezial-Angriff des Anwenders erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 553,
+    "name": "Frostvolt",
+    "description": "Feuert in der zweiten Runde elektrisch\ngeladene Eisklumpen auf das Ziel ab.\nParalysiert das Ziel eventuell.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 554,
+    "name": "Frosthauch",
+    "description": "Umgibt das Ziel in der n\u00e4chsten Runde mit\nheftigen, alles gefrierenden Eisb\u00f6en. F\u00fcgt\ndem Ziel eventuell Verbrennungen zu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 555,
+    "name": "Standpauke",
+    "description": "W\u00e4scht Zielen in der N\u00e4he mit einer\nausf\u00fchrlichen Standpauke den Kopf und\nsenkt dabei deren Spezial-Angriff.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 556,
+    "name": "Eiszapfhagel",
+    "description": "L\u00e4sst gro\u00dfe, schwere Eiszapfen auf das Ziel\nherabregnen. Ziel schreckt eventuell zur\u00fcck.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 557,
+    "name": "V-Generator",
+    "description": "Eine Verzweiflungsattacke. Anwender entfacht\ngl\u00fchend hei\u00dfes Feuer. Senkt dessen Verteidigung,\nSpezial-Verteidigung und Initiative.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 558,
+    "name": "Kreuzflamme",
+    "description": "Feuert eine monstr\u00f6se Flamme ab.\nWird die Attacke durch einen gigantischen\nBlitz modifiziert, steigt die St\u00e4rke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 559,
+    "name": "Kreuzdonner",
+    "description": "Feuert einen monstr\u00f6sen Blitz ab.\nWird die Attacke durch eine gigantische\nFlamme modifiziert, steigt die St\u00e4rke.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 560,
+    "name": "Flying Press",
+    "description": "Der Anwender st\u00fcrzt sich aus der Luft auf\ndas Ziel. Die Attacke geh\u00f6rt sowohl dem Typ\nKampf als auch dem Typ Flug an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 561,
+    "name": "Tatami-Schild",
+    "description": "Der Anwender richtet eine Tatami-Matte auf,\num sich und sein Team vor Schaden zu sch\u00fctzen.\nKein Schutz vor Status-Attacken.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 562,
+    "name": "R\u00fclpser",
+    "description": "Der Anwender f\u00fcgt dem Ziel Schaden zu,\nindem er es anr\u00fclpst. Diese Attacke gelingt\nnur nach dem Konsum einer getragenen Beere.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 563,
+    "name": "Pfl\u00fcger",
+    "description": "Der Anwender pfl\u00fcgt den Boden und macht\ndie Erde fruchtbarer. Erh\u00f6ht den Angriff und\nden Spezial-Angriff von Pflanzen-Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 564,
+    "name": "Klebenetz",
+    "description": "Der Anwender spinnt in der Umgebung des\ngegnerischen Teams ein klebriges Netz und senkt\nso die Initiative neu eingewechselter Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 565,
+    "name": "Stachelfinale",
+    "description": "Gelingt es dem Anwender, das Ziel mit dieser\nAttacke zu besiegen, steigt sein Angriffs-Wert\nstark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 566,
+    "name": "Phantomkraft",
+    "description": "Der Anwender verschwindet, um eine Runde lang\nseine Kraft zu sammeln und in der n\u00e4chsten Runde\nanzugreifen. Durchbricht die Defensive des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 567,
+    "name": "Halloween",
+    "description": "Der Anwender lehrt das Ziel das F\u00fcrchten.\nDieses nimmt dadurch zus\u00e4tzlich den Typ Geist an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 568,
+    "name": "Kampfgebr\u00fcll",
+    "description": "Der Anwender st\u00f6\u00dft ein Kampfgebr\u00fcll aus,\ndas das Ziel einsch\u00fcchtert und zugleich seinen\nAngriffs- und Spezial-Angriffs-Wert senkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 569,
+    "name": "Plasmaschauer",
+    "description": "Verspr\u00fcht elektrisch geladene Partikel und bewirkt,\ndass Normal-Attacken den Typ Elektro annehmen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 570,
+    "name": "Parabolladung",
+    "description": "F\u00fcgt allen Pok\u00e9mon in der Umgebung Schaden zu.\nDer Anwender wird um die H\u00e4lfte des insgesamt\nangerichteten Schadens geheilt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 571,
+    "name": "Waldesfluch",
+    "description": "Der Anwender belegt das Ziel mit einem\nWaldesfluch, durch den dieses zus\u00e4tzlich\nden Typ Pflanze annimmt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 572,
+    "name": "Bl\u00fctenwirbel",
+    "description": "Der Anwender erzeugt einen turbulenten\nBl\u00fctenwirbel, der alle Pok\u00e9mon in der N\u00e4he\nerfasst und ihnen Schaden zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 573,
+    "name": "Gefriertrockner",
+    "description": "Das Ziel wird stark abgek\u00fchlt und manchmal\nsogar eingefroren. Die Attacke ist sehr effektiv\ngegen Wasser-Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 574,
+    "name": "S\u00e4uselstimme",
+    "description": "Der Anwender st\u00f6\u00dft einen bezirzenden Ruf aus,\nmit dem er das Ziel in seinen Bann schl\u00e4gt und\nihm immer mentalen Schaden zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 575,
+    "name": "Abgangstirade",
+    "description": "Sch\u00fcchtert das Ziel mit einer Abgangstirade ein,\nsodass dessen Angriffs- und Spezial-Angriffs-Wert\nsinken. Danach wird der Anwender ausgewechselt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 576,
+    "name": "Invertigo",
+    "description": "Invertiert alle Statusver\u00e4nderungen des Zieles.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 577,
+    "name": "Diebeskuss",
+    "description": "Der Anwender stiehlt dem Ziel mit einem Kuss KP.\nDie H\u00f6he der Heilung betr\u00e4gt mehr als die H\u00e4lfte\ndes beim Ziel angerichteten Schadens.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 578,
+    "name": "Trickschutz",
+    "description": "Sch\u00fctzt mit einer mysteri\u00f6sen Macht seine\nMitstreiter und sich vor Status-Attacken, nicht\njedoch vor Attacken, die Schaden verursachen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 579,
+    "name": "Floraschutz",
+    "description": "Erh\u00f6ht mit einer mysteri\u00f6sen Macht die\nVerteidigung aller am Kampf beteiligten\nPflanzen-Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 580,
+    "name": "Grasfeld",
+    "description": "Verwandelt den Untergrund f\u00fcnf Runden lang\nin ein Grasfeld und heilt in jeder neuen Runde\nalle Pok\u00e9mon, die den Boden ber\u00fchren.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 581,
+    "name": "Nebelfeld",
+    "description": "Verwandelt den Untergrund f\u00fcnf Runden lang\nin ein Nebelfeld und sch\u00fctzt alle Pok\u00e9mon,\ndie den Boden ber\u00fchren, vor Statusproblemen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 582,
+    "name": "Elektrifizierung",
+    "description": "Kommt die Attacke zum Einsatz, bevor das Ziel\nseine Attacke ausf\u00fchrt, nimmt diese f\u00fcr die Dauer\ndieser Runde den Typ Elektro an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 583,
+    "name": "Knuddler",
+    "description": "Der Anwender knuddelt das Ziel und greift es an.\nGelegentlich sinkt dabei auch dessen\nAngriffs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 584,
+    "name": "Feenbrise",
+    "description": "L\u00e4sst eine Feenbrise aufkommen, die das Ziel\nerfasst und ihm Schaden zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 585,
+    "name": "Mondgewalt",
+    "description": "Der Anwender macht sich die Kraft des Mondes\nzunutze, um anzugreifen. Gelegentlich wird dabei\nder Spezial-Angriff des Zieles gesenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 586,
+    "name": "\u00dcberschallknall",
+    "description": "Der Anwender greift alle Pok\u00e9mon in der\nUmgebung mit einem gewaltigen Knall an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 587,
+    "name": "Feenschloss",
+    "description": "Der Anwender sperrt alle Pok\u00e9mon ein und hindert\nsie damit in der n\u00e4chsten Runde an der Flucht.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 588,
+    "name": "K\u00f6nigsschild",
+    "description": "Der Anwender geht in die Defensive und wird\nvor Angriffen gesch\u00fctzt. Ber\u00fchrt ihn nun ein\nPok\u00e9mon, sinkt dessen Angriffs-Wert stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 589,
+    "name": "Kameradschaft",
+    "description": "Der Anwender schlie\u00dft mit dem Ziel Freundschaft\nund nimmt ihm seine Angriffslust. Der Angriffs-Wert\ndes Zieles sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 590,
+    "name": "Vertrauenssache",
+    "description": "Der Anwender vertraut dem Ziel ein Geheimnis an\nund st\u00f6rt auf diese Weise seine Konzentration.\nDer Spezial-Angriff des Zieles sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 591,
+    "name": "Diamantsturm",
+    "description": "Der Anwender beschw\u00f6rt einen zerst\u00f6rerischen\nDiamantsturm herauf. Kann die Verteidigung des\nAnwenders erh\u00f6hen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 592,
+    "name": "Dampfschwall",
+    "description": "Der Anwender feuert einen siedend hei\u00dfen\nDampfschwall auf das Ziel ab. Dieses kann\ndabei Verbrennungen erleiden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 593,
+    "name": "Dimensionsloch",
+    "description": "Der Anwender positioniert sich mithilfe eines\nDimensionslochs direkt neben dem Ziel und\ndurchbricht selbst Schutzschild und Scanner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 594,
+    "name": "Wasser-Shuriken",
+    "description": "Der Anwender schleudert dem Ziel Wurfsterne\naus einem verdickten Sekret entgegen.\nEine Serien-Attacke, die zwei- bis f\u00fcnfmal trifft.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 595,
+    "name": "Magieflamme",
+    "description": "Der Anwender greift das Ziel an, indem er ihm\neine besondere, hei\u00dfe Flamme entgegenbl\u00e4st.\nDer Spezial-Angriff des Zieles sinkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 596,
+    "name": "Schutzstacheln",
+    "description": "Der Anwender wird vor Angriffen gesch\u00fctzt.\nGleichzeitig nehmen alle Pok\u00e9mon, die mit\nihm in Ber\u00fchrung kommen, Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 597,
+    "name": "Duftwolke",
+    "description": "Der Anwender erh\u00f6ht mithilfe eines mysteri\u00f6sen\nDuftes die Spezial-Verteidigung eines Mitstreiters.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 598,
+    "name": "Mystowellen",
+    "description": "Der K\u00f6rper des Anwenders erzeugt mysteri\u00f6se\nWellen und senkt den Spezial-Angriff des Zieles\ndadurch stark.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 599,
+    "name": "Giftfalle",
+    "description": "Anwender bespritzt das Ziel mit einer speziellen\nGiftfl\u00fcssigkeit. Senkt den Angriff, den Spezial-\nAngriff und die Initiative von vergifteten Zielen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 600,
+    "name": "Pulverschleuder",
+    "description": "Setzt das Ziel nach Einsatz von Pulverschleuder\nin derselben Runde eine Feuer-Attacke ein,\nkommt es zu einer Explosion, die ihm schadet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 601,
+    "name": "Geokontrolle",
+    "description": "Der Anwender saugt in Runde 1 Energie auf.\nIn Runde 2 steigen folgende Statuswerte stark:\nSpezial-Angriff, Spezial-Verteidigung und Initiative.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 602,
+    "name": "Magnetregler",
+    "description": "Das Magnetfeld wird so manipuliert, dass Spezial-\nVerteidigung und Verteidigung von Team-Pok\u00e9mon\nmit der F\u00e4higkeit Plus oder Minus steigen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 603,
+    "name": "Goldene Zeiten",
+    "description": "Nach Einsatz der Attacke Goldene Zeiten\nverdoppelt sich das Preisgeld, das du im\nFalle eines Sieges erh\u00e4ltst.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 604,
+    "name": "Elektrofeld",
+    "description": "Verwandelt den Untergrund f\u00fcnf Runden lang\nin ein Elektrofeld und hindert alle Pok\u00e9mon,\ndie den Boden ber\u00fchren, am Einschlafen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 605,
+    "name": "Zauberschein",
+    "description": "Der Anwender feuert einen m\u00e4chtigen Lichtblitz ab,\nder dem Ziel Schaden zuf\u00fcgt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 606,
+    "name": "Ehrentag",
+    "description": "Das Pok\u00e9mon gratuliert dir zu deinem Geburtstag!",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 607,
+    "name": "H\u00e4ndchenhalten",
+    "description": "Der Anwender und ein Mitstreiter reichen\neinander die H\u00e4nde und verfallen in einen\nZustand tiefster Zufriedenheit.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 608,
+    "name": "Kulleraugen",
+    "description": "Der Anwender erobert das Herz des Zieles,\nindem er es mit Kulleraugen ansieht. Senkt den\nAngriffs-Wert. Erstschlaggarantie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 609,
+    "name": "Wangenrubbler",
+    "description": "Der Anwender l\u00e4dt seine Wangen elektrisch auf\nund greift an, indem er sich damit am Ziel reibt.\nDas Ziel wird paralysiert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 610,
+    "name": "Zur\u00fcckhaltung",
+    "description": "Der Anwender h\u00e4lt sich beim Angriff zur\u00fcck\nund sorgt auf diese Weise daf\u00fcr, dass dem\nZiel danach mindestens 1 KP verbleibt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 611,
+    "name": "Plage",
+    "description": "Der Anwender f\u00e4llt vier bis f\u00fcnf Runden lang wie\neine Plage \u00fcber das Ziel her und greift es an.\nIn diesem Zeitraum kann es nicht fliehen.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 612,
+    "name": "Steigerungshieb",
+    "description": "Die F\u00e4uste des Anwenders h\u00e4rten durch\nwiederholtes Zuschlagen ab. Mit jedem\nTreffer steigt sein Angriffs-Wert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 613,
+    "name": "Unheilsschwingen",
+    "description": "Der Anwender raubt dem Ziel KP.\nDie H\u00f6he der Heilung betr\u00e4gt mehr als die H\u00e4lfte\ndes beim Ziel angerichteten Schadens.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 614,
+    "name": "Tausend Pfeile",
+    "description": "Die Attacke erfasst auch schwebende Pok\u00e9mon.\nErfasst sie ein Pok\u00e9mon im Schwebe-Zustand,\nf\u00e4llt es zu Boden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 615,
+    "name": "Tausend Wellen",
+    "description": "Der Anwender greift mit einer Welle an, die dicht\n\u00fcber dem Boden verl\u00e4uft und alle Pok\u00e9mon,\ndie sie erfasst, an der Flucht hindert.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 616,
+    "name": "Bodengewalt",
+    "description": "Der Anwender sammelt die Kraft des weiten\nLandes und greift an, indem er sie geb\u00fcndelt\nauf das Ziel lenkt.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 617,
+    "name": "Lux Calamitatis",
+    "description": "Die Attacke basiert auf der Kraft des Ewigbl\u00fctlers,\ndie als m\u00e4chtiger Lichtstrahl abgefeuert wird.\nDer Anwender nimmt dabei selbst gro\u00dfen Schaden.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 618,
+    "name": "Ursprungswoge",
+    "description": "Der Anwender greift das Ziel mit unz\u00e4hligen\nblau leuchtenden Strahlen an.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 619,
+    "name": "Abgrundsklinge",
+    "description": "Der Anwender wandelt die Kraft des Erdreichs\nin Klingen um, mit denen er das Ziel angreift.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 620,
+    "name": "Zenitst\u00fcrmer",
+    "description": "Der Anwender greift das Ziel aus atemberaubender\nH\u00f6he im Sturzflug an. Senkt Verteidigung und\nSpezial-Verteidigung des Anwenders.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 621,
+    "name": "Dimensionswahn",
+    "description": "Eine Angriffsserie mit vielen Armen, die die Wirkung\nvon Schutzschild und Scanner durchbricht.\nDabei sinkt die Verteidigung des Anwenders.",
+    "effect": null,
+    "notes": null
+  }
+]

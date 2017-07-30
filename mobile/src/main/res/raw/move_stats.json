@@ -1,6 +1,6 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "pokeTypeId": 0,
     "dmgTypeId": 0,
     "contestTypeId": 4,
@@ -10,253 +10,6203 @@
     "genId": 1
   },
   {
-    "id": 1,
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 4,
+    "id": 2,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
     "powerPoint": 25,
     "power": 50,
     "accuracy": 100,
-    "generation": 1
-  },
-  {
-    "id": 2,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 2,
-    "powerPoint": 10,
-    "power": 15,
-    "accuracy": 85,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 3,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 15,
-    "power": 18,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 15,
     "accuracy": 85,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 4,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 80,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 18,
     "accuracy": 85,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 5,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 3,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
     "powerPoint": 20,
-    "power": 40,
-    "accuracy": 100,
-    "generation": 1
+    "power": 80,
+    "accuracy": 85,
+    "genId": 1
   },
   {
     "id": 6,
-    "type": 1,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 15,
-    "power": 75,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 40,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 7,
-    "type": 5,
-    "categoryId": 0,
-    "contestId": 1,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
     "powerPoint": 15,
     "power": 75,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 8,
-    "type": 3,
-    "categoryId": 0,
-    "contestId": 0,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
     "powerPoint": 15,
     "power": 75,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 9,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 35,
-    "power": 40,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 75,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 10,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 30,
-    "power": 55,
-    "accuracy": 100,
-    "generation": 1
-  },
-  {
-    "id": 11,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 5,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1
-  },
-  {
-    "id": 12,
-    "type": 0,
-    "categoryId": 1,
-    "contestId": 0,
-    "powerPoint": 10,
-    "power": 80,
-    "accuracy": 100,
-    "generation": 1
-  },
-  {
-    "id": 13,
-    "type": 0,
-    "categoryId": 2,
-    "contestId": 1,
-    "powerPoint": 20,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1
-  },
-  {
-    "id": 14,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 30,
-    "power": 50,
-    "accuracy": 95,
-    "generation": 1
-  },
-  {
-    "id": 15,
-    "type": 9,
-    "categoryId": 1,
-    "contestId": 3,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
     "powerPoint": 35,
     "power": 40,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
+  },
+  {
+    "id": 11,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 30,
+    "power": 55,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 12,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 30,
+    "genId": 1
+  },
+  {
+    "id": 13,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 14,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 15,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 50,
+    "accuracy": 95,
+    "genId": 1
   },
   {
     "id": 16,
-    "type": 9,
-    "categoryId": 0,
-    "contestId": 0,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
     "powerPoint": 35,
-    "power": 60,
+    "power": 40,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 17,
-    "type": 0,
-    "categoryId": 2,
-    "contestId": 3,
-    "powerPoint": 20,
-    "power": -1,
-    "accuracy": -1,
-    "generation": 1
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 35,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 1
   },
   {
     "id": 18,
-    "type": 9,
-    "categoryId": 0,
-    "contestId": 3,
-    "powerPoint": 15,
-    "power": 90,
-    "accuracy": 95,
-    "generation": 1
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
   },
   {
     "id": 19,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 15,
-    "accuracy": 85,
-    "generation": 1
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 95,
+    "genId": 1
   },
   {
     "id": 20,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
     "powerPoint": 20,
-    "power": 80,
-    "accuracy": 75,
-    "generation": 1
+    "power": 15,
+    "accuracy": 85,
+    "genId": 1
   },
   {
     "id": 21,
-    "type": 4,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 25,
-    "power": 45,
-    "accuracy": 100,
-    "generation": 1
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 75,
+    "genId": 1
   },
   {
     "id": 22,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
-    "powerPoint": 20,
-    "power": 65,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 25,
+    "power": 45,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 23,
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 30,
-    "power": 30,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 65,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 24,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 0,
-    "powerPoint": 5,
-    "power": 120,
-    "accuracy": 75,
-    "generation": 1
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 30,
+    "accuracy": 100,
+    "genId": 1
   },
   {
     "id": 25,
-    "type": 6,
-    "categoryId": 0,
-    "contestId": 0,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 26,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
     "powerPoint": 10,
     "power": 100,
     "accuracy": 95,
-    "generation": 1
+    "genId": 1
+  },
+  {
+    "id": 27,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 28,
+    "pokeTypeId": 8,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 29,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 30,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 25,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 31,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 15,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 32,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 30,
+    "genId": 1
+  },
+  {
+    "id": 33,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 35,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 34,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 85,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 35,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 15,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 36,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 90,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 37,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 38,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 39,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 40,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 35,
+    "power": 15,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 41,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 25,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 42,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 25,
+    "accuracy": 95,
+    "genId": 1
+  },
+  {
+    "id": 43,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 44,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 45,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 46,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 47,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 55,
+    "genId": 1
+  },
+  {
+    "id": 48,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 55,
+    "genId": 1
+  },
+  {
+    "id": 49,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 50,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 51,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 52,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 25,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 53,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 54,
+    "pokeTypeId": 5,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 55,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 25,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 56,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 110,
+    "accuracy": 80,
+    "genId": 1
+  },
+  {
+    "id": 57,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 58,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 59,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 110,
+    "accuracy": 70,
+    "genId": 1
+  },
+  {
+    "id": 60,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 61,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 62,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 63,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 64,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 35,
+    "power": 35,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 65,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 66,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 80,
+    "genId": 1
+  },
+  {
+    "id": 67,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 68,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 69,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 70,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 71,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 25,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 72,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 73,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 74,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 75,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 25,
+    "power": 55,
+    "accuracy": 95,
+    "genId": 1
+  },
+  {
+    "id": 76,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 77,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 35,
+    "power": null,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 78,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 79,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 80,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 81,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 95,
+    "genId": 1
+  },
+  {
+    "id": 82,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 83,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 35,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 84,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 85,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 86,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 87,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 110,
+    "accuracy": 70,
+    "genId": 1
+  },
+  {
+    "id": 88,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 89,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 90,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 30,
+    "genId": 1
+  },
+  {
+    "id": 91,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 92,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 93,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 25,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 94,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 95,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 60,
+    "genId": 1
+  },
+  {
+    "id": 96,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 97,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 98,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 99,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 100,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 101,
+    "pokeTypeId": 13,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 102,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 103,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 104,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 105,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 106,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 107,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 108,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 109,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 110,
+    "pokeTypeId": 2,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 111,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 112,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 113,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 114,
+    "pokeTypeId": 5,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 115,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 116,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 117,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 118,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 119,
+    "pokeTypeId": 9,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 120,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 200,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 121,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 122,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 30,
+    "power": 30,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 123,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 30,
+    "accuracy": 70,
+    "genId": 1
+  },
+  {
+    "id": 124,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 125,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 126,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 110,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 127,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 128,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 35,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 129,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 130,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 130,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 131,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 132,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 35,
+    "power": 10,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 133,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 134,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 80,
+    "genId": 1
+  },
+  {
+    "id": 135,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 136,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 130,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 137,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 138,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 139,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 140,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 15,
+    "accuracy": 85,
+    "genId": 1
+  },
+  {
+    "id": 141,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 142,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 75,
+    "genId": 1
+  },
+  {
+    "id": 143,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 144,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 145,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 146,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 147,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 148,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 149,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 150,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 151,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 152,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 153,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 250,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 154,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 18,
+    "accuracy": 80,
+    "genId": 1
+  },
+  {
+    "id": 155,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 50,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 156,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 157,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 158,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 159,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 160,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 161,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 162,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 90,
+    "genId": 1
+  },
+  {
+    "id": 163,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 1
+  },
+  {
+    "id": 164,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 165,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": null,
+    "power": 50,
+    "accuracy": null,
+    "genId": 1
+  },
+  {
+    "id": 166,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 1,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 167,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 10,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 168,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 169,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 170,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 171,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 172,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 173,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 174,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 175,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 176,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 177,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 95,
+    "genId": 2
+  },
+  {
+    "id": 178,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 179,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 180,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 181,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 25,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 182,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 183,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 184,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 185,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 186,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 75,
+    "genId": 2
+  },
+  {
+    "id": 187,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 188,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 189,
+    "pokeTypeId": 8,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 190,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 85,
+    "genId": 2
+  },
+  {
+    "id": 191,
+    "pokeTypeId": 8,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 192,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 50,
+    "genId": 2
+  },
+  {
+    "id": 193,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 194,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 195,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 196,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 55,
+    "accuracy": 95,
+    "genId": 2
+  },
+  {
+    "id": 197,
+    "pokeTypeId": 6,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 198,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 25,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 199,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 200,
+    "pokeTypeId": 14,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 201,
+    "pokeTypeId": 12,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 202,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 203,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 204,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 205,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 30,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 206,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 40,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 207,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 208,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 209,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 210,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 95,
+    "genId": 2
+  },
+  {
+    "id": 211,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 25,
+    "power": 70,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 212,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 213,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 214,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 215,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 216,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 217,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 90,
+    "genId": 2
+  },
+  {
+    "id": 218,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 219,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 25,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 220,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 221,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 95,
+    "genId": 2
+  },
+  {
+    "id": 222,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 223,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 50,
+    "genId": 2
+  },
+  {
+    "id": 224,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 85,
+    "genId": 2
+  },
+  {
+    "id": 225,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 226,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 227,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 228,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 229,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 40,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 230,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 231,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 100,
+    "accuracy": 75,
+    "genId": 2
+  },
+  {
+    "id": 232,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 35,
+    "power": 50,
+    "accuracy": 95,
+    "genId": 2
+  },
+  {
+    "id": 233,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 70,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 234,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 235,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 236,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 237,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 238,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 80,
+    "genId": 2
+  },
+  {
+    "id": 239,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 240,
+    "pokeTypeId": 2,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 241,
+    "pokeTypeId": 1,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 242,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 243,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 244,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 2
+  },
+  {
+    "id": 245,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 246,
+    "pokeTypeId": 12,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 247,
+    "pokeTypeId": 13,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 248,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 249,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 250,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 35,
+    "accuracy": 85,
+    "genId": 2
+  },
+  {
+    "id": 251,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 2
+  },
+  {
+    "id": 252,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 253,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 254,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 255,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 256,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 257,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 95,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 258,
+    "pokeTypeId": 5,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 259,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 260,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 261,
+    "pokeTypeId": 1,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 85,
+    "genId": 3
+  },
+  {
+    "id": 262,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 263,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 264,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 150,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 265,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 266,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 267,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 268,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 269,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 270,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 271,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 272,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 273,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 274,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 275,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 276,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 277,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 278,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 279,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 280,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 281,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 282,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 283,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 284,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 285,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 286,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 287,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 288,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 289,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 290,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 291,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 292,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 15,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 293,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 294,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 295,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 296,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 297,
+    "pokeTypeId": 9,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 298,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 299,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 85,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 300,
+    "pokeTypeId": 8,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 301,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 30,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 302,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 303,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 304,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 305,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 306,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 95,
+    "genId": 3
+  },
+  {
+    "id": 307,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 308,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 309,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 310,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 30,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 311,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 312,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 313,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 314,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 95,
+    "genId": 3
+  },
+  {
+    "id": 315,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 130,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 316,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 317,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 95,
+    "genId": 3
+  },
+  {
+    "id": 318,
+    "pokeTypeId": 11,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 319,
+    "pokeTypeId": 16,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": 85,
+    "genId": 3
+  },
+  {
+    "id": 320,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 55,
+    "genId": 3
+  },
+  {
+    "id": 321,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 322,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 323,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 324,
+    "pokeTypeId": 11,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 325,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 326,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 327,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 85,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 328,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 35,
+    "accuracy": 85,
+    "genId": 3
+  },
+  {
+    "id": 329,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 30,
+    "genId": 3
+  },
+  {
+    "id": 330,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 85,
+    "genId": 3
+  },
+  {
+    "id": 331,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": 25,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 332,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 333,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": 25,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 334,
+    "pokeTypeId": 16,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 335,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 336,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 337,
+    "pokeTypeId": 14,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 338,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 339,
+    "pokeTypeId": 6,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 340,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": 85,
+    "accuracy": 85,
+    "genId": 3
+  },
+  {
+    "id": 341,
+    "pokeTypeId": 8,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 55,
+    "accuracy": 95,
+    "genId": 3
+  },
+  {
+    "id": 342,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 25,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 343,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 344,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 345,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 346,
+    "pokeTypeId": 2,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 347,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 348,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 349,
+    "pokeTypeId": 14,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 350,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": 25,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 351,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 3
+  },
+  {
+    "id": 352,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 353,
+    "pokeTypeId": 16,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 100,
+    "genId": 3
+  },
+  {
+    "id": 354,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 90,
+    "genId": 3
+  },
+  {
+    "id": 355,
+    "pokeTypeId": 9,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 356,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 357,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 358,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 359,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 360,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 361,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 362,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 363,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 364,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 30,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 365,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 366,
+    "pokeTypeId": 9,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 367,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 368,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 369,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 370,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 371,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 372,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 373,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 374,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 375,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 376,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 377,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 378,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 379,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 380,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 381,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 382,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 383,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 384,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 385,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 386,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 387,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 388,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 389,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 390,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 391,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 392,
+    "pokeTypeId": 2,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 393,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 394,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 395,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 396,
+    "pokeTypeId": 6,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 397,
+    "pokeTypeId": 12,
+    "dmgTypeId": 2,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 398,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 399,
+    "pokeTypeId": 15,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 400,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 401,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 402,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 403,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 75,
+    "accuracy": 95,
+    "genId": 4
+  },
+  {
+    "id": 404,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 405,
+    "pokeTypeId": 11,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 406,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 85,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 407,
+    "pokeTypeId": 14,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 75,
+    "genId": 4
+  },
+  {
+    "id": 408,
+    "pokeTypeId": 12,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 409,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 410,
+    "pokeTypeId": 6,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 411,
+    "pokeTypeId": 6,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 70,
+    "genId": 4
+  },
+  {
+    "id": 412,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 413,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 414,
+    "pokeTypeId": 8,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 415,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 416,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 417,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 418,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 419,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 420,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 421,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 2,
+    "powerPoint": 15,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 422,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 65,
+    "accuracy": 95,
+    "genId": 4
+  },
+  {
+    "id": 423,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 65,
+    "accuracy": 95,
+    "genId": 4
+  },
+  {
+    "id": 424,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 65,
+    "accuracy": 95,
+    "genId": 4
+  },
+  {
+    "id": 425,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 426,
+    "pokeTypeId": 8,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 85,
+    "genId": 4
+  },
+  {
+    "id": 427,
+    "pokeTypeId": 10,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 428,
+    "pokeTypeId": 10,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 429,
+    "pokeTypeId": 16,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 85,
+    "genId": 4
+  },
+  {
+    "id": 430,
+    "pokeTypeId": 16,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 431,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 90,
+    "accuracy": 85,
+    "genId": 4
+  },
+  {
+    "id": 432,
+    "pokeTypeId": 9,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 433,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 434,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 130,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 435,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 436,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 437,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 2,
+    "powerPoint": 5,
+    "power": 130,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 438,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 85,
+    "genId": 4
+  },
+  {
+    "id": 439,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 440,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 441,
+    "pokeTypeId": 7,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 80,
+    "genId": 4
+  },
+  {
+    "id": 442,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 443,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 444,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 80,
+    "genId": 4
+  },
+  {
+    "id": 445,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 446,
+    "pokeTypeId": 12,
+    "dmgTypeId": 2,
+    "contestTypeId": 0,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 447,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 448,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 449,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 450,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 451,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": 50,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 452,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 453,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": 1,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 454,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 455,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 456,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 457,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 80,
+    "genId": 4
+  },
+  {
+    "id": 458,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": 35,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 459,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 150,
+    "accuracy": 90,
+    "genId": 4
+  },
+  {
+    "id": 460,
+    "pokeTypeId": 14,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 95,
+    "genId": 4
+  },
+  {
+    "id": 461,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": 1,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 4
+  },
+  {
+    "id": 462,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 463,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": 4,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 75,
+    "genId": 4
+  },
+  {
+    "id": 464,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": 3,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 80,
+    "genId": 4
+  },
+  {
+    "id": 465,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": 0,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 85,
+    "genId": 4
+  },
+  {
+    "id": 466,
+    "pokeTypeId": 13,
+    "dmgTypeId": 1,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 467,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": 3,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 4
+  },
+  {
+    "id": 468,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 469,
+    "pokeTypeId": 12,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 470,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 471,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 472,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 473,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 474,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 475,
+    "pokeTypeId": 16,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 476,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 477,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 478,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 479,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 480,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 481,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 482,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 95,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 483,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 484,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 485,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 486,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 487,
+    "pokeTypeId": 2,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 488,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 489,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 490,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 491,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 492,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 95,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 493,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 494,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 495,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 496,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 497,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 498,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 499,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 500,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 501,
+    "pokeTypeId": 6,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 502,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 503,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 504,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 505,
+    "pokeTypeId": 10,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 506,
+    "pokeTypeId": 13,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 507,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 508,
+    "pokeTypeId": 16,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 509,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 510,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 511,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 512,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 55,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 513,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 514,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 515,
+    "pokeTypeId": 6,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 516,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 517,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 50,
+    "genId": 5
+  },
+  {
+    "id": 518,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 519,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 520,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 521,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 522,
+    "pokeTypeId": 11,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 523,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 524,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 525,
+    "pokeTypeId": 14,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 60,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 526,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 527,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 55,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 528,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 529,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 530,
+    "pokeTypeId": 14,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 40,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 531,
+    "pokeTypeId": 10,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 25,
+    "power": 60,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 532,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 533,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 534,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 535,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 536,
+    "pokeTypeId": 4,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 537,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 538,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 5
+  },
+  {
+    "id": 539,
+    "pokeTypeId": 15,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 85,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 540,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 541,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 25,
+    "accuracy": 85,
+    "genId": 5
+  },
+  {
+    "id": 542,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 110,
+    "accuracy": 70,
+    "genId": 5
+  },
+  {
+    "id": 543,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 544,
+    "pokeTypeId": 16,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 50,
+    "accuracy": 85,
+    "genId": 5
+  },
+  {
+    "id": 545,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 546,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 547,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 75,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 548,
+    "pokeTypeId": 6,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 85,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 549,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 550,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 130,
+    "accuracy": 85,
+    "genId": 5
+  },
+  {
+    "id": 551,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 130,
+    "accuracy": 85,
+    "genId": 5
+  },
+  {
+    "id": 552,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 553,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 554,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 555,
+    "pokeTypeId": 15,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 55,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 556,
+    "pokeTypeId": 5,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 85,
+    "accuracy": 90,
+    "genId": 5
+  },
+  {
+    "id": 557,
+    "pokeTypeId": 1,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 180,
+    "accuracy": 95,
+    "genId": 5
+  },
+  {
+    "id": 558,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 559,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 100,
+    "genId": 5
+  },
+  {
+    "id": 560,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 95,
+    "genId": 6
+  },
+  {
+    "id": 561,
+    "pokeTypeId": 6,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 562,
+    "pokeTypeId": 7,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 90,
+    "genId": 6
+  },
+  {
+    "id": 563,
+    "pokeTypeId": 8,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 564,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 565,
+    "pokeTypeId": 11,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 25,
+    "power": 30,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 566,
+    "pokeTypeId": 13,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 567,
+    "pokeTypeId": 13,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 568,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 569,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 25,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 570,
+    "pokeTypeId": 3,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 571,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 572,
+    "pokeTypeId": 4,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 573,
+    "pokeTypeId": 5,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 70,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 574,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 40,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 575,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 576,
+    "pokeTypeId": 15,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 577,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 50,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 578,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 579,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 580,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 581,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 582,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 583,
+    "pokeTypeId": 17,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 90,
+    "genId": 6
+  },
+  {
+    "id": 584,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 30,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 585,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": 95,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 586,
+    "pokeTypeId": 0,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 140,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 587,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 588,
+    "pokeTypeId": 16,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 589,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 590,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 591,
+    "pokeTypeId": 12,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": 95,
+    "genId": 6
+  },
+  {
+    "id": 592,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 110,
+    "accuracy": 95,
+    "genId": 6
+  },
+  {
+    "id": 593,
+    "pokeTypeId": 10,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 80,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 594,
+    "pokeTypeId": 2,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 15,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 595,
+    "pokeTypeId": 1,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 65,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 596,
+    "pokeTypeId": 4,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 597,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 598,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 15,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 599,
+    "pokeTypeId": 7,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 600,
+    "pokeTypeId": 11,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 601,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 602,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 603,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 604,
+    "pokeTypeId": 3,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 605,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 606,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 607,
+    "pokeTypeId": 0,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 40,
+    "power": null,
+    "accuracy": null,
+    "genId": 6
+  },
+  {
+    "id": 608,
+    "pokeTypeId": 17,
+    "dmgTypeId": 2,
+    "contestTypeId": null,
+    "powerPoint": 30,
+    "power": null,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 609,
+    "pokeTypeId": 3,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 610,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 40,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 611,
+    "pokeTypeId": 11,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 20,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 612,
+    "pokeTypeId": 6,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 20,
+    "power": 40,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 613,
+    "pokeTypeId": 9,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 80,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 614,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 615,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 616,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 90,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 617,
+    "pokeTypeId": 17,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 140,
+    "accuracy": 90,
+    "genId": 6
+  },
+  {
+    "id": 618,
+    "pokeTypeId": 2,
+    "dmgTypeId": 1,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 110,
+    "accuracy": 85,
+    "genId": 6
+  },
+  {
+    "id": 619,
+    "pokeTypeId": 8,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 10,
+    "power": 120,
+    "accuracy": 85,
+    "genId": 6
+  },
+  {
+    "id": 620,
+    "pokeTypeId": 9,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 120,
+    "accuracy": 100,
+    "genId": 6
+  },
+  {
+    "id": 621,
+    "pokeTypeId": 15,
+    "dmgTypeId": 0,
+    "contestTypeId": null,
+    "powerPoint": 5,
+    "power": 100,
+    "accuracy": null,
+    "genId": 6
   }
 ]

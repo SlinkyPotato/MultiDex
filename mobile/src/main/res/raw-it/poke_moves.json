@@ -1,0 +1,4349 @@
+[
+  {
+    "id": 1,
+    "name": "Botta",
+    "description": "Colpisce il bersaglio con la coda o le zampe\nanteriori.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 2,
+    "name": "Colpokarate",
+    "description": "Colpisce il bersaglio con un colpo netto.\nProbabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 3,
+    "name": "Doppiasberla",
+    "description": "Schiaffeggia il bersaglio da due a cinque volte\ndi fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 4,
+    "name": "Cometapugno",
+    "description": "Colpisce il bersaglio con una scarica di pugni\nda due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 5,
+    "name": "Megapugno",
+    "description": "Colpisce il bersaglio con un pugno poderoso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 6,
+    "name": "Giornopaga",
+    "description": "Colpisce il bersaglio con una gran quantit\u00e0\ndi monete recuperabili dopo la lotta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 7,
+    "name": "Fuocopugno",
+    "description": "Colpisce il bersaglio con un pugno ardente\nche pu\u00f2 scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 8,
+    "name": "Gelopugno",
+    "description": "Colpisce il bersaglio con un pugno di ghiaccio\nche pu\u00f2 congelarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 9,
+    "name": "Tuonopugno",
+    "description": "Colpisce il bersaglio con un pugno elettrico\nche pu\u00f2 paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 10,
+    "name": "Graffio",
+    "description": "Infligge danni al bersaglio con artigli acuminati,\nduri e affilati.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 11,
+    "name": "Presa",
+    "description": "Stringe il bersaglio in una morsa usando enormi\ne possenti tenaglie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 12,
+    "name": "Ghigliottina",
+    "description": "Attacca il bersaglio con pericolose tenaglie.\nSe l\u2019attacco va a segno, il Pok\u00e9mon colpito\nva subito KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 13,
+    "name": "Ventagliente",
+    "description": "Chi la usa genera un turbine al primo turno\ne attacca al secondo. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 14,
+    "name": "Danzaspada",
+    "description": "Danza frenetica che incrementa lo spirito\ncombattivo. Chi la usa aumenta di molto\nil suo Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 15,
+    "name": "Taglio",
+    "description": "Attacca il bersaglio con artigli o falci affilate.\nFuori dalla lotta si usa per tagliare piccoli alberi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 16,
+    "name": "Raffica",
+    "description": "Infligge danni al bersaglio con una folata\ndi vento sollevata dalle ali.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 17,
+    "name": "Attacco d'Ala",
+    "description": "Infligge danni al bersaglio spiegando delle grandi\nali possenti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 18,
+    "name": "Turbine",
+    "description": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pok\u00e9mon\nselvatici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "name": "Volo",
+    "description": "Chi la usa si alza in volo per attaccare al turno\nseguente. Fuori dalla lotta permette di volare\nin citt\u00e0 gi\u00e0 visitate.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 20,
+    "name": "Legatutto",
+    "description": "Il lungo corpo o i tentacoli di chi la usa legano e\nstritolano il bersaglio per quattro o cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 21,
+    "name": "Schianto",
+    "description": "Infligge danni al bersaglio con la coda, con una\nliana o simili.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 22,
+    "name": "Frustata",
+    "description": "Infligge danni al bersaglio con liane sottili\nsimili a fruste.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 23,
+    "name": "Pestone",
+    "description": "Colpisce il bersaglio con un grosso piede\ne pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 24,
+    "name": "Doppiocalcio",
+    "description": "Colpisce il bersaglio due volte con una raffica\ndi calci inferti con entrambi i piedi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 25,
+    "name": "Megacalcio",
+    "description": "Colpisce il bersaglio con un calcio sferrato\ncon la forza di muscoli poderosi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 26,
+    "name": "Calciosalto",
+    "description": "Permette di saltare in alto per attaccare con un\ncalcio. Se non va a buon fine, chi la usa si ferisce.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 27,
+    "name": "Calciorullo",
+    "description": "Chi la usa infierisce sul bersaglio con un calcio\nrotante. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 28,
+    "name": "Turbosabbia",
+    "description": "Getta sabbia in faccia al bersaglio e ne riduce\nla precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 29,
+    "name": "Bottintesta",
+    "description": "Chi la usa si lancia diritto di testa contro\nil bersaglio. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 30,
+    "name": "Incornata",
+    "description": "Danneggia il bersaglio infilzandolo con un corno\naffilato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 31,
+    "name": "Furia",
+    "description": "Infilza il bersaglio con corna affilate o con il becco\nda due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 32,
+    "name": "Perforcorno",
+    "description": "Colpisce il bersaglio con un corno perforante\ncome un trapano. Se il colpo va a segno,\nil Pok\u00e9mon colpito va KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 33,
+    "name": "Azione",
+    "description": "Attacco fisico che colpisce il bersaglio\ninvestendolo con tutto il corpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 34,
+    "name": "Corposcontro",
+    "description": "Chi la usa carica il bersaglio con tutto il corpo.\nPu\u00f2 causarne anche la paralisi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 35,
+    "name": "Avvolgibotta",
+    "description": "Il lungo corpo o le liane di chi la usa avvolgono\ne stritolano il bersaglio per quattro o cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 36,
+    "name": "Riduttore",
+    "description": "Carica spericolata con tutto il corpo contro\nil bersaglio. Danneggia un po\u2019 anche chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 37,
+    "name": "Colpo",
+    "description": "Assale e attacca il nemico per due o tre turni,\nma confonde chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 38,
+    "name": "Sdoppiatore",
+    "description": "Carica spietata e pericolosa che danneggia molto\nanche chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 39,
+    "name": "Colpocoda",
+    "description": "Chi la usa agita la coda per distrarre i nemici\nche ha intorno, riducendone la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 40,
+    "name": "Velenospina",
+    "description": "Colpisce il bersaglio con un aculeo tossico\nche pu\u00f2 anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 41,
+    "name": "Doppio Ago",
+    "description": "Colpisce il bersaglio due volte di seguito con\nun paio di aghi. Pu\u00f2 anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 42,
+    "name": "Missilspillo",
+    "description": "Il bersaglio viene colpito da due a cinque volte\ncon spilli appuntiti in rapida successione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 43,
+    "name": "Fulmisguardo",
+    "description": "Terrorizza i nemici intorno con uno sguardo\nfulminante e intimidatorio, riducendone la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 44,
+    "name": "Morso",
+    "description": "Il bersaglio viene morso da denti affilatissimi\nche possono farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 45,
+    "name": "Ruggito",
+    "description": "Distrae i nemici intorno con un ruggito potente\ne ne riduce l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 46,
+    "name": "Boato",
+    "description": "Il bersaglio lascia il campo e viene sostituito.\nMette fine alle lotte contro singoli Pok\u00e9mon\nselvatici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 47,
+    "name": "Canto",
+    "description": "Dolce ninnananna, cantata da una voce suadente,\nche fa addormentare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 48,
+    "name": "Supersuono",
+    "description": "Chi la usa genera dal proprio corpo strane onde\nacustiche che possono confondere il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 49,
+    "name": "Sonicboom",
+    "description": "Il bersaglio viene colpito da onde acustiche\ndevastanti che gli provocano un danno\npari a 20 PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 50,
+    "name": "Inibitore",
+    "description": "Per quattro turni impedisce al bersaglio\ndi riutilizzare l\u2019ultima mossa usata.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 51,
+    "name": "Acido",
+    "description": "Colpisce i nemici intorno spruzzando un acido\ncorrosivo. Pu\u00f2 anche ridurne la Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 52,
+    "name": "Braciere",
+    "description": "Il bersaglio viene colpito da fiammelle che possono \nanche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 53,
+    "name": "Lanciafiamme",
+    "description": "Il bersaglio viene colpito da intense fiammate\nche possono anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 54,
+    "name": "Nebbia",
+    "description": "Chi la usa attira una nebbia che blocca la riduzione\ndelle statistiche per s\u00e9 e gli alleati per cinque turni. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 55,
+    "name": "Pistolacqua",
+    "description": "Il bersaglio \u00e8 colpito da un potente getto d\u2019acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 56,
+    "name": "Idropompa",
+    "description": "Il bersaglio \u00e8 travolto da un potente getto d\u2019acqua\nspruzzato ad altissima pressione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 57,
+    "name": "Surf",
+    "description": "Un\u2019onda enorme sommerge il campo di lotta,\ncolpendo tutti i Pok\u00e9mon intorno a chi la scatena.\nFuori dalla lotta si usa per spostarsi sull\u2019acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 58,
+    "name": "Geloraggio",
+    "description": "Il bersaglio \u00e8 colpito da un raggio di energia gelida \nche pu\u00f2 anche congelarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 59,
+    "name": "Bora",
+    "description": "Colpisce i nemici intorno con una tremenda\ntempesta di ghiaccio che pu\u00f2 anche congelarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 60,
+    "name": "Psicoraggio",
+    "description": "Colpisce il bersaglio con un raggio speciale.\nPu\u00f2 anche confonderlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 61,
+    "name": "Bollaraggio",
+    "description": "Colpisce il bersaglio con una forte scarica di bolle.\nPu\u00f2 anche ridurne la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 62,
+    "name": "Raggiaurora",
+    "description": "Colpisce il bersaglio con un raggio dai colori\ndell\u2019iride. Pu\u00f2 anche ridurne l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 63,
+    "name": "Iper Raggio",
+    "description": "Colpisce il bersaglio con un potente raggio.\nChi la usa salta il turno successivo per recuperare\nenergia.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 64,
+    "name": "Beccata",
+    "description": "Colpisce il bersaglio con il becco appuntito\no con un corno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 65,
+    "name": "Perforbecco",
+    "description": "Attacco a spirale con un becco aguzzo\nche fa da trapano.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 66,
+    "name": "Sottomissione",
+    "description": "Chi la usa carica il bersaglio in modo spericolato,\nma danneggia anche se stesso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 67,
+    "name": "Colpo Basso",
+    "description": "Un calcio basso e potente che fa cadere\nil bersaglio. Danneggia maggiormente\ni Pok\u00e9mon pi\u00f9 pesanti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 68,
+    "name": "Contrattacco",
+    "description": "Mossa che contrasta ogni attacco fisico,\narrecando il doppio del danno ricevuto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 69,
+    "name": "Movim. Sismico",
+    "description": "Colpisce il bersaglio con la forza di gravit\u00e0.\nInfligge un danno pari al livello di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 70,
+    "name": "Forza",
+    "description": "Colpisce il bersaglio con un\u2019enorme energia.\nFuori dalla lotta si usa per spostare i massi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 71,
+    "name": "Assorbimento",
+    "description": "Mossa che assorbe PS. Chi la usa recupera una\nquantit\u00e0 di PS pari alla met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 72,
+    "name": "Megassorbimento",
+    "description": "Mossa che assorbe PS. Chi la usa recupera una\nquantit\u00e0 di PS pari alla met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 73,
+    "name": "Parassiseme",
+    "description": "Vengono piantati semi sul bersaglio. Questi\nsottraggono PS a ogni turno permettendo\na chi la usa di curarsi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 74,
+    "name": "Crescita",
+    "description": "Provoca la crescita immediata del corpo\ne l\u2019aumento dell\u2019Attacco e dell\u2019Attacco Speciale\ndi chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 75,
+    "name": "Foglielama",
+    "description": "Foglie taglienti sferzano i nemici intorno.\nProbabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 76,
+    "name": "Solarraggio",
+    "description": "Chi la usa assorbe luce al primo turno per\nproiettare un raggio intenso al turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 77,
+    "name": "Velenpolvere",
+    "description": "Investe il bersaglio con una nuvola di polvere\ntossica che avvelena.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 78,
+    "name": "Paralizzante",
+    "description": "Investe il bersaglio con una nuvola di polvere\nche paralizza.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 79,
+    "name": "Sonnifero",
+    "description": "Investe il bersaglio con una grande nuvola\ndi polvere soporifera che lo fa addormentare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 80,
+    "name": "Petalodanza",
+    "description": "Attacca il nemico cospargendolo di petali\nper due o tre turni, ma chi la usa rimane confuso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 81,
+    "name": "Millebave",
+    "description": "Chi la usa produce della seta che avvolge\ni nemici intorno e ne riduce di molto la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 82,
+    "name": "Ira di Drago",
+    "description": "Colpisce il bersaglio con un\u2019onda d\u2019urto generata\ndall\u2019ira. Questo attacco provoca sempre un danno\ndi 40 PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 83,
+    "name": "Turbofuoco",
+    "description": "Intrappola il bersaglio in un turbine di fuoco\nche dura per quattro o cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 84,
+    "name": "Tuonoshock",
+    "description": "Danneggia il bersaglio con una scarica elettrica\nche pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 85,
+    "name": "Fulmine",
+    "description": "Il bersaglio viene colpito da una potente scarica\nelettrica che pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 86,
+    "name": "Tuononda",
+    "description": "Il nemico viene colpito da una debole scarica\nelettrica che, se va a segno, ne causa la paralisi. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 87,
+    "name": "Tuono",
+    "description": "Il bersaglio \u00e8 colpito da un lampo molto violento\nche pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 88,
+    "name": "Sassata",
+    "description": "Chi la usa solleva una roccia e la lancia\ncontro il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 89,
+    "name": "Terremoto",
+    "description": "Chi la usa provoca un potente sisma che colpisce\ni Pok\u00e9mon che ha intorno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 90,
+    "name": "Abisso",
+    "description": "Chi la usa crea una spaccatura nel terreno e cerca\ndi gettarvici dentro il bersaglio. Se va a segno,\nil Pok\u00e9mon colpito va KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 91,
+    "name": "Fossa",
+    "description": "Chi la usa scava al primo turno e attacca\nal successivo. Fuori dalla lotta fa uscire\nda alcuni luoghi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 92,
+    "name": "Tossina",
+    "description": "Iperavvelena il bersaglio con una potente tossina.\nIl danno peggiora a ogni turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 93,
+    "name": "Confusione",
+    "description": "Colpisce il bersaglio con una leggera forza\ntelecinetica e pu\u00f2 anche confonderlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 94,
+    "name": "Psichico",
+    "description": "Il bersaglio viene colpito da una potente\nforza telecinetica che pu\u00f2 anche ridurne\nla Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 95,
+    "name": "Ipnosi",
+    "description": "Chi la usa si avvale della suggestione ipnotica\nper far addormentare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 96,
+    "name": "Meditazione",
+    "description": "Chi la usa medita per risvegliare la propria\nforza interiore e migliorare l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 97,
+    "name": "Agilit\u00e0",
+    "description": "Chi la usa rilassa e alleggerisce il proprio corpo\nper far salire di molto la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 98,
+    "name": "Attacco Rapido",
+    "description": "Chi la usa colpisce sempre per primo e a una tale\nvelocit\u00e0 da rendersi quasi invisibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 99,
+    "name": "Ira",
+    "description": "Questa mossa ha il potere di aumentare\nla statistica Attacco ogni volta che chi la usa\nviene colpito durante una lotta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 100,
+    "name": "Teletrasporto",
+    "description": "Fa fuggire dai Pok\u00e9mon selvatici. Fuori dalla lotta\nporta all\u2019ultimo Centro Pok\u00e9mon visitato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 101,
+    "name": "Ombra Notturna",
+    "description": "Fa apparire un orribile miraggio al bersaglio\ne infligge un danno pari al livello di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 102,
+    "name": "Mimica",
+    "description": "Chi la usa copia l\u2019ultima mossa usata dal bersaglio\ne la conserva finch\u00e9 rimane in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 103,
+    "name": "Stridio",
+    "description": "Stridio assordante che riduce di molto la Difesa\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 104,
+    "name": "Doppioteam",
+    "description": "Chi la usa si muove in fretta e crea copie illusorie\ndi se stesso che aumentano la capacit\u00e0 di elusione. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 105,
+    "name": "Ripresa",
+    "description": "Mossa autocurativa. Chi la usa recupera met\u00e0\ndei PS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 106,
+    "name": "Rafforzatore",
+    "description": "Tutti i muscoli del corpo si tonificano\nper aumentare la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 107,
+    "name": "Minimizzato",
+    "description": "Il corpo di chi la usa si comprime e diventa\npi\u00f9 piccolo. La sua capacit\u00e0 di elusione\naumenta di molto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 108,
+    "name": "Muro di Fumo",
+    "description": "Nuvola di fumo o inchiostro che riduce\nla precisione del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 109,
+    "name": "Stordiraggio",
+    "description": "Colpisce il bersaglio con un raggio funesto\nche lo confonde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 110,
+    "name": "Ritirata",
+    "description": "Il corpo si ritira nel suo duro guscio per aumentare\nla Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 111,
+    "name": "Ricciolscudo",
+    "description": "Chi la usa si raggomitola per nascondere\ni punti deboli e aumentare la propria Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 112,
+    "name": "Barriera",
+    "description": "Innalza una barriera resistente che aumenta molto\nla Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 113,
+    "name": "Schermoluce",
+    "description": "Innalza una barriera di luce fantastica che riduce\ni danni degli attacchi speciali per s\u00e9 e gli alleati\nper cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 114,
+    "name": "Nube",
+    "description": "Chi la usa crea una nube nera che annulla\nogni modifica alle statistiche di tutti i Pok\u00e9mon\nin campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 115,
+    "name": "Riflesso",
+    "description": "Innalza una barriera di luce fantastica che riduce\ni danni degli attacchi fisici per s\u00e9 e gli alleati\nper cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 116,
+    "name": "Focalenergia",
+    "description": "Chi la usa fa un profondo respiro e si concentra\nper rendere pi\u00f9 probabili i brutti colpi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 117,
+    "name": "Pazienza",
+    "description": "Chi la usa subisce attacchi per due turni\ne poi restituisce il danno moltiplicato per due.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 118,
+    "name": "Metronomo",
+    "description": "Chi la usa fa di no con il dito e stimola il cervello\na usare a caso una delle tante mosse esistenti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 119,
+    "name": "Speculmossa",
+    "description": "Chi la usa colpisce il bersaglio copiandone\nl\u2019ultima mossa usata.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 120,
+    "name": "Autodistruzione",
+    "description": "Chi la usa esplode e infligge danni ai Pok\u00e9mon\nche ha intorno, ma poi va KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 121,
+    "name": "Uovobomba",
+    "description": "Colpisce il bersaglio con un grande uovo\nscaraventato con enorme forza.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 122,
+    "name": "Leccata",
+    "description": "Una lingua lunga infligge danni al bersaglio\ne pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 123,
+    "name": "Smog",
+    "description": "Colpisce il bersaglio con una scarica di gas\nmaleodoranti. Pu\u00f2 anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 124,
+    "name": "Fango",
+    "description": "Lancio di fango malsano che arreca danno\nal bersaglio. Pu\u00f2 anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 125,
+    "name": "Ossoclava",
+    "description": "Chi la usa colpisce il bersaglio con un osso e\npu\u00f2 farlo anche tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 126,
+    "name": "Fuocobomba",
+    "description": "Investe il bersaglio con un\u2019intensa fiammata\nche fa terra bruciata. Pu\u00f2 anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 127,
+    "name": "Cascata",
+    "description": "Carica il bersaglio a grande velocit\u00e0 e pu\u00f2 farlo\ntentennare. Fuori dalla lotta fa risalire le cascate.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 128,
+    "name": "Tenaglia",
+    "description": "Chi la usa intrappola e stritola il bersaglio con\nla sua corazza spessa e forte per quattro\no cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 129,
+    "name": "Comete",
+    "description": "Chi la usa colpisce i nemici intorno con raggi\na forma di stella. Questo attacco \u00e8 infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 130,
+    "name": "Capocciata",
+    "description": "Chi la usa ritira la testa per aumentare la Difesa\ne poi attacca al turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 131,
+    "name": "Sparalance",
+    "description": "Il bersaglio viene colpito da due a cinque volte\ncon spilli appuntiti in rapida successione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 132,
+    "name": "Limitazione",
+    "description": "Colpisce il bersaglio con lunghi tentacoli o piante\nrampicanti. Pu\u00f2 anche ridurne la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 133,
+    "name": "Amnesia",
+    "description": "Chi la usa svuota per un po\u2019 la mente per\ndimenticare i problemi. La Difesa Speciale\naumenta di molto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 134,
+    "name": "Cin\u00e8si",
+    "description": "Chi la usa distrae il bersaglio piegando\nun cucchiaio e ne riduce la precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 135,
+    "name": "Covauova",
+    "description": "Chi la usa recupera met\u00e0 dei propri PS massimi.\nFuori dalla lotta pu\u00f2 anche far trasferire PS\nagli alleati.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 136,
+    "name": "Calcinvolo",
+    "description": "Chi la usa colpisce il bersaglio con una ginocchiata  \nin volo. Se fallisce, subisce danni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 137,
+    "name": "Sguardo Feroce",
+    "description": "Chi la usa spaventa il bersaglio con uno sguardo\nterrificante e ne causa la paralisi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 138,
+    "name": "Mangiasogni",
+    "description": "Attacco che funziona solo su un bersaglio\nche dorme. Chi lo usa riceve met\u00e0 dei PS\npersi dal Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 139,
+    "name": "Velenogas",
+    "description": "Spruzza in faccia ai nemici che ha intorno\nuna nuvola di gas tossico che avvelena.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 140,
+    "name": "Attacco Pioggia",
+    "description": "Piovono enormi sfere sulla testa del bersaglio\nda due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 141,
+    "name": "Sanguisuga",
+    "description": "Mossa succhiasangue. Chi la usa recupera una\nquantit\u00e0 di PS pari alla met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 142,
+    "name": "Demonbacio",
+    "description": "Chi la usa intimidisce il bersaglio con una faccia\npaurosa e gli schiocca un bacio che lo fa\naddormentare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 143,
+    "name": "Aeroattacco",
+    "description": "Attacco in due turni e probabile brutto colpo.\nPu\u00f2 anche far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 144,
+    "name": "Trasformazione",
+    "description": "Chi la usa si trasforma in una copia esatta\ndel bersaglio per sfruttarne le caratteristiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 145,
+    "name": "Bolla",
+    "description": "Una pioggia di bolle investe i nemici intorno\ne pu\u00f2 anche ridurne la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 146,
+    "name": "Stordipugno",
+    "description": "Colpisce il bersaglio con una sequenza di pugni\nche pu\u00f2 anche confonderlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 147,
+    "name": "Spora",
+    "description": "Nube di spore che fa sempre addormentare\nil bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 148,
+    "name": "Flash",
+    "description": "Investe il bersaglio con una luce abbagliante\nche ne riduce la precisione.\nServe anche per illuminare i luoghi bui.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 149,
+    "name": "Psiconda",
+    "description": "Colpisce il bersaglio con una strana onda psichica.\nHa un\u2019intensit\u00e0 variabile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 150,
+    "name": "Splash",
+    "description": "Chi la usa sguazza nell\u2019acqua, senza ottenere\nalcun effetto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 151,
+    "name": "Scudo Acido",
+    "description": "Chi la usa altera la sua struttura cellulare passando  \nallo stato liquido. La Difesa sale di molto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 152,
+    "name": "Martellata",
+    "description": "Danneggia il bersaglio servendosi di una grande\ntenaglia. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 153,
+    "name": "Esplosione",
+    "description": "Chi la usa esplode per infliggere danni\nagli altri Pok\u00e9mon attorno, ma va KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 154,
+    "name": "Sfuriate",
+    "description": "Colpisce il bersaglio con artigli o falci affilate\nda due a cinque volte in rapida successione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 155,
+    "name": "Ossomerang",
+    "description": "Chi la usa lancia l\u2019osso che ha con s\u00e9.\nL\u2019osso colpisce due volte e ritorna come un vero\ne proprio boomerang.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 156,
+    "name": "Riposo",
+    "description": "Chi la usa recupera tutti i PS e guarisce da tutti\ni suoi problemi di stato, ma dorme per due turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 157,
+    "name": "Frana",
+    "description": "I nemici intorno a chi la usa vengono colpiti da\ngrandi massi che possono anche farli tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 158,
+    "name": "Iperzanna",
+    "description": "Chi la usa morde il bersaglio con i suoi incisivi\naffilati. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 159,
+    "name": "Affilatore",
+    "description": "Chi la usa riduce il numero di poligoni sul\nproprio corpo per accentuarne gli spigoli\ne aumentare l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 160,
+    "name": "Conversione",
+    "description": "Il tipo di chi la usa muta in quello della prima\nmossa nella lista delle sue mosse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 161,
+    "name": "Tripletta",
+    "description": "Colpisce il bersaglio con tre sfere simultanee che\npossono paralizzarlo, scottarlo o congelarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 162,
+    "name": "Superzanna",
+    "description": "Chi la usa salta sul bersaglio azzannandolo\ncon i suoi incisivi affilati e facendogli perdere\nmet\u00e0 dei PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 163,
+    "name": "Lacerazione",
+    "description": "Attacca il bersaglio con artigli, falci o altro.\nProbabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 164,
+    "name": "Sostituto",
+    "description": "Chi la usa crea una copia di se stesso usando\nalcuni PS. La copia serve come esca per il nemico.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 165,
+    "name": "Scontro",
+    "description": "Mossa da usare solo in caso estremo, quando\nnon si hanno pi\u00f9 PP. Danneggia anche chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 166,
+    "name": "Schizzo",
+    "description": "Permette a chi la usa di imparare l\u2019ultima mossa\nusata dal bersaglio. La nuova mossa appresa\nsostituisce Schizzo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 167,
+    "name": "Triplocalcio",
+    "description": "Chi la usa sferra fino a tre calci consecutivi\nla cui potenza aumenta a ogni colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 168,
+    "name": "Furto",
+    "description": "Chi la usa attacca il bersaglio e pu\u00f2 rubargli\nlo strumento, se non ne ha gi\u00e0 uno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 169,
+    "name": "Ragnatela",
+    "description": "Copre il bersaglio con un filo di seta sottile e\nappiccicoso. Il Pok\u00e9mon colpito non pu\u00f2 fuggire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 170,
+    "name": "Leggimente",
+    "description": "Chi la usa prevede i movimenti del bersaglio\nper mandare a segno l\u2019attacco successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 171,
+    "name": "Incubo",
+    "description": "Il bersaglio addormentato ha un incubo e\nperde PS a ogni turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 172,
+    "name": "Ruotafuoco",
+    "description": "Chi la usa si copre di fuoco e carica il bersaglio.\nPu\u00f2 anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 173,
+    "name": "Russare",
+    "description": "Mossa da usare solo mentre si dorme. Il chiasso\nassordante pu\u00f2 anche far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 174,
+    "name": "Maledizione",
+    "description": "Una mossa che agisce in modo diverso\nse chi la usa \u00e8 di tipo Spettro.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 175,
+    "name": "Flagello",
+    "description": "Chi la usa si dimena per attaccare. \u00c8 pi\u00f9 efficace\nse i suoi PS sono bassi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 176,
+    "name": "Conversione2",
+    "description": "Chi la usa cambia tipo per rendersi resistente\nal tipo dell\u2019ultima mossa usata dal bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 177,
+    "name": "Aerocolpo",
+    "description": "Colpisce il bersaglio con un vortice d\u2019aria\nper danneggiarlo. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 178,
+    "name": "Cottonspora",
+    "description": "Rilascia spore simili al cotone che si attaccano\nai nemici nei paraggi e ne riducono di molto\nla Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 179,
+    "name": "Contropiede",
+    "description": "Chi la usa attacca con tutte le sue forze.\nPi\u00f9 i PS sono bassi, maggiore \u00e8 la potenza\ndi questa mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 180,
+    "name": "Dispetto",
+    "description": "Chi la usa sfoga la propria rabbia sull\u2019ultima mossa\nusata dal bersaglio e le sottrae quattro PP.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 181,
+    "name": "Polneve",
+    "description": "Attacca i nemici che ha intorno con una raffica\ndi neve farinosa e pu\u00f2 anche congelarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 182,
+    "name": "Protezione",
+    "description": "Permette di eludere tutti gli attacchi.\nSe usata in successione pu\u00f2 fallire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 183,
+    "name": "Pugnorapido",
+    "description": "Chi la usa tira un pugno a una velocit\u00e0\nimpressionante e colpisce sempre per primo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 184,
+    "name": "Visotruce",
+    "description": "Chi la usa spaventa il bersaglio con una faccia\nterribile e ne riduce di molto la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 185,
+    "name": "Finta",
+    "description": "Chi la usa si avvicina al bersaglio facendo finta\ndi niente, per poi scagliare un pugno infallibile\na tradimento.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 186,
+    "name": "Dolcebacio",
+    "description": "Chi la usa bacia il bersaglio con una dolcezza\nangelica, confondendolo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 187,
+    "name": "Panciamburo",
+    "description": "Chi la usa massimizza l\u2019Attacco in cambio di met\u00e0\ndei PS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 188,
+    "name": "Fangobomba",
+    "description": "Lancio di fango malsano che arreca danno\nal bersaglio. Pu\u00f2 anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 189,
+    "name": "Fangosberla",
+    "description": "Chi la usa butta fango in faccia al bersaglio\nper arrecargli danni e ridurne la precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 190,
+    "name": "Octazooka",
+    "description": "Chi la usa spruzza inchiostro in faccia al bersaglio.\nPu\u00f2 anche ridurne la precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 191,
+    "name": "Punte",
+    "description": "Chi la usa piazza sul terreno una trappola\ndi punte che danneggia i nemici quando\nscendono in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 192,
+    "name": "Falcecannone",
+    "description": "Chi la usa provoca un\u2019esplosione elettrica\nche infligge danni e paralizza il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 193,
+    "name": "Preveggenza",
+    "description": "Chi la usa rende i Pok\u00e9mon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e pu\u00f2,\ninoltre, colpire i nemici sfuggenti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 194,
+    "name": "Destinobbligato",
+    "description": "Se chi la usa va KO prima del turno successivo,\nchi ha sferrato il colpo da KO fa la stessa fine.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 195,
+    "name": "Ultimocanto",
+    "description": "Qualunque Pok\u00e9mon che senta questo canto va\nKO in tre turni, se non lo si sostituisce.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 196,
+    "name": "Ventogelato",
+    "description": "Chi la usa attacca i nemici intorno con\nuna folata di aria gelida e ne riduce anche\nla Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 197,
+    "name": "Individua",
+    "description": "Permette di eludere tutti gli attacchi.\nSe usata in successione pu\u00f2 fallire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 198,
+    "name": "Ossoraffica",
+    "description": "Chi la usa colpisce il bersaglio con un osso\nda due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 199,
+    "name": "Localizza",
+    "description": "Chi la usa punta il bersaglio con precisione.\nLa mossa successiva andr\u00e0 a segno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 200,
+    "name": "Oltraggio",
+    "description": "Chi la usa sfoga la sua ira e attacca il nemico\nper due o tre turni prima di essere lasciato\nin preda alla confusione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 201,
+    "name": "Terrempesta",
+    "description": "Causa una tempesta di sabbia per cinque turni\nche danneggia tutti i tipi in campo esclusi\nTerra, Roccia e Acciaio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 202,
+    "name": "Gigassorbimento",
+    "description": "Mossa che assorbe PS. Chi la usa recupera una\nquantit\u00e0 di PS pari alla met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 203,
+    "name": "Resistenza",
+    "description": "Chi la usa resta con un PS anche se subisce un\ncolpo da KO in quel turno. Usata in successione\npu\u00f2 fallire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 204,
+    "name": "Fascino",
+    "description": "Ammalia il bersaglio con lo sguardo per renderlo\nmeno cauto. Ne riduce molto l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 205,
+    "name": "Rotolamento",
+    "description": "Chi la usa colpisce il bersaglio rotolando\nper cinque turni, con aumento progressivo\ndella potenza ogni volta che va a segno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 206,
+    "name": "Falsofinale",
+    "description": "Chi la usa trattiene il colpo per impedire al bersaglio \ndi andare KO, lasciandolo con almeno un PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 207,
+    "name": "Bullo",
+    "description": "Chi la usa provoca il bersaglio e lo confonde,\nfacendo aumentare per\u00f2 di molto il suo Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 208,
+    "name": "Buonlatte",
+    "description": "Chi la usa recupera met\u00e0 dei propri PS massimi.\nFuori dalla lotta pu\u00f2 anche far trasferire PS\nagli alleati.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 209,
+    "name": "Scintilla",
+    "description": "Colpisce il bersaglio con una scarica elettrica\ne pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 210,
+    "name": "Tagliofuria",
+    "description": "Colpisce il bersaglio con falci o artigli. Se usata\nin successione aumenta di potenza ogni volta\nche va a segno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 211,
+    "name": "Alacciaio",
+    "description": "Colpisce il bersaglio con ali d\u2019acciaio. Pu\u00f2 anche\naumentare la Difesa di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 212,
+    "name": "Malosguardo",
+    "description": "Chi la usa blocca il bersaglio con uno sguardo\noscuro e ammaliante, impedendogli la fuga.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 213,
+    "name": "Attrazione",
+    "description": "Se il bersaglio \u00e8 del sesso opposto, s\u2019infatua\ne diventa riluttante ad attaccare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 214,
+    "name": "Sonnolalia",
+    "description": "Chi la usa sfodera a caso una delle proprie mosse\nmentre sta dormendo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 215,
+    "name": "Rintoccasana",
+    "description": "Chi la usa produce uno scampanellio che cura\ni problemi di stato suoi e dei Pok\u00e9mon alleati.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 216,
+    "name": "Ritorno",
+    "description": "Mossa che diventa tanto pi\u00f9 potente quanto\nmaggiore \u00e8 il grado di affezione del Pok\u00e9mon\nper il proprio Allenatore.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 217,
+    "name": "Regalino",
+    "description": "Chi la usa d\u00e0 un regalo bomba al bersaglio.\nA volte, per\u00f2, pu\u00f2 fargli recuperare PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 218,
+    "name": "Frustrazione",
+    "description": "Mossa che diventa tanto pi\u00f9 potente quanto\nminore \u00e8 il grado di affezione del Pok\u00e9mon\nper il proprio Allenatore.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 219,
+    "name": "Salvaguardia",
+    "description": "Chi la usa crea un campo protettivo che evita\nproblemi di stato per s\u00e9 e gli alleati\nper cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 220,
+    "name": "Malcomune",
+    "description": "Chi la usa somma i propri PS a quelli di un altro\nPok\u00e9mon per poi dividerli in parti uguali.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 221,
+    "name": "Magifuoco",
+    "description": "Colpisce il bersaglio con un fuoco mistico di\nenorme intensit\u00e0 che pu\u00f2 anche causargli\nuna scottatura.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 222,
+    "name": "Magnitudo",
+    "description": "Chi la usa scatena un terremoto d\u2019intensit\u00e0\nvariabile che danneggia i Pok\u00e9mon che ha intorno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 223,
+    "name": "Dinamipugno",
+    "description": "Colpisce il bersaglio con un pugno davvero forte.\nSe va a segno, lo confonde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 224,
+    "name": "Megacorno",
+    "description": "Chi la usa utilizza il suo robusto e imponente\ncorno per colpire il bersaglio con tutto se stesso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 225,
+    "name": "Dragospiro",
+    "description": "Investe il bersaglio con una raffica potentissima\nche arreca danni. Pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 226,
+    "name": "Staffetta",
+    "description": "Chi la usa \u00e8 sostituito da un Pok\u00e9mon della\nsquadra, che eredita anche ogni modifica\nalle statistiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 227,
+    "name": "Ripeti",
+    "description": "Chi la usa obbliga il bersaglio a ripetere per tre\nturni l\u2019ultima mossa eseguita.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 228,
+    "name": "Inseguimento",
+    "description": "Una mossa d\u2019attacco che infligge un danno doppio\nse il bersaglio \u00e8 in fase di sostituzione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 229,
+    "name": "Rapigiro",
+    "description": "Attacco rotante che elimina gli effetti di\nmosse come Legatutto, Avvolgibotta, Punte\ne Parassiseme.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 230,
+    "name": "Profumino",
+    "description": "Un dolce profumo che riduce di molto l\u2019elusione\ndei nemici intorno a chi la usa. Fuori dalla lotta\nattira i Pok\u00e9mon selvatici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 231,
+    "name": "Codacciaio",
+    "description": "Il bersaglio viene colpito da una robusta coda\nd\u2019acciaio. Pu\u00f2 anche ridurne la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 232,
+    "name": "Ferrartigli",
+    "description": "Colpisce il bersaglio con artigli d\u2019acciaio.\nPu\u00f2 anche aumentare l\u2019Attacco di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 233,
+    "name": "Vitaltiro",
+    "description": "Chi la usa attacca per ultimo, ma il colpo\n\u00e8 sempre infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 234,
+    "name": "Mattindoro",
+    "description": "Chi la usa recupera PS. Il numero di PS recuperati\ndipende dalle condizioni atmosferiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 235,
+    "name": "Sintesi",
+    "description": "Chi la usa recupera PS. Il numero di PS recuperati\ndipende dalle condizioni atmosferiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 236,
+    "name": "Lucelunare",
+    "description": "Chi la usa recupera PS. Il numero di PS recuperati\ndipende dalle condizioni atmosferiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 237,
+    "name": "Introforza",
+    "description": "Mossa singolare che cambia tipo a seconda\ndel Pok\u00e9mon che la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 238,
+    "name": "Incrocolpo",
+    "description": "Investe il bersaglio con un colpo sferrato\ncon entrambe le braccia incrociate.\nProbabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 239,
+    "name": "Tornado",
+    "description": "Un potente tornado si abbatte sui nemici nei\nparaggi. Pu\u00f2 anche farli tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 240,
+    "name": "Pioggiadanza",
+    "description": "Chi la usa provoca una forte pioggia per\ncinque turni, potenziando le mosse di tipo Acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 241,
+    "name": "Giornodisole",
+    "description": "Chi la usa intensifica i raggi solari per\ncinque turni, potenziando le mosse di tipo Fuoco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 242,
+    "name": "Sgranocchio",
+    "description": "Il bersaglio viene morso con denti affilati.\nPu\u00f2 anche ridurne la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 243,
+    "name": "Specchiovelo",
+    "description": "Mossa che replica ogni attacco speciale,\narrecando il doppio del danno ricevuto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 244,
+    "name": "Psicamis\u00f9",
+    "description": "Chi la usa s\u2019ipnotizza per copiare ogni modifica\nalle statistiche del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 245,
+    "name": "Extrarapido",
+    "description": "Chi la usa carica il bersaglio a una velocit\u00e0\nimpressionante e attacca sempre per primo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 246,
+    "name": "Forzantica",
+    "description": "Colpisce il bersaglio con una forza primordiale.\nPu\u00f2 aumentare tutte le statistiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 247,
+    "name": "Palla Ombra",
+    "description": "Lancia sul bersaglio una sfera nera.\nPu\u00f2 anche ridurne la Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 248,
+    "name": "Divinazione",
+    "description": "Due turni dopo l\u2019utilizzo di questa mossa,\nil bersaglio viene attaccato con energia psichica.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 249,
+    "name": "Spaccaroccia",
+    "description": "Chi la usa colpisce il bersaglio con un pugno\nin grado di frantumare anche la roccia.\nPu\u00f2 anche ridurne la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 250,
+    "name": "Mulinello",
+    "description": "Intrappola il bersaglio in un turbine d\u2019acqua per\nquattro o cinque turni infliggendo danni\na ogni turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 251,
+    "name": "Picchiaduro",
+    "description": "Chi la usa chiama in aiuto i Pok\u00e9mon della\nsquadra: pi\u00f9 ce ne sono, maggiore \u00e8 il numero\ndi attacchi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 252,
+    "name": "Bruciapelo",
+    "description": "Mossa che fa agire per primi e fa tentennare\nil bersaglio. Funziona solo appena scesi in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 253,
+    "name": "Baraonda",
+    "description": "Chi la usa attacca per tre turni con un frastuono\nche non fa dormire nessuno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 254,
+    "name": "Accumulo",
+    "description": "Chi la usa accumula energia aumentando\nla Difesa e la Difesa Speciale.\nSi pu\u00f2 utilizzare tre volte.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 255,
+    "name": "Sfoghenergia",
+    "description": "Tutta l\u2019energia accumulata in precedenza\ncon Accumulo \u00e8 rilasciata nell\u2019attacco.\nMaggiore \u00e8 l\u2019energia, pi\u00f9 danni si arrecano.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 256,
+    "name": "Introenergia",
+    "description": "Chi la usa assorbe l\u2019energia raccolta\ncon la mossa Accumulo e recupera PS.\nMaggiore \u00e8 l\u2019energia, pi\u00f9 PS si recuperano.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 257,
+    "name": "Ondacalda",
+    "description": "Chi la usa investe i nemici che ha intorno con\nuna folata di vento caldo. Pu\u00f2 anche scottarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 258,
+    "name": "Grandine",
+    "description": "Chi la usa causa una grandinata che dura\ncinque turni. Danneggia tutti i Pok\u00e9mon\ntranne quelli di tipo Ghiaccio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 259,
+    "name": "Attaccalite",
+    "description": "Chi la usa tormenta e fa infuriare il bersaglio,\nimpedendogli di usare la stessa mossa\ndue volte di seguito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 260,
+    "name": "Adulazione",
+    "description": "Adula il bersaglio e lo confonde, ma ne aumenta\nl\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 261,
+    "name": "Fuocofatuo",
+    "description": "Fiamme intense di colore viola causano\nuna scottatura al bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 262,
+    "name": "Memento",
+    "description": "Chi la usa va KO. Tuttavia, riduce di molto\nl\u2019Attacco e l\u2019Attacco Speciale del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 263,
+    "name": "Facciata",
+    "description": "Mossa d\u2019attacco che raddoppia la potenza\nse chi la usa \u00e8 scottato, avvelenato o paralizzato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 264,
+    "name": "Centripugno",
+    "description": "Chi la usa prende la mira prima di sferrare\nun pugno. Fallir\u00e0 se verr\u00e0 colpito prima\ndi eseguire la mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 265,
+    "name": "Maniereforti",
+    "description": "Infligge un danno doppio a un bersaglio\nparalizzato, ma ne cura anche la paralisi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 266,
+    "name": "Sonoqui",
+    "description": "Chi la usa attira l\u2019attenzione su di s\u00e9, costringendo \ni nemici a sceglierlo sempre come bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 267,
+    "name": "Naturforza",
+    "description": "Mossa che fa uso della forza della natura.\nIl suo effetto varia in base all\u2019ambiente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 268,
+    "name": "Sottocarica",
+    "description": "Potenzia la mossa di tipo Elettro usata subito\ndopo. Aumenta anche la Difesa Speciale\ndi chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 269,
+    "name": "Provocazione",
+    "description": "Provoca il bersaglio inducendolo a usare\nsolo mosse d\u2019attacco per tre turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 270,
+    "name": "Altruismo",
+    "description": "Mossa che aumenta la potenza dell\u2019attacco\ndi un alleato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 271,
+    "name": "Raggiro",
+    "description": "Chi la usa coglie il bersaglio in contropiede\ne lo obbliga a cambiare il suo strumento\ncon il proprio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 272,
+    "name": "Giocodiruolo",
+    "description": "Chi la usa mima in tutto il bersaglio, copiandone\nl\u2019abilit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 273,
+    "name": "Desiderio",
+    "description": "Permette di recuperare met\u00e0 dei PS massimi\nal turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 274,
+    "name": "Assistente",
+    "description": "Chi la usa utilizza in fretta e a caso una\ndelle mosse degli altri Pok\u00e9mon della squadra.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 275,
+    "name": "Radicamento",
+    "description": "Chi la usa mette delle radici che gli fanno\nrecuperare PS a ogni turno. Non pu\u00f2\nessere sostituito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 276,
+    "name": "Troppoforte",
+    "description": "Chi la usa attacca il bersaglio con grande forza,\nma il suo Attacco e la sua Difesa diminuiscono.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 277,
+    "name": "Magivelo",
+    "description": "Una barriera rimanda al mittente l\u2019effetto\ndi mosse come Parassiseme e di mosse\nche influenzano lo stato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 278,
+    "name": "Riciclo",
+    "description": "Chi la usa ricicla uno strumento gi\u00e0 usato\nnella lotta e lo pu\u00f2 riutilizzare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 279,
+    "name": "Vendetta",
+    "description": "Mossa d\u2019attacco che infligge un danno doppio\nse si \u00e8 stati colpiti dal Pok\u00e9mon bersaglio nello\nstesso turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 280,
+    "name": "Breccia",
+    "description": "Colpisce il bersaglio con una mano e rompe\nbarriere come Riflesso e Schermoluce.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 281,
+    "name": "Sbadiglio",
+    "description": "Chi la usa fa un grande sbadiglio che\naddormenta il bersaglio al turno seguente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 282,
+    "name": "Privazione",
+    "description": "Attacco che blocca lo strumento del bersaglio,\nimpedendone l\u2019uso nella lotta. La sua potenza\naumenta se il Pok\u00e9mon colpito ha uno strumento.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 283,
+    "name": "Rimonta",
+    "description": "Attacco che riduce i PS del bersaglio a una\nquantit\u00e0 pari ai PS di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 284,
+    "name": "Eruzione",
+    "description": "Attacco impetuoso ed esplosivo la cui potenza\n\u00e8 proporzionale ai PS di chi lo usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 285,
+    "name": "Baratto",
+    "description": "Chi la usa sfrutta le sue facolt\u00e0 mentali\nper scambiare l\u2019abilit\u00e0 con il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 286,
+    "name": "Esclusiva",
+    "description": "Chi la usa impedisce al nemico di usare mosse\nche conoscono entrambi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 287,
+    "name": "Rinfrescata",
+    "description": "Chi la usa riposa per guarire da avvelenamento,\nparalisi e scottatura.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 288,
+    "name": "Rancore",
+    "description": "Se chi la usa va KO, i PP della mossa nemica\nche lo ha messo fuori gioco si azzerano.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 289,
+    "name": "Scippo",
+    "description": "Chi la usa ruba e utilizza la mossa curativa\no modifica-statistiche che un altro Pok\u00e9mon\nstava per usare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 290,
+    "name": "Forzasegreta",
+    "description": "Attacco che pu\u00f2 avere un effetto aggiuntivo\na seconda del luogo in cui si trova chi lo usa.\nServe anche per costruire Basi Segrete.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 291,
+    "name": "Sub",
+    "description": "Chi la usa si tuffa in acqua per emergere e\nattaccare al turno seguente.\nServe anche per immergersi sott\u2019acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 292,
+    "name": "Sberletese",
+    "description": "Raffica di ceffoni che colpisce da due a\ncinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 293,
+    "name": "Camuffamento",
+    "description": "Modifica il tipo di chi la usa a seconda del luogo,\nad esempio sull\u2019acqua, nell\u2019erba o in una grotta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 294,
+    "name": "Codadiluce",
+    "description": "Chi la usa fissa una luce forte per concentrarsi\ne aumentare moltissimo l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 295,
+    "name": "Abbagliante",
+    "description": "Chi la usa scatena un\u2019esplosione abbagliante\nche pu\u00f2 anche ridurre la Difesa Speciale\ndel Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 296,
+    "name": "Foschisfera",
+    "description": "Una sfera di nebbia avvolge e danneggia il bersaglio. \nPu\u00f2 anche ridurne l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 297,
+    "name": "Danzadipiume",
+    "description": "Chi la usa copre il bersaglio con un manto di piume \nche riduce di molto il suo Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 298,
+    "name": "Strampadanza",
+    "description": "Chi la usa esegue una danza goffa che confonde\ntutti i Pok\u00e9mon attorno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 299,
+    "name": "Calciardente",
+    "description": "Chi la usa tira un calcio. Probabile brutto colpo.\nPu\u00f2 anche scottare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 300,
+    "name": "Fangata",
+    "description": "Chi la usa sparge fango sul campo di lotta\nindebolendo per cinque turni le mosse\ndi tipo Elettro.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 301,
+    "name": "Palla Gelo",
+    "description": "Chi la usa attacca il bersaglio rotolando\nper cinque turni, con aumento progressivo\ndella potenza ogni volta che va a segno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 302,
+    "name": "Pugnospine",
+    "description": "Chi la usa attacca colpendo il bersaglio con i suoi\narti pieni di spine. Pu\u00f2 far tentennare il Pok\u00e9mon\ncolpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 303,
+    "name": "Pigro",
+    "description": "Chi la usa si rilassa recuperando met\u00e0 dei propri\nPS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 304,
+    "name": "Granvoce",
+    "description": "Chi la usa lancia un urlo straziante che danneggia\ni nemici intorno a s\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 305,
+    "name": "Velenodenti",
+    "description": "Chi la usa morde il bersaglio con denti avvelenati\nche possono anche iperavvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 306,
+    "name": "Tritartigli",
+    "description": "Colpisce il bersaglio con artigli robusti e affilati\nche possono ridurne la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 307,
+    "name": "Incendio",
+    "description": "Potente esplosione che danneggia il bersaglio,\nma fa saltare il turno successivo a chi la provoca.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 308,
+    "name": "Idrocannone",
+    "description": "Colpisce il bersaglio con un potente getto d\u2019acqua. \nChi la usa salta il turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 309,
+    "name": "Meteorpugno",
+    "description": "Colpisce il bersaglio con un pugno veloce come\nuna meteora. Pu\u00f2 far salire l\u2019Attacco di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 310,
+    "name": "Sgomento",
+    "description": "Chi la usa attacca il bersaglio emettendo un verso\nterrificante. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 311,
+    "name": "Palla Clima",
+    "description": "Mossa d\u2019attacco il cui tipo e la cui potenza variano \nin base alle condizioni atmosferiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 312,
+    "name": "Aromaterapia",
+    "description": "Chi la usa rilascia un dolce profumo che cura\ntutti i problemi di stato propri e degli alleati.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 313,
+    "name": "Falselacrime",
+    "description": "Chi la usa inscena un pianto teatrale per\ncommuovere il bersaglio. Ne riduce di molto la\nDifesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 314,
+    "name": "Aerasoio",
+    "description": "Chi la usa provoca un vento tagliente che sferza\ni nemici intorno. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 315,
+    "name": "Vampata",
+    "description": "Chi la usa sferra un potente attacco, ma\nil contraccolpo riduce di molto il suo\nAttacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 316,
+    "name": "Segugio",
+    "description": "Chi la usa rende i Pok\u00e9mon di tipo Spettro\nvulnerabili a qualsiasi tipo di mossa e pu\u00f2,\ninoltre, colpire i nemici sfuggenti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 317,
+    "name": "Rocciotomba",
+    "description": "Colpisce il bersaglio con rocce. Inoltre, lo rallenta\nriducendone la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 318,
+    "name": "Ventargenteo",
+    "description": "Attacca con un forte vento di polvere di squame.\nTutte le statistiche di chi la usa possono salire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 319,
+    "name": "Ferrostrido",
+    "description": "Orribile stridio, simile a quello prodotto dal\nmetallo, che riduce di molto la Difesa Speciale\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 320,
+    "name": "Meloderba",
+    "description": "Una dolce melodia culla il bersaglio e lo costringe\nad addormentarsi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 321,
+    "name": "Solletico",
+    "description": "Chi la usa solletica il bersaglio e lo fa ridere,\nriducendo il suo Attacco e la sua Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 322,
+    "name": "Cosmoforza",
+    "description": "Chi la usa assorbe una forza mistica dallo spazio\nche aumenta la Difesa e la Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 323,
+    "name": "Zampillo",
+    "description": "Lancia un getto d\u2019acqua contro il nemico che ha\ndavanti e quelli adiacenti. La potenza \u00e8\nproporzionale al numero di PS di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 324,
+    "name": "Segnoraggio",
+    "description": "Chi la usa attacca con uno strano raggio di luce\nche pu\u00f2 anche confondere il Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 325,
+    "name": "Pugnodombra",
+    "description": "Il bersaglio riceve un pugno proveniente\ndalle tenebre. Questa mossa \u00e8 infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 326,
+    "name": "Extrasenso",
+    "description": "Chi la usa attacca con una misteriosa\nforza invisibile. Pu\u00f2 far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 327,
+    "name": "Stramontante",
+    "description": "Chi la usa attacca il bersaglio con un\nmontante che pu\u00f2 arrivare fino al cielo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 328,
+    "name": "Sabbiotomba",
+    "description": "Chi la usa intrappola il bersaglio in un turbine\ndi sabbia per quattro o cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 329,
+    "name": "Purogelo",
+    "description": "Ondata di freddo penetrante che, se va a segno,\nfa andare KO il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 330,
+    "name": "Fanghiglia",
+    "description": "Chi la usa attacca i nemici che ha intorno con un\ngetto di fango che pu\u00f2 anche ridurne la precisione. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 331,
+    "name": "Semitraglia",
+    "description": "Chi la usa spara da due a cinque raffiche di semi\ncontro il bersaglio in successione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 332,
+    "name": "Aeroassalto",
+    "description": "Chi la usa attacca il bersaglio a grande velocit\u00e0.\nQuesta mossa \u00e8 infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 333,
+    "name": "Gelolancia",
+    "description": "Chi la usa spara ghiaccioli affilati contro il bersaglio \nda due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 334,
+    "name": "Ferroscudo",
+    "description": "Il corpo di chi la usa si indurisce come il ferro,\nfacendone salire di molto la Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 335,
+    "name": "Blocco",
+    "description": "Chi la usa sbarra la strada al bersaglio\nimpedendone la fuga o la sostituzione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 336,
+    "name": "Gridodilotta",
+    "description": "Chi la usa emette un forte verso per darsi\ncoraggio e aumentare l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 337,
+    "name": "Dragartigli",
+    "description": "Chi la usa attacca con artigli affilati che graffiano\nil bersaglio rapidamente e con grande forza.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 338,
+    "name": "Radicalbero",
+    "description": "Un groviglio di radici colpisce il bersaglio.\nChi la usa salta il turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 339,
+    "name": "Granfisico",
+    "description": "Chi la usa tende i muscoli per gonfiare il corpo,\naumentando Difesa e Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 340,
+    "name": "Rimbalzo",
+    "description": "Chi la usa balza in alto e ricade sul bersaglio dopo\nun turno. Pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 341,
+    "name": "Colpodifango",
+    "description": "Chi la usa attacca lanciando fango sul bersaglio,\nriducendone anche la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 342,
+    "name": "Velenocoda",
+    "description": "Chi la usa colpisce con la coda e pu\u00f2 avvelenare\nil bersaglio. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 343,
+    "name": "Supplica",
+    "description": "Chi la usa attacca il bersaglio sorridendo e\ngli ruba lo strumento.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 344,
+    "name": "Locomovolt",
+    "description": "Chi la usa si carica di elettricit\u00e0 e poi attacca.\nPu\u00f2 paralizzare il bersaglio. Il contraccolpo causa\nseri danni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 345,
+    "name": "Fogliamagica",
+    "description": "Chi la usa sparpaglia strane foglie che inseguono\nil bersaglio. Questa mossa \u00e8 infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 346,
+    "name": "Docciascudo",
+    "description": "Chi la usa sparge acqua sul campo di lotta\nindebolendo per cinque turni le mosse\ndi tipo Fuoco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 347,
+    "name": "Calmamente",
+    "description": "Chi la usa, meditando, placa il proprio spirito per\naumentare l\u2019Attacco Speciale e la Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 348,
+    "name": "Fendifoglia",
+    "description": "Colpisce il bersaglio usando una foglia affilata\ncome una spada. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 349,
+    "name": "Dragodanza",
+    "description": "Danza mistica e vigorosa che aumenta l\u2019Attacco\ne la Velocit\u00e0 di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 350,
+    "name": "Cadutamassi",
+    "description": "Colpisce il bersaglio con dei massi pesanti lanciati\nin rapida successione. Il numero di massi varia\nda due a cinque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 351,
+    "name": "Ondashock",
+    "description": "Chi la usa colpisce il bersaglio con una scossa\ndi elettricit\u00e0. \u00c8 impossibile eludere questa mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 352,
+    "name": "Idropulsar",
+    "description": "Il bersaglio viene colpito da un getto d\u2019acqua\npotentissimo che pu\u00f2 anche confonderlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 353,
+    "name": "Obbliderio",
+    "description": "Intensa luce solare che colpisce il bersaglio\ndopo due turni dall\u2019uso della mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 354,
+    "name": "Psicoslancio",
+    "description": "Chi la usa sferra un potente attacco, ma\nil contraccolpo riduce di molto il suo\nAttacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 355,
+    "name": "Trespolo",
+    "description": "Chi la usa sta fermo e riposa, recuperando\nmet\u00e0 dei propri PS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 356,
+    "name": "Gravit\u00e0",
+    "description": "Intensifica la gravit\u00e0 per cinque turni. Le mosse\nche fanno volare sono inutilizzabili e l\u2019abilit\u00e0\nLevitazione non ha effetto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 357,
+    "name": "Miracolvista",
+    "description": "Rende i Pok\u00e9mon di tipo Buio vulnerabili a qualsiasi \ntipo di mossa e, inoltre, permette di colpire i nemici \nindipendentemente dall\u2019elusione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 358,
+    "name": "Svegliopacca",
+    "description": "Questa mossa infligge un danno doppio a un\nbersaglio addormentato, ma allo stesso tempo\nlo risveglia.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 359,
+    "name": "Martelpugno",
+    "description": "Chi la usa colpisce il bersaglio con il suo pugno\nforte e pesante, ma perde Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 360,
+    "name": "Vortexpalla",
+    "description": "Chi la usa colpisce il bersaglio con un vortice\nrapidissimo. Pi\u00f9 lento \u00e8 chi la usa, maggiore\n\u00e8 il danno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 361,
+    "name": "Curardore",
+    "description": "Chi la usa va KO, ma il Pok\u00e9mon che lo sostituisce\nrecupera tutti i PS e guarisce dai problemi di stato. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 362,
+    "name": "Acquadisale",
+    "description": "Se i PS del bersaglio sono scesi a met\u00e0 o meno,\nquesta mossa colpir\u00e0 con il doppio della potenza.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 363,
+    "name": "Dononaturale",
+    "description": "Chi la usa trae forza dalla bacca che ha. Da questa  \ndipendono il tipo e la potenza dell\u2019attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 364,
+    "name": "Fintoattacco",
+    "description": "Mossa che colpisce anche un bersaglio che ha\nusato Protezione o Individua, annullandone\ngli effetti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 365,
+    "name": "Spennata",
+    "description": "Chi la usa becca il bersaglio. Inoltre, se questi ha\nuna bacca, gliela ruba e ne sfrutta gli effetti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 366,
+    "name": "Ventoincoda",
+    "description": "Chi la usa scatena un turbine che aumenta\nla Velocit\u00e0 di tutti i Pok\u00e9mon della squadra\nper quattro turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 367,
+    "name": "Acupressione",
+    "description": "Chi la usa esercita pressione su alcuni punti nevralgici \ne aumenta di molto una statistica a caso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 368,
+    "name": "Metalscoppio",
+    "description": "Chi la usa si vendica sul nemico che l\u2019ha appena\nferito con una mossa anche pi\u00f9 potente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 369,
+    "name": "Retromarcia",
+    "description": "Chi usa questa mossa fa marcia indietro per farsi\nsostituire dopo aver sferrato l\u2019attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 370,
+    "name": "Zuffa",
+    "description": "Chi la usa attacca abbassando la guardia.\nLa propria Difesa e la Difesa Speciale si riducono.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 371,
+    "name": "Rivincita",
+    "description": "Chi la usa accumula forza, poi attacca. La potenza\nraddoppia se agisce dopo il Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 372,
+    "name": "Garanzia",
+    "description": "Se il bersaglio ha gi\u00e0 subito dei danni nello stesso\nturno, la potenza di questa mossa raddoppia.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 373,
+    "name": "Divieto",
+    "description": "Impedisce al bersaglio di usare il suo strumento\ne al suo Allenatore di usarne altri sul Pok\u00e9mon.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 374,
+    "name": "Lancio",
+    "description": "Chi la usa lancia il suo strumento addosso\nal bersaglio. La forza e l\u2019effetto dipendono\ndallo strumento.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 375,
+    "name": "Psicotrasfer",
+    "description": "Con la forza psichica e la suggestione, chi la usa\npu\u00f2 trasferire i suoi problemi di stato al Pok\u00e9mon\ncolpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 376,
+    "name": "Asso",
+    "description": "La potenza di questa mossa aumenta man mano\nche i suoi PP diminuiscono.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 377,
+    "name": "Anticura",
+    "description": "Chi la usa impedisce ai nemici che ha intorno\ndi utilizzare mosse o abilit\u00e0 recupera-PS\nper cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 378,
+    "name": "Strizzata",
+    "description": "Chi la usa stritola con forza il bersaglio. Pi\u00f9 PS ha\nil Pok\u00e9mon colpito, maggiore \u00e8 la potenza\ndella mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 379,
+    "name": "Ingannoforza",
+    "description": "Mossa psichica che permette a chi la usa\ndi scambiare i valori delle sue statistiche\ndi Attacco e Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 380,
+    "name": "Gastroacido",
+    "description": "Chi la usa lancia acidi gastrici sul bersaglio.\nIl fluido annulla l\u2019abilit\u00e0 del Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 381,
+    "name": "Fortuncanto",
+    "description": "Chi la usa rivolge un incantesimo al cielo,\nimpedendo al nemico di sferrare brutti colpi\nalla squadra.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 382,
+    "name": "Precedenza",
+    "description": "Se chi la usa \u00e8 pi\u00f9 veloce del nemico, gli ruba\nla mossa e gliela ritorce contro con potenza\npersino maggiore.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 383,
+    "name": "Copione",
+    "description": "Chi la usa mima l\u2019ultima mossa eseguita.\nFallisce se non \u00e8 stata ancora usata alcuna\nmossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 384,
+    "name": "Barattoforza",
+    "description": "Chi la usa sfrutta la sua forza psichica\nper scambiare le modifiche ad Attacco e\nAttacco Speciale con il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 385,
+    "name": "Barattoscudo",
+    "description": "Chi la usa sfrutta la sua forza psichica\nper scambiare le modifiche a Difesa e\nDifesa Speciale con il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 386,
+    "name": "Punizione",
+    "description": "Questa mossa diventa pi\u00f9 potente ogni volta che\nil bersaglio aumenta le proprie statistiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 387,
+    "name": "Ultimascelta",
+    "description": "Per usare questa mossa, bisogna prima avvalersi\nin lotta di tutte le altre mosse conosciute.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 388,
+    "name": "Affannoseme",
+    "description": "Un seme che causa ansia viene piantato\nsul bersaglio. Ne muta l\u2019abilit\u00e0 in Insonnia\ne ne previene o rimuove il sonno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 389,
+    "name": "Sbigoattacco",
+    "description": "Chi la usa pu\u00f2 attaccare per primo. Fallisce\nse il bersaglio non sta preparando un attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 390,
+    "name": "Fielepunte",
+    "description": "Chi la usa piazza una trappola di punte che\navvelenano i nemici che scendono in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 391,
+    "name": "Cuorbaratto",
+    "description": "Chi la usa sfrutta la sua forza psichica per\nscambiare le modifiche alle statistiche con\nil bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 392,
+    "name": "Acquanello",
+    "description": "Chi la usa si avvolge in un velo d\u2019acqua. Recupera\nalcuni PS a ogni turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 393,
+    "name": "Magnetascesa",
+    "description": "Chi la usa si solleva in aria per cinque turni\ngrazie a un campo elettromagnetico.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 394,
+    "name": "Fuococarica",
+    "description": "Chi la usa si ricopre di fuoco e carica il bersaglio,\nma subisce il contraccolpo. Pu\u00f2 anche scottare\nil Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 395,
+    "name": "Palmoforza",
+    "description": "Chi la usa attacca con un\u2019onda d\u2019urto che\npu\u00f2 anche paralizzare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 396,
+    "name": "Forzasfera",
+    "description": "Chi la usa rilascia una forza eterea dal profondo\ndel corpo. La mossa \u00e8 infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 397,
+    "name": "Lucidatura",
+    "description": "Chi la usa leviga il proprio corpo per ridurne\nl\u2019attrito. Aumenta di molto la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 398,
+    "name": "Velenpuntura",
+    "description": "Il bersaglio \u00e8 colpito da un tentacolo o da un arto\nintriso di una sostanza tossica che pu\u00f2 anche\navvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 399,
+    "name": "Neropulsar",
+    "description": "Chi la usa emana un\u2019aura impregnata di oscuri\npensieri. Pu\u00f2 anche far tentennare il Pok\u00e9mon\ncolpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 400,
+    "name": "Nottesferza",
+    "description": "Chi la usa colpisce il bersaglio appena si presenta\nl\u2019occasione. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 401,
+    "name": "Idrondata",
+    "description": "Chi la usa attacca agitando la coda come se fosse\nuna violenta ondata in una tempesta furiosa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 402,
+    "name": "Semebomba",
+    "description": "Chi la usa emette una raffica di semi dal guscio\nduro che colpiscono il bersaglio dall\u2019alto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 403,
+    "name": "Eterelama",
+    "description": "Chi la usa attacca con un vento tagliente\nche squarcia il cielo. Pu\u00f2 anche far tentennare\nil Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 404,
+    "name": "Forbice X",
+    "description": "Chi la usa colpisce il bersaglio usando le sue falci\no i suoi artigli come se fossero delle forbici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 405,
+    "name": "Ronzio",
+    "description": "Chi la usa fa vibrare le ali creando un\u2019onda sonora\npericolosa. Pu\u00f2 anche ridurre la Difesa Speciale\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 406,
+    "name": "Dragopulsar",
+    "description": "Chi la usa spalanca la bocca e genera un\u2019onda\nd\u2019urto che colpisce il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 407,
+    "name": "Dragofuria",
+    "description": "Chi la usa attacca con fare minaccioso e in questo\nmodo pu\u00f2 anche far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 408,
+    "name": "Gemmoforza",
+    "description": "Chi la usa attacca con un raggio di luce che brilla\ncome se fosse fatto di pietre preziose.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 409,
+    "name": "Assorbipugno",
+    "description": "Pugno che assorbe energia. Fa recuperare una\nquantit\u00e0 di PS pari alla met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 410,
+    "name": "Vuotonda",
+    "description": "Chi la usa rotea i pugni per lanciare un\u2019onda di\nvuoto assoluto verso il bersaglio e attacca\nper primo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 411,
+    "name": "Focalcolpo",
+    "description": "Chi la usa si concentra e rilascia la sua forza.\nPu\u00f2 ridurre la Difesa Speciale del Pok\u00e9mon\ncolpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 412,
+    "name": "Energipalla",
+    "description": "Chi la usa attinge energia dalla natura e la\nscaglia contro il bersaglio. Pu\u00f2 anche ridurne\nla Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 413,
+    "name": "Baldeali",
+    "description": "Chi la usa si nasconde sotto le ali e carica da\nbassa quota. Tuttavia, subisce considerevoli danni. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 414,
+    "name": "Geoforza",
+    "description": "Dal terreno sotto il bersaglio si sprigiona una forza\ndevastante. Pu\u00f2 anche ridurne la Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 415,
+    "name": "Rapidscambio",
+    "description": "Chi la usa scambia lo strumento che ha con quello\ndel bersaglio a una velocit\u00e0 impressionante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 416,
+    "name": "Gigaimpatto",
+    "description": "Chi la usa carica il bersaglio usando tutta la sua\nforza, ma al turno successivo deve riposarsi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 417,
+    "name": "Congiura",
+    "description": "Chi la usa stimola il cervello pensando a cose\ncattive. Aumenta di molto l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 418,
+    "name": "Pugnoscarica",
+    "description": "Chi la usa attacca con una scarica di pugni\nveloci come proiettili. Con questa mossa\nsi colpisce per primi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 419,
+    "name": "Slavina",
+    "description": "Mossa d\u2019attacco che infligge doppi danni se chi\nla usa \u00e8 stato ferito dal Pok\u00e9mon bersaglio nello\nstesso turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 420,
+    "name": "Geloscheggia",
+    "description": "Chi la usa crea dei pezzi di ghiaccio e li lancia.\nCon questa mossa si colpisce per primi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 421,
+    "name": "Ombrartigli",
+    "description": "Chi la usa attacca con artigli d\u2019ombra che\ncolpiscono con gran forza. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 422,
+    "name": "Fulmindenti",
+    "description": "Chi la usa morde con denti elettrificati che\npossono anche paralizzare o far tentennare\nil bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 423,
+    "name": "Gelodenti",
+    "description": "Chi la usa morde con denti ghiacciati. Pu\u00f2 anche\ncongelare o far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 424,
+    "name": "Rogodenti",
+    "description": "Chi la usa morde con denti infuocati. Pu\u00f2 anche\nscottare o far tentennare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 425,
+    "name": "Furtivombra",
+    "description": "Chi la usa estende la sua ombra e attacca\nil nemico alle spalle.\nCon questa mossa si colpisce per primi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 426,
+    "name": "Pantanobomba",
+    "description": "Chi la usa lancia una compatta palla di fango. Pu\u00f2\nanche ridurre la precisione del Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 427,
+    "name": "Psicotaglio",
+    "description": "Chi la usa colpisce il bersaglio con lame fatte\ndi forza psichica. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 428,
+    "name": "Cozzata Zen",
+    "description": "Chi la usa concentra la forza nella testa e si lancia\ncontro il bersaglio. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 429,
+    "name": "Cristalcolpo",
+    "description": "Chi la usa rilascia fasci d\u2019energia dal corpo\nlevigato. Pu\u00f2 anche ridurre la precisione\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 430,
+    "name": "Cannonflash",
+    "description": "Chi la usa attacca raccogliendo e rilasciando\nenergia luminosa. Pu\u00f2 ridurre la Difesa Speciale\ndel nemico.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 431,
+    "name": "Scalaroccia",
+    "description": "Chi la usa carica con impeto incredibile.\nIl colpo pu\u00f2 confondere il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 432,
+    "name": "Scacciabruma",
+    "description": "Chi la usa spazza via barriere come Riflesso e\nSchermoluce con un forte vento e riduce\nla capacit\u00e0 d\u2019elusione del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 433,
+    "name": "Distortozona",
+    "description": "Chi la usa crea una dimensione in cui i Pok\u00e9mon\npi\u00f9 lenti agiscono per primi per cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 434,
+    "name": "Dragobolide",
+    "description": "Attacca con meteore che cadono dal cielo.\nIl contraccolpo fa calare di molto\nl\u2019Attacco Speciale di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 435,
+    "name": "Scarica",
+    "description": "Chi la usa colpisce i Pok\u00e9mon che ha intorno\ncon un bagliore elettrico. Pu\u00f2 anche paralizzarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 436,
+    "name": "Lavasbuffo",
+    "description": "Chi la usa lancia fiamme scarlatte su tutti i\nPok\u00e9mon nelle vicinanze, danneggiandoli.\nPu\u00f2 anche scottarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 437,
+    "name": "Verdebufera",
+    "description": "Si forma una tempesta di foglie affilate.\nIl contraccolpo riduce di molto l\u2019Attacco Speciale\ndi chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 438,
+    "name": "Vigorcolpo",
+    "description": "Chi la usa agita violentemente liane o tentacoli\nper sferzare il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 439,
+    "name": "Devastomasso",
+    "description": "Chi la usa attacca il bersaglio con un enorme\nmasso, ma si deve riposare al turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 440,
+    "name": "Velenocroce",
+    "description": "Attacco con zanne avvelenate che pu\u00f2 anche\navvelenare il Pok\u00e9mon colpito. Probabile\nbrutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 441,
+    "name": "Sporcolancio",
+    "description": "Chi la usa attacca il bersaglio con rifiuti sudici\nche possono anche avvelenarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 442,
+    "name": "Metaltestata",
+    "description": "Chi la usa colpisce il bersaglio con la sua testa\ndura come l\u2019acciaio. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 443,
+    "name": "Bombagnete",
+    "description": "Chi la usa lancia bombe d\u2019acciaio che si attaccano\nal bersaglio. Una mossa infallibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 444,
+    "name": "Pietrataglio",
+    "description": "Chi la usa colpisce il bersaglio dal basso con\npietre affilate. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 445,
+    "name": "Incanto",
+    "description": "Se i nemici che ha intorno sono del sesso opposto \na chi la usa, saranno ammaliati e il loro Attacco\nSpeciale diminuir\u00e0 di molto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 446,
+    "name": "Levitoroccia",
+    "description": "Chi la usa piazza una trappola di rocce sospese\nche danneggia i nemici che entrano in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 447,
+    "name": "Laccioerboso",
+    "description": "Chi la usa intrappola il bersaglio con l\u2019erba e lo fa\ncadere. Danneggia maggiormente i Pok\u00e9mon\npi\u00f9 pesanti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 448,
+    "name": "Schiamazzo",
+    "description": "Chi la usa attacca creando un\u2019onda sonora\ndi parole a vanvera e confonde il bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 449,
+    "name": "Giudizio",
+    "description": "Chi la usa rilascia numerosi colpi di luce. Il tipo\nvaria a seconda della lastra che ha.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 450,
+    "name": "Coleomorso",
+    "description": "Chi la usa morde il bersaglio. Inoltre, se questi ha\nuna bacca, gliela ruba e ne sfrutta gli effetti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 451,
+    "name": "Raggioscossa",
+    "description": "Chi la usa lancia un fascio di elettricit\u00e0 molto\nintensa. Pu\u00f2 anche aumentare il suo Attacco\nSpeciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 452,
+    "name": "Mazzuolegno",
+    "description": "Chi la usa si lancia con tutto il corpo contro\nil bersaglio, ma subisce anche considerevoli danni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 453,
+    "name": "Acquagetto",
+    "description": "Chi la usa colpisce sempre per primo e a una tale\nvelocit\u00e0 da rendersi quasi invisibile.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 454,
+    "name": "Comandourto",
+    "description": "Chi la usa raduna i suoi sgherri per colpire\nil bersaglio. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 455,
+    "name": "Comandoscudo",
+    "description": "Chi la usa raduna i suoi sgherri per creare\nuno scudo, aumentando Difesa e Difesa Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 456,
+    "name": "Comandocura",
+    "description": "Chi la usa raduna i suoi sgherri per farsi curare.\nRecupera met\u00e0 dei PS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 457,
+    "name": "Zuccata",
+    "description": "Chi la usa attacca con tutta la potenza di cui\ndispone, ma subisce danni considerevoli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 458,
+    "name": "Doppiosmash",
+    "description": "Chi la usa colpisce il bersaglio due volte di fila\ncon la coda, una liana o simili.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 459,
+    "name": "Fragortempo",
+    "description": "Chi la usa colpisce il bersaglio con una forza\ncapace di alterare il tempo, ma deve stare fermo\nal turno successivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 460,
+    "name": "Fendispazio",
+    "description": "Chi la usa lacera il bersaglio e lo spazio che\nlo circonda. Probabile brutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 461,
+    "name": "Lunardanza",
+    "description": "Chi la usa va KO. Il Pok\u00e9mon che lo sostituisce\nguarisce dai propri problemi di stato e recupera\nPS e PP.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 462,
+    "name": "Sbriciolmano",
+    "description": "Colpisce il bersaglio con grande forza. Pi\u00f9 PS\nha il Pok\u00e9mon colpito, maggiore \u00e8 la potenza\ndella mossa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 463,
+    "name": "Magmaclisma",
+    "description": "Intrappola il bersaglio in un turbine di fuoco che\ndura per quattro o cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 464,
+    "name": "Vuototetro",
+    "description": "Trascina i nemici intorno in un mondo\ndi totale oscurit\u00e0 e li fa addormentare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 465,
+    "name": "Infuriaseme",
+    "description": "Chi la usa genera un\u2019onda d\u2019urto dal suo corpo.\nPu\u00f2 anche ridurre di molto la Difesa Speciale\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 466,
+    "name": "Funestovento",
+    "description": "Chi la usa attacca con una forte raffica di vento\nche pu\u00f2 aumentare tutte le sue statistiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 467,
+    "name": "Oscurotuffo",
+    "description": "Chi la usa sparisce e poi colpisce il bersaglio\nal turno successivo. Colpisce anche un Pok\u00e9mon\nche ha usato Protezione o Individua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 468,
+    "name": "Unghiaguzze",
+    "description": "Chi la usa affila i propri artigli aumentando\nAttacco e precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 469,
+    "name": "Bodyguard",
+    "description": "Chi la usa protegge s\u00e9 e gli alleati da colpi\nad ampio raggio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 470,
+    "name": "Paridifesa",
+    "description": "Chi la usa sfrutta la sua forza psichica per sommare \nDifesa e Difesa Speciale a quelle del bersaglio\ne dividerle equamente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 471,
+    "name": "Pariattacco",
+    "description": "Chi la usa sfrutta la sua forza psichica per sommare \nAttacco e Attacco Speciale a quelli del bersaglio\ne dividerli equamente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 472,
+    "name": "Mirabilzona",
+    "description": "Chi la usa crea una dimensione in cui Difesa\ne Difesa Speciale di tutti i Pok\u00e9mon vengono\nscambiate per cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 473,
+    "name": "Psicoshock",
+    "description": "Chi la usa attacca il bersaglio facendo\nmaterializzare un misterioso raggio psichico\nche provoca danni fisici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 474,
+    "name": "Velenoshock",
+    "description": "Lancia uno speciale liquido tossico sul bersaglio.\nSe questi \u00e8 avvelenato, il danno provocato\nraddoppia.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 475,
+    "name": "Sganciapesi",
+    "description": "Chi la usa si libera di tutti i pesi in eccesso,\nalleggerendosi e aumentando di molto la propria\nVelocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 476,
+    "name": "Polverabbia",
+    "description": "Chi la usa attira l\u2019attenzione dei nemici cospargendosi \ndi una polvere irritante e diventando bersaglio di tutti \ngli attacchi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 477,
+    "name": "Telecinesi",
+    "description": "Chi la usa fa fluttuare in aria il bersaglio,\nrendendolo facile da colpire per tre turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 478,
+    "name": "Magicozona",
+    "description": "Chi la usa crea una dimensione in cui l\u2019effetto\ndegli strumenti di tutti i Pok\u00e9mon \u00e8 annullato\nper cinque turni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 479,
+    "name": "Abbattimento",
+    "description": "Chi la usa lancia una pietra o un proiettile.\nPu\u00f2 colpire anche un bersaglio in volo\ne farlo cadere.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 480,
+    "name": "Tempestretta",
+    "description": "Chi la usa sferra un colpo micidiale al bersaglio,\nstritolandolo. Brutto colpo assicurato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 481,
+    "name": "Pirolancio",
+    "description": "Chi la usa emana una fiammata che colpisce\nil bersaglio e si propaga fino a raggiungere\ni Pok\u00e9mon vicini.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 482,
+    "name": "Fangonda",
+    "description": "Lancia un\u2019onda di fango che attacca tutti\ni Pok\u00e9mon nelle vicinanze. Pu\u00f2 anche avvelenarli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 483,
+    "name": "Eledanza",
+    "description": "Danza leggiadra ed elegante che aumenta\nl\u2019Attacco Speciale, la Difesa Speciale e la Velocit\u00e0\ndi chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 484,
+    "name": "Pesobomba",
+    "description": "Chi la usa si lancia contro il bersaglio con tutto\nil proprio peso. Pi\u00f9 \u00e8 pesante rispetto ad esso,\npi\u00f9 danni causa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 485,
+    "name": "Sincrumore",
+    "description": "Chi la usa infligge danni a tutti i Pok\u00e9mon\ndello stesso tipo che si trovano nelle vicinanze\nusando misteriose onde elettromagnetiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 486,
+    "name": "Energisfera",
+    "description": "Chi la usa attacca con una sfera d\u2019energia elettrica. \nPi\u00f9 \u00e8 rapido rispetto al bersaglio, pi\u00f9 danni arreca.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 487,
+    "name": "Inondazione",
+    "description": "Chi la usa proietta un lungo getto d\u2019acqua contro\nil bersaglio e lo rende un Pok\u00e9mon di tipo Acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 488,
+    "name": "Nitrocarica",
+    "description": "Chi la usa si copre di fuoco e attacca il bersaglio.\nConcentrandosi aumenta, inoltre, la propria\nVelocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 489,
+    "name": "Arrotola",
+    "description": "Chi la usa si concentra aumentando Attacco,\nDifesa e precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 490,
+    "name": "Calciobasso",
+    "description": "Chi la usa colpisce con un attacco fulmineo\nla parte inferiore del corpo del bersaglio,\nriducendone la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 491,
+    "name": "Acidobomba",
+    "description": "Chi la usa attacca il bersaglio con un acido\naltamente corrosivo. Il fluido riduce di molto\nla Difesa Speciale del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 492,
+    "name": "Ripicca",
+    "description": "Chi la usa sfrutta la forza del bersaglio. Il danno\ninflitto \u00e8 proporzionale all\u2019Attacco del nemico.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 493,
+    "name": "Ondisinvolta",
+    "description": "Chi la usa emette un misterioso raggio psichico\nche trasforma l\u2019abilit\u00e0 del Pok\u00e9mon colpito in\nDisinvoltura.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 494,
+    "name": "Saltamicizia",
+    "description": "Chi la usa saltella con un buffo ritmo, inducendo\nil bersaglio a imitarlo e rendendo la sua abilit\u00e0\nidentica alla propria.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 495,
+    "name": "Cortesia",
+    "description": "Chi la usa aiuta un bersaglio pi\u00f9 lento\npermettendogli di agire subito dopo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 496,
+    "name": "Coro",
+    "description": "Attacca il bersaglio con una melodia. Se usata\ndurante lo stesso turno da pi\u00f9 Pok\u00e9mon, i danni\ninflitti aumentano.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 497,
+    "name": "Echeggiavoce",
+    "description": "Attacca il bersaglio con la propria voce\necheggiante. Se usata a ripetizione da uno\no pi\u00f9 Pok\u00e9mon il danno aumenta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 498,
+    "name": "Insidia",
+    "description": "Chi la usa attacca non appena il bersaglio\nabbassa la guardia. Il danno inflitto prescinde\ndalle modifiche alle statistiche del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 499,
+    "name": "Pulifumo",
+    "description": "Attacca il bersaglio lanciandogli contro una nuvola\ndi fumo speciale, che annulla ogni modifica\nalle statistiche.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 500,
+    "name": "Veicolaforza",
+    "description": "Attacca il bersaglio con l\u2019energia accumulata.\nPi\u00f9 sono state aumentate le statistiche, maggiore\n\u00e8 il danno inflitto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 501,
+    "name": "Anticipo",
+    "description": "Chi la usa protegge s\u00e9 e gli alleati dalle mosse\ndei nemici che fanno colpire per primi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 502,
+    "name": "Cambiaposto",
+    "description": "Chi la usa si teletrasporta al posto di un alleato\nin campo, grazie a un misterioso potere.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 503,
+    "name": "Idrovampata",
+    "description": "Chi la usa attacca il bersaglio con un getto\nd\u2019acqua bollente che pu\u00f2 anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 504,
+    "name": "Gettaguscio",
+    "description": "Chi la usa si disfa del guscio. Difesa e Difesa\nSpeciale calano, ma aumentano di molto Attacco,\nAttacco Speciale e Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 505,
+    "name": "Ondasana",
+    "description": "Chi la usa lancia un\u2019onda rilassante che fa\nrecuperare al bersaglio met\u00e0 dei suoi PS massimi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 506,
+    "name": "Sciagura",
+    "description": "Attacco che causa un danno enorme se il bersaglio \nha problemi di stato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 507,
+    "name": "Cadutalibera",
+    "description": "Porta il bersaglio in cielo e lo scaglia a terra\nal turno successivo. Il bersaglio catturato non pu\u00f2\nmuoversi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 508,
+    "name": "Cambiomarcia",
+    "description": "Facendo ruotare gli ingranaggi, chi la usa aumenta\nnon solo il proprio Attacco, ma anche di molto\nla propria Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 509,
+    "name": "Ribaltiro",
+    "description": "Il bersaglio \u00e8 scaraventato via ed \u00e8 costretto\na lasciare il posto a un altro. Mette fine alle lotte\ncontro singoli Pok\u00e9mon selvatici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 510,
+    "name": "Bruciatutto",
+    "description": "Attacca i nemici che ha intorno con una fiammata.\nIl fuoco distrugger\u00e0 le bacche o alcuni tipi di\nstrumenti che i Pok\u00e9mon hanno con s\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 511,
+    "name": "Spintone",
+    "description": "Chi la usa spinge via il bersaglio, costringendolo\nad agire per ultimo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 512,
+    "name": "Acrobazia",
+    "description": "Attacca rapidamente il bersaglio. Se chi la usa non\nha uno strumento, infligge al nemico grossi danni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 513,
+    "name": "Riflettipo",
+    "description": "Chi la usa cambia il proprio tipo in quello\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 514,
+    "name": "Nemesi",
+    "description": "Vendica un alleato messo KO. Se ci\u00f2 \u00e8\naccaduto al turno precedente, il danno \u00e8\nmaggiore.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 515,
+    "name": "Azzardo",
+    "description": "Chi la usa attacca con tutta la potenza di cui dispone \ne va KO, ma infligge al bersaglio un danno pari\nai PS che ha perso.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 516,
+    "name": "Cediregalo",
+    "description": "Chi la usa consegna il proprio strumento\nal bersaglio, se questi ne \u00e8 sprovvisto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 517,
+    "name": "Marchiatura",
+    "description": "Il bersaglio viene avvolto da intense fiammate\nche causano scottature.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 518,
+    "name": "Acquapatto",
+    "description": "Attacca il bersaglio con una colonna d\u2019acqua.\nSe usata con Fiammapatto, gli effetti aumentano\ne appare un arcobaleno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 519,
+    "name": "Fiammapatto",
+    "description": "Attacca il bersaglio con una colonna di fuoco.\nSe usata con Erbapatto, gli effetti aumentano\ne il campo diventa un mare di fuoco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 520,
+    "name": "Erbapatto",
+    "description": "Attacca il bersaglio con una colonna d\u2019erba.\nSe usata con Acquapatto, gli effetti aumentano\ne il campo diventa una palude.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 521,
+    "name": "Invertivolt",
+    "description": "Chi usa questa mossa si tira indietro per farsi\nsostituire dopo aver sferrato l\u2019attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 522,
+    "name": "Entomoblocco",
+    "description": "Colpisce i nemici intorno opponendo resistenza\ne riducendo il loro Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 523,
+    "name": "Battiterra",
+    "description": "Chi la usa calpesta il terreno e scatena un\nterremoto che danneggia i Pok\u00e9mon nei paraggi,\nriducendone la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 524,
+    "name": "Alitogelido",
+    "description": "Chi la usa attacca il bersaglio con un soffio\nd\u2019aria gelida. Brutto colpo assicurato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 525,
+    "name": "Codadrago",
+    "description": "Chi la usa fa volar via il bersaglio in modo che\nvenga sostituito. Se il bersaglio \u00e8 un singolo\nPok\u00e9mon selvatico, la lotta finisce.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 526,
+    "name": "Cuordileone",
+    "description": "Chi la usa si tira su di morale, aumentando\nil proprio Attacco e l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 527,
+    "name": "Elettrotela",
+    "description": "Chi la usa attacca i nemici intorno a s\u00e9\ncatturandoli con una ragnatela elettrica\ne riducendone la Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 528,
+    "name": "Sprizzalampo",
+    "description": "Chi la usa si carica di elettricit\u00e0 per poi scagliarsi\nsul bersaglio, ma subisce dei danni per\nil contraccolpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 529,
+    "name": "Giravvita",
+    "description": "Chi la usa si scaglia sul bersaglio ruotando su se\nstesso come un trapano perforante. Probabile\nbrutto colpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 530,
+    "name": "Doppiocolpo",
+    "description": "Chi la usa attacca due volte il bersaglio con dei\ncolpi estremamente forti.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 531,
+    "name": "Cuorestampo",
+    "description": "Chi la usa distrae il bersaglio con un faccino\ninnocente per poi sferrargli un colpo devastante\nche pu\u00f2 farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 532,
+    "name": "Legnicorno",
+    "description": "Chi la usa infilza il bersaglio con le corna e\nassorbe una quantit\u00e0 di PS pari a met\u00e0\ndel danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 533,
+    "name": "Spadasolenne",
+    "description": "Chi la usa taglia il bersaglio con una spada magica. \nIl danno inflitto ignora le modifiche alle statistiche\ndel Pok\u00e9mon colpito.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 534,
+    "name": "Conchilama",
+    "description": "Chi la usa colpisce il bersaglio con il suo guscio\naffilato. Il colpo pu\u00f2 anche ridurre la Difesa\ndel bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 535,
+    "name": "Marchiafuoco",
+    "description": "Chi la usa carica con il suo corpo rovente. Pi\u00f9 \u00e8\npesante rispetto al bersaglio e pi\u00f9 danni causa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 536,
+    "name": "Vorticerba",
+    "description": "Chi la usa avvolge e attacca il bersaglio con foglie\naffilate che possono anche ridurne la precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 537,
+    "name": "Rulloduro",
+    "description": "Chi la usa ruota su se stesso ad alta velocit\u00e0 e\nschiaccia il bersaglio. Pu\u00f2 anche farlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 538,
+    "name": "Cotonscudo",
+    "description": "Chi la usa avvolge il proprio corpo con del cotone\nmolto morbido, proteggendosi e aumentando\nmoltissimo la propria Difesa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 539,
+    "name": "Urtoscuro",
+    "description": "Chi la usa attacca il bersaglio con un\u2019onda d\u2019urto\noscura che pu\u00f2 ridurne la precisione.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 540,
+    "name": "Psicobotta",
+    "description": "Chi la usa attacca il bersaglio facendo\nmaterializzare un misterioso raggio psichico\nche provoca danni fisici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 541,
+    "name": "Spazzasberla",
+    "description": "Chi la usa colpisce il bersaglio con la sua coda\ndura da due a cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 542,
+    "name": "Tifone",
+    "description": "Chi la usa attacca il bersaglio avvolgendolo con\nun vento fortissimo. Pu\u00f2 anche confonderlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 543,
+    "name": "Ricciolata",
+    "description": "Chi la usa carica il bersaglio con la testa in\nstile afro, ma subisce un po\u2019 di danni per il\ncontraccolpo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 544,
+    "name": "Ingracolpo",
+    "description": "Chi la usa colpisce il bersaglio due volte di fila\nlanciandogli contro dei dischi d\u2019acciaio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 545,
+    "name": "Sparafuoco",
+    "description": "Chi la usa lancia fiamme scarlatte su tutti i Pok\u00e9mon \nnelle vicinanze, danneggiandoli. Pu\u00f2 anche scottarli. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 546,
+    "name": "Tecnobotto",
+    "description": "Chi la usa rilascia un colpo di luce contro\nil bersaglio. Il tipo varia a seconda del modulo\nche ha.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 547,
+    "name": "Cantoantico",
+    "description": "Chi la usa attacca i nemici intorno a s\u00e9\nintonando un\u2019antica melodia che colpisce\nil loro spirito. Pu\u00f2 anche farli addormentare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 548,
+    "name": "Spadamistica",
+    "description": "Chi la usa attacca il bersaglio tagliandolo con una\nspada mistica. La misteriosa energia sprigionata\nprovoca danni fisici.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 549,
+    "name": "Gelamondo",
+    "description": "Chi la usa attacca i nemici intorno con una\nfolata d\u2019aria gelida e ne riduce anche\nla Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 550,
+    "name": "Lucesiluro",
+    "description": "Colpisce il bersaglio con una possente carica\nelettrica e pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 551,
+    "name": "Fuocoblu",
+    "description": "Chi la usa attacca il bersaglio avvolgendolo con\nmagnifiche e intense fiamme blu che possono\nanche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 552,
+    "name": "Voldifuoco",
+    "description": "Chi la usa viene avvolto da fiamme che scaglia\ncontro il bersaglio, sbattendo le ali. Pu\u00f2 anche\naumentare l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 553,
+    "name": "Elettrogelo",
+    "description": "Chi la usa lancia contro il bersaglio al turno\nsuccessivo una sfera di ghiaccio ricoperta di\nelettricit\u00e0. Pu\u00f2 anche paralizzarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 554,
+    "name": "Vampagelida",
+    "description": "Chi la usa attacca il bersaglio al turno successivo\ne lo avvolge in un soffio d\u2019aria gelida.\nPu\u00f2 anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 555,
+    "name": "Urlorabbia",
+    "description": "Chi la usa si mette a urlare per un po\u2019,\nriducendo l\u2019Attacco Speciale dei nemici intorno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 556,
+    "name": "Scagliagelo",
+    "description": "Chi la usa attacca violentemente il bersaglio con\ngrosse stalattiti di ghiaccio che possono anche\nfarlo tentennare.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 557,
+    "name": "Generatore V",
+    "description": "Chi la usa carica emettendo fiamme ardenti dalla\nfronte, a costo di una riduzione di Difesa,\nDifesa Speciale e Velocit\u00e0.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 558,
+    "name": "Incrofiamma",
+    "description": "Chi la usa lancia una fiammata enorme. Se usata in\ncombinazione con Incrotuono, il danno provocato\ndalla mossa aumenta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 559,
+    "name": "Incrotuono",
+    "description": "Chi la usa lancia un fulmine enorme. Se usata in\ncombinazione con Incrofiamma, il danno provocato\ndalla mossa aumenta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 560,
+    "name": "Schiacciatuffo",
+    "description": "Chi la usa si tuffa sul bersaglio dall\u2019alto. \u00c8 una\nmossa di tipo Lotta e Volante allo stesso tempo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 561,
+    "name": "Ribaltappeto",
+    "description": "Chi la usa protegge se stesso e i propri alleati dai\ndanni di mosse nemiche, adoperando un tappetino\ncome scudo. Non \u00e8 efficace contro mosse di stato. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 562,
+    "name": "Rutto",
+    "description": "Chi la usa attacca il bersaglio con un rutto potente. \nPer utilizzare questa mossa, il Pok\u00e9mon deve\nmangiare la bacca che possiede.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 563,
+    "name": "Aracampo",
+    "description": "Chi la usa dissoda la terra per far crescere meglio\nl\u2019erba. Questa mossa aumenta l\u2019Attacco e\nl\u2019Attacco Speciale dei Pok\u00e9mon di tipo Erba.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 564,
+    "name": "Rete Vischiosa",
+    "description": "Chi la usa intreccia una rete appiccicosa attorno\nalla squadra avversaria, diminuendo la Velocit\u00e0 dei\nPok\u00e9mon nemici che entreranno in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 565,
+    "name": "Pungiglione",
+    "description": "L\u2019Attacco di chi la usa aumenta notevolmente se\ngrazie alla mossa il bersaglio va KO.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 566,
+    "name": "Spettrotuffo",
+    "description": "Chi la usa scompare improvvisamente per attaccare \npoi nel turno seguente. Questa mossa neutralizza\nle difese del bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 567,
+    "name": "Halloween",
+    "description": "Il bersaglio viene invitato a festeggiare Halloween\ne aggiunge cos\u00ec al proprio tipo anche il tipo\nSpettro.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 568,
+    "name": "Urlo",
+    "description": "Chi la usa emette un urlo potente che intimidisce\nil bersaglio, riducendone l\u2019Attacco e l\u2019Attacco\nSpeciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 569,
+    "name": "Pioggiaplasma",
+    "description": "Chi la usa disperde delle particelle elettrizzate che\ntrasformano le mosse di tipo Normale in mosse\ndi tipo Elettro.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 570,
+    "name": "Caricaparabola",
+    "description": "Infligge danni a tutti i Pok\u00e9mon vicini. Chi la\nusa recupera una quantit\u00e0 di PS pari alla met\u00e0\ndel danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 571,
+    "name": "Boscomalocchio",
+    "description": "Chi la usa invoca la maledizione del bosco sul\nbersaglio, che acquisisce cos\u00ec anche il tipo Erba.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 572,
+    "name": "Fiortempesta",
+    "description": "Infligge danni ai Pok\u00e9mon che ha intorno\nattaccandoli con una tempesta di fiori.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 573,
+    "name": "Liofilizzazione",
+    "description": "Chi la usa raffredda istantaneamente il bersaglio\ne pu\u00f2 congelarlo. Risulta superefficace contro\ni Pok\u00e9mon di tipo Acqua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 574,
+    "name": "Incantavoce",
+    "description": "Chi la usa infligge un danno spirituale ai nemici nei\nparaggi con una voce suadente. L\u2019attacco andr\u00e0\nimmancabilmente a segno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 575,
+    "name": "Monito",
+    "description": "Chi la usa lancia un monito intimidatorio al bersaglio, \nriducendone l\u2019Attacco e l\u2019Attacco Speciale, e si fa\nsostituire da un altro Pok\u00e9mon della squadra.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 576,
+    "name": "Sottosopra",
+    "description": "Inverte tutte le modifiche alle statistiche\ndel Pok\u00e9mon bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 577,
+    "name": "Assorbibacio",
+    "description": "Chi la usa assorbe energia dal bersaglio con\nun bacio, recuperando cos\u00ec PS in quantit\u00e0 pari\na pi\u00f9 della met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 578,
+    "name": "Truccodifesa",
+    "description": "Grazie a un misterioso potere, protegge chi la usa\ne gli alleati dalle mosse di stato. \u00c8 tuttavia\ninefficace contro mosse che infliggono danni.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 579,
+    "name": "Fiordifesa",
+    "description": "Grazie a un misterioso potere, aumenta la Difesa\ndi tutti i Pok\u00e9mon di tipo Erba presenti in campo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 580,
+    "name": "Campo Erboso",
+    "description": "Per cinque turni trasforma il terreno di lotta\nin un campo erboso, facendo recuperare PS\nai Pok\u00e9mon a terra in ogni turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 581,
+    "name": "Campo Nebbioso",
+    "description": "Per cinque turni trasforma il terreno di lotta\nin un campo nebbioso, impedendo ai Pok\u00e9mon\na terra di essere colpiti da problemi di stato.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 582,
+    "name": "Elettrocontagio",
+    "description": "Se si contagia il bersaglio prima che usi la sua mossa, \nper quel turno le sue mosse saranno di tipo Elettro.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 583,
+    "name": "Carineria",
+    "description": "Chi la usa attacca il bersaglio con delle carinerie.\nPu\u00f2 anche ridurne l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 584,
+    "name": "Vento di Fata",
+    "description": "Chi la usa solleva un vento fatato che investe\nil bersaglio.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 585,
+    "name": "Forza Lunare",
+    "description": "Chi la usa sfrutta il potere della luna per attaccare\nil bersaglio. Pu\u00f2 anche ridurne l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 586,
+    "name": "Ondaboato",
+    "description": "Colpisce i Pok\u00e9mon che ha intorno\ncon la forza di un boato distruttivo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 587,
+    "name": "Blocco Fatato",
+    "description": "Impone un blocco al terreno di lotta che nel turno\nsuccessivo impedisce a tutti i Pok\u00e9mon di fuggire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 588,
+    "name": "Scudo Reale",
+    "description": "Chi la usa si protegge, assumendo una posizione\ndi difesa e riducendo di molto l\u2019Attacco di nemici\no alleati con cui entra in contatto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 589,
+    "name": "Simpatia",
+    "description": "Chi la usa diventa amico del bersaglio,\nrabbonendolo e riducendone cos\u00ec l\u2019Attacco.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 590,
+    "name": "Confidenza",
+    "description": "Chi la usa svela dei segreti al bersaglio,\ndistraendolo e riducendone l\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 591,
+    "name": "Diamantempesta",
+    "description": "Colpisce i nemici che ha intorno con una tempesta\ndi diamanti. Pu\u00f2 anche aumentare la Difesa di chi\nla usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 592,
+    "name": "Vaporscoppio",
+    "description": "Travolge il bersaglio con un\u2019ondata di vapore\nrovente che pu\u00f2 anche scottarlo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 593,
+    "name": "Forodimensionale",
+    "description": "Chi la usa, sfrutta un passaggio interdimensionale\nper comparire a fianco del bersaglio e colpirlo,\neludendo mosse come Protezione e Individua.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 594,
+    "name": "Acqualame",
+    "description": "Chi la usa attacca sempre per primo, colpendo\nil bersaglio con uno shuriken di muco da due\na cinque volte di fila.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 595,
+    "name": "Magifiamma",
+    "description": "Colpisce il bersaglio soffiandogli contro delle\nfiammate incredibilmente roventi, riducendone\nl\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 596,
+    "name": "Agodifesa",
+    "description": "Protegge dagli attacchi, riducendo inoltre i PS\ndei Pok\u00e9mon che entrano in contatto con\nchi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 597,
+    "name": "Nebularoma",
+    "description": "Aumenta la Difesa Speciale di un alleato\ntramite un misterioso aroma.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 598,
+    "name": "Elettromistero",
+    "description": "Il corpo di chi la usa emette onde anomale che\ninvestono il bersaglio, riducendone di molto\nl\u2019Attacco Speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 599,
+    "name": "Velenotrappola",
+    "description": "Emette un liquido particolare che riduce\nl\u2019Attacco, l\u2019Attacco Speciale e la Velocit\u00e0\ndei nemici avvelenati intorno a chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 600,
+    "name": "Pulviscoppio",
+    "description": "Il bersaglio viene coperto da un pulviscolo che\nesplode danneggiandolo se questi utilizza\nuna mossa di tipo Fuoco nello stesso turno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 601,
+    "name": "Geocontrollo",
+    "description": "Chi la usa assorbe energia nel primo turno per\naumentare poi notevolmente l\u2019Attacco Speciale,\nla Difesa Speciale e la Velocit\u00e0 in quello seguente. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 602,
+    "name": "Controllo Polare",
+    "description": "Tramite il controllo dei campi magnetici, aumenta\nla Difesa e la Difesa Speciale dei Pok\u00e9mon alleati\ndotati dell\u2019abilit\u00e0 Pi\u00f9 o Meno.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 603,
+    "name": "Cuccagna",
+    "description": "Questa mossa raddoppia la ricompensa ricevuta\ndopo aver vinto una lotta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 604,
+    "name": "Campo Elettrico",
+    "description": "Per cinque turni trasforma il terreno di lotta\nin un campo elettrico, impedendo ai Pok\u00e9mon\na terra di addormentarsi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 605,
+    "name": "Magibrillio",
+    "description": "Emette una luce potentissima che infligge danni\nai nemici che sono vicini a chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 606,
+    "name": "Auguri",
+    "description": "Il Pok\u00e9mon ti fa gli auguri nel tuo giorno speciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 607,
+    "name": "Mano nella Mano",
+    "description": "Il Pok\u00e9mon che la usa e un alleato si prendono\nper mano e fanno salti di gioia.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 608,
+    "name": "Occhioni Teneri",
+    "description": "Chi la usa rivolge i propri occhioni languidi\nal bersaglio, riducendone l\u2019Attacco.\nColpisce sempre per primo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 609,
+    "name": "Elettrococcola",
+    "description": "Chi la usa strofina le guance elettrizzate contro\nil bersaglio, paralizzandolo.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 610,
+    "name": "Riguardo",
+    "description": "Chi la usa attacca il bersaglio, modulando il colpo\nin modo da lasciargli almeno un PS.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 611,
+    "name": "Assillo",
+    "description": "Chi la usa lancia un attacco che tormenta\nil bersaglio per quattro o cinque turni, durante\ni quali gli impedisce di fuggire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 612,
+    "name": "Crescipugno",
+    "description": "Rende i pugni pi\u00f9 duri a ogni colpo inferto.\nSe i pugni vanno a segno, l\u2019Attacco di chi\nla usa aumenta.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 613,
+    "name": "Ali del Fato",
+    "description": "Chi la usa assorbe energia dal bersaglio\nrecuperando una quantit\u00e0 di PS pari a pi\u00f9\ndella met\u00e0 del danno inferto.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 614,
+    "name": "Mille Frecce",
+    "description": "Colpisce anche i Pok\u00e9mon che fluttuano in aria.\nI nemici nei paraggi vengono scaraventati a terra.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 615,
+    "name": "Mille Onde",
+    "description": "Un\u2019onda strisciante investe i nemici intorno\nimpedendo loro di fuggire.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 616,
+    "name": "Forza Tellurica",
+    "description": "Chi la usa raccoglie energia tellurica e ne\nconcentra il potere sui nemici che ha intorno,\ndanneggiandoli.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 617,
+    "name": "Luce Nefasta",
+    "description": "Concentra il potere del Fiore Eterno in un raggio\ndi luce potentissimo con cui attacca il bersaglio.\nCausa danni ingenti anche a chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 618,
+    "name": "Primopulsar",
+    "description": "Attacca i nemici intorno colpendoli\ncon miriadi di raggi di luce blu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 619,
+    "name": "Spade Telluriche",
+    "description": "Attacca i nemici intorno trasformando la potenza\ndella terra in lame affilate.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 620,
+    "name": "Ascesa del Drago",
+    "description": "Permette di proiettarsi in aria e fiondarsi\nsul bersaglio attaccando ad altissima velocit\u00e0.\nRiduce la Difesa e la Difesa Speciale di chi la usa.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 621,
+    "name": "Urtodimensionale",
+    "description": "Permette di attaccare ripetutamente grazie ai molti\narti, ignorando mosse come Protezione o Individua. \nRiduce la Difesa di chi la usa.",
+    "effect": null,
+    "notes": null
+  }
+]

@@ -1,0 +1,4349 @@
+[
+  {
+    "id": 1,
+    "name": "\u00c9cras'Face",
+    "description": "\u00c9crase l\u2019ennemi avec les pattes avant ou la queue,\npar exemple.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 2,
+    "name": "Poing-Karat\u00e9",
+    "description": "L\u2019ennemi est tranch\u00e9 violemment.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 3,
+    "name": "Torgnoles",
+    "description": "Gifle rapidement l\u2019ennemi de deux \u00e0 cinq fois\nd\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 4,
+    "name": "Poing Com\u00e8te",
+    "description": "Une tornade de coups de poing qui frappe de\ndeux \u00e0 cinq fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 5,
+    "name": "Ultimapoing",
+    "description": "L\u2019ennemi re\u00e7oit un coup de poing d\u2019une puissance\nincroyable.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 6,
+    "name": "Jackpot",
+    "description": "Des pi\u00e8ces sont lanc\u00e9es sur l\u2019ennemi.\nPermet d\u2019obtenir de l\u2019argent \u00e0 la fin du combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 7,
+    "name": "Poing de Feu",
+    "description": "Un coup de poing enflamm\u00e9 vient frapper l\u2019ennemi.\nPeut le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 8,
+    "name": "Poing-Glace",
+    "description": "Un coup de poing glac\u00e9 vient frapper l\u2019ennemi.\nPeut le geler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 9,
+    "name": "Poing-\u00c9clair",
+    "description": "Un coup de poing \u00e9lectrique vient frapper l\u2019ennemi.\nPeut le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 10,
+    "name": "Griffe",
+    "description": "Lac\u00e8re l\u2019ennemi avec des griffes ac\u00e9r\u00e9es pour lui\ninfliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 11,
+    "name": "Force Poigne",
+    "description": "L\u2019ennemi est attrap\u00e9 et compress\u00e9 par les c\u00f4t\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 12,
+    "name": "Guillotine",
+    "description": "De m\u00e9chantes pinces lac\u00e8rent l\u2019ennemi, le mettant\nK.O. sur le coup s\u2019il est touch\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 13,
+    "name": "Coupe-Vent",
+    "description": "Attaque en deux tours.\nDes lames de vent frappent l\u2019ennemi au second\ntour. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 14,
+    "name": "Danse-Lames",
+    "description": "Danse fr\u00e9n\u00e9tique qui exalte l\u2019esprit combatif.\nAugmente beaucoup l\u2019Attaque du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 15,
+    "name": "Coupe",
+    "description": "Coupe l\u2019ennemi avec des lames ou des griffes.\nHors combat, permet de couper des arbres fins.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 16,
+    "name": "Tornade",
+    "description": "Le lanceur bat des ailes pour g\u00e9n\u00e9rer une\nbourrasque qui blesse l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 17,
+    "name": "Cru-Aile",
+    "description": "L\u2019ennemi est frapp\u00e9 par de larges ailes d\u00e9ploy\u00e9es\npour infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 18,
+    "name": "Cyclone",
+    "description": "\u00c9jecte le Pok\u00e9mon ennemi et le remplace par\nun autre. Dans la nature, met fin au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "name": "Vol",
+    "description": "Le lanceur s\u2019envole au premier tour et frappe au\nsecond. Permet aussi de voler jusqu\u2019\u00e0 une ville\nd\u00e9j\u00e0 visit\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 20,
+    "name": "\u00c9treinte",
+    "description": "Ligote l\u2019ennemi avec les tentacules ou le corps\npour l\u2019\u00e9craser durant quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 21,
+    "name": "Souplesse",
+    "description": "Fouette l\u2019ennemi avec la queue ou une liane,\npar exemple, pour infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 22,
+    "name": "Fouet Lianes",
+    "description": "Fouette l\u2019ennemi avec de fines lianes pour infliger\ndes d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 23,
+    "name": "\u00c9crasement",
+    "description": "\u00c9crase l\u2019ennemi avec un \u00e9norme pied.\nPeut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 24,
+    "name": "Double Pied",
+    "description": "Deux coups de pied qui frappent l\u2019ennemi deux\nfois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 25,
+    "name": "Ultimawashi",
+    "description": "Un coup de pied surpuissant et intense qui\nfrappe l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 26,
+    "name": "Pied Saut\u00e9",
+    "description": "Le lanceur s\u2019envole pour d\u00e9cocher un coup de\npied saut\u00e9. S\u2019il \u00e9choue, le lanceur se blesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 27,
+    "name": "Mawashi Geri",
+    "description": "Le lanceur effectue un coup de pied tournoyant\net extr\u00eamement rapide. Peut apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 28,
+    "name": "Jet de Sable",
+    "description": "Lance du sable au visage de l\u2019ennemi pour baisser\nsa Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 29,
+    "name": "Coup d'Boule",
+    "description": "Le lanceur donne un coup de t\u00eate.\nPeut apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 30,
+    "name": "Koud'Korne",
+    "description": "Frappe l\u2019ennemi d\u2019un coup de corne pointue pour\ninfliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 31,
+    "name": "Furie",
+    "description": "Frappe l\u2019ennemi deux \u00e0 cinq fois d\u2019affil\u00e9e avec\nun bec ou une corne, par exemple.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 32,
+    "name": "Empal'Korne",
+    "description": "Un coup de corne en vrille qui empale l\u2019ennemi,\nle mettant K.O. sur le coup s\u2019il est touch\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 33,
+    "name": "Charge",
+    "description": "Le lanceur charge l\u2019ennemi et le percute de tout\nson corps.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 34,
+    "name": "Plaquage",
+    "description": "Le lanceur se laisse tomber sur l\u2019ennemi de tout\nson poids. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 35,
+    "name": "Ligotage",
+    "description": "Le lanceur ligote l\u2019ennemi avec des lianes ou son\ncorps pour l\u2019\u00e9craser durant quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 36,
+    "name": "B\u00e9lier",
+    "description": "Une charge violente qui blesse aussi l\u00e9g\u00e8rement\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 37,
+    "name": "Mania",
+    "description": "Une attaque furieuse qui dure de deux \u00e0\ntrois tours. Le lanceur devient confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 38,
+    "name": "Damocl\u00e8s",
+    "description": "Une charge dangereuse et imprudente.\nBlesse aussi gravement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 39,
+    "name": "Mimi-Queue",
+    "description": "Le lanceur remue son adorable queue pour\ntromper la vigilance de l\u2019ennemi et baisser\nsa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 40,
+    "name": "Dard-Venin",
+    "description": "Un dard toxique qui transperce l\u2019ennemi.\nPeut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 41,
+    "name": "Double-Dard",
+    "description": "Un double coup de dard qui transperce l\u2019ennemi\ndeux fois d\u2019affil\u00e9e. Peut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 42,
+    "name": "Dard-Nu\u00e9e",
+    "description": "Envoie une rafale de dards.\nPeut toucher de deux \u00e0 cinq fois.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 43,
+    "name": "Groz'Yeux",
+    "description": "Le lanceur fait les gros yeux \u00e0 l\u2019ennemi pour\nl\u2019intimider et baisser sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 44,
+    "name": "Morsure",
+    "description": "L\u2019ennemi est mordu par de tranchantes\ncanines. Peut l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 45,
+    "name": "Rugissement",
+    "description": "Le lanceur pousse un cri tout mimi pour tromper la\nvigilance de l\u2019ennemi et baisser son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 46,
+    "name": "Hurlement",
+    "description": "Effraie le Pok\u00e9mon ennemi et le remplace par un\nautre. Dans la nature, met fin au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 47,
+    "name": "Berceuse",
+    "description": "Une berceuse plonge l\u2019ennemi dans un profond\nsommeil.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 48,
+    "name": "Ultrason",
+    "description": "Le lanceur produit d\u2019\u00e9tranges ondes sonores qui\nrendent la cible confuse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 49,
+    "name": "Sonicboom",
+    "description": "Une onde de choc destructrice qui inflige toujours\n20 PV de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 50,
+    "name": "Entrave",
+    "description": "Emp\u00eache l\u2019ennemi d\u2019employer \u00e0 nouveau\nsa derni\u00e8re attaque. Dure quatre tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 51,
+    "name": "Acide",
+    "description": "Le lanceur attaque l\u2019ennemi avec un jet d\u2019acide\ncorrosif. Peut aussi baisser sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 52,
+    "name": "Flamm\u00e8che",
+    "description": "L\u2019ennemi est attaqu\u00e9 par une faible flamme.\nPeut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 53,
+    "name": "Lance-Flammes",
+    "description": "L\u2019ennemi re\u00e7oit un torrent de flammes.\nPeut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 54,
+    "name": "Brume",
+    "description": "Une brume blanche enveloppe l\u2019\u00e9quipe du lanceur\net emp\u00eache la r\u00e9duction des stats pour cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 55,
+    "name": "Pistolet \u00e0 O",
+    "description": "De l\u2019eau est projet\u00e9e avec force sur l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 56,
+    "name": "Hydrocanon",
+    "description": "Un puissant jet d\u2019eau est dirig\u00e9 sur l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 57,
+    "name": "Surf",
+    "description": "Une \u00e9norme vague s\u2019abat sur le champ de bataille.\nPermet aussi de voyager sur l\u2019eau.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 58,
+    "name": "Laser Glace",
+    "description": "Un rayon de glace frappe l\u2019ennemi.\nPeut aussi le geler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 59,
+    "name": "Blizzard",
+    "description": "Une violente temp\u00eate de neige est d\u00e9clench\u00e9e\nsur l\u2019ennemi. Peut aussi le geler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 60,
+    "name": "Rafale Psy",
+    "description": "Un \u00e9trange rayon frappe l\u2019ennemi.\nPeut aussi le rendre confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 61,
+    "name": "Bulles d'O",
+    "description": "Des bulles sont envoy\u00e9es avec puissance\nsur l\u2019ennemi. Peut aussi baisser sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 62,
+    "name": "Onde Bor\u00e9ale",
+    "description": "Envoie un rayon arc-en-ciel sur l\u2019ennemi.\nPeut aussi baisser son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 63,
+    "name": "Ultralaser",
+    "description": "Projette un puissant rayon sur l\u2019ennemi.\nLe lanceur doit se reposer au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 64,
+    "name": "Picpic",
+    "description": "Frappe l\u2019ennemi d\u2019un bec pointu ou d\u2019une corne\npour infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 65,
+    "name": "Bec Vrille",
+    "description": "Une attaque utilisant le bec comme une perceuse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 66,
+    "name": "Sacrifice",
+    "description": "Le lanceur agrippe l\u2019ennemi et l\u2019\u00e9crase au sol.\nBlesse aussi l\u00e9g\u00e8rement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 67,
+    "name": "Balayage",
+    "description": "Un puissant coup de pied bas qui fauche l\u2019ennemi.\nIl est plus efficace contre les ennemis lourds.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 68,
+    "name": "Riposte",
+    "description": "Une riposte qui r\u00e9pond \u00e0 toute attaque physique\nen infligeant le double de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 69,
+    "name": "Frappe Atlas",
+    "description": "L\u2019ennemi est projet\u00e9 gr\u00e2ce au pouvoir de la\ngravit\u00e9. Inflige des d\u00e9g\u00e2ts \u00e9quivalents au niveau\ndu lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 70,
+    "name": "Force",
+    "description": "Le lanceur cogne l\u2019ennemi de toutes ses forces.\nPermet aussi de d\u00e9placer des rochers.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 71,
+    "name": "Vol-Vie",
+    "description": "Une attaque qui convertit la moiti\u00e9 des d\u00e9g\u00e2ts\ninflig\u00e9s en PV pour le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 72,
+    "name": "M\u00e9ga-Sangsue",
+    "description": "Une attaque qui convertit la moiti\u00e9 des d\u00e9g\u00e2ts\ninflig\u00e9s en PV pour le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 73,
+    "name": "Vampigraine",
+    "description": "Une graine est sem\u00e9e sur l\u2019ennemi.\n\u00c0 chaque tour, elle lui d\u00e9robe des PV que le\nlanceur r\u00e9cup\u00e8re.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 74,
+    "name": "Croissance",
+    "description": "Le corps du lanceur se d\u00e9veloppe.\nAugmente l\u2019Attaque et l\u2019Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 75,
+    "name": "Tranch'Herbe",
+    "description": "Des feuilles aiguis\u00e9es comme des rasoirs entaillent\nl\u2019ennemi. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 76,
+    "name": "Lance-Soleil",
+    "description": "Absorbe la lumi\u00e8re au premier tour et envoie un\nrayon puissant au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 77,
+    "name": "Poudre Toxik",
+    "description": "Une poudre toxique empoisonne l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 78,
+    "name": "Para-Spore",
+    "description": "Le lanceur r\u00e9pand sur l\u2019ennemi une poudre qui le\nparalyse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 79,
+    "name": "Poudre Dodo",
+    "description": "Le lanceur r\u00e9pand une poudre soporifique qui\nendort la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 80,
+    "name": "Danse-Fleur",
+    "description": "Le lanceur attaque en projetant des p\u00e9tales\npendant deux \u00e0 trois tours avant de c\u00e9der \u00e0\nla confusion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 81,
+    "name": "S\u00e9cr\u00e9tion",
+    "description": "Le lanceur crache de la soie pour ligoter l\u2019ennemi\net baisser sensiblement sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 82,
+    "name": "Draco-Rage",
+    "description": "La col\u00e8re du lanceur d\u00e9clenche une onde de choc\ndestructrice qui inflige toujours 40 PV de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 83,
+    "name": "Danse Flamme",
+    "description": "Un tourbillon de flammes emprisonne l\u2019ennemi\npendant quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 84,
+    "name": "\u00c9clair",
+    "description": "Une d\u00e9charge \u00e9lectrique tombe sur l\u2019ennemi.\nPeut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 85,
+    "name": "Tonnerre",
+    "description": "Une grosse d\u00e9charge \u00e9lectrique tombe sur\nl\u2019ennemi. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 86,
+    "name": "Cage-\u00c9clair",
+    "description": "Un faible choc \u00e9lectrique frappe l\u2019ennemi.\nSi l\u2019attaque le touche, celui-ci est paralys\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 87,
+    "name": "Fatal-Foudre",
+    "description": "La foudre tombe sur l\u2019ennemi pour lui infliger\ndes d\u00e9g\u00e2ts. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 88,
+    "name": "Jet-Pierres",
+    "description": "Le lanceur l\u00e2che une pierre sur l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 89,
+    "name": "S\u00e9isme",
+    "description": "Le lanceur provoque un tremblement de terre\ntouchant tous les Pok\u00e9mon autour de lui.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 90,
+    "name": "Ab\u00eeme",
+    "description": "Le lanceur fait tomber l\u2019ennemi dans une crevasse.\nSi cette attaque r\u00e9ussit, elle met K.O. sur le coup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 91,
+    "name": "Tunnel",
+    "description": "Le lanceur creuse au premier tour et frappe au\nsecond. Permet aussi de sortir des grottes.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 92,
+    "name": "Toxik",
+    "description": "Empoisonne gravement l\u2019ennemi.\nLes d\u00e9g\u00e2ts dus au poison augmentent \u00e0 chaque\ntour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 93,
+    "name": "Choc Mental",
+    "description": "Une faible vague t\u00e9l\u00e9kin\u00e9tique frappe l\u2019ennemi.\nPeut aussi le plonger dans la confusion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 94,
+    "name": "Psyko",
+    "description": "Une puissante force t\u00e9l\u00e9kin\u00e9tique frappe l\u2019ennemi.\nPeut aussi faire baisser sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 95,
+    "name": "Hypnose",
+    "description": "Le lanceur hypnotise l\u2019ennemi pour le plonger\ndans un profond sommeil.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 96,
+    "name": "Yoga",
+    "description": "Le lanceur m\u00e9dite pour \u00e9veiller son pouvoir latent\net augmenter son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 97,
+    "name": "H\u00e2te",
+    "description": "Le lanceur se relaxe et all\u00e8ge son corps pour\naugmenter consid\u00e9rablement sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 98,
+    "name": "Vive-Attaque",
+    "description": "Le lanceur fonce sur l\u2019ennemi si rapidement qu\u2019on\nparvient \u00e0 peine \u00e0 le discerner. Frappe toujours en\npremier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 99,
+    "name": "Fr\u00e9n\u00e9sie",
+    "description": "Une fois activ\u00e9e, cette capacit\u00e9 augmente\nl\u2019Attaque du lanceur \u00e0 mesure que celui-ci\nsubit des attaques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 100,
+    "name": "T\u00e9l\u00e9port",
+    "description": "Permet de fuir un Pok\u00e9mon sauvage.\nPermet aussi de revenir au dernier Centre\nPok\u00e9mon visit\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 101,
+    "name": "Ombre Nocturne",
+    "description": "Le lanceur invoque un mirage.\nInflige des d\u00e9g\u00e2ts \u00e9quivalents au niveau du\nlanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 102,
+    "name": "Copie",
+    "description": "Le lanceur copie la derni\u00e8re capacit\u00e9 utilis\u00e9e par\nla cible et la conserve tant qu\u2019il reste au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 103,
+    "name": "Grincement",
+    "description": "Cri strident qui baisse beaucoup la D\u00e9fense\nde l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 104,
+    "name": "Reflet",
+    "description": "Le lanceur se d\u00e9place si vite qu\u2019il cr\u00e9e des copies\nillusoires de lui, augmentant son Esquive.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 105,
+    "name": "Soin",
+    "description": "Un soin qui permet au lanceur de r\u00e9cup\u00e9rer\njusqu\u2019\u00e0 la moiti\u00e9 de ses PV max.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 106,
+    "name": "Armure",
+    "description": "Le lanceur contracte tous ses muscles pour\naugmenter sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 107,
+    "name": "Lilliput",
+    "description": "Le lanceur comprime son corps pour se faire tout\npetit et augmenter fortement son Esquive.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 108,
+    "name": "Brouillard",
+    "description": "Le lanceur disperse un nuage d\u2019encre ou de\nfum\u00e9e. R\u00e9duit la Pr\u00e9cision de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 109,
+    "name": "Onde Folie",
+    "description": "Un rayon sinistre qui plonge l\u2019ennemi dans un \u00e9tat\nde confusion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 110,
+    "name": "Repli",
+    "description": "Le lanceur se recroqueville dans sa carapace,\nce qui augmente sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 111,
+    "name": "Boul'Armure",
+    "description": "Le lanceur s\u2019enroule pour cacher ses points\nfaibles, ce qui augmente sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 112,
+    "name": "Bouclier",
+    "description": "Le lanceur \u00e9rige un mur solide qui augmente\nfortement sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 113,
+    "name": "Mur Lumi\u00e8re",
+    "description": "Un fabuleux mur de lumi\u00e8re qui r\u00e9duit les d\u00e9g\u00e2ts\ncaus\u00e9s par les attaques sp\u00e9ciales durant cinq tours. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 114,
+    "name": "Bu\u00e9e Noire",
+    "description": "Un brouillard qui annule les changements de stats\nde tous les Pok\u00e9mon au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 115,
+    "name": "Protection",
+    "description": "Un fabuleux mur de lumi\u00e8re qui r\u00e9duit les d\u00e9g\u00e2ts\ncaus\u00e9s par les attaques physiques durant cinq\ntours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 116,
+    "name": "Puissance",
+    "description": "Le lanceur prend une profonde inspiration et se\nconcentre pour augmenter son taux de critiques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 117,
+    "name": "Patience",
+    "description": "Le lanceur encaisse les coups durant deux tours et\nr\u00e9plique en infligeant le double des d\u00e9g\u00e2ts subis.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 118,
+    "name": "M\u00e9tronome",
+    "description": "Agite un doigt et stimule le cerveau pour utiliser\npresque n\u2019importe quelle capacit\u00e9 au hasard.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 119,
+    "name": "Mimique",
+    "description": "Le lanceur riposte \u00e0 l\u2019attaque de l\u2019ennemi avec la\nm\u00eame attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 120,
+    "name": "Destruction",
+    "description": "Le lanceur explose en blessant tous les Pok\u00e9mon\nautour de lui. Le lanceur tombe K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 121,
+    "name": "Bomb'\u0152uf",
+    "description": "De toutes ses forces, le lanceur jette un gros \u0153uf\nsur l\u2019ennemi pour lui infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 122,
+    "name": "L\u00e9chouille",
+    "description": "Un grand coup de langue qui inflige des d\u00e9g\u00e2ts\n\u00e0 l\u2019ennemi. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 123,
+    "name": "Pur\u00e9dpois",
+    "description": "Le lanceur attaque \u00e0 l\u2019aide d\u2019une \u00e9ruption de gaz\nr\u00e9pugnants. Peut aussi empoisonner l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 124,
+    "name": "D\u00e9tritus",
+    "description": "Des d\u00e9tritus toxiques sont projet\u00e9s sur l\u2019ennemi.\nPeut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 125,
+    "name": "Massd'Os",
+    "description": "Le lanceur frappe l\u2019ennemi \u00e0 grands coups d\u2019os.\nPeut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 126,
+    "name": "D\u00e9flagration",
+    "description": "Un d\u00e9luge de flammes ardentes submerge\nl\u2019ennemi. Peut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 127,
+    "name": "Cascade",
+    "description": "Le lanceur charge l\u2019ennemi \u00e0 une vitesse\nremarquable, ce qui peut l\u2019apeurer.\nPermet aussi de franchir une cascade.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 128,
+    "name": "Claquoir",
+    "description": "Le lanceur pi\u00e8ge l\u2019ennemi dans sa dure coquille et\nl\u2019\u00e9crase pendant quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 129,
+    "name": "M\u00e9t\u00e9ores",
+    "description": "Le lanceur envoie des rayons d\u2019\u00e9toiles.\nTouche toujours l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 130,
+    "name": "Coud'Kr\u00e2ne",
+    "description": "Le lanceur baisse la t\u00eate pour augmenter sa\nD\u00e9fense au premier tour et percuter l\u2019ennemi au\nsecond.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 131,
+    "name": "Picanon",
+    "description": "Envoie une rafale de dards.\nPeut toucher de deux \u00e0 cinq fois.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 132,
+    "name": "Constriction",
+    "description": "De longs tentacules ou lianes attaquent l\u2019ennemi.\nPeut aussi baisser sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 133,
+    "name": "Amn\u00e9sie",
+    "description": "Le lanceur fait le vide dans son esprit pour\noublier ses soucis. Augmente fortement sa\nD\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 134,
+    "name": "T\u00e9l\u00e9kin\u00e9sie",
+    "description": "Le lanceur distrait l\u2019ennemi en pliant une cuiller,\nce qui baisse sa Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 135,
+    "name": "E-Coque",
+    "description": "Le lanceur r\u00e9cup\u00e8re jusqu\u2019\u00e0 la moiti\u00e9 de ses\nPV max. En dehors des combats, permet de\ntransf\u00e9rer des PV du lanceur \u00e0 un alli\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 136,
+    "name": "Pied Voltige",
+    "description": "Le lanceur s\u2019\u00e9lance pour effectuer un coup de\ngenou saut\u00e9. S\u2019il \u00e9choue, le lanceur se blesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 137,
+    "name": "Regard M\u00e9dusant",
+    "description": "Le lanceur intimide l\u2019ennemi gr\u00e2ce \u00e0 son regard\nterrifiant pour le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 138,
+    "name": "D\u00e9vor\u00eave",
+    "description": "Le lanceur mange le r\u00eave de l\u2019ennemi endormi.\nIl r\u00e9cup\u00e8re en PV la moiti\u00e9 des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 139,
+    "name": "Gaz Toxik",
+    "description": "Un nuage de gaz toxique est projet\u00e9 au visage de\nl\u2019ennemi pour l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 140,
+    "name": "Pilonnage",
+    "description": "Projette de deux \u00e0 cinq grosses boules sur\nl\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 141,
+    "name": "Vampirisme",
+    "description": "Une attaque qui aspire le sang de l\u2019ennemi.\nLa moiti\u00e9 des d\u00e9g\u00e2ts sont convertis en PV pour\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 142,
+    "name": "Grobisou",
+    "description": "Le lanceur fait un bisou \u00e0 l\u2019ennemi en prenant une\nmine effrayante. Endort l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 143,
+    "name": "Piqu\u00e9",
+    "description": "Une attaque en deux tours au taux de critiques\n\u00e9lev\u00e9. Peut aussi apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 144,
+    "name": "Morphing",
+    "description": "Le lanceur devient une copie de sa cible et obtient\nla m\u00eame palette de capacit\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 145,
+    "name": "\u00c9cume",
+    "description": "Des bulles frappent l\u2019ennemi.\nPeut r\u00e9duire sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 146,
+    "name": "Uppercut",
+    "description": "Un encha\u00eenement de coups de poing cadenc\u00e9s\nfrappe l\u2019ennemi. Peut aussi le rendre confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 147,
+    "name": "Spore",
+    "description": "Le lanceur r\u00e9pand un nuage de spores qui endort.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 148,
+    "name": "Flash",
+    "description": "Explosion lumineuse qui fait baisser la\nPr\u00e9cision de l\u2019ennemi.\nIllumine les endroits sombres.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 149,
+    "name": "Vague Psy",
+    "description": "Une \u00e9trange onde d\u2019\u00e9nergie chaude frappe\nl\u2019ennemi. Cette attaque est d\u2019intensit\u00e9 variable.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 150,
+    "name": "Trempette",
+    "description": "Le lanceur barbote et \u00e9clabousse les environs.\nCette capacit\u00e9 n\u2019a aucun effet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 151,
+    "name": "Acidarmure",
+    "description": "Le lanceur modifie sa structure mol\u00e9culaire pour se\nliqu\u00e9fier et augmenter fortement sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 152,
+    "name": "Pince-Masse",
+    "description": "Une grande pince mart\u00e8le l\u2019ennemi.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 153,
+    "name": "Explosion",
+    "description": "Le lanceur explose et inflige des d\u00e9g\u00e2ts \u00e0 tous\nles Pok\u00e9mon autour de lui. Met K.O. le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 154,
+    "name": "Combo-Griffe",
+    "description": "L\u2019ennemi est lac\u00e9r\u00e9 par des faux ou des griffes\nde deux \u00e0 cinq fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 155,
+    "name": "Osmerang",
+    "description": "Le lanceur projette son os comme un boomerang.\nCette attaque frappe \u00e0 l\u2019aller et au retour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 156,
+    "name": "Repos",
+    "description": "Le lanceur regagne tous ses PV et soigne ses\nprobl\u00e8mes de statut, puis il dort pendant deux\ntours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 157,
+    "name": "\u00c9boulement",
+    "description": "Envoie de gros rochers sur l\u2019ennemi pour infliger\ndes d\u00e9g\u00e2ts. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 158,
+    "name": "Croc de Mort",
+    "description": "Le lanceur mord l\u2019ennemi \u00e0 l\u2019aide de ses incisives\naiguis\u00e9es. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 159,
+    "name": "Aff\u00fbtage",
+    "description": "Le lanceur r\u00e9duit son nombre de polygones pour\naccentuer ses angles et augmenter son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 160,
+    "name": "Conversion",
+    "description": "Le lanceur change de type pour prendre celui\nde la premi\u00e8re capacit\u00e9 de sa liste.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 161,
+    "name": "Triplattaque",
+    "description": "Le lanceur envoie trois boules d\u2019\u00e9nergie\nsimultan\u00e9ment. Peut aussi paralyser, br\u00fbler ou\ngeler l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 162,
+    "name": "Croc Fatal",
+    "description": "Une vilaine morsure d\u2019incisives qui r\u00e9duit de moiti\u00e9\nles PV de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 163,
+    "name": "Tranche",
+    "description": "Un coup de griffe ou autre tranche l\u2019ennemi.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 164,
+    "name": "Clonage",
+    "description": "Le lanceur fait une copie de lui-m\u00eame en sacrifiant\nquelques PV. La copie sert de leurre.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 165,
+    "name": "Lutte",
+    "description": "Une attaque d\u00e9sesp\u00e9r\u00e9e, utilis\u00e9e quand le lanceur\nn\u2019a plus de PP. Le blesse aussi l\u00e9g\u00e8rement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 166,
+    "name": "Gribouille",
+    "description": "Le lanceur apprend la derni\u00e8re capacit\u00e9 utilis\u00e9e par la \ncible. Gribouille dispara\u00eet apr\u00e8s utilisation.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 167,
+    "name": "Triple Pied",
+    "description": "Une salve de un \u00e0 trois coups de pied dont\nla puissance augmente \u00e0 chaque coup port\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 168,
+    "name": "Larcin",
+    "description": "Le lanceur attaque la cible et vole son objet.\nLe lanceur ne peut rien voler s\u2019il tient d\u00e9j\u00e0\nun objet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 169,
+    "name": "Toile",
+    "description": "Le lanceur enserre l\u2019ennemi \u00e0 l\u2019aide d\u2019une fine\nsoie gluante pour l\u2019emp\u00eacher de fuir le combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 170,
+    "name": "Lire-Esprit",
+    "description": "Le lanceur analyse les mouvements de l\u2019ennemi\npour \u00eatre s\u00fbr de toucher au coup suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 171,
+    "name": "Cauchemar",
+    "description": "Un cauchemar qui inflige des d\u00e9g\u00e2ts \u00e0 chaque tour\n\u00e0 un ennemi endormi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 172,
+    "name": "Roue de Feu",
+    "description": "Le lanceur s\u2019entoure de feu et charge l\u2019ennemi.\nPeut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 173,
+    "name": "Ronflement",
+    "description": "Une attaque qui ne fonctionne que si le lanceur\nest endormi. Le boucan peut aussi apeurer\nl\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 174,
+    "name": "Mal\u00e9diction",
+    "description": "Une capacit\u00e9 \u00e0 l\u2019effet diff\u00e9rent selon que le\nlanceur est un Pok\u00e9mon Spectre ou non.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 175,
+    "name": "Fl\u00e9au",
+    "description": "Le lanceur fait tournoyer son fl\u00e9au.\nPlus ses PV sont bas, plus l\u2019attaque est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 176,
+    "name": "Conversion 2",
+    "description": "Le lanceur change de type pour \u00eatre r\u00e9sistant au\ntype de la derni\u00e8re attaque lanc\u00e9e par sa cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 177,
+    "name": "A\u00e9roblast",
+    "description": "Le lanceur projette une tornade sur l\u2019ennemi pour\ninfliger des d\u00e9g\u00e2ts. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 178,
+    "name": "Spore Coton",
+    "description": "Le lanceur lib\u00e8re des spores cotonneuses qui\ncollent \u00e0 l\u2019ennemi et baissent fortement sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 179,
+    "name": "Contre",
+    "description": "Le lanceur ne retient plus ses coups.\nPlus ses PV sont bas et plus l\u2019attaque est\npuissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 180,
+    "name": "D\u00e9pit",
+    "description": "Le lanceur exprime son ressentiment en retirant\n4 PP de la derni\u00e8re attaque de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 181,
+    "name": "Poudreuse",
+    "description": "Le lanceur projette de la neige poudreuse.\nPeut aussi geler l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 182,
+    "name": "Abri",
+    "description": "Le lanceur esquive toutes les attaques.\nLe risque d\u2019\u00e9chec augmente lorsque la capacit\u00e9\nest utilis\u00e9e plusieurs fois de suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 183,
+    "name": "Mach Punch",
+    "description": "Coup de poing fulgurant.\nFrappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 184,
+    "name": "Grimace",
+    "description": "Une grimace qui effraie l\u2019ennemi et r\u00e9duit\nfortement sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 185,
+    "name": "Feinte",
+    "description": "Le lanceur s\u2019approche l\u2019air de rien avant de frapper\npar surprise. N\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 186,
+    "name": "Doux Baiser",
+    "description": "Le lanceur envoie un bisou si mignon et d\u00e9sarmant\nqu\u2019il plonge l\u2019ennemi dans la confusion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 187,
+    "name": "Cognobidon",
+    "description": "Am\u00e9liore l\u2019Attaque au maximum en sacrifiant\nla moiti\u00e9 des PV max.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 188,
+    "name": "Bomb-Beurk",
+    "description": "Des d\u00e9tritus toxiques sont projet\u00e9s sur l\u2019ennemi.\nPeut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 189,
+    "name": "Coud'Boue",
+    "description": "Le lanceur envoie de la boue au visage de\nl\u2019ennemi pour infliger des d\u00e9g\u00e2ts et baisser\nsa Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 190,
+    "name": "Octazooka",
+    "description": "Le lanceur attaque en projetant de l\u2019encre au\nvisage de l\u2019ennemi. Peut aussi baisser sa Pr\u00e9cision. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 191,
+    "name": "Picots",
+    "description": "Le lanceur disperse des piquants sur le sol pour\nblesser tout ennemi qui entre au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 192,
+    "name": "\u00c9lecanon",
+    "description": "Un boulet de canon \u00e9lectrifi\u00e9 qui inflige des\nd\u00e9g\u00e2ts et paralyse l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 193,
+    "name": "Clairvoyance",
+    "description": "Permet de toucher un Pok\u00e9mon Spectre avec\nn\u2019importe quelle capacit\u00e9 ou de toucher un\nennemi insaisissable.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 194,
+    "name": "Pr\u00e9l\u00e8vem. Destin",
+    "description": "Quand cette capacit\u00e9 est activ\u00e9e, elle met K.O.\nun ennemi qui porte un coup fatal au lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 195,
+    "name": "Requiem",
+    "description": "Tout Pok\u00e9mon qui entend ce requiem est K.O.\ndans trois tours \u00e0 moins qu\u2019il ne soit remplac\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 196,
+    "name": "Vent Glace",
+    "description": "Une bourrasque de vent froid blesse l\u2019ennemi.\nR\u00e9duit aussi sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 197,
+    "name": "D\u00e9tection",
+    "description": "Le lanceur esquive toutes les attaques.\nLe risque d\u2019\u00e9chec augmente lorsque la capacit\u00e9\nest utilis\u00e9e plusieurs fois de suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 198,
+    "name": "Charge-Os",
+    "description": "Le lanceur frappe l\u2019ennemi avec un os\nde deux \u00e0 cinq fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 199,
+    "name": "Verrouillage",
+    "description": "Verrouille l\u2019ennemi pour ne pas le rater au tour\nsuivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 200,
+    "name": "Col\u00e8re",
+    "description": "Le lanceur laisse \u00e9clater sa rage et attaque\npendant deux \u00e0 trois tours avant de c\u00e9der \u00e0\nla confusion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 201,
+    "name": "Temp\u00eate de Sable",
+    "description": "Une temp\u00eate de sable qui blesse tous les\nPok\u00e9mon durant cinq tours, sauf ceux de types\nRoche, Sol et Acier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 202,
+    "name": "Giga-Sangsue",
+    "description": "Une attaque qui convertit la moiti\u00e9 des d\u00e9g\u00e2ts\ninflig\u00e9s en PV pour le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 203,
+    "name": "T\u00e9nacit\u00e9",
+    "description": "Le lanceur r\u00e9siste aux attaques avec 1 PV.\nPeut \u00e9chouer si utilis\u00e9e plusieurs fois de suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 204,
+    "name": "Charme",
+    "description": "Le lanceur fait les yeux doux pour berner l\u2019ennemi\net r\u00e9duire consid\u00e9rablement son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 205,
+    "name": "Roulade",
+    "description": "Un rocher roule sur l\u2019ennemi pendant cinq tours.\nL\u2019attaque gagne en puissance \u00e0 chaque coup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 206,
+    "name": "Faux-Chage",
+    "description": "Le lanceur retient ses coups pour que l\u2019ennemi\ngarde au moins 1 PV et ne tombe pas K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 207,
+    "name": "Vantardise",
+    "description": "Fait enrager la cible et la plonge dans la confusion,\nmais augmente fortement son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 208,
+    "name": "Lait \u00e0 Boire",
+    "description": "Le lanceur r\u00e9cup\u00e8re jusqu\u2019\u00e0 la moiti\u00e9 de ses\nPV max. En dehors des combats, permet de\ntransf\u00e9rer des PV du lanceur \u00e0 un alli\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 209,
+    "name": "\u00c9tincelle",
+    "description": "Lance une charge \u00e9lectrique sur l\u2019ennemi.\nPeut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 210,
+    "name": "Taillade",
+    "description": "Un coup de faux ou de griffe dont la force\naugmente quand il touche plusieurs fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 211,
+    "name": "Aile d'Acier",
+    "description": "Le lanceur frappe l\u2019ennemi avec des ailes d\u2019acier.\nPeut aussi augmenter la D\u00e9fense du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 212,
+    "name": "Regard Noir",
+    "description": "Le lanceur p\u00e9trifie l\u2019ennemi en lui lan\u00e7ant un\nregard noir. Il devient incapable de s\u2019enfuir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 213,
+    "name": "Attraction",
+    "description": "Si l\u2019ennemi est du sexe oppos\u00e9, il tombe amoureux\net rechigne alors \u00e0 attaquer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 214,
+    "name": "Blabla Dodo",
+    "description": "Le lanceur utilise une de ses capacit\u00e9s au hasard\npendant qu\u2019il dort.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 215,
+    "name": "Glas de Soin",
+    "description": "Carillon apaisant qui soigne les probl\u00e8mes de\nstatut de tous les Pok\u00e9mon de l\u2019\u00e9quipe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 216,
+    "name": "Retour",
+    "description": "Plus le Pok\u00e9mon appr\u00e9cie son Dresseur, plus\nla puissance de cette attaque furieuse augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 217,
+    "name": "Cadeau",
+    "description": "Le lanceur attaque en offrant un cadeau pi\u00e9g\u00e9 \u00e0 la\ncible. Peut cependant restaurer certains de ses PV.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 218,
+    "name": "Frustration",
+    "description": "Moins le Pok\u00e9mon aime son Dresseur, plus cette\nattaque est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 219,
+    "name": "Rune Protect",
+    "description": "Cr\u00e9e un champ protecteur qui emp\u00eache tous les\nprobl\u00e8mes de statut pendant cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 220,
+    "name": "Balance",
+    "description": "Le lanceur ajoute ses PV \u00e0 ceux de sa cible et les\nr\u00e9partit \u00e9quitablement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 221,
+    "name": "Feu Sacr\u00e9",
+    "description": "Le lanceur g\u00e9n\u00e8re un feu mystique d\u2019une intensit\u00e9\nredoutable pour attaquer l\u2019ennemi. Peut aussi le\nbr\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 222,
+    "name": "Ampleur",
+    "description": "Provoque un tremblement de terre d\u2019intensit\u00e9\nvariable qui affecte tous les Pok\u00e9mon alentour.\nL\u2019efficacit\u00e9 varie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 223,
+    "name": "Dynamopoing",
+    "description": "Le lanceur rassemble ses forces et envoie un coup\nde poing \u00e0 l\u2019ennemi. Rend ce dernier confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 224,
+    "name": "M\u00e9gacorne",
+    "description": "Le lanceur utilise ses gigantesques cornes pour\ncharger l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 225,
+    "name": "Dracosouffle",
+    "description": "Le lanceur souffle fort sur l\u2019ennemi pour lui infliger\ndes d\u00e9g\u00e2ts. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 226,
+    "name": "Relais",
+    "description": "Le lanceur \u00e9change sa place et tout changement\nde stat avec un Pok\u00e9mon de l\u2019\u00e9quipe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 227,
+    "name": "Encore",
+    "description": "Oblige l\u2019ennemi \u00e0 r\u00e9p\u00e9ter durant trois tours la\nderni\u00e8re capacit\u00e9 utilis\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 228,
+    "name": "Poursuite",
+    "description": "Une attaque qui inflige deux fois plus de d\u00e9g\u00e2ts \u00e0\nun ennemi qui s\u2019appr\u00eate \u00e0 \u00eatre remplac\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 229,
+    "name": "Tour Rapide",
+    "description": "Une attaque tournoyante pouvant aussi annuler\npar exemple \u00c9treinte, Ligotage, Vampigraine ou\nPicots.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 230,
+    "name": "Doux Parfum",
+    "description": "Un doux parfum qui r\u00e9duit sensiblement l\u2019Esquive\nde l\u2019ennemi. Utilis\u00e9 hors d\u2019un combat, attire aussi\nles Pok\u00e9mon sauvages.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 231,
+    "name": "Queue de Fer",
+    "description": "Attaque l\u2019ennemi avec une queue de fer.\nPeut aussi baisser sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 232,
+    "name": "Griffe Acier",
+    "description": "Attaque avec des griffes d\u2019acier.\nPeut aussi augmenter l\u2019Attaque du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 233,
+    "name": "Corps Perdu",
+    "description": "Le lanceur porte son coup en dernier.\nEn \u00e9change, cette capacit\u00e9 n\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 234,
+    "name": "Aurore",
+    "description": "Un soin qui restaure des PV au lanceur.\nSon efficacit\u00e9 varie en fonction de la m\u00e9t\u00e9o.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 235,
+    "name": "Synth\u00e8se",
+    "description": "Un soin qui restaure des PV au lanceur.\nSon efficacit\u00e9 varie en fonction de la m\u00e9t\u00e9o.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 236,
+    "name": "Rayon Lune",
+    "description": "Un soin qui restaure des PV au lanceur.\nSon efficacit\u00e9 varie en fonction de la m\u00e9t\u00e9o.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 237,
+    "name": "Puissance Cach\u00e9e",
+    "description": "Attaque dont le type d\u00e9pend du Pok\u00e9mon\nqui l\u2019utilise.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 238,
+    "name": "Coup-Croix",
+    "description": "Le lanceur d\u00e9livre un coup double en croisant les\navant-bras. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 239,
+    "name": "Ouragan",
+    "description": "D\u00e9clenche un terrible ouragan sur l\u2019ennemi.\nPeut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 240,
+    "name": "Danse Pluie",
+    "description": "Invoque de fortes pluies qui durent cinq tours et\naugmentent la puissance des capacit\u00e9s de type\nEau.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 241,
+    "name": "Z\u00e9nith",
+    "description": "Fait briller le soleil pendant cinq tours, augmentant\nla puissance des capacit\u00e9s de type Feu.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 242,
+    "name": "M\u00e2chouille",
+    "description": "Le lanceur mord l\u2019ennemi de ses crocs pointus.\nPeut aussi baisser sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 243,
+    "name": "Voile Miroir",
+    "description": "Une riposte qui contre n\u2019importe quelle attaque\nsp\u00e9ciale en infligeant le double des d\u00e9g\u00e2ts subis.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 244,
+    "name": "Boost",
+    "description": "Une autohypnose qui permet au lanceur de copier\nles changements de stats de la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 245,
+    "name": "Vitesse Extr\u00eame",
+    "description": "Le lanceur charge \u00e0 une vitesse renversante.\nFrappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 246,
+    "name": "Pouvoir Antique",
+    "description": "Une attaque pr\u00e9historique qui peut augmenter\ntoutes les stats du lanceur d\u2019un seul coup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 247,
+    "name": "Ball'Ombre",
+    "description": "Projette une grande ombre sur l\u2019ennemi.\nPeut aussi faire baisser sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 248,
+    "name": "Prescience",
+    "description": "De l\u2019\u00e9nergie psychique vient frapper l\u2019ennemi\ndeux tours apr\u00e8s l\u2019utilisation de cette capacit\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 249,
+    "name": "\u00c9clate-Roc",
+    "description": "Porte un coup de poing \u00e0 l\u2019ennemi qui peut\nbaisser sa D\u00e9fense. Peut aussi briser des rochers\nfissur\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 250,
+    "name": "Siphon",
+    "description": "Pi\u00e8ge l\u2019ennemi dans une trombe d\u2019eau pendant\nquatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 251,
+    "name": "Baston",
+    "description": "Le lanceur appelle tous les Pok\u00e9mon de son\n\u00e9quipe \u00e0 attaquer. Plus ils sont nombreux, plus\nil y a d\u2019attaques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 252,
+    "name": "Bluff",
+    "description": "Permet de frapper en premier et apeure l\u2019ennemi.\nNe fonctionne qu\u2019au premier tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 253,
+    "name": "Brouhaha",
+    "description": "Le lanceur attaque en rugissant durant trois tours.\nPendant ce temps, aucun Pok\u00e9mon ne peut\ns\u2019endormir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 254,
+    "name": "Stockage",
+    "description": "Le lanceur accumule de la puissance et augmente\nsa D\u00e9fense et sa D\u00e9fense Sp\u00e9ciale.\nPeut \u00eatre utilis\u00e9 trois fois.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 255,
+    "name": "Rel\u00e2che",
+    "description": "Lib\u00e8re dans une attaque la puissance\npr\u00e9c\u00e9demment accumul\u00e9e avec Stockage.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 256,
+    "name": "Avale",
+    "description": "Le lanceur absorbe la puissance accumul\u00e9e avec\nStockage pour restaurer ses PV.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 257,
+    "name": "Canicule",
+    "description": "Le lanceur provoque une vague de chaleur.\nPeut aussi br\u00fbler l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 258,
+    "name": "Gr\u00eale",
+    "description": "Invoque une temp\u00eate de gr\u00eale qui dure cinq tours.\nNe blesse pas les Pok\u00e9mon de type Glace.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 259,
+    "name": "Tourmente",
+    "description": "Le lanceur irrite l\u2019ennemi pour l\u2019emp\u00eacher d\u2019utiliser\nla m\u00eame capacit\u00e9 deux fois de suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 260,
+    "name": "Flatterie",
+    "description": "Rend la cible confuse, mais augmente son\nAttaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 261,
+    "name": "Feu Follet",
+    "description": "Lance une sinistre flamme violette \u00e0 l\u2019ennemi pour\nlui infliger une br\u00fblure.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 262,
+    "name": "Souvenir",
+    "description": "Le lanceur est mis K.O., mais l\u2019Attaque et\nl\u2019Attaque Sp\u00e9ciale de l\u2019ennemi baissent beaucoup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 263,
+    "name": "Fa\u00e7ade",
+    "description": "Une attaque dont la puissance double lorsque le\nlanceur est empoisonn\u00e9, paralys\u00e9 ou br\u00fbl\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 264,
+    "name": "Mitra-Poing",
+    "description": "Le lanceur se concentre avant d\u2019attaquer.\n\u00c9choue s\u2019il est touch\u00e9 avant d\u2019avoir frapp\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 265,
+    "name": "Stimulant",
+    "description": "Cette attaque est doublement efficace sur les\nPok\u00e9mon paralys\u00e9s, mais elle soigne leur paralysie. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 266,
+    "name": "Par Ici",
+    "description": "Attire l\u2019attention des ennemis pour les forcer \u00e0\nn\u2019attaquer que le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 267,
+    "name": "Force-Nature",
+    "description": "Une attaque qui tire sa force de la nature.\nSon type varie selon le terrain.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 268,
+    "name": "Chargeur",
+    "description": "Le lanceur concentre sa puissance pour\nsa prochaine attaque \u00c9lectrik. Augmente sa\nD\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 269,
+    "name": "Provoc",
+    "description": "Provoque l\u2019ennemi. L\u2019oblige \u00e0 n\u2019utiliser que des\nattaques pendant trois tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 270,
+    "name": "Coup d'Main",
+    "description": "Une capacit\u00e9 qui augmente la puissance d\u2019attaque\nd\u2019un alli\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 271,
+    "name": "Tourmagik",
+    "description": "Le lanceur prend la cible au d\u00e9pourvu et l\u2019oblige\n\u00e0 \u00e9changer son objet contre le sien.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 272,
+    "name": "Imitation",
+    "description": "Imite la cible et copie son talent.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 273,
+    "name": "V\u0153u",
+    "description": "Un v\u0153u qui permet de r\u00e9cup\u00e9rer la moiti\u00e9 des\nPV max au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 274,
+    "name": "Assistance",
+    "description": "Le lanceur se d\u00e9p\u00eache d\u2019utiliser une capacit\u00e9 au\nhasard parmi celles des Pok\u00e9mon de l\u2019\u00e9quipe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 275,
+    "name": "Racines",
+    "description": "Le lanceur plante ses racines et r\u00e9cup\u00e8re des\nPV \u00e0 chaque tour. Une fois enracin\u00e9, il ne peut\nplus fuir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 276,
+    "name": "Surpuissance",
+    "description": "Une attaque puissante, mais qui baisse l\u2019Attaque\net la D\u00e9fense du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 277,
+    "name": "Reflet Magik",
+    "description": "Une barri\u00e8re qui renvoie les capacit\u00e9s comme\nVampigraine et celles affectant le statut et\nles stats.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 278,
+    "name": "Recyclage",
+    "description": "Recycle un objet tenu \u00e0 usage unique d\u00e9j\u00e0 utilis\u00e9\nlors du combat pour pouvoir l\u2019utiliser \u00e0 nouveau.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 279,
+    "name": "Vendetta",
+    "description": "Une attaque deux fois plus puissante si le lanceur\na \u00e9t\u00e9 bless\u00e9 par l\u2019ennemi durant ce tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 280,
+    "name": "Casse-Brique",
+    "description": "Une attaque avec le tranchant de la main.\nPermet aussi de briser les barri\u00e8res comme\nMur Lumi\u00e8re et Protection.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 281,
+    "name": "B\u00e2illement",
+    "description": "Fait b\u00e2iller l\u2019ennemi qui s\u2019endort au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 282,
+    "name": "Sabotage",
+    "description": "Fait plus de d\u00e9g\u00e2ts aux cibles qui tiennent un\nobjet. De plus, fait tomber cet objet et emp\u00eache\nla cible de l\u2019utiliser jusqu\u2019\u00e0 la fin du combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 283,
+    "name": "Effort",
+    "description": "Une attaque qui r\u00e9duit les PV de l\u2019ennemi au\nniveau des PV du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 284,
+    "name": "\u00c9ruption",
+    "description": "Le lanceur laisse exploser sa col\u00e8re.\nPlus ses PV sont bas et moins l\u2019attaque est\npuissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 285,
+    "name": "\u00c9change",
+    "description": "Le lanceur utilise ses pouvoirs psychiques pour\n\u00e9changer son talent avec la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 286,
+    "name": "Possessif",
+    "description": "Si l\u2019ennemi et le lanceur ont des capacit\u00e9s en\ncommun, l\u2019ennemi ne pourra pas les utiliser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 287,
+    "name": "R\u00e9g\u00e9n\u00e9ration",
+    "description": "Le lanceur se repose pour gu\u00e9rir d\u2019un\nempoisonnement, d\u2019une br\u00fblure ou d\u2019une\nparalysie.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 288,
+    "name": "Rancune",
+    "description": "Si le lanceur est mis K.O., sa rancune \u00e9puise les\nPP de la capacit\u00e9 utilis\u00e9e par l\u2019ennemi pour le\nmettre K.O.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 289,
+    "name": "Saisie",
+    "description": "Lorsqu\u2019une capacit\u00e9 de soin ou de changement\nde stats est utilis\u00e9e, le lanceur vole ses effets.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 290,
+    "name": "Force Cach\u00e9e",
+    "description": "Les effets de cette attaque varient en fonction\nde l\u2019environnement. Permet aussi de cr\u00e9er sa propre \nBase Secr\u00e8te.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 291,
+    "name": "Plong\u00e9e",
+    "description": "Le lanceur plonge sous l\u2019eau au premier tour\net frappe au second.\nPermet aussi de plonger dans l\u2019eau profonde.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 292,
+    "name": "Cogne",
+    "description": "Un d\u00e9luge de coups adress\u00e9s avec la paume qui\nfrappe de deux \u00e0 cinq fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 293,
+    "name": "Camouflage",
+    "description": "Modifie le type du lanceur en fonction du terrain,\ncomme une berge, une grotte, l\u2019herbe, etc.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 294,
+    "name": "Lumiqueue",
+    "description": "Le lanceur regarde un flash lumineux fixement.\nAugmente consid\u00e9rablement son Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 295,
+    "name": "Lumi-\u00c9clat",
+    "description": "Le lanceur lib\u00e8re un \u00e9clair lumineux.\nPeut aussi baisser la D\u00e9fense Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 296,
+    "name": "Ball'Brume",
+    "description": "Une bulle de brume inflige des d\u00e9g\u00e2ts \u00e0 l\u2019ennemi.\nPeut aussi r\u00e9duire son Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 297,
+    "name": "Danse-Plume",
+    "description": "Une montagne de plumes ensevelit l\u2019ennemi et\nr\u00e9duit consid\u00e9rablement son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 298,
+    "name": "Danse-Folle",
+    "description": "Danse qui rend confus tous les Pok\u00e9mon autour\ndu lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 299,
+    "name": "Pied Br\u00fbleur",
+    "description": "Le lanceur envoie un coup de pied au taux de\ncritiques \u00e9lev\u00e9. Peut aussi br\u00fbler la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 300,
+    "name": "Lance-Boue",
+    "description": "Asperge les alentours de boue.\nAffaiblit les capacit\u00e9s \u00c9lectrik pendant cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 301,
+    "name": "Ball'Glace",
+    "description": "Envoie une balle de glace pendant cinq tours.\nL\u2019attaque gagne en puissance \u00e0 chaque coup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 302,
+    "name": "Poing Dard",
+    "description": "Le lanceur attaque en fouettant l\u2019ennemi de ses\nbras \u00e9pineux. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 303,
+    "name": "Paresse",
+    "description": "Le lanceur se tourne les pouces et r\u00e9cup\u00e8re\njusqu\u2019\u00e0 la moiti\u00e9 de ses PV max.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 304,
+    "name": "M\u00e9gaphone",
+    "description": "Le lanceur pousse un cri dont l\u2019\u00e9cho terrifiant a le\npouvoir d\u2019infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 305,
+    "name": "Crochet Venin",
+    "description": "Le lanceur mord l\u2019ennemi de ses crocs toxiques.\nPeut aussi l\u2019empoisonner gravement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 306,
+    "name": "\u00c9clate Griffe",
+    "description": "Lac\u00e8re l\u2019ennemi avec des griffes solides et\naiguis\u00e9es. Peut aussi baisser sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 307,
+    "name": "Rafale Feu",
+    "description": "Une explosion ardente souffle l\u2019adversaire.\nLe lanceur doit se reposer au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 308,
+    "name": "Hydroblast",
+    "description": "Une trombe d\u2019eau heurte l\u2019ennemi.\nLe lanceur doit se reposer au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 309,
+    "name": "Poing M\u00e9t\u00e9or",
+    "description": "Un coup de poing lanc\u00e9 \u00e0 la vitesse d\u2019un m\u00e9t\u00e9ore.\nPeut aussi augmenter l\u2019Attaque du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 310,
+    "name": "\u00c9tonnement",
+    "description": "Le lanceur attaque l\u2019ennemi en poussant un cri\nterrifiant. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 311,
+    "name": "Ball'M\u00e9t\u00e9o",
+    "description": "Une attaque dont la puissance et le type varient\nen fonction du temps qu\u2019il fait.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 312,
+    "name": "Aromath\u00e9rapie",
+    "description": "Le lanceur lib\u00e8re un parfum apaisant qui gu\u00e9rit\ntous les probl\u00e8mes de statut de l\u2019\u00e9quipe.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 313,
+    "name": "Croco Larme",
+    "description": "Le lanceur fait semblant de pleurer pour troubler\nl\u2019ennemi et baisser fortement sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 314,
+    "name": "Tranch'Air",
+    "description": "Le lanceur appelle des vents tranchants qui\nlac\u00e8rent l\u2019ennemi. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 315,
+    "name": "Surchauffe",
+    "description": "Attaque l\u2019ennemi \u00e0 pleine puissance.\nLe contrecoup baisse fortement l\u2019Attaque\nSp\u00e9ciale du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 316,
+    "name": "Flair",
+    "description": "Permet de toucher un Pok\u00e9mon Spectre avec\nn\u2019importe quelle capacit\u00e9 ou de toucher un\nennemi insaisissable.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 317,
+    "name": "Tomberoche",
+    "description": "Des rochers frappent l\u2019ennemi.\nR\u00e9duit aussi sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 318,
+    "name": "Vent Argent\u00e9",
+    "description": "Vent qui projette des \u00e9cailles poudreuses sur\nl\u2019ennemi. Peut aussi monter toutes les stats\ndu lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 319,
+    "name": "Strido-Son",
+    "description": "Un cri horrible tel un crissement m\u00e9tallique qui\nr\u00e9duit fortement la D\u00e9fense Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 320,
+    "name": "Siffl'Herbe",
+    "description": "Le lanceur joue une douce m\u00e9lodie qui plonge\nl\u2019ennemi dans un profond sommeil.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 321,
+    "name": "Chatouille",
+    "description": "Le lanceur chatouille l\u2019ennemi, ce qui baisse son\nAttaque et sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 322,
+    "name": "Force Cosmik",
+    "description": "Le lanceur absorbe un pouvoir mystique spatial qui\naugmente sa D\u00e9fense et sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 323,
+    "name": "Gicl\u00e9do",
+    "description": "Le lanceur attaque avec un jet d\u2019eau.\nMoins il a de PV et moins l\u2019attaque est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 324,
+    "name": "Rayon Signal",
+    "description": "Le lanceur projette un rayon de lumi\u00e8re sinistre.\nPeut aussi rendre l\u2019ennemi confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 325,
+    "name": "Poing Ombre",
+    "description": "Le lanceur surgit des ombres et donne un coup\nde poing. N\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 326,
+    "name": "Extrasenseur",
+    "description": "Le lanceur attaque avec un pouvoir \u00e9trange et\ninvisible. Peut aussi apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 327,
+    "name": "Stratopercut",
+    "description": "Le lanceur attaque avec un uppercut.\nIl envoie son poing vers le ciel de toutes ses\nforces.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 328,
+    "name": "Tourbi-Sable",
+    "description": "Le lanceur emprisonne l\u2019ennemi dans une temp\u00eate\nde sable terrifiante qui dure de quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 329,
+    "name": "Glaciation",
+    "description": "Une vague de froid glacial frappe l\u2019ennemi.\nS\u2019il est touch\u00e9, il est mis K.O. sur le coup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 330,
+    "name": "Ocroupi",
+    "description": "Le lanceur attaque en projetant de l\u2019eau boueuse.\nPeut aussi r\u00e9duire la Pr\u00e9cision de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 331,
+    "name": "Balle Graine",
+    "description": "Le lanceur mitraille l\u2019ennemi avec une rafale de\ngraines. De deux \u00e0 cinq rafales sont lanc\u00e9es \u00e0\nla suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 332,
+    "name": "A\u00e9ropique",
+    "description": "Le lanceur prend l\u2019ennemi de vitesse et le lac\u00e8re.\nN\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 333,
+    "name": "Stalagtite",
+    "description": "Le lanceur jette des pics de glace sur l\u2019ennemi,\nde deux \u00e0 cinq fois de suite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 334,
+    "name": "Mur de Fer",
+    "description": "L\u2019\u00e9piderme du lanceur devient dur comme du fer,\nce qui augmente consid\u00e9rablement sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 335,
+    "name": "Barrage",
+    "description": "Le lanceur bloque la route de l\u2019ennemi pour\nemp\u00eacher sa fuite.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 336,
+    "name": "Grondement",
+    "description": "Le lanceur hurle pour se rassurer, ce qui augmente\nson Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 337,
+    "name": "Dracogriffe",
+    "description": "Le lanceur lac\u00e8re l\u2019ennemi de ses grandes griffes\naiguis\u00e9es.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 338,
+    "name": "V\u00e9g\u00e9-Attak",
+    "description": "Un violent coup de racines s\u2019abat sur l\u2019ennemi.\nImmobilise le lanceur au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 339,
+    "name": "Gonflette",
+    "description": "Le lanceur tend ses muscles pour se gonfler,\nce qui booste son Attaque et sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 340,
+    "name": "Rebond",
+    "description": "Le lanceur bondit tr\u00e8s haut et plonge sur l\u2019ennemi\nau second tour. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 341,
+    "name": "Tir de Boue",
+    "description": "Le lanceur attaque en projetant de la boue sur\nl\u2019ennemi. R\u00e9duit aussi la Vitesse de la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 342,
+    "name": "Queue-Poison",
+    "description": "Attaque \u00e0 taux de critiques \u00e9lev\u00e9.\nPeut aussi empoisonner l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 343,
+    "name": "Implore",
+    "description": "Le lanceur s\u2019approche de la cible avec un air\nang\u00e9lique afin de d\u00e9rober l\u2019objet qu\u2019elle tient.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 344,
+    "name": "\u00c9lectacle",
+    "description": "Le lanceur \u00e9lectrifie son corps avant de charger.\nLe choc blesse aussi gravement le lanceur et peut\nparalyser l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 345,
+    "name": "Feuille Magik",
+    "description": "Le lanceur disperse d\u2019\u00e9tranges feuilles qui\npoursuivent l\u2019ennemi. N\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 346,
+    "name": "Tourniquet",
+    "description": "Asperge d\u2019eau les alentours.\nAffaiblit les capacit\u00e9s Feu pendant cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 347,
+    "name": "Pl\u00e9nitude",
+    "description": "Le lanceur se concentre et fait le vide dans son\nesprit pour augmenter son Attaque Sp\u00e9ciale et\nsa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 348,
+    "name": "Lame-Feuille",
+    "description": "Une feuille coupante comme une lame entaille\nl\u2019ennemi. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 349,
+    "name": "Danse Draco",
+    "description": "Une danse mystique dont le rythme effr\u00e9n\u00e9\naugmente l\u2019Attaque et la Vitesse du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 350,
+    "name": "Boule Roc",
+    "description": "Le lanceur projette un rocher sur l\u2019ennemi de\ndeux \u00e0 cinq fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 351,
+    "name": "Onde de Choc",
+    "description": "Le lanceur envoie un choc \u00e9lectrique rapide \u00e0\nl\u2019ennemi. Impossible \u00e0 esquiver.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 352,
+    "name": "Vibraqua",
+    "description": "Le lanceur envoie un puissant jet d\u2019eau sur\nl\u2019ennemi. Peut le rendre confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 353,
+    "name": "Carnareket",
+    "description": "Le lanceur g\u00e9n\u00e8re une sph\u00e8re lumineuse qu\u2019il\nprojette sur l\u2019ennemi deux tours plus tard.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 354,
+    "name": "Psycho Boost",
+    "description": "Attaque l\u2019ennemi \u00e0 pleine puissance.\nLe contrecoup baisse fortement l\u2019Attaque\nSp\u00e9ciale du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 355,
+    "name": "Atterrissage",
+    "description": "Le lanceur atterrit et se repose.\nRestaure jusqu\u2019\u00e0 la moiti\u00e9 de ses PV max.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 356,
+    "name": "Gravit\u00e9",
+    "description": "La gravit\u00e9 augmente pendant cinq tours, ce qui\nemp\u00eache les capacit\u00e9s volantes et annule\nL\u00e9vitation.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 357,
+    "name": "\u0152il Miracle",
+    "description": "Permet de toucher un Pok\u00e9mon T\u00e9n\u00e8bres avec\nles capacit\u00e9s de type Psy ou de toucher un ennemi \nayant beaucoup d\u2019esquive.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 358,
+    "name": "R\u00e9veil Forc\u00e9",
+    "description": "Cette attaque inflige d\u2019importants d\u00e9g\u00e2ts \u00e0 un\nPok\u00e9mon endormi. Mais elle le r\u00e9veille \u00e9galement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 359,
+    "name": "Marto-Poing",
+    "description": "Le lanceur l\u00e2che un puissant coup de poing sur\nl\u2019ennemi. R\u00e9duit la vitesse du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 360,
+    "name": "Gyroballe",
+    "description": "Le lanceur effectue une rotation et frappe l\u2019ennemi.\nPlus la Vitesse du lanceur est basse, plus il fait\nde d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 361,
+    "name": "V\u0153u Soin",
+    "description": "Le lanceur tombe K.O. pour soigner les PV et le\nstatut du Pok\u00e9mon qui passe apr\u00e8s lui.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 362,
+    "name": "Saumure",
+    "description": "Cette attaque est deux fois plus puissante lorsque\nl\u2019ennemi a moins de la moiti\u00e9 de ses PV.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 363,
+    "name": "Don Naturel",
+    "description": "Avant d\u2019attaquer, le lanceur rassemble ses forces\ngr\u00e2ce \u00e0 sa Baie. Elle d\u00e9termine le type et la\npuissance de l\u2019attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 364,
+    "name": "Ruse",
+    "description": "Une attaque capable de toucher un ennemi qui\nutilise D\u00e9tection ou Abri. Annule aussi leur effet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 365,
+    "name": "Picore",
+    "description": "Le lanceur picore la cible.\nSi cette derni\u00e8re tient une Baie, le lanceur la mange \net profite de ses effets.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 366,
+    "name": "Vent Arri\u00e8re",
+    "description": "G\u00e9n\u00e8re une rafale de vent qui augmente la Vitesse\ndes Pok\u00e9mon de l\u2019\u00e9quipe pendant 4 tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 367,
+    "name": "Acupression",
+    "description": "Le lanceur utilise sa connaissance des\npoints de pression pour augmenter\nfortement une stat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 368,
+    "name": "Fulmifer",
+    "description": "Le lanceur attaque le dernier ennemi l\u2019ayant bless\u00e9\ndurant le m\u00eame tour en frappant plus fort.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 369,
+    "name": "Demi-Tour",
+    "description": "Apr\u00e8s son attaque, le lanceur revient \u00e0 toute\nvitesse et change de place avec un Pok\u00e9mon\nde l\u2019\u00e9quipe pr\u00eat au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 370,
+    "name": "Close Combat",
+    "description": "Le lanceur combat au corps \u00e0 corps sans se\nprot\u00e9ger. Baisse aussi sa D\u00e9fense et sa D\u00e9fense\nSp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 371,
+    "name": "Repr\u00e9sailles",
+    "description": "Le lanceur charge son \u00e9nergie, puis attaque.\nLa puissance est doubl\u00e9e si le lanceur agit apr\u00e8s\nl\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 372,
+    "name": "Assurance",
+    "description": "Cette attaque est deux fois plus efficace si\nl\u2019ennemi a d\u00e9j\u00e0 \u00e9t\u00e9 bless\u00e9 durant ce tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 373,
+    "name": "Embargo",
+    "description": "Emp\u00eache l\u2019ennemi d\u2019utiliser un objet tenu et son\nDresseur d\u2019utiliser un objet sur lui.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 374,
+    "name": "D\u00e9gommage",
+    "description": "Le lanceur envoie l\u2019objet qu\u2019il tient sur l\u2019ennemi.\nLa puissance et les effets d\u00e9pendent de l\u2019objet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 375,
+    "name": "\u00c9change Psy",
+    "description": "Le lanceur transf\u00e8re ses probl\u00e8mes de statut \u00e0\nl\u2019ennemi gr\u00e2ce \u00e0 son pouvoir de suggestion.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 376,
+    "name": "Atout",
+    "description": "Moins cette capacit\u00e9 poss\u00e8de de PP, plus elle est\npuissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 377,
+    "name": "Anti-Soin",
+    "description": "Le lanceur emp\u00eache l\u2019ennemi de r\u00e9cup\u00e9rer\ndes PV \u00e0 l\u2019aide de capacit\u00e9s, talents ou\nobjets tenus, pendant cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 378,
+    "name": "Essorage",
+    "description": "Le lanceur essore l\u2019ennemi. Plus l\u2019ennemi a de PV,\nplus cette attaque est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 379,
+    "name": "Astuce Force",
+    "description": "Le lanceur utilise ses pouvoirs psychiques pour\n\u00e9changer sa D\u00e9fense et son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 380,
+    "name": "Suc Digestif",
+    "description": "Le lanceur r\u00e9pand ses sucs digestifs sur l\u2019ennemi.\nLe fluide neutralise le talent de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 381,
+    "name": "Air Veinard",
+    "description": "Le lanceur envoie une incantation vers le ciel\net prot\u00e8ge l\u2019\u00e9quipe des coups critiques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 382,
+    "name": "Moi d'Abord",
+    "description": "Le lanceur vole la capacit\u00e9 pr\u00e9vue par l\u2019ennemi et\nl\u2019utilise en faisant plus de d\u00e9g\u00e2ts. Il doit frapper en\npremier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 383,
+    "name": "Photocopie",
+    "description": "Le lanceur imite la derni\u00e8re capacit\u00e9 employ\u00e9e.\n\u00c9choue si aucune capacit\u00e9 n\u2019a \u00e9t\u00e9 utilis\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 384,
+    "name": "Permuforce",
+    "description": "Pouvoir qui \u00e9change les modifications de\nl\u2019Attaque Sp\u00e9ciale et de l\u2019Attaque du lanceur\navec la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 385,
+    "name": "Permugarde",
+    "description": "Pouvoir qui \u00e9change les modifications de\nla D\u00e9fense Sp\u00e9ciale et de la D\u00e9fense avec la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 386,
+    "name": "Punition",
+    "description": "Plus l\u2019ennemi a utilis\u00e9 d\u2019augmentations de stats\net plus cette capacit\u00e9 est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 387,
+    "name": "Dernier Recours",
+    "description": "Cette capacit\u00e9 ne peut \u00eatre utilis\u00e9e qu\u2019apr\u00e8s que\nle lanceur a utilis\u00e9 toutes les autres.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 388,
+    "name": "Soucigraine",
+    "description": "Plante sur la cible une graine qui la rend soucieuse\net remplace son talent par Insomnia, l\u2019emp\u00eachant\nainsi de dormir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 389,
+    "name": "Coup Bas",
+    "description": "Permet au lanceur de frapper en premier.\n\u00c9choue si l\u2019ennemi ne pr\u00e9pare pas une attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 390,
+    "name": "Pics Toxik",
+    "description": "Lance des pics autour de l\u2019ennemi.\nIls empoisonnent les ennemis qui entrent au\ncombat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 391,
+    "name": "Permuc\u0153ur",
+    "description": "Le lanceur utilise un pouvoir psychique pour\n\u00e9changer ses changements de stats avec la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 392,
+    "name": "Anneau Hydro",
+    "description": "Un voile liquide enveloppe le lanceur.\nIl r\u00e9cup\u00e8re des PV \u00e0 chaque tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 393,
+    "name": "Vol Magn\u00e9tik",
+    "description": "Le lanceur utilise l\u2019\u00e9lectricit\u00e9 pour g\u00e9n\u00e9rer un\nchamp magn\u00e9tique et l\u00e9viter durant cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 394,
+    "name": "Boutefeu",
+    "description": "Le lanceur s\u2019embrase avant de charger l\u2019ennemi.\nLe choc blesse aussi gravement le lanceur.\nPeut br\u00fbler l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 395,
+    "name": "Forte-Paume",
+    "description": "Une onde de choc frappe l\u2019ennemi.\nPeut aussi paralyser la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 396,
+    "name": "Aurasph\u00e8re",
+    "description": "Le lanceur d\u00e9gage une aura et projette de\nl\u2019\u00e9nergie. N\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 397,
+    "name": "Poliroche",
+    "description": "Le lanceur polit son corps pour diminuer sa\nr\u00e9sistance au vent. Augmente fortement la Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 398,
+    "name": "Direct Toxik",
+    "description": "Attaque l\u2019ennemi avec un tentacule ou un bras\nplein de poison. Peut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 399,
+    "name": "Vibrobscur",
+    "description": "Le lanceur d\u00e9gage une horrible aura charg\u00e9e\nd\u2019id\u00e9es noires. Peut aussi apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 400,
+    "name": "Tranche-Nuit",
+    "description": "Le lanceur lac\u00e8re l\u2019ennemi \u00e0 la premi\u00e8re occasion.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 401,
+    "name": "Hydroqueue",
+    "description": "Le lanceur attaque en balan\u00e7ant sa queue comme\nune lame de fond en pleine temp\u00eate.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 402,
+    "name": "Canon Graine",
+    "description": "Le lanceur fait pleuvoir un d\u00e9luge de graines\nexplosives sur l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 403,
+    "name": "Lame d'Air",
+    "description": "Le lanceur attaque avec une lame d\u2019air qui fend\ntout. Peut aussi apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 404,
+    "name": "Plaie-Croix",
+    "description": "Le lanceur taillade l\u2019ennemi en utilisant ses faux ou\nses griffes comme une paire de ciseaux.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 405,
+    "name": "Bourdon",
+    "description": "Le lanceur fait vibrer son corps pour\nlancer une vague sonique. Peut aussi\nbaisser la D\u00e9fense Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 406,
+    "name": "Dracochoc",
+    "description": "Le lanceur ouvre la bouche pour envoyer une onde\nde choc qui frappe l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 407,
+    "name": "Dracocharge",
+    "description": "Le lanceur frappe l\u2019ennemi en prenant un air\nmena\u00e7ant. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 408,
+    "name": "Rayon Gemme",
+    "description": "Le lanceur attaque avec un rayon de lumi\u00e8re qui\nscintille comme s\u2019il \u00e9tait compos\u00e9 de gemmes.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 409,
+    "name": "Vampipoing",
+    "description": "Un coup de poing qui draine l\u2019\u00e9nergie.\nConvertit la moiti\u00e9 des d\u00e9g\u00e2ts inflig\u00e9s en PV pour\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 410,
+    "name": "Onde Vide",
+    "description": "Le lanceur agite son poing pour projeter une onde\nde vide. Frappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 411,
+    "name": "Exploforce",
+    "description": "Le lanceur rassemble ses forces et laisse \u00e9clater\nson pouvoir. Peut aussi baisser la D\u00e9fense Sp\u00e9ciale \nde l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 412,
+    "name": "\u00c9co-Sph\u00e8re",
+    "description": "Utilise les pouvoirs de la nature pour attaquer\nl\u2019ennemi. Peut aussi baisser sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 413,
+    "name": "Rapace",
+    "description": "Le lanceur replie ses ailes et charge en\nrase-mottes. Blesse gravement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 414,
+    "name": "Telluriforce",
+    "description": "Des \u00e9ruptions volcaniques ont lieu sous l\u2019ennemi.\nPeut aussi baisser sa D\u00e9fense Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 415,
+    "name": "Passe-Passe",
+    "description": "Le lanceur \u00e9change son objet avec celui de la\ncible \u00e0 une vitesse que l\u2019\u0153il a du mal \u00e0 suivre.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 416,
+    "name": "Giga Impact",
+    "description": "Le lanceur charge l\u2019ennemi de toute sa puissance\net doit ensuite se reposer au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 417,
+    "name": "Machination",
+    "description": "Stimule l\u2019esprit par de mauvaises pens\u00e9es.\nAugmente fortement l\u2019Attaque Sp\u00e9ciale du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 418,
+    "name": "Pisto-Poing",
+    "description": "Le lanceur envoie des coups de poing aussi\nrapides que des balles de revolver.\nFrappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 419,
+    "name": "Avalanche",
+    "description": "Une attaque deux fois plus puissante si le lanceur\na \u00e9t\u00e9 bless\u00e9 par l\u2019ennemi durant le tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 420,
+    "name": "\u00c9clats Glace",
+    "description": "Le lanceur cr\u00e9e des \u00e9clats de glace qu\u2019il envoie\nsur l\u2019ennemi. Frappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 421,
+    "name": "Griffe Ombre",
+    "description": "Attaque avec une griffe puissante faite d\u2019ombres.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 422,
+    "name": "Crocs \u00c9clair",
+    "description": "Le lanceur utilise une morsure \u00e9lectrifi\u00e9e.\nPeut aussi paralyser ou apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 423,
+    "name": "Crocs Givre",
+    "description": "Le lanceur utilise une morsure glaciale.\nPeut aussi geler ou apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 424,
+    "name": "Crocs Feu",
+    "description": "Le lanceur utilise une morsure enflamm\u00e9e.\nPeut aussi br\u00fbler ou apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 425,
+    "name": "Ombre Port\u00e9e",
+    "description": "Le lanceur \u00e9tend son ombre pour frapper\npar-derri\u00e8re. Frappe toujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 426,
+    "name": "Boue-Bombe",
+    "description": "Le lanceur attaque \u00e0 l\u2019aide d\u2019une boule de\nboue solidifi\u00e9e. Peut aussi baisser la Pr\u00e9cision\nde l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 427,
+    "name": "Coupe Psycho",
+    "description": "Le lanceur entaille l\u2019ennemi gr\u00e2ce \u00e0 des lames\nfaites de pouvoir psychique. Taux de critiques\n\u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 428,
+    "name": "Psykoud'Boul",
+    "description": "Le lanceur concentre sa volont\u00e9 et donne un coup\nde t\u00eate. Peut aussi apeurer l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 429,
+    "name": "Miroi-Tir",
+    "description": "Le corps poli du lanceur lib\u00e8re un \u00e9clair d\u2019\u00e9nergie.\nPeut aussi baisser la Pr\u00e9cision de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 430,
+    "name": "Luminocanon",
+    "description": "Le lanceur concentre son \u00e9nergie lumineuse et\nla fait exploser. Peut aussi baisser la D\u00e9fense\nSp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 431,
+    "name": "Escalade",
+    "description": "Le lanceur se jette violemment sur l\u2019ennemi.\nPeut aussi le rendre confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 432,
+    "name": "Anti-Brume",
+    "description": "Un grand coup de vent qui disperse la Protection\nou le Mur Lumi\u00e8re de l\u2019ennemi. Diminue aussi\nson Esquive.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 433,
+    "name": "Distorsion",
+    "description": "Le lanceur cr\u00e9e une zone \u00e9trange o\u00f9 les Pok\u00e9mon\nles plus lents frappent en premier pendant cinq\ntours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 434,
+    "name": "Draco M\u00e9t\u00e9or",
+    "description": "Le lanceur invoque des com\u00e8tes.\nLe contrecoup r\u00e9duit fortement son Attaque\nSp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 435,
+    "name": "Coup d'Jus",
+    "description": "Un flamboiement d\u2019\u00e9lectricit\u00e9 frappe tous les\nPok\u00e9mon autour du lanceur. Peut aussi les paralyser. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 436,
+    "name": "\u00c9bullilave",
+    "description": "Des boules de feu s\u2019abattent sur tous les Pok\u00e9mon \nautour du lanceur. Peut aussi les br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 437,
+    "name": "Temp\u00eate Verte",
+    "description": "Invoque une temp\u00eate de feuilles ac\u00e9r\u00e9es.\nLe contrecoup r\u00e9duit fortement l\u2019Attaque Sp\u00e9ciale\ndu lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 438,
+    "name": "M\u00e9gafouet",
+    "description": "Le lanceur fait virevolter violemment ses lianes ou\nses tentacules pour fouetter l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 439,
+    "name": "Roc-Boulet",
+    "description": "Le lanceur attaque en projetant un gros rocher sur\nl\u2019ennemi. Il doit se reposer au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 440,
+    "name": "Poison-Croix",
+    "description": "Un coup tranchant qui peut empoisonner l\u2019ennemi.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 441,
+    "name": "D\u00e9tricanon",
+    "description": "Le lanceur envoie des d\u00e9tritus sur l\u2019ennemi.\nPeut aussi l\u2019empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 442,
+    "name": "T\u00eate de Fer",
+    "description": "Le lanceur heurte l\u2019ennemi avec sa t\u00eate dure\ncomme de l\u2019acier. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 443,
+    "name": "Bombaimant",
+    "description": "Le lanceur projette des bombes d\u2019acier qui collent\n\u00e0 l\u2019ennemi. N\u2019\u00e9choue jamais.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 444,
+    "name": "Lame de Roc",
+    "description": "Fait surgir des pierres aiguis\u00e9es sous l\u2019ennemi.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 445,
+    "name": "S\u00e9duction",
+    "description": "Si l\u2019ennemi est de sexe oppos\u00e9 au lanceur, il est\ns\u00e9duit et son Attaque Sp\u00e9ciale baisse fortement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 446,
+    "name": "Pi\u00e8ge de Roc",
+    "description": "Lance des pierres flottantes autour de l\u2019ennemi,\nqui blessent tout adversaire entrant au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 447,
+    "name": "N\u0153ud Herbe",
+    "description": "L\u2019ennemi est pi\u00e9g\u00e9 dans de l\u2019herbe qui le fait\ntr\u00e9bucher. Plus il est lourd, plus il subit de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 448,
+    "name": "Babil",
+    "description": "Attaque avec les ondes sonores assourdissantes\nqu\u2019il \u00e9met en pronon\u00e7ant des mots au hasard.\nRend l\u2019ennemi confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 449,
+    "name": "Jugement",
+    "description": "Le lanceur lib\u00e8re une myriade de rayons de\nlumi\u00e8re. Le type varie selon la Plaque que\ntient le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 450,
+    "name": "Piq\u00fbre",
+    "description": "Le lanceur pique l\u2019ennemi.\nSi ce dernier tient une Baie, le lanceur la d\u00e9vore\net obtient son effet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 451,
+    "name": "Rayon Charg\u00e9",
+    "description": "Le lanceur tire un rayon charg\u00e9 d\u2019\u00e9lectricit\u00e9.\nPeut aussi augmenter son Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 452,
+    "name": "Martobois",
+    "description": "Le lanceur heurte l\u2019ennemi de son corps robuste.\nBlesse aussi gravement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 453,
+    "name": "Aqua-Jet",
+    "description": "Le lanceur fonce sur l\u2019ennemi si rapidement qu\u2019on\nparvient \u00e0 peine \u00e0 le discerner. Frappe toujours en\npremier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 454,
+    "name": "Appel Attak",
+    "description": "Le lanceur appelle ses sous-fifres pour frapper\nl\u2019ennemi. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 455,
+    "name": "Appel D\u00e9fense",
+    "description": "Le lanceur appelle ses sous-fifres pour former un\nbouclier qui augmente sa D\u00e9fense et sa D\u00e9fense\nSp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 456,
+    "name": "Appel Soins",
+    "description": "Le lanceur appelle ses sous-fifres pour le soigner.\nIl r\u00e9cup\u00e8re jusqu\u2019\u00e0 la moiti\u00e9 de ses PV max.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 457,
+    "name": "Fracass'T\u00eate",
+    "description": "Le lanceur ass\u00e8ne un coup de t\u00eate d\u00e9sesp\u00e9r\u00e9.\nBlesse aussi gravement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 458,
+    "name": "Coup Double",
+    "description": "Un coup de queue ou de liane qui frappe l\u2019ennemi\ndeux fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 459,
+    "name": "Hurle-Temps",
+    "description": "Le lanceur frappe si fort qu\u2019il affecte le cours du\ntemps. Il se repose au tour suivant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 460,
+    "name": "Spatio-Rift",
+    "description": "Le lanceur d\u00e9chire l\u2019ennemi et l\u2019espace autour\nde lui. Taux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 461,
+    "name": "Danse-Lune",
+    "description": "Le lanceur tombe K.O. pour soigner le statut et les\nPV du Pok\u00e9mon qui prendra sa place au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 462,
+    "name": "Presse",
+    "description": "Une force puissante \u00e9crase l\u2019ennemi. Plus il lui\nreste de PV et plus l\u2019attaque est puissante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 463,
+    "name": "Vortex Magma",
+    "description": "L\u2019ennemi est pris dans un tourbillon de feu qui\ndure de quatre \u00e0 cinq tours.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 464,
+    "name": "Trou Noir",
+    "description": "L\u2019ennemi est plong\u00e9 dans les t\u00e9n\u00e8bres.\nIl tombe dans un profond sommeil.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 465,
+    "name": "Fulmigraine",
+    "description": "Le corps du lanceur \u00e9met une onde de choc.\nPeut aussi baisser fortement la D\u00e9fense Sp\u00e9ciale\nde la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 466,
+    "name": "Vent Mauvais",
+    "description": "Le lanceur cr\u00e9e une violente bourrasque.\nPeut aussi augmenter toutes ses stats.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 467,
+    "name": "Revenant",
+    "description": "Le lanceur dispara\u00eet et frappe l\u2019ennemi au second\ntour. Fonctionne m\u00eame si l\u2019ennemi se prot\u00e8ge.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 468,
+    "name": "Aiguisage",
+    "description": "Le lanceur s\u2019aiguise les griffes.\nAugmente l\u2019Attaque et la Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 469,
+    "name": "Garde Large",
+    "description": "Annule les attaques visant toute l\u2019\u00e9quipe\npendant un tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 470,
+    "name": "Partage Garde",
+    "description": "Additionne la D\u00e9fense et la D\u00e9fense Sp\u00e9ciale\ndu lanceur et de sa cible et les redistribue\n\u00e9quitablement entre les deux.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 471,
+    "name": "Partage Force",
+    "description": "Additionne l\u2019Attaque Sp\u00e9ciale et l\u2019Attaque\ndu lanceur et de sa cible et les redistribue\n\u00e9quitablement entre les deux.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 472,
+    "name": "Zone \u00c9trange",
+    "description": "Cr\u00e9e une zone \u00e9trange o\u00f9 pendant cinq tours,\nla D\u00e9fense et la D\u00e9fense Sp\u00e9ciale de tous les\nPok\u00e9mon sont invers\u00e9es.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 473,
+    "name": "Choc Psy",
+    "description": "Le lanceur mat\u00e9rialise des ondes myst\u00e9rieuses\nqu\u2019il projette sur l\u2019ennemi. Inflige des d\u00e9g\u00e2ts\nphysiques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 474,
+    "name": "Choc Venin",
+    "description": "Le lanceur inocule un poison sp\u00e9cial \u00e0 l\u2019ennemi.\nL\u2019effet est doubl\u00e9 si l\u2019ennemi est d\u00e9j\u00e0 empoisonn\u00e9. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 475,
+    "name": "All\u00e8gement",
+    "description": "Le lanceur se d\u00e9barrasse des parties inutiles de\nson corps. Son poids diminue et sa Vitesse\naugmente fortement.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 476,
+    "name": "Poudre Fureur",
+    "description": "Le lanceur s\u2019asperge d\u2019une poudre irritante pour\nattirer l\u2019attention. Il attire toutes les attaques\nennemies.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 477,
+    "name": "L\u00e9vikin\u00e9sie",
+    "description": "Un pouvoir qui fait flotter l\u2019ennemi dans les airs.\nPendant trois tours, il devient plus facile \u00e0\natteindre.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 478,
+    "name": "Zone Magique",
+    "description": "Le lanceur cr\u00e9e une zone \u00e9trange.\nPendant cinq tours, les objets tenus par tous\nles Pok\u00e9mon n\u2019ont plus aucun effet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 479,
+    "name": "Anti-Air",
+    "description": "Le lanceur jette toutes sortes de projectiles \u00e0\nun ennemi. Si ce dernier vole, il tombe au sol.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 480,
+    "name": "Yama Arashi",
+    "description": "Un coup tr\u00e8s puissant dont l\u2019effet est toujours\ncritique.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 481,
+    "name": "Rebondifeu",
+    "description": "Quand l\u2019attaque atteint sa cible, elle projette des\nflammes qui touchent tout ennemi situ\u00e9 \u00e0 c\u00f4t\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 482,
+    "name": "Cradovague",
+    "description": "Une vague de d\u00e9tritus attaque tous les Pok\u00e9mon\nautour du lanceur. Peut aussi empoisonner.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 483,
+    "name": "Papillodanse",
+    "description": "Une danse mystique dont le rythme parfait\naugmente l\u2019Attaque Sp\u00e9ciale, la D\u00e9fense Sp\u00e9ciale\net la Vitesse du lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 484,
+    "name": "Tacle Lourd",
+    "description": "Le lanceur se jette sur l\u2019ennemi de tout son poids.\nS\u2019il est plus lourd que l\u2019ennemi, l\u2019effet augmente\nen cons\u00e9quence.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 485,
+    "name": "Synchropeine",
+    "description": "Des ondes myst\u00e9rieuses blessent tous les\nPok\u00e9mon alentour qui sont du m\u00eame type que\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 486,
+    "name": "Boule \u00c9lek",
+    "description": "Le lanceur envoie une boule d\u2019\u00e9lectricit\u00e9.\nSi sa Vitesse est plus grande que celle de\nl\u2019ennemi, les d\u00e9g\u00e2ts augmentent d\u2019autant.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 487,
+    "name": "D\u00e9trempage",
+    "description": "Le lanceur projette beaucoup d\u2019eau sur sa cible,\nqui devient de type Eau.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 488,
+    "name": "Nitrocharge",
+    "description": "Le lanceur s\u2019entoure de flammes pour attaquer\nl\u2019ennemi. Il se concentre et sa Vitesse augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 489,
+    "name": "Enroulement",
+    "description": "Le lanceur s\u2019enroule sur lui-m\u00eame et se concentre.\nSon Attaque, sa D\u00e9fense et sa Pr\u00e9cision\naugmentent.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 490,
+    "name": "Balayette",
+    "description": "Un coup rapide qui vise les pieds de l\u2019ennemi\net diminue sa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 491,
+    "name": "Bombe Acide",
+    "description": "Projette un liquide acide qui fait fondre l\u2019ennemi.\nSa D\u00e9fense Sp\u00e9ciale diminue beaucoup.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 492,
+    "name": "Tricherie",
+    "description": "Le lanceur utilise la force de l\u2019ennemi.\nPlus l\u2019Attaque de l\u2019ennemi est \u00e9lev\u00e9e, plus le\nlanceur inflige de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 493,
+    "name": "Rayon Simple",
+    "description": "Le lanceur envoie des ondes myst\u00e9rieuses \u00e0\nl\u2019ennemi. Son talent devient Simple.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 494,
+    "name": "Ten-danse",
+    "description": "Le lanceur danse sur un rythme \u00e9trange.\nIl force sa cible \u00e0 l\u2019imiter, ce qui lui fait adopter\nson talent.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 495,
+    "name": "Apr\u00e8s Vous",
+    "description": "S\u2019il est le premier \u00e0 agir, le lanceur permet \u00e0 sa\ncible d\u2019utiliser une capacit\u00e9 juste apr\u00e8s lui.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 496,
+    "name": "Chant Canon",
+    "description": "Le lanceur attaque l\u2019ennemi en chantant.\nSi plusieurs Pok\u00e9mon d\u00e9clenchent cette attaque \u00e0\nla suite, l\u2019effet augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 497,
+    "name": "\u00c9cho",
+    "description": "Un cri retentissant blesse l\u2019ennemi.\nSi le lanceur ou d\u2019autres Pok\u00e9mon l\u2019utilisent \u00e0\nchaque tour, l\u2019effet augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 498,
+    "name": "Attrition",
+    "description": "Une attaque puissante quand l\u2019ennemi baisse\nsa garde. Inflige des d\u00e9g\u00e2ts sans tenir compte\ndes changements de stats.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 499,
+    "name": "Bain de Smog",
+    "description": "Le lanceur jette un tas de d\u00e9tritus sp\u00e9ciaux sur\nla cible. Les changements de stats de la cible\nsont annul\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 500,
+    "name": "Force Ajout\u00e9e",
+    "description": "Le lanceur attaque l\u2019ennemi avec une force\naccumul\u00e9e. Plus les stats du lanceur sont\naugment\u00e9es, plus le coup est efficace.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 501,
+    "name": "Pr\u00e9vention",
+    "description": "Le lanceur et son \u00e9quipe sont prot\u00e9g\u00e9s contre\nles attaques prioritaires.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 502,
+    "name": "Interversion",
+    "description": "Le lanceur se t\u00e9l\u00e9porte \u00e0 l\u2019aide d\u2019un pouvoir\nmyst\u00e9rieux. Il \u00e9change sa place avec celle d\u2019un\nalli\u00e9 sur le terrain.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 503,
+    "name": "\u00c9bullition",
+    "description": "L\u2019ennemi est attaqu\u00e9 par un jet d\u2019eau bouillante.\nPeut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 504,
+    "name": "Exuviation",
+    "description": "Le lanceur brise sa coquille. Il baisse sa D\u00e9fense\net D\u00e9fense Sp\u00e9ciale, mais augmente fortement\nson Attaque, Attaque Sp\u00e9ciale et Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 505,
+    "name": "Vibra Soin",
+    "description": "Une aura de bien-\u00eatre fait r\u00e9cup\u00e9rer la moiti\u00e9 de\nses PV max \u00e0 la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 506,
+    "name": "Ch\u00e2timent",
+    "description": "Attaque acharn\u00e9e qui cause davantage de d\u00e9g\u00e2ts\n\u00e0 l\u2019ennemi s\u2019il a un probl\u00e8me de statut.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 507,
+    "name": "Chute Libre",
+    "description": "Le lanceur emm\u00e8ne l\u2019ennemi dans les airs au\npremier tour et le l\u00e2che dans le vide au second.\nL\u2019ennemi saisi ne peut pas attaquer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 508,
+    "name": "Chgt Vitesse",
+    "description": "Le lanceur fait tourner ses engrenages.\nCeci augmente son Attaque et augmente fortement\nsa Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 509,
+    "name": "Projection",
+    "description": "Projette le Pok\u00e9mon ennemi et le remplace par\nun autre. Dans la nature, met fin au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 510,
+    "name": "Calcination",
+    "description": "Des flammes calcinent l\u2019ennemi.\nS\u2019il tient un objet, une Baie par exemple, celui-ci\nest br\u00fbl\u00e9 et devient inutilisable.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 511,
+    "name": "\u00c0 la Queue",
+    "description": "Retient la cible de force, l\u2019obligeant \u00e0 agir\nen dernier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 512,
+    "name": "Acrobatie",
+    "description": "Attaque agile. Si le lanceur ne tient pas d\u2019objet,\nl\u2019attaque inflige davantage de d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 513,
+    "name": "Copie Type",
+    "description": "Le lanceur copie le type de la cible et devient du\nm\u00eame type.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 514,
+    "name": "Vengeance",
+    "description": "Venge un Pok\u00e9mon de l\u2019\u00e9quipe mis K.O.\nSi un Pok\u00e9mon de l\u2019\u00e9quipe a \u00e9t\u00e9 mis K.O. au tour\nd\u2019avant, l\u2019effet augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 515,
+    "name": "Tout ou Rien",
+    "description": "Une attaque tr\u00e8s risqu\u00e9e.\nLe lanceur perd tous ses PV restants et inflige\nautant de d\u00e9g\u00e2ts \u00e0 l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 516,
+    "name": "Passe-Cadeau",
+    "description": "Si la cible ne tient pas d\u2019objet, le lanceur lui\ndonne l\u2019objet qu\u2019il tient.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 517,
+    "name": "Feu d'Enfer",
+    "description": "L\u2019ennemi est entour\u00e9 d\u2019un torrent de flammes\nardentes qui le br\u00fblent.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 518,
+    "name": "Aire d'Eau",
+    "description": "Une masse d\u2019eau s\u2019abat sur l\u2019ennemi.\nEn l\u2019utilisant avec Aire de Feu, l\u2019effet augmente\net un arc-en-ciel appara\u00eet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 519,
+    "name": "Aire de Feu",
+    "description": "Une masse de feu s\u2019abat sur l\u2019ennemi.\nEn l\u2019utilisant avec Aire d\u2019Herbe, l\u2019effet augmente\net une mer de feu appara\u00eet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 520,
+    "name": "Aire d'Herbe",
+    "description": "Une masse v\u00e9g\u00e9tale s\u2019abat sur l\u2019ennemi.\nEn l\u2019utilisant avec Aire d\u2019Eau, l\u2019effet augmente\net un mar\u00e9cage appara\u00eet.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 521,
+    "name": "Change \u00c9clair",
+    "description": "Apr\u00e8s son attaque, le lanceur revient \u00e0 toute\nvitesse et change de place avec un Pok\u00e9mon\nde l\u2019\u00e9quipe pr\u00eat au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 522,
+    "name": "Survinsecte",
+    "description": "Le lanceur se d\u00e9bat de toutes ses forces, et\nbaisse l\u2019Attaque Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 523,
+    "name": "Pi\u00e9tisol",
+    "description": "Le lanceur pi\u00e9tine le sol et inflige des d\u00e9g\u00e2ts \u00e0\ntous les Pok\u00e9mon autour de lui. Baisse aussi leur\nVitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 524,
+    "name": "Souffle Glac\u00e9",
+    "description": "Un souffle froid blesse l\u2019ennemi.\nL\u2019effet est toujours critique.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 525,
+    "name": "Draco-Queue",
+    "description": "Un coup puissant qui blesse la cible et l\u2019envoie\nau loin. Dans la nature, met fin au combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 526,
+    "name": "Rengorgement",
+    "description": "Le lanceur se rengorge.\nAugmente l\u2019Attaque et l\u2019Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 527,
+    "name": "Toile \u00c9lek",
+    "description": "Attrape l\u2019ennemi dans un filet \u00e9lectrique.\nBaisse aussi la Vitesse de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 528,
+    "name": "\u00c9clair Fou",
+    "description": "Une charge \u00e9lectrique violente qui blesse aussi\nl\u00e9g\u00e8rement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 529,
+    "name": "Tunnelier",
+    "description": "Le lanceur tourne sur lui-m\u00eame comme une\nperceuse et se jette sur l\u2019ennemi.\nTaux de critiques \u00e9lev\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 530,
+    "name": "Double Baffe",
+    "description": "Le lanceur frappe l\u2019ennemi deux fois d\u2019affil\u00e9e avec\nles parties les plus robustes de son corps.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 531,
+    "name": "Cr\u00e8ve-C\u0153ur",
+    "description": "D\u00e9concentre l\u2019ennemi avec des mouvements\nmignons avant de le frapper violemment.\nPeut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 532,
+    "name": "Encornebois",
+    "description": "Un coup de corne qui draine l\u2019\u00e9nergie de l\u2019ennemi.\nConvertit la moiti\u00e9 des d\u00e9g\u00e2ts inflig\u00e9s en PV pour\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 533,
+    "name": "Lame Sainte",
+    "description": "Un coup de corne violent qui lac\u00e8re l\u2019ennemi\net lui inflige des d\u00e9g\u00e2ts quels que soient ses\nchangements de stats.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 534,
+    "name": "Coquilame",
+    "description": "Un coquillage aiguis\u00e9 lac\u00e8re l\u2019ennemi.\nPeut aussi baisser sa D\u00e9fense.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 535,
+    "name": "Tacle Feu",
+    "description": "Le lanceur projette son corps enflamm\u00e9 contre\nl\u2019ennemi. S\u2019il est plus lourd que l\u2019ennemi, l\u2019effet\naugmente en cons\u00e9quence.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 536,
+    "name": "Phytomixeur",
+    "description": "L\u2019ennemi est pris dans un tourbillon de feuilles\nac\u00e9r\u00e9es. Peut aussi baisser sa Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 537,
+    "name": "Bulldoboule",
+    "description": "Le lanceur se roule en boule et \u00e9crase son ennemi.\nPeut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 538,
+    "name": "Cotogarde",
+    "description": "Le lanceur se prot\u00e8ge en s\u2019emmitouflant dans du\ncoton. Sa D\u00e9fense augmente \u00e9norm\u00e9ment.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 539,
+    "name": "Explonuit",
+    "description": "Le lanceur attaque l\u2019ennemi avec une onde de\nchoc t\u00e9n\u00e9breuse. Peut aussi baisser sa Pr\u00e9cision.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 540,
+    "name": "Frappe Psy",
+    "description": "Le lanceur mat\u00e9rialise des ondes myst\u00e9rieuses\nqu\u2019il projette sur l\u2019ennemi. Inflige des d\u00e9g\u00e2ts\nphysiques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 541,
+    "name": "Plumo-Queue",
+    "description": "Le lanceur frappe l\u2019ennemi de deux \u00e0 cinq fois\nd\u2019affil\u00e9e avec sa queue robuste.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 542,
+    "name": "Vent Violent",
+    "description": "Le lanceur d\u00e9clenche une temp\u00eate de vents\nviolents qui s\u2019abat sur l\u2019ennemi. Peut aussi le\nrendre confus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 543,
+    "name": "Peign\u00e9e",
+    "description": "Le lanceur donne un coup avec sa t\u00eate couronn\u00e9e\nd\u2019une fi\u00e8re crini\u00e8re. Blesse aussi l\u00e9g\u00e8rement\nle lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 544,
+    "name": "Lanc\u00e9crou",
+    "description": "Le lanceur jette deux \u00e9crous d\u2019acier qui frappent\nl\u2019ennemi deux fois d\u2019affil\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 545,
+    "name": "Incendie",
+    "description": "Des boules de feu s\u2019abattent sur tous les Pok\u00e9mon \nautour du lanceur. Peut aussi les br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 546,
+    "name": "TechnoBuster",
+    "description": "Le lanceur projette un rayon lumineux sur l\u2019ennemi. \nLe type varie selon le Module que tient le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 547,
+    "name": "Chant Antique",
+    "description": "Le lanceur attaque l\u2019ennemi en lui chantant une\nchanson d\u2019un autre temps. Peut l\u2019endormir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 548,
+    "name": "Lame Ointe",
+    "description": "L\u2019ennemi est lac\u00e9r\u00e9 par une longue corne.\nSon pouvoir myst\u00e9rieux inflige des d\u00e9g\u00e2ts\nphysiques.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 549,
+    "name": "\u00c8re Glaciaire",
+    "description": "Un souffle de vent qui cong\u00e8le tout sur son\npassage s\u2019abat sur l\u2019ennemi. R\u00e9duit aussi sa\nVitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 550,
+    "name": "Charge Foudre",
+    "description": "Le lanceur s\u2019enveloppe d\u2019une charge \u00e9lectrique\nsurpuissante et se jette sur l\u2019ennemi. Peut aussi\nle paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 551,
+    "name": "Flamme Bleue",
+    "description": "De magnifiques et redoutables flammes bleues\nfondent sur l\u2019ennemi. Peut aussi le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 552,
+    "name": "Danse du Feu",
+    "description": "Le lanceur enveloppe l\u2019ennemi de flammes.\nPeut aussi augmenter l\u2019Attaque Sp\u00e9ciale du\nlanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 553,
+    "name": "\u00c9clair Gel\u00e9",
+    "description": "Projette un bloc de glace \u00e9lectrifi\u00e9 sur l\u2019ennemi au\nsecond tour. Peut aussi le paralyser.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 554,
+    "name": "Feu Glac\u00e9",
+    "description": "Au second tour, le lanceur projette un souffle de\nvent glacial d\u00e9vastateur sur l\u2019ennemi. Peut aussi le\nbr\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 555,
+    "name": "Aboiement",
+    "description": "Le lanceur hurle sur l\u2019ennemi.\nBaisse l\u2019Attaque Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 556,
+    "name": "Chute Glace",
+    "description": "Envoie de gros blocs de glace sur l\u2019ennemi pour\nlui infliger des d\u00e9g\u00e2ts. Peut aussi l\u2019apeurer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 557,
+    "name": "Coup Victoire",
+    "description": "Le lanceur projette une flamme ardente de son\nfront et se jette sur l\u2019ennemi. Baisse la D\u00e9fense,\nla D\u00e9fense Sp\u00e9ciale et la Vitesse.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 558,
+    "name": "Flamme Croix",
+    "description": "Projette une boule de feu gigantesque.\nL\u2019effet augmente sous l\u2019influence d\u2019\u00c9clair Croix.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 559,
+    "name": "\u00c9clair Croix",
+    "description": "Projette un orbe \u00e9lectrique gigantesque.\nL\u2019effet augmente sous l\u2019influence de Flamme Croix.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 560,
+    "name": "Flying Press",
+    "description": "Une attaque en piqu\u00e9 depuis le ciel, \u00e0 la fois de\ntype Combat et de type Vol.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 561,
+    "name": "Tatamigaeshi",
+    "description": "Retourne un tatami pour bloquer, comme avec un\nbouclier, les capacit\u00e9s visant le lanceur ou ses\nalli\u00e9s. N\u2019a pas d\u2019effet sur les attaques de statut.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 562,
+    "name": "\u00c9ructation",
+    "description": "Le lanceur se tourne vers l\u2019ennemi et lui \u00e9ructe\ndessus, infligeant des d\u00e9g\u00e2ts. Ne fonctionne\nque si le lanceur consomme la Baie qu\u2019il tient.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 563,
+    "name": "Fertilisation",
+    "description": "Laboure le sol et le rend plus fertile.\nAugmente l\u2019Attaque et l\u2019Attaque Sp\u00e9ciale des\nPok\u00e9mon de type Plante.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 564,
+    "name": "Toile Gluante",
+    "description": "D\u00e9ploie une toile visqueuse autour de l\u2019ennemi\nqui ralentit la Vitesse de tout adversaire entrant\nau combat.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 565,
+    "name": "Dard Mortel",
+    "description": "Augmente fortement l\u2019Attaque du lanceur si un\nennemi est mis K.O. avec cette capacit\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 566,
+    "name": "Hantise",
+    "description": "Le lanceur dispara\u00eet au premier tour et frappe au\nsecond. Cette attaque passe outre les protections.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 567,
+    "name": "Halloween",
+    "description": "Insuffle \u00e0 la cible l\u2019esprit d\u2019Halloween, et\najoute le type Spectre \u00e0 ses types actuels.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 568,
+    "name": "R\u00e2le M\u00e2le",
+    "description": "Le lanceur pousse un rugissement qui intimide\nl\u2019ennemi et diminue son Attaque et son Attaque\nSp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 569,
+    "name": "D\u00e9lugePlasmique",
+    "description": "Diffuse des particules satur\u00e9es d\u2019\u00e9lectricit\u00e9 qui\ntransforment les capacit\u00e9s de type Normal en\ncapacit\u00e9s de type \u00c9lectrik.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 570,
+    "name": "Parabocharge",
+    "description": "Inflige des d\u00e9g\u00e2ts \u00e0 tous les Pok\u00e9mon autour du\nlanceur. Il r\u00e9cup\u00e8re en PV la moiti\u00e9 des d\u00e9g\u00e2ts\ninflig\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 571,
+    "name": "Mal\u00e9fice Sylvain",
+    "description": "La cible est charm\u00e9e par l\u2019esprit de la for\u00eat.\nLe type Plante est ajout\u00e9 \u00e0 ses types actuels.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 572,
+    "name": "Temp\u00eate Florale",
+    "description": "D\u00e9clenche une violente temp\u00eate de fleurs qui\ninflige des d\u00e9g\u00e2ts \u00e0 tous les Pok\u00e9mon alentour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 573,
+    "name": "Lyophilisation",
+    "description": "Refroidit violemment l\u2019ennemi et peut le geler.\nSuper efficace sur les Pok\u00e9mon de type Eau.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 574,
+    "name": "Voix Enj\u00f4leuse",
+    "description": "Laisse s\u2019\u00e9chapper une voix enchanteresse qui\ninflige des d\u00e9g\u00e2ts psychiques \u00e0 l\u2019ennemi.\nTouche \u00e0 coup s\u00fbr.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 575,
+    "name": "Dernier Mot",
+    "description": "Menace l\u2019ennemi dans une ultime tirade avant\nde changer de place avec un autre Pok\u00e9mon.\nR\u00e9duit l\u2019Attaque et l\u2019Attaque Sp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 576,
+    "name": "Renversement",
+    "description": "Inverse tous les changements de stats de\nla cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 577,
+    "name": "Vampibaiser",
+    "description": "Aspire la force vitale de l\u2019ennemi par un baiser.\nRend au lanceur un nombre de PV sup\u00e9rieur ou\n\u00e9gal \u00e0 la moiti\u00e9 des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 578,
+    "name": "Vigilance",
+    "description": "Utilise une force myst\u00e9rieuse pour prot\u00e9ger\nl\u2019\u00e9quipe des attaques de statut. Ne prot\u00e8ge\npas des autres capacit\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 579,
+    "name": "Garde Florale",
+    "description": "Gr\u00e2ce \u00e0 une force myst\u00e9rieuse, la D\u00e9fense de tous\nles Pok\u00e9mon Plante au combat augmente.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 580,
+    "name": "Champ Herbu",
+    "description": "Pendant cinq tours, le terrain aux pieds du lanceur\nse transforme en gazon. Les Pok\u00e9mon au sol\nr\u00e9cup\u00e8rent des PV \u00e0 chaque tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 581,
+    "name": "Champ Brumeux",
+    "description": "Pendant cinq tours, le terrain aux pieds du lanceur\nse couvre de brume. Les Pok\u00e9mon au sol ne\npeuvent pas subir d\u2019alt\u00e9ration de statut.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 582,
+    "name": "\u00c9lectrisation",
+    "description": "Si le lanceur attaque avant la cible, les capacit\u00e9s\nde celle-ci seront de type \u00c9lectrik jusqu\u2019\u00e0 la fin\ndu tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 583,
+    "name": "C\u00e2linerie",
+    "description": "Attaque l\u2019ennemi avec un c\u00e2lin.\nPeut diminuer son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 584,
+    "name": "Vent F\u00e9\u00e9rique",
+    "description": "D\u00e9cha\u00eene un vent magique qui cingle l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 585,
+    "name": "Pouvoir Lunaire",
+    "description": "Attaque l\u2019ennemi gr\u00e2ce au pouvoir de la lune.\nPeut diminuer son Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 586,
+    "name": "Bang Sonique",
+    "description": "Attaque les Pok\u00e9mon alentour gr\u00e2ce \u00e0 une onde\nsonore assourdissante qui d\u00e9truit tout sur son\npassage.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 587,
+    "name": "Verrou Enchant\u00e9",
+    "description": "Des cha\u00eenes entourent la zone de combat,\nemp\u00eachant tous les Pok\u00e9mon de fuir au\nprochain tour.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 588,
+    "name": "Bouclier Royal",
+    "description": "Prend une posture d\u00e9fensive pour bloquer les\nd\u00e9g\u00e2ts. Diminue fortement l\u2019Attaque de tout\nPok\u00e9mon qui entre en contact avec le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 589,
+    "name": "Camaraderie",
+    "description": "L\u2019ennemi se lie d\u2019amiti\u00e9 avec le lanceur et perd\nsa combativit\u00e9, diminuant son Attaque.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 590,
+    "name": "Confidence",
+    "description": "D\u00e9voile des secrets \u00e0 l\u2019ennemi qui perd sa\nconcentration et voit son Attaque Sp\u00e9ciale\ndiminuer.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 591,
+    "name": "Orage Adamantin",
+    "description": "Provoque une temp\u00eate de diamants qui\ninflige des d\u00e9g\u00e2ts. Peut augmenter la D\u00e9fense\ndu lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 592,
+    "name": "Jet de Vapeur",
+    "description": "Plonge l\u2019ennemi dans une chaleur \u00e9touffante.\nPeut le br\u00fbler.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 593,
+    "name": "TrouDimensionnel",
+    "description": "Cr\u00e9e une faille dimensionnelle pour attaquer\nsoudainement l\u2019ennemi de c\u00f4t\u00e9. Ignore m\u00eame\nAbri ou D\u00e9tection.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 594,
+    "name": "Sheauriken",
+    "description": "Attaque l\u2019ennemi avec des shuriken de mucus.\nFrappe deux \u00e0 cinq fois d\u2019affil\u00e9e en un tour, et\ntoujours en premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 595,
+    "name": "Feu Ensorcel\u00e9",
+    "description": "Attaque avec des flammes br\u00fblantes souffl\u00e9es\nde la bouche du lanceur. Diminue l\u2019Attaque\nSp\u00e9ciale de l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 596,
+    "name": "Pico-D\u00e9fense",
+    "description": "Prot\u00e8ge des attaques, et diminue les PV\nde tout attaquant qui entre en contact\navec le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 597,
+    "name": "Brume Capiteuse",
+    "description": "Gr\u00e2ce \u00e0 un parfum myst\u00e9rieux, augmente la\nD\u00e9fense Sp\u00e9ciale d\u2019un alli\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 598,
+    "name": "Ondes \u00c9tranges",
+    "description": "Le corps du lanceur produit des ondes anormales\nqui enveloppent l\u2019ennemi et diminuent fortement\nson Attaque Sp\u00e9ciale.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 599,
+    "name": "Pi\u00e8ge de Venin",
+    "description": "S\u00e9cr\u00e8te un liquide empoisonn\u00e9.\nDiminue l\u2019Attaque, l\u2019Attaque Sp\u00e9ciale et la Vitesse\nde l\u2019ennemi empoisonn\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 600,
+    "name": "Nu\u00e9e de Poudre",
+    "description": "L\u2019ennemi est pris dans un nuage de poudre.\nS\u2019il utilise une capacit\u00e9 de type Feu lors du m\u00eame\ntour, le nuage explose et lui inflige des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 601,
+    "name": "G\u00e9o-Contr\u00f4le",
+    "description": "Le lanceur absorbe de l\u2019\u00e9nergie au premier tour et\naugmente fortement son Attaque Sp\u00e9ciale,\nsa D\u00e9fense Sp\u00e9ciale et sa Vitesse au second.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 602,
+    "name": "Magn\u00e9-Contr\u00f4le",
+    "description": "Manipule les champs magn\u00e9tiques pour augmenter\nla D\u00e9fense et la D\u00e9fense Sp\u00e9ciale des Pok\u00e9mon\nalli\u00e9s dot\u00e9s du talent Plus ou du talent Minus.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 603,
+    "name": "\u00c9trennes",
+    "description": "Utilis\u00e9 pendant un combat, multiplie par deux\nl\u2019argent gagn\u00e9 \u00e0 la fin.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 604,
+    "name": "Champ \u00c9lectrifi\u00e9",
+    "description": "Pendant cinq tours, le terrain aux pieds du lanceur\nse charge d\u2019\u00e9lectricit\u00e9. Les Pok\u00e9mon au sol ne\npeuvent pas s\u2019endormir.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 605,
+    "name": "\u00c9clat Magique",
+    "description": "Lib\u00e8re une puissante d\u00e9charge lumineuse qui\ninflige des d\u00e9g\u00e2ts \u00e0 l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 606,
+    "name": "C\u00e9l\u00e9bration",
+    "description": "Le Pok\u00e9mon vous souhaite plein de bonnes\nchoses pour cet \u00e9v\u00e9nement sp\u00e9cial.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 607,
+    "name": "Mains Jointes",
+    "description": "Le lanceur et un alli\u00e9 se prennent la main,\nce qui les rend heureux.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 608,
+    "name": "Regard Touchant",
+    "description": "Fixe l\u2019ennemi d\u2019un air tr\u00e8s attendrissant qui\nle touche et diminue son Attaque. Agit toujours\nen premier.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 609,
+    "name": "Frotte-Frimousse",
+    "description": "Le lanceur attaque en frottant ses bajoues\ncharg\u00e9es d\u2019\u00e9lectricit\u00e9. Paralyse l\u2019ennemi.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 610,
+    "name": "Retenue",
+    "description": "Le lanceur attaque avec retenue, et laisse\nl\u2019ennemi \u00e0 1 PV.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 611,
+    "name": "Harc\u00e8lement",
+    "description": "Cette attaque perdure pendant quatre \u00e0 cinq\ntours. L\u2019ennemi ne peut pas fuir au cours de\ncette p\u00e9riode.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 612,
+    "name": "Poing Boost",
+    "description": "\u00c0 force de frapper, les poings deviennent plus\ndurs. Augmente l\u2019Attaque du lanceur si l\u2019ennemi\nest touch\u00e9.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 613,
+    "name": "Mort-Ailes",
+    "description": "Vole l\u2019\u00e9nergie de la cible.\nRend au lanceur un nombre de PV sup\u00e9rieur ou\n\u00e9gal \u00e0 la moiti\u00e9 des d\u00e9g\u00e2ts inflig\u00e9s.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 614,
+    "name": "Myria-Fl\u00e8ches",
+    "description": "Touche m\u00eame les Pok\u00e9mon dans les airs.\nDans ce cas, la cible retombe au sol.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 615,
+    "name": "Myria-Vagues",
+    "description": "Attaque avec des vagues glissant au sol.\nL\u2019ennemi pris dedans ne peut pas s\u2019\u00e9chapper.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 616,
+    "name": "Force Chtonienne",
+    "description": "Utilise la puissance du sol et la concentre sur\nl\u2019ennemi pour infliger des d\u00e9g\u00e2ts.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 617,
+    "name": "Lumi\u00e8re du N\u00e9ant",
+    "description": "Utilise la puissance de la Fleur \u00c9ternelle pour\nlancer un formidable rayon d\u2019\u00e9nergie.\nBlesse aussi gravement le lanceur.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 618,
+    "name": "Onde Originelle",
+    "description": "D\u2019innombrables rayons lumineux d\u2019un bleu \u00e9tincelant \ns\u2019abattent sur la cible.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 619,
+    "name": "Lame Pang\u00e9enne",
+    "description": "Le Pok\u00e9mon transforme la puissance de la terre\net attaque la cible avec une lame ac\u00e9r\u00e9e.",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 620,
+    "name": "Draco Ascension",
+    "description": "Le Pok\u00e9mon s\u2019abat \u00e0 toute vitesse sur la cible\ndepuis les hautes couches de l\u2019atmosph\u00e8re.\nBaisse la D\u00e9fense et la D\u00e9fense Sp\u00e9ciale du lanceur. ",
+    "effect": null,
+    "notes": null
+  },
+  {
+    "id": 621,
+    "name": "Furie Dimension",
+    "description": "Le Pok\u00e9mon utilise sa multitude de bras pour infliger \nune nu\u00e9e de coups qui ignorent les capacit\u00e9s telles \nqu\u2019Abri ou D\u00e9tection. Baisse la D\u00e9fense du lanceur. ",
+    "effect": null,
+    "notes": null
+  }
+]
