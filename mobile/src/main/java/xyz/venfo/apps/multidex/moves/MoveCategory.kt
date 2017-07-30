@@ -30,7 +30,7 @@ open class MoveCategory(
       var inputStream: InputStream? = null
       try {
         // Initialize Poke Categories
-        inputStream = context.resources.openRawResource(R.raw.move_category)
+        inputStream = context.resources.openRawResource(R.raw.dmg_type)
         realm.createAllFromJson(MoveCategory::class.java, inputStream)
         Log.i("Realm", " Successfully created MoveCategories.")
       } catch (error: Exception) {

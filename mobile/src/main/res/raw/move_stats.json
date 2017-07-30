@@ -1,13 +1,13 @@
 [
   {
     "id": 0,
-    "type": 0,
-    "categoryId": 0,
-    "contestId": 4,
+    "pokeTypeId": 0,
+    "dmgTypeId": 0,
+    "contestTypeId": 4,
     "powerPoint": 35,
     "power": 40,
     "accuracy": 100,
-    "generation": 1
+    "genId": 1
   },
   {
     "id": 1,
