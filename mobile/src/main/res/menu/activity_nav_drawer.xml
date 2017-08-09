@@ -1,36 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <group android:checkableBehavior="single">
-        <item
-            android:id="@+id/nav_camera"
-            android:icon="@drawable/ic_menu_camera"
-            android:title="Import" />
-        <item
-            android:id="@+id/nav_gallery"
-            android:icon="@drawable/ic_menu_gallery"
-            android:title="Gallery" />
-        <item
-            android:id="@+id/nav_slideshow"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="Slideshow" />
-        <item
-            android:id="@+id/nav_manage"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="Tools" />
-    </group>
-
-    <item android:title="Communicate">
+    <item android:title="@string/menu_pokemon">
         <menu>
             <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="Share" />
+                android:id="@+id/nav_pokemon"
+                android:icon="@drawable/ic_menu_pokeball"
+                android:title="@string/menu_pokemon"/>
             <item
-                android:id="@+id/nav_send"
-                android:icon="@drawable/ic_menu_send"
-                android:title="Send" />
+                android:id="@+id/nav_moves"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="@string/menu_moves"/>
+            <item
+                android:id="@+id/nav_types"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_types"
+                />
+            <item
+                android:id="@+id/nav_abilities"
+                android:icon="@drawable/ic_menu_manage"
+                android:title="@string/menu_abilities"/>
+            <item
+                android:id="@+id/nav_nature"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_natures"/>
         </menu>
     </item>
-
+    <item android:title="@string/menu_items">
+        <menu>
+            <item
+                android:id="@+id/nav_items"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_items"/>
+            <item
+                android:id="@+id/nav_medicine"
+                android:icon="@drawable/common_full_open_on_phone"
+                android:title="@string/menu_medicine"/>
+            <item
+                android:id="@+id/nav_tms_hms"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_tms_hms"/>
+            <item
+                android:id="@+id/nav_berries"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_berries"/>
+            <item
+                android:id="@+id/nav_key_items"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_key_items"/>
+        </menu>
+    </item>
+    <item android:title="@string/menu_settings">
+        <menu>
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_menu_slideshow"
+                android:title="@string/menu_settings"/>
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/menu_help"/>
+            <item
+                android:id="@+id/nav_changelog"
+                android:icon="@drawable/common_full_open_on_phone"
+                android:title="@string/menu_changelog"/>
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/menu_about"/>
+        </menu>
+    </item>
 </menu>

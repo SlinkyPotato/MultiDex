@@ -22,7 +22,9 @@ import xyz.venfo.apps.multidex.pokemon.PokeTypeId
 import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
-  val ACTIVITY_KEY: String = "xyz.venfo.multidex.PASSED_MSG"
+  companion object {
+    val ACTIVITY_KEY: String = "xyz.venfo.multidex.PASSED_MSG"
+  }
 
   private var realm: Realm by Delegates.notNull()
 
@@ -107,17 +109,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     // Handle navigation view item clicks here.
     val id = item.itemId
     when (id) {
-      R.id.nav_camera -> { // handle the camera action
+      R.id.nav_pokemon -> { // handle the camera action
       }
-      R.id.nav_gallery -> { // handle gallery action
+      R.id.nav_moves -> { // handle gallery action
       }
-      R.id.nav_slideshow -> {
-      }
-      R.id.nav_manage -> {
-      }
-      R.id.nav_share -> {
-      }
-      R.id.nav_send -> {
+      R.id.nav_items -> {
       }
     }
     val drawer = findViewById(R.id.drawer_layout) as DrawerLayout
