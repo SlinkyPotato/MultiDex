@@ -1,5 +1,6 @@
 package xyz.venfo.apps.multidex
 
+import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.FloatingActionButton
 import android.support.design.widget.NavigationView
@@ -11,6 +12,7 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
 import android.widget.Button
 import android.widget.TextView
 import io.realm.Realm
@@ -20,6 +22,8 @@ import xyz.venfo.apps.multidex.pokemon.PokeTypeId
 import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
+  val ACTIVITY_KEY: String = "xyz.venfo.multidex.PASSED_MSG"
+
   private var realm: Realm by Delegates.notNull()
 
   override fun onCreate(savedInstanceState: Bundle?) {
@@ -28,9 +32,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     val toolbar = findViewById(R.id.toolbar) as Toolbar
     setSupportActionBar(toolbar)
 
-    val helloText: TextView = findViewById(R.id.helloText) as TextView
+    val helloText: TextView = findViewById(R.id.testText) as TextView
     val helloBtn: Button = findViewById(R.id.helloBtn) as Button
     val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn) as Button
+    val openPokeMoves: Button = findViewById(R.id.showPokeMovesBtn) as Button
 
     realm = Realm.getDefaultInstance()
 
@@ -46,6 +51,12 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
       realmQuery.equalTo("id", 0)
       val normalType: PokeType = realmQuery.findFirst()
       pokeTypeBtn.text = normalType.type
+    }
+
+    openPokeMoves.setOnClickListener { view: View ->
+      val intent: Intent = Intent(this, PokeMovesActivity::class.java)
+      intent.putExtra(ACTIVITY_KEY, pokeTypeBtn.text)
+      startActivity(intent)
     }
 
     val fab = findViewById(R.id.fab) as FloatingActionButton
