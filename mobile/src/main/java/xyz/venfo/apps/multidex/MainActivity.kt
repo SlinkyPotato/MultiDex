@@ -31,13 +31,13 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
     setContentView(R.layout.activity_nav)
-    val toolbar = findViewById(R.id.toolbar) as Toolbar
+    val toolbar = findViewById<Toolbar>(R.id.toolbar)
     setSupportActionBar(toolbar)
 
-    val helloText: TextView = findViewById(R.id.testText) as TextView
-    val helloBtn: Button = findViewById(R.id.helloBtn) as Button
-    val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn) as Button
-    val openPokeMoves: Button = findViewById(R.id.showPokeMovesBtn) as Button
+    val helloText: TextView = findViewById(R.id.testText)
+    val helloBtn: Button = findViewById(R.id.helloBtn)
+    val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn)
+    val openPokeMoves: Button = findViewById(R.id.showPokeMovesBtn)
 
     realm = Realm.getDefaultInstance()
 
@@ -61,24 +61,24 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
       startActivity(intent)
     }
 
-    val fab = findViewById(R.id.fab) as FloatingActionButton
+    val fab = findViewById<FloatingActionButton>(R.id.fab)
     fab.setOnClickListener { view ->
       Snackbar.make(view, "Replace with your own action", Snackbar.LENGTH_LONG)
           .setAction("Action", null).show()
     }
 
-    val drawer = findViewById(R.id.drawer_layout) as DrawerLayout
+    val drawer = findViewById<DrawerLayout>(R.id.drawer_layout) as DrawerLayout
     val toggle = ActionBarDrawerToggle(
         this, drawer, toolbar, R.string.navigation_drawer_open, R.string.navigation_drawer_close)
     drawer.addDrawerListener(toggle)
     toggle.syncState()
 
-    val navigationView = findViewById(R.id.nav_view) as NavigationView
+    val navigationView: NavigationView = findViewById(R.id.nav_view)
     navigationView.setNavigationItemSelectedListener(this)
   }
 
   override fun onBackPressed() {
-    val drawer = findViewById(R.id.drawer_layout) as DrawerLayout
+    val drawer = findViewById<DrawerLayout>(R.id.drawer_layout) as DrawerLayout
     if (drawer.isDrawerOpen(GravityCompat.START)) {
       drawer.closeDrawer(GravityCompat.START)
     } else {
@@ -116,7 +116,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
       R.id.nav_items -> {
       }
     }
-    val drawer = findViewById(R.id.drawer_layout) as DrawerLayout
+    val drawer: DrawerLayout = findViewById(R.id.drawer_layout)
     drawer.closeDrawer(GravityCompat.START)
     return true
   }
