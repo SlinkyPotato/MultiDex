@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".PokeMovesActivity"
+            android:name=".moves.PokeMovesActivity"
             android:label="@string/title_activity_poke_moves"
             android:theme="@style/AppTheme.NoActionBar">
         </activity>

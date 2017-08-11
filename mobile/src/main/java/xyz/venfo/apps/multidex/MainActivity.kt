@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.support.design.widget.FloatingActionButton
 import android.support.design.widget.NavigationView
 import android.support.design.widget.Snackbar
+import android.support.v4.app.FragmentTransaction
 import android.support.v4.view.GravityCompat
 import android.support.v4.widget.DrawerLayout
 import android.support.v7.app.ActionBarDrawerToggle
@@ -14,11 +15,15 @@ import android.view.Menu
 import android.view.MenuItem
 import android.view.View
 import android.widget.Button
+import android.widget.FrameLayout
 import android.widget.TextView
 import io.realm.Realm
 import io.realm.RealmQuery
+import xyz.venfo.apps.multidex.moves.PokeMovesActivity
+import xyz.venfo.apps.multidex.moves.PokeMovesFragment
 import xyz.venfo.apps.multidex.pokemon.PokeType
 import xyz.venfo.apps.multidex.pokemon.PokeTypeId
+import xyz.venfo.apps.multidex.pokemon.PokemonFragment
 import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
@@ -30,18 +35,22 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
   override fun onCreate(savedInstanceState: Bundle?) {
     super.onCreate(savedInstanceState)
-    setContentView(R.layout.activity_nav)
+    setContentView(R.layout.activity_nav) // activity gets set
+
     val toolbar = findViewById<Toolbar>(R.id.toolbar)
     setSupportActionBar(toolbar)
 
-    val helloText: TextView = findViewById(R.id.testText)
-    val helloBtn: Button = findViewById(R.id.helloBtn)
-    val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn)
-    val openPokeMoves: Button = findViewById(R.id.showPokeMovesBtn)
+    initializeFragmentLayout(savedInstanceState) // init fragments
+
+//    val helloText: TextView = findViewById(R.id.testText)
+//    val helloBtn: Button = findViewById(R.id.helloBtn)
+//    val pokeTypeBtn: Button = findViewById(R.id.pokeTypeBtn)
+//    val openPokeMoves: Button = findViewById(R.id.showPokeMovesBtn)
 
     realm = Realm.getDefaultInstance()
 
-    helloBtn.setOnClickListener {
+    // Test buttons
+    /*helloBtn.setOnClickListener {
       val realmQuery: RealmQuery<PokeTypeId> = realm.where(PokeTypeId::class.java)
       realmQuery.equalTo("id", 15)
       val result: PokeTypeId = realmQuery.findFirst()
@@ -56,10 +65,11 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     }
 
     openPokeMoves.setOnClickListener { view: View ->
+      // Working with fragments
       val intent: Intent = Intent(this, PokeMovesActivity::class.java)
       intent.putExtra(ACTIVITY_KEY, pokeTypeBtn.text)
       startActivity(intent)
-    }
+    }*/
 
     val fab = findViewById<FloatingActionButton>(R.id.fab)
     fab.setOnClickListener { view ->
@@ -108,17 +118,72 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
   override fun onNavigationItemSelected(item: MenuItem): Boolean {
     // Handle navigation view item clicks here.
     val id = item.itemId
+    // Working with Fragments
+    if (findViewById<FrameLayout>(R.id.fragment_container) == null) return true
+    val frag: FragmentTransaction = supportFragmentManager.beginTransaction()
     when (id) {
-      R.id.nav_pokemon -> { // handle the camera action
+      // Pokemon
+      R.id.nav_pokemon -> {
+        val pokemonFragment: PokemonFragment = PokemonFragment()
+        pokemonFragment.arguments = intent.extras
+        frag.replace(R.id.fragment_container, pokemonFragment)
       }
       R.id.nav_moves -> { // handle gallery action
+        val pokeMovesFragment: PokeMovesFragment = PokeMovesFragment()
+        pokeMovesFragment.arguments = intent.extras
+        frag.replace(R.id.fragment_container, pokeMovesFragment)
       }
+      R.id.nav_types -> {
+
+      }
+      R.id.nav_abilities -> {
+
+      }
+      R.id.nav_natures -> {
+
+      }
+      // Items
       R.id.nav_items -> {
+
+      }
+      R.id.nav_medicine -> {
+
+      }
+      R.id.nav_tms_hms -> {
+
+      }
+      R.id.nav_berries -> {
+
+      }
+      R.id.nav_key_items -> {
+
+      }
+      // Settings
+      R.id.nav_settings -> {
+
+      }
+      R.id.nav_help -> {
+
+      }
+      R.id.nav_changelog -> {
+
+      }
+      R.id.nav_about -> {
+
       }
     }
     val drawer: DrawerLayout = findViewById(R.id.drawer_layout)
     drawer.closeDrawer(GravityCompat.START)
+    frag.commit()
     return true
+  }
+
+  fun initializeFragmentLayout(savedInstanceState: Bundle?) {
+    if (findViewById<FrameLayout>(R.id.fragment_container) == null) return // check the activity is using framelayout
+    if (savedInstanceState != null) return // do not init fragment if previous state exits
+    val pokemonFragment: PokemonFragment = PokemonFragment()
+    pokemonFragment.arguments = intent.extras // pass activity intents as argument
+    supportFragmentManager.beginTransaction().add(R.id.fragment_container, pokemonFragment).commit()
   }
 }
 

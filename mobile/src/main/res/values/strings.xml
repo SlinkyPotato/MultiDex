@@ -113,4 +113,7 @@
     <string name="menu_settings">Settings</string>
     <string name="menu_tms_hms"><![CDATA[TMS & HMS]]></string>
     <string name="menu_types">Types</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

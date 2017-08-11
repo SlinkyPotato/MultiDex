@@ -2,6 +2,7 @@ package xyz.venfo.apps.multidex.moves
 
 import android.app.Application
 import android.util.JsonReader
+import android.util.JsonToken
 import android.util.Log
 import io.realm.Realm
 import io.realm.RealmObject
@@ -41,7 +42,7 @@ open class PokeMove(
     var generation: Int = 0, // Gen 1 starts at 1
     var description: String = "",
     var effect: String = "",
-    var notes: String = ""
+    var notes: String? = ""
 ) : RealmObject() {
   companion object {
     fun initPokeMoves(context: Application, realm: Realm) {
@@ -58,6 +59,7 @@ open class PokeMove(
         Log.i("Realm", " Successfully created PokeMoves.")
       } catch (error: Exception) {
         Log.wtf("Realm", " Unable to create PokeMoves. " + error.localizedMessage)
+        throw Exception()
       } finally {
         if (jsonReader != null) jsonReader.close()
       }
@@ -80,7 +82,7 @@ open class PokeMove(
           "generation" -> pokeMove.generation = reader.nextInt()
           "description" -> pokeMove.description = reader.nextString()
           "effect" -> pokeMove.effect = reader.nextString()
-          "notes" -> pokeMove.notes = reader.nextString()
+          "notes" -> if (reader.peek() == JsonToken.STRING) reader.nextString() else reader.nextNull()
           else -> {
             Log.wtf("JSON", " Unknown read in poke_moves.json")
             reader.skipValue()
