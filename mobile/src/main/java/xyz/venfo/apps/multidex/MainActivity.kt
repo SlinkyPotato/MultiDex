@@ -87,8 +87,18 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     navigationView.setNavigationItemSelectedListener(this)
   }
 
+  /**
+   * When the main activity has resumed. Fragments interaction can freely occur here.
+   */
+  override fun onResume() {
+    super.onResume()
+  }
+
+  /**
+   * Close the drawer on back pressed
+   */
   override fun onBackPressed() {
-    val drawer = findViewById<DrawerLayout>(R.id.drawer_layout) as DrawerLayout
+    val drawer: DrawerLayout = findViewById(R.id.drawer_layout)
     if (drawer.isDrawerOpen(GravityCompat.START)) {
       drawer.closeDrawer(GravityCompat.START)
     } else {
@@ -173,7 +183,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
       }
     }
     val drawer: DrawerLayout = findViewById(R.id.drawer_layout)
-    drawer.closeDrawer(GravityCompat.START)
+    drawer.closeDrawer(GravityCompat.START) // closes the drawer
     frag.commit()
     return true
   }
