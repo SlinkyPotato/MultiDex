@@ -12,11 +12,11 @@ import java.io.InputStream
 import java.io.InputStreamReader
 
 /**
- * The Pokemon's Type information
+ * The PokemonModel's Type information
  *
  * This class contains the specific type along with the type's weakness and effectiveness comparisons.
  *
- * @param type {Type} The primary type of the Pokemon
+ * @param type {Type} The primary type of the PokemonModel
  * @param halfDmg A list of Types that receive half damage
  * @param noDmg A list of Types that receive no damage
  * @param normalDmg A list of Types that receive 1x damage

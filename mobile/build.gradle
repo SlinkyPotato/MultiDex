@@ -2,10 +2,14 @@ apply plugin: 'com.android.application'
 apply plugin: 'kotlin-android'
 apply plugin: 'realm-android'
 apply plugin: 'kotlin-android-extensions'
+apply plugin: 'kotlin-kapt'
 
 android {
     compileSdkVersion 26
     buildToolsVersion "26.0.1"
+    dataBinding {
+        enabled = true
+    }
     defaultConfig {
         applicationId "xyz.venfo.apps.multidex"
         minSdkVersion 19
@@ -39,7 +43,9 @@ dependencies {
     testCompile "junit:junit:4.12"
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     compile "com.google.code.gson:gson:2.8.1"
+    kapt "com.android.databinding:compiler:$android_plugin_version"
 }
+
 repositories {
     mavenCentral()
 }

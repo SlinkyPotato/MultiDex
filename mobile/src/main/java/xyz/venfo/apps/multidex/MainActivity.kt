@@ -124,7 +124,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     if (findViewById<FrameLayout>(R.id.fragment_container) == null) return true
     val frag: FragmentTransaction = supportFragmentManager.beginTransaction()
     when (id) {
-      // Pokemon
+      // Navigate to the various fragment
       R.id.nav_pokemon -> {
         val pokemonRVFragment: PokemonRVFragment = PokemonRVFragment()
         pokemonRVFragment.arguments = intent.extras

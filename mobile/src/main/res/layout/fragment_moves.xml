@@ -1,13 +1,19 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
-             xmlns:tools="http://schemas.android.com/tools"
-             android:layout_width="match_parent"
-             android:layout_height="match_parent"
-             tools:context="xyz.venfo.apps.multidex.moves.PokeMovesFragment">
+<layout>
+    <data>
+        <variable
+            name="pokeMove"
+            type="xyz.venfo.apps.multidex.moves.PokeMove"/>
+    </data>
+    <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                 xmlns:tools="http://schemas.android.com/tools"
+                 android:layout_width="match_parent"
+                 android:layout_height="match_parent"
+                 tools:context="xyz.venfo.apps.multidex.moves.PokeMovesFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:text="Poke Moves"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@{pokeMove.name}"/>
 
-</FrameLayout>
+    </FrameLayout>
+</layout>

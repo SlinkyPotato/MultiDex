@@ -1,6 +1,9 @@
 package xyz.venfo.apps.multidex.moves
 
 import android.app.Application
+import android.databinding.BaseObservable
+import android.databinding.Bindable
+import android.databinding.Observable
 import android.util.JsonReader
 import android.util.JsonToken
 import android.util.Log
@@ -13,7 +16,7 @@ import java.io.InputStream
 import java.io.InputStreamReader
 
 /**
- * The Pokemon's Move Information
+ * The PokemonModel's Move Information
  *
  * This class contains specific move information
  *
