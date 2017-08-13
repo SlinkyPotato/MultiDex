@@ -1,6 +1,5 @@
 package xyz.venfo.apps.multidex
 
-import android.content.Intent
 import android.os.Bundle
 import android.support.design.widget.FloatingActionButton
 import android.support.design.widget.NavigationView
@@ -13,17 +12,10 @@ import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
 import android.view.Menu
 import android.view.MenuItem
-import android.view.View
-import android.widget.Button
 import android.widget.FrameLayout
-import android.widget.TextView
 import io.realm.Realm
-import io.realm.RealmQuery
-import xyz.venfo.apps.multidex.moves.PokeMovesActivity
 import xyz.venfo.apps.multidex.moves.PokeMovesFragment
-import xyz.venfo.apps.multidex.pokemon.PokeType
-import xyz.venfo.apps.multidex.pokemon.PokeTypeId
-import xyz.venfo.apps.multidex.pokemon.PokemonFragment
+import xyz.venfo.apps.multidex.pokemon.PokemonRVFragment
 import kotlin.properties.Delegates
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
@@ -134,9 +126,9 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     when (id) {
       // Pokemon
       R.id.nav_pokemon -> {
-        val pokemonFragment: PokemonFragment = PokemonFragment()
-        pokemonFragment.arguments = intent.extras
-        frag.replace(R.id.fragment_container, pokemonFragment)
+        val pokemonRVFragment: PokemonRVFragment = PokemonRVFragment()
+        pokemonRVFragment.arguments = intent.extras
+        frag.replace(R.id.fragment_container, pokemonRVFragment)
       }
       R.id.nav_moves -> { // handle gallery action
         val pokeMovesFragment: PokeMovesFragment = PokeMovesFragment()
@@ -188,12 +180,15 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
     return true
   }
 
+  /**
+   * Initialize the main pokemon tab fragment
+   */
   fun initializeFragmentLayout(savedInstanceState: Bundle?) {
     if (findViewById<FrameLayout>(R.id.fragment_container) == null) return // check the activity is using framelayout
     if (savedInstanceState != null) return // do not init fragment if previous state exits
-    val pokemonFragment: PokemonFragment = PokemonFragment()
-    pokemonFragment.arguments = intent.extras // pass activity intents as argument
-    supportFragmentManager.beginTransaction().add(R.id.fragment_container, pokemonFragment).commit()
+    val pokemonRVFragment: PokemonRVFragment = PokemonRVFragment()
+    pokemonRVFragment.arguments = intent.extras // pass activity intents as argument
+    supportFragmentManager.beginTransaction().add(R.id.fragment_container, pokemonRVFragment).commit()
   }
 }
 

@@ -19,7 +19,7 @@ class PokeMovesFragment : Fragment() {
 //    val textView = TextView(activity)
 //    textView.setText(R.string.hello_blank_fragment)
 //    return textView
-    return inflater.inflate(R.layout.fragment_poke_moves, container, false)
+    return inflater.inflate(R.layout.fragment_moves, container, false)
   }
 
 }// Required empty public constructor
