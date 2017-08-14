@@ -1,9 +1,6 @@
 package xyz.venfo.apps.multidex.moves
 
 import android.app.Application
-import android.databinding.BaseObservable
-import android.databinding.Bindable
-import android.databinding.Observable
 import android.util.JsonReader
 import android.util.JsonToken
 import android.util.Log
@@ -33,7 +30,7 @@ import java.io.InputStreamReader
  * @param accuracy {Int}
  * @param generation {Int}
  */
-open class PokeMove(
+open class PokeMoveModel(
     @PrimaryKey var id: Int = -1,
     var name: String = "",
     var type: PokeType = PokeType(),
@@ -55,7 +52,7 @@ open class PokeMove(
         jsonReader = JsonReader(InputStreamReader(moveStream, "UTF-8"))
         jsonReader.beginArray()
         while (jsonReader.hasNext()) {
-          val pokeMove: PokeMove = readPokeMove(jsonReader, realm)
+          val pokeMove: PokeMoveModel = readPokeMove(jsonReader, realm)
           realm.copyToRealm(pokeMove)
         }
         jsonReader.endArray()
@@ -68,15 +65,15 @@ open class PokeMove(
       }
     }
 
-    fun readPokeMove(reader: JsonReader, realm: Realm): PokeMove {
-      val pokeMove: PokeMove = PokeMove()
+    fun readPokeMove(reader: JsonReader, realm: Realm): PokeMoveModel {
+      val pokeMove: PokeMoveModel = PokeMoveModel()
       reader.beginObject()
       while (reader.hasNext()) {
         val field: String = reader.nextName()
         when (field) {
           "id" -> pokeMove.id = reader.nextInt()
           "name" -> pokeMove.name = reader.nextString()
-          "type" -> pokeMove.type = readPokeType(reader.nextInt(), realm)
+          "name" -> pokeMove.type = readPokeType(reader.nextInt(), realm)
           "categoryId" -> pokeMove.category = readCategory(reader.nextInt(), realm)
           "contestId" -> pokeMove.contestType = readContestType(reader.nextInt(), realm)
           "powerPoint" -> pokeMove.powerPoint = reader.nextInt()

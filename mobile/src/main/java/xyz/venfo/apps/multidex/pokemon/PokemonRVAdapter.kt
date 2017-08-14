@@ -16,8 +16,8 @@ class PokemonRVAdapter(
   /**
    * Set the card view and display the contents
    */
-  override fun onCreateViewHolder(parent: ViewGroup?, viewType: Int): RecyclerViewHolder {
-    val layoutInflater: LayoutInflater = LayoutInflater.from(parent?.context)
+  override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): RecyclerViewHolder {
+    val layoutInflater: LayoutInflater = LayoutInflater.from(parent.context)
     val itemViewBinding: ViewDataBinding = DataBindingUtil.inflate(layoutInflater, R.layout.content_pokemon_card, parent, false)
     return RecyclerViewHolder(itemViewBinding)
   }

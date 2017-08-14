@@ -46,14 +46,14 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
       val realmQuery: RealmQuery<PokeTypeId> = realm.where(PokeTypeId::class.java)
       realmQuery.equalTo("id", 15)
       val result: PokeTypeId = realmQuery.findFirst()
-      helloText.text = result.type
+      helloText.text = result.name
     }
 
     pokeTypeBtn.setOnClickListener {
       val realmQuery: RealmQuery<PokeType> = realm.where(PokeType::class.java)
       realmQuery.equalTo("id", 0)
       val normalType: PokeType = realmQuery.findFirst()
-      pokeTypeBtn.text = normalType.type
+      pokeTypeBtn.text = normalType.name
     }
 
     openPokeMoves.setOnClickListener { view: View ->

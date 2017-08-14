@@ -1,22 +1,22 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "type": "Cool"
   },
   {
-    "id": 1,
+    "id": 2,
     "type": "Beautiful"
   },
   {
-    "id": 2,
+    "id": 3,
     "type": "Cute"
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "Clever"
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "Tough"
   }
 ]

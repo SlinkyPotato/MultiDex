@@ -7,103 +7,103 @@
   },
   {
     "id": 2,
-    "name": "Lucha",
+    "name": "Combat",
     "description": null,
     "notes": null
   },
   {
     "id": 3,
-    "name": "Volador",
+    "name": "Vol",
     "description": null,
     "notes": null
   },
   {
     "id": 4,
-    "name": "Veneno",
+    "name": "Poison",
     "description": null,
     "notes": null
   },
   {
     "id": 5,
-    "name": "Tierra",
+    "name": "Sol",
     "description": null,
     "notes": null
   },
   {
     "id": 6,
-    "name": "Roca",
+    "name": "Roche",
     "description": null,
     "notes": null
   },
   {
     "id": 7,
-    "name": "Bicho",
+    "name": "Insecte",
     "description": null,
     "notes": null
   },
   {
     "id": 8,
-    "name": "Fantasma",
+    "name": "Spectre",
     "description": null,
     "notes": null
   },
   {
     "id": 9,
-    "name": "Acero",
+    "name": "Acier",
     "description": null,
     "notes": null
   },
   {
     "id": 10,
-    "name": "Fuego",
+    "name": "Feu",
     "description": null,
     "notes": null
   },
   {
     "id": 11,
-    "name": "Agua",
+    "name": "Eau",
     "description": null,
     "notes": null
   },
   {
     "id": 12,
-    "name": "Planta",
+    "name": "Plante",
     "description": null,
     "notes": null
   },
   {
     "id": 13,
-    "name": "El\u00e9ctrico",
+    "name": "\u00c9lectrik",
     "description": null,
     "notes": null
   },
   {
     "id": 14,
-    "name": "Ps\u00edquico",
+    "name": "Psy",
     "description": null,
     "notes": null
   },
   {
     "id": 15,
-    "name": "Hielo",
+    "name": "Glace",
     "description": null,
     "notes": null
   },
   {
     "id": 16,
-    "name": "Drag\u00f3n",
+    "name": "Dragon",
     "description": null,
     "notes": null
   },
   {
     "id": 17,
-    "name": "Siniestro",
+    "name": "T\u00e9n\u00e8bres",
     "description": null,
     "notes": null
   },
   {
     "id": 18,
-    "name": "Hada",
+    "name": "F\u00e9e",
     "description": null,
     "notes": null
   },

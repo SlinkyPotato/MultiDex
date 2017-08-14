@@ -9,7 +9,6 @@ import android.view.View
 import android.view.ViewGroup
 import xyz.venfo.apps.multidex.R
 import xyz.venfo.apps.multidex.databinding.FragmentMovesBinding
-import xyz.venfo.apps.multidex.databinding.FragmentPokemonBinding
 
 
 /**
@@ -25,7 +24,7 @@ class PokeMovesFragment : Fragment() {
 //    return inflater.inflate(R.layout.fragment_moves, container, false)
     val binding: FragmentMovesBinding = DataBindingUtil.inflate(layoutInflater, R.layout.fragment_moves, container, false)
     val view: View = binding.root
-    binding.pokeMove = PokeMove(1, "Hello binding!")
+    binding.pokeMove = PokeMoveModel(1, "Hello binding!")
     return view
   }
 

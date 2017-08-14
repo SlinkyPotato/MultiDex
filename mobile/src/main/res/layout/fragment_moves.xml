@@ -2,7 +2,7 @@
     <data>
         <variable
             name="pokeMove"
-            type="xyz.venfo.apps.multidex.moves.PokeMove"/>
+            type="xyz.venfo.apps.multidex.moves.PokeMoveModel"/>
     </data>
     <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
                  xmlns:tools="http://schemas.android.com/tools"

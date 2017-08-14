@@ -12,12 +12,12 @@ import java.io.InputStream
  * PokeType Id Class
  *
  * The class must be open.
- * @param id Int The type id
- * @param type String
+ * @param id Int The name id
+ * @param name String
  */
 open class PokeTypeId(
     @PrimaryKey var id: Int = 0, // must have default value to init default constructor
-    var type: String = ""
+    var name: String = ""
 ) : RealmObject() {
   // Kotlin compiler generates standard getters and setters. Realm will overload them and code inside them is ignored.
 

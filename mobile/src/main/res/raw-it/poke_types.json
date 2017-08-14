@@ -1,109 +1,109 @@
 [
   {
     "id": 1,
-    "name": "Normal",
+    "name": "Normale",
     "description": null,
     "notes": null
   },
   {
     "id": 2,
-    "name": "Lucha",
+    "name": "Lotta",
     "description": null,
     "notes": null
   },
   {
     "id": 3,
-    "name": "Volador",
+    "name": "Volante",
     "description": null,
     "notes": null
   },
   {
     "id": 4,
-    "name": "Veneno",
+    "name": "Veleno",
     "description": null,
     "notes": null
   },
   {
     "id": 5,
-    "name": "Tierra",
+    "name": "Terra",
     "description": null,
     "notes": null
   },
   {
     "id": 6,
-    "name": "Roca",
+    "name": "Roccia",
     "description": null,
     "notes": null
   },
   {
     "id": 7,
-    "name": "Bicho",
+    "name": "Coleottero",
     "description": null,
     "notes": null
   },
   {
     "id": 8,
-    "name": "Fantasma",
+    "name": "Spettro",
     "description": null,
     "notes": null
   },
   {
     "id": 9,
-    "name": "Acero",
+    "name": "Acciaio",
     "description": null,
     "notes": null
   },
   {
     "id": 10,
-    "name": "Fuego",
+    "name": "Fuoco",
     "description": null,
     "notes": null
   },
   {
     "id": 11,
-    "name": "Agua",
+    "name": "Acqua",
     "description": null,
     "notes": null
   },
   {
     "id": 12,
-    "name": "Planta",
+    "name": "Erba",
     "description": null,
     "notes": null
   },
   {
     "id": 13,
-    "name": "El\u00e9ctrico",
+    "name": "Elettro",
     "description": null,
     "notes": null
   },
   {
     "id": 14,
-    "name": "Ps\u00edquico",
+    "name": "Psico",
     "description": null,
     "notes": null
   },
   {
     "id": 15,
-    "name": "Hielo",
+    "name": "Ghiaccio",
     "description": null,
     "notes": null
   },
   {
     "id": 16,
-    "name": "Drag\u00f3n",
+    "name": "Drago",
     "description": null,
     "notes": null
   },
   {
     "id": 17,
-    "name": "Siniestro",
+    "name": "Buio",
     "description": null,
     "notes": null
   },
   {
     "id": 18,
-    "name": "Hada",
+    "name": "Folletto",
     "description": null,
     "notes": null
   },

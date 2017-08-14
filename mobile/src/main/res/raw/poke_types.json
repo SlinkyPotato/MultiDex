@@ -1,78 +1,116 @@
 [
   {
-    "id": 0,
-    "type": "Normal"
-  },
-  {
     "id": 1,
-    "type": "Fire"
+    "name": "Normal",
+    "description": null,
+    "notes": null
   },
   {
     "id": 2,
-    "type": "Water"
+    "name": "Fighting",
+    "description": null,
+    "notes": null
   },
   {
     "id": 3,
-    "type": "Electric"
+    "name": "Flying",
+    "description": null,
+    "notes": null
   },
   {
     "id": 4,
-    "type": "Grass"
+    "name": "Poison",
+    "description": null,
+    "notes": null
   },
   {
     "id": 5,
-    "type": "Ice"
+    "name": "Ground",
+    "description": null,
+    "notes": null
   },
   {
     "id": 6,
-    "type": "Fighting"
+    "name": "Rock",
+    "description": null,
+    "notes": null
   },
   {
     "id": 7,
-    "type": "Poison"
+    "name": "Bug",
+    "description": null,
+    "notes": null
   },
   {
     "id": 8,
-    "type": "Ground"
+    "name": "Ghost",
+    "description": null,
+    "notes": null
   },
   {
     "id": 9,
-    "type": "Flying"
+    "name": "Steel",
+    "description": null,
+    "notes": null
   },
   {
     "id": 10,
-    "type": "Psychic"
+    "name": "Fire",
+    "description": null,
+    "notes": null
   },
   {
     "id": 11,
-    "type": "Bug"
+    "name": "Water",
+    "description": null,
+    "notes": null
   },
   {
     "id": 12,
-    "type": "Rock"
+    "name": "Grass",
+    "description": null,
+    "notes": null
   },
   {
     "id": 13,
-    "type": "Ghost"
+    "name": "Electric",
+    "description": null,
+    "notes": null
   },
   {
     "id": 14,
-    "type": "Dragon"
+    "name": "Psychic",
+    "description": null,
+    "notes": null
   },
   {
     "id": 15,
-    "type": "Dark"
+    "name": "Ice",
+    "description": null,
+    "notes": null
   },
   {
     "id": 16,
-    "type": "Steel"
+    "name": "Dragon",
+    "description": null,
+    "notes": null
   },
   {
     "id": 17,
-    "type": "Fairy"
+    "name": "Dark",
+    "description": null,
+    "notes": null
   },
   {
     "id": 18,
-    "type": "???"
+    "name": "Fairy",
+    "description": null,
+    "notes": null
+  },
+  {
+    "id": 19,
+    "name": "???",
+    "description": null,
+    "notes": null
   }
 ]

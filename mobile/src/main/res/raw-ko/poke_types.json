@@ -1,109 +1,109 @@
 [
   {
     "id": 1,
-    "name": "Normal",
+    "name": "\ub178\ub9d0",
     "description": null,
     "notes": null
   },
   {
     "id": 2,
-    "name": "Lucha",
+    "name": "\uaca9\ud22c",
     "description": null,
     "notes": null
   },
   {
     "id": 3,
-    "name": "Volador",
+    "name": "\ube44\ud589",
     "description": null,
     "notes": null
   },
   {
     "id": 4,
-    "name": "Veneno",
+    "name": "\ub3c5",
     "description": null,
     "notes": null
   },
   {
     "id": 5,
-    "name": "Tierra",
+    "name": "\ub545",
     "description": null,
     "notes": null
   },
   {
     "id": 6,
-    "name": "Roca",
+    "name": "\ubc14\uc704",
     "description": null,
     "notes": null
   },
   {
     "id": 7,
-    "name": "Bicho",
+    "name": "\ubc8c\ub808",
     "description": null,
     "notes": null
   },
   {
     "id": 8,
-    "name": "Fantasma",
+    "name": "\uace0\uc2a4\ud2b8",
     "description": null,
     "notes": null
   },
   {
     "id": 9,
-    "name": "Acero",
+    "name": "\uac15\ucca0",
     "description": null,
     "notes": null
   },
   {
     "id": 10,
-    "name": "Fuego",
+    "name": "\ubd88\uaf43",
     "description": null,
     "notes": null
   },
   {
     "id": 11,
-    "name": "Agua",
+    "name": "\ubb3c",
     "description": null,
     "notes": null
   },
   {
     "id": 12,
-    "name": "Planta",
+    "name": "\ud480",
     "description": null,
     "notes": null
   },
   {
     "id": 13,
-    "name": "El\u00e9ctrico",
+    "name": "\uc804\uae30",
     "description": null,
     "notes": null
   },
   {
     "id": 14,
-    "name": "Ps\u00edquico",
+    "name": "\uc5d0\uc2a4\ud37c",
     "description": null,
     "notes": null
   },
   {
     "id": 15,
-    "name": "Hielo",
+    "name": "\uc5bc\uc74c",
     "description": null,
     "notes": null
   },
   {
     "id": 16,
-    "name": "Drag\u00f3n",
+    "name": "\ub4dc\ub798\uace4",
     "description": null,
     "notes": null
   },
   {
     "id": 17,
-    "name": "Siniestro",
+    "name": "\uc545",
     "description": null,
     "notes": null
   },
   {
     "id": 18,
-    "name": "Hada",
+    "name": "\ud398\uc5b4\ub9ac",
     "description": null,
     "notes": null
   },

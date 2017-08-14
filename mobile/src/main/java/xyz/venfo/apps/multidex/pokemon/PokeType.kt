@@ -14,9 +14,9 @@ import java.io.InputStreamReader
 /**
  * The PokemonModel's Type information
  *
- * This class contains the specific type along with the type's weakness and effectiveness comparisons.
+ * This class contains the specific name along with the name's weakness and effectiveness comparisons.
  *
- * @param type {Type} The primary type of the PokemonModel
+ * @param name {Type} The primary name of the PokemonModel
  * @param halfDmg A list of Types that receive half damage
  * @param noDmg A list of Types that receive no damage
  * @param normalDmg A list of Types that receive 1x damage
@@ -25,14 +25,15 @@ import java.io.InputStreamReader
  */
 open class PokeType (
     @PrimaryKey var id: Int = 0,
-    var type: String = "",
+    var name: String = "",
     var halfDmg: RealmList<PokeTypeId> = RealmList(),
     var noDmg: RealmList<PokeTypeId> = RealmList(),
     var normalDmg: RealmList<PokeTypeId> = RealmList(),
-    var doubleDmg: RealmList<PokeTypeId> = RealmList()
+    var doubleDmg: RealmList<PokeTypeId> = RealmList(),
+    var generation: Int = 0
 ): RealmObject() {
   companion object {
-    val TYPES: Map<Int, String> = mapOf(
+    /*val TYPES: Map<Int, String> = mapOf(
         0 to "Normal",
         1 to "Fire",
         2 to "Water",
@@ -52,13 +53,13 @@ open class PokeType (
         16 to "Steel",
         17 to "Fairy",
         18 to "???"
-    )
+    )*/
 
     fun initPokeTypes(context: Application, realm: Realm) {
       var jsonReader: JsonReader? = null
       try {
         // Initialize PokeTypes
-        val pokeTypesStream: InputStream = context.resources.openRawResource(R.raw.type_effects)
+        val pokeTypesStream: InputStream = context.resources.openRawResource(R.raw.poke_type_effects)
         jsonReader = JsonReader(InputStreamReader(pokeTypesStream, "UTF-8"))
         // Read the poke types
         jsonReader.beginArray()
@@ -101,14 +102,15 @@ open class PokeType (
           "normalDmg" -> normalDmg = readDmg(reader, realm)
           "doubleDmg" -> doubleDmg = readDmg(reader, realm)
           else -> {
-            Log.wtf("JSON", " Unknown read in type_effects.json.")
+            Log.wtf("JSON", " Unknown read in poke_type_effects.json.json.")
             reader.skipValue()
           }
         }
       }
       reader.endObject()
       // Retrieve PokeType Name
-      type = TYPES.getOrDefault(id, "")
+      val typeIdObj: PokeTypeId = realm.where(PokeTypeId::class.java).equalTo("id", id).findFirst()
+      type = typeIdObj.name
       return PokeType(id, type, halfDmg, noDmg, normalDmg, doubleDmg)
     }
 

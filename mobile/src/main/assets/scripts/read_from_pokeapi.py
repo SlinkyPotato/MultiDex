@@ -4,9 +4,9 @@ import json
 baseUrl = 'https://pokeapi.co/api/v2/'
 fileLangs = ['en', 'es', 'de', 'fr', 'it', 'ja', 'ko']
 gens = {'generation-i': 1, 'generation-ii': 2, 'generation-iii': 3, 'generation-iv': 4, 'generation-v': 5, 'generation-vi': 6}
-pokeTypes = {'normal': 0, 'fire': 1, 'water': 2, 'electric': 3, 'grass': 4, 'ice': 5, 'fighting': 6, 'poison': 7, 'ground': 8, 'flying': 9, 'psychic': 10, 'bug': 11, 'rock': 12, 'ghost': 13, 'dragon': 14, 'dark': 15, 'steel': 16, 'fairy': 17, '???': 18}
-dmgTypes = {'physical': 0, 'special': 1, 'status': 2}
-contestTypes = {'cool': 0, 'beautiful': 1, 'beauty': 1, 'cute': 2, 'clever': 3, 'smart': 3, 'tough': 4}
+pokeTypes = {'normal': 1, 'fire': 2, 'water': 3, 'electric': 4, 'grass': 5, 'ice': 6, 'fighting': 7, 'poison': 8, 'ground': 9, 'flying': 10, 'psychic': 11, 'bug': 12, 'rock': 13, 'ghost': 14, 'dragon': 15, 'dark': 16, 'steel': 17, 'fairy': 18, '???': 19}
+dmgTypes = {'physical': 1, 'special': 2, 'status': 3}
+contestTypes = {'cool': 1, 'beautiful': 2, 'beauty': 2, 'cute': 3, 'clever': 4, 'smart': 4, 'tough': 5}
 
 def request_poke_api(startIndex, lastPokeMoveId):
     for pokeId in range(startIndex, lastPokeMoveId):
@@ -30,13 +30,10 @@ def read_poke_move(startIndex, lastPokeMoveId):
             pokeTypeId = getListText(pokeTypes, pokeMove['type'])
             power = pokeMove['power']
 
-            moveStats = {'id': pokeId, 'pokeTypeId': pokeTypeId, 'dmgTypeId': dmgTypeId, 'contestTypeId': contestTypeId, 'powerPoint': pp, 'power': power, 'accuracy': accuracy, 'genId': genId}
+            moveStats = {'pokeMoveId': pokeId, 'pokeTypeId': pokeTypeId, 'dmgTypeId': dmgTypeId, 'contestTypeId': contestTypeId, 'powerPoint': pp, 'power': power, 'accuracy': accuracy, 'genId': genId}
             pokeMovesLangs['stats'].append(moveStats)
             
             # Move Localization
-            description = pokeMove['flavor_text_entries']
-            effect = pokeMove['effect_entries']
-            
             for lang in fileLangs:
                 name = getLocalText(lang, 'name', pokeMove['names'])
                 description = getLocalText(lang, 'flavor_text', pokeMove['flavor_text_entries'])
