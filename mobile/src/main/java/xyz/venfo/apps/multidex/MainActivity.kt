@@ -43,16 +43,16 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     // Test buttons
     /*helloBtn.setOnClickListener {
-      val realmQuery: RealmQuery<PokeTypeId> = realm.where(PokeTypeId::class.java)
+      val realmQuery: RealmQuery<PokeTypeStrings> = realm.where(PokeTypeStrings::class.java)
       realmQuery.equalTo("id", 15)
-      val result: PokeTypeId = realmQuery.findFirst()
+      val result: PokeTypeStrings = realmQuery.findFirst()
       helloText.text = result.name
     }
 
     pokeTypeBtn.setOnClickListener {
-      val realmQuery: RealmQuery<PokeType> = realm.where(PokeType::class.java)
+      val realmQuery: RealmQuery<PokeTypeModel> = realm.where(PokeTypeModel::class.java)
       realmQuery.equalTo("id", 0)
-      val normalType: PokeType = realmQuery.findFirst()
+      val normalType: PokeTypeModel = realmQuery.findFirst()
       pokeTypeBtn.text = normalType.name
     }
 

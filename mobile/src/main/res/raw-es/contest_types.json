@@ -1,22 +1,22 @@
 [
   {
-    "id": 0,
+    "id": 1,
     "type": "Fresco"
   },
   {
-    "id": 1,
+    "id": 2,
     "type": "Hermosa"
   },
   {
-    "id": 2,
+    "id": 3,
     "type": "Linda"
   },
   {
-    "id": 3,
+    "id": 4,
     "type": "Listo"
   },
   {
-    "id": 4,
+    "id": 5,
     "type": "Fuerte"
   }
 ]

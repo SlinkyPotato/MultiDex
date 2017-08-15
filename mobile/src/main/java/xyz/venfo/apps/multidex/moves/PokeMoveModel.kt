@@ -8,7 +8,7 @@ import io.realm.Realm
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
 import xyz.venfo.apps.multidex.R
-import xyz.venfo.apps.multidex.pokemon.PokeType
+import xyz.venfo.apps.multidex.pokemon.PokeTypeModel
 import java.io.InputStream
 import java.io.InputStreamReader
 
@@ -21,8 +21,8 @@ import java.io.InputStreamReader
  *  * Karate Chop (2) is normal in gen 1
  *
  * @param id {String}
- * @param name {PokeType}
- * @param type {PokeType}
+ * @param name {PokeTypeModel}
+ * @param type {PokeTypeModel}
  * @param category {Int}
  * @param contestType {Int}
  * @param powerPoint {Int}
@@ -33,8 +33,8 @@ import java.io.InputStreamReader
 open class PokeMoveModel(
     @PrimaryKey var id: Int = -1,
     var name: String = "",
-    var type: PokeType = PokeType(),
-    var category: MoveCategory = MoveCategory(),
+    var type: PokeTypeModel = PokeTypeModel(),
+    var category: DamageType = DamageType(),
     var contestType: ContestType = ContestType(),
     var powerPoint: Int = -1,
     var power: Int = -1,
@@ -68,21 +68,37 @@ open class PokeMoveModel(
     fun readPokeMove(reader: JsonReader, realm: Realm): PokeMoveModel {
       val pokeMove: PokeMoveModel = PokeMoveModel()
       reader.beginObject()
+
+      // Anon functions to obtain data from realm
+      val readPokeTypeFun = fun (pokeTypeId: Int): PokeTypeModel {
+        return realm.where(PokeTypeModel::class.java).equalTo("id", pokeTypeId).findFirst()
+      }
+      val readCategory = fun (categoryId: Int): DamageType {
+        return realm.where(DamageType::class.java).equalTo("id", categoryId).findFirst()
+      }
+      val readContestType = fun (typeId: Int): ContestType {
+        return realm.where(ContestType::class.java).equalTo("id", typeId).findFirst()
+      }
+
+      // Process the json file
       while (reader.hasNext()) {
         val field: String = reader.nextName()
+        if (reader.peek() == JsonToken.NULL) {
+          reader.skipValue()
+        }
         when (field) {
           "id" -> pokeMove.id = reader.nextInt()
           "name" -> pokeMove.name = reader.nextString()
-          "name" -> pokeMove.type = readPokeType(reader.nextInt(), realm)
-          "categoryId" -> pokeMove.category = readCategory(reader.nextInt(), realm)
-          "contestId" -> pokeMove.contestType = readContestType(reader.nextInt(), realm)
+          "pokeTypeId" -> pokeMove.type = readPokeTypeFun(reader.nextInt())
+          "damageTypeId" -> pokeMove.category = readCategory(reader.nextInt())
+          "contestTypeId" -> pokeMove.contestType = readContestType(reader.nextInt())
           "powerPoint" -> pokeMove.powerPoint = reader.nextInt()
           "power" -> pokeMove.power = reader.nextInt()
           "accuracy" -> pokeMove.accuracy = reader.nextInt()
           "generation" -> pokeMove.generation = reader.nextInt()
           "description" -> pokeMove.description = reader.nextString()
           "effect" -> pokeMove.effect = reader.nextString()
-          "notes" -> if (reader.peek() == JsonToken.STRING) reader.nextString() else reader.nextNull()
+          "notes" -> reader.nextString()
           else -> {
             Log.wtf("JSON", " Unknown read in poke_moves.json")
             reader.skipValue()
@@ -91,18 +107,6 @@ open class PokeMoveModel(
       }
       reader.endObject()
       return pokeMove
-    }
-
-    fun readPokeType(pokeTypeId: Int, realm: Realm): PokeType {
-      return realm.where(PokeType::class.java).equalTo("id", pokeTypeId).findFirst()
-    }
-
-    fun readCategory(categoryId: Int, realm: Realm): MoveCategory {
-      return realm.where(MoveCategory::class.java).equalTo("id", categoryId).findFirst()
-    }
-
-    fun readContestType(typeId: Int, realm: Realm): ContestType {
-      return realm.where(ContestType::class.java).equalTo("id", typeId).findFirst()
     }
   }
 }

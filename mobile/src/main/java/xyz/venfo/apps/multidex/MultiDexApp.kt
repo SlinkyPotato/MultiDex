@@ -6,10 +6,10 @@ import android.util.Log
 import io.realm.Realm
 import io.realm.RealmConfiguration
 import xyz.venfo.apps.multidex.moves.ContestType
-import xyz.venfo.apps.multidex.moves.MoveCategory
-import xyz.venfo.apps.multidex.moves.PokeMoveModel
-import xyz.venfo.apps.multidex.pokemon.PokeType
-import xyz.venfo.apps.multidex.pokemon.PokeTypeId
+import xyz.venfo.apps.multidex.moves.DamageType
+import xyz.venfo.apps.multidex.moves.PokeMoveModel.Companion.readPokeMove
+import xyz.venfo.apps.multidex.pokemon.PokeTypeModel.Companion.readPokeType
+import xyz.venfo.apps.multidex.pokemon.PokeTypeStrings
 
 class MultiDexApp: Application() {
   /**
@@ -26,11 +26,12 @@ class MultiDexApp: Application() {
     // Initialize database
     realmInstance.executeTransactionAsync ({ realm ->
       realm.deleteAll()
-      PokeTypeId.initPokeTypeIds(this, realm)
-      PokeType.initPokeTypes(this, realm)
-//      MoveCategory.initCategories(this, realm)
-//      ContestType.initContestTypes(this, realm)
-//      PokeMoveModel.initPokeMoves(this, realm)
+      val realmParser: RealmJsonParser = RealmJsonParser(this, realm)
+      realmParser.parseJsonRealm("PokeTypeStrings", R.raw.poke_types, PokeTypeStrings::class.java)
+      realmParser.parseJsonRealm("PokeTypes", R.raw.poke_type_stats, ::readPokeType)
+      realmParser.parseJsonRealm("ContestTypes", R.raw.contest_types, ContestType::class.java)
+      realmParser.parseJsonRealm("DamageTypes", R.raw.damage_types, DamageType::class.java)
+//      realmParser.parseJsonRealm("PokeMoves", R.raw.poke_moves, ::readPokeMove)
     }, {
       Log.i("Realm: ", "Successfully initialized database.")
     }, { error ->
