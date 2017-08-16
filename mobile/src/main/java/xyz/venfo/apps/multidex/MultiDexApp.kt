@@ -27,11 +27,11 @@ class MultiDexApp: Application() {
     realmInstance.executeTransactionAsync ({ realm ->
       realm.deleteAll()
       val realmParser: RealmJsonParser = RealmJsonParser(this, realm)
-      realmParser.parseJsonRealm("PokeTypeStrings", R.raw.poke_types, PokeTypeStrings::class.java)
-      realmParser.parseJsonRealm("PokeTypes", R.raw.poke_type_stats, ::readPokeType)
-      realmParser.parseJsonRealm("ContestTypes", R.raw.contest_types, ContestType::class.java)
-      realmParser.parseJsonRealm("DamageTypes", R.raw.damage_types, DamageType::class.java)
-//      realmParser.parseJsonRealm("PokeMoves", R.raw.poke_moves, ::readPokeMove)
+      realmParser.parseJsonRealm("PokeTypeStrings", PokeTypeStrings::class.java, R.raw.poke_types)
+      realmParser.parseJsonRealm("PokeTypes", ::readPokeType, R.raw.poke_type_stats)
+      realmParser.parseJsonRealm("ContestTypes", ContestType::class.java, R.raw.contest_types)
+      realmParser.parseJsonRealm("DamageTypes", DamageType::class.java, R.raw.damage_types)
+      realmParser.parseJsonRealm("PokeMoves", ::readPokeMove, R.raw.poke_moves, R.raw.poke_move_stats)
     }, {
       Log.i("Realm: ", "Successfully initialized database.")
     }, { error ->

@@ -4,7 +4,7 @@ import json
 baseUrl = 'https://pokeapi.co/api/v2/'
 
 fileLangs = ['en', 'es', 'de', 'fr', 'it', 'ja', 'ko']
-gens = {'generation-i': 1, 'generation-ii': 2, 'generation-iii': 3, 'generation-iv': 4, 'generation-v': 5, 'generation-vi': 6}
+gens = {'genId-i': 1, 'genId-ii': 2, 'genId-iii': 3, 'genId-iv': 4, 'genId-v': 5, 'genId-vi': 6}
 pokeTypes = {'normal': 1, 'fire': 2, 'water': 3, 'electric': 4, 'grass': 5, 'ice': 6, 'fighting': 7, 'poison': 8, 'ground': 9, 'flying': 10, 'psychic': 11, 'bug': 12, 'rock': 13, 'ghost': 14, 'dragon': 15, 'dark': 16, 'steel': 17, 'fairy': 18, '???': 19}
 
 def request_poke_api(startIndex, lastPokeMoveId):
@@ -21,7 +21,7 @@ def read_type_file(startIndex, lastPokeMoveId):
         with open('../in/poke_type_' + str(pokeTypeId) + '.json', 'r') as moveFile:
             pokeType = json.loads(moveFile.read())
             # Stats
-            genId = getListText(gens, pokeType['generation'])
+            genId = getListText(gens, pokeType['genId'])
             damageRelations = pokeType['damage_relations']
             doubleDmg = extractArray(damageRelations['double_damage_to'])
             halfDmg = extractArray(damageRelations['half_damage_to'])
