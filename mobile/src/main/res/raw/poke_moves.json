@@ -1152,7 +1152,7 @@
     "name": "Struggle",
     "description": "An attack that is used in desperation\nonly if the user has no PP. This also\ndamages the user a little.",
     "effect": "Inflicts typeless regular damage.  User takes 1/4 its max HP in recoil.  Ignores accuracy and evasion modifiers.\n\nThis move is used automatically when a Pok\u00e9mon cannot use any other move legally, e.g., due to having no PP remaining or being under the effect of both encore and torment at the same time.\n\nThis move's recoil is not treated as recoil for the purposes of anything that affects recoil, such as the ability rock head.  It also is not prevented by magic guard.\n\nThis move cannot be copied by mimic, mirror move, or sketch, nor selected by assist or metronome, nor forced by encore.",
-    "notes": null
+    "notes": "10PP in generation 1 even though it does not decrease. 1PP in all other generations."
   },
   {
     "id": 166,

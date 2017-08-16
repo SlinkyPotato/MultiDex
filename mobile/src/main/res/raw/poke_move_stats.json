@@ -1644,7 +1644,7 @@
     "pokeTypeId": 1,
     "damageTypeId": 1,
     "contestTypeId": 1,
-    "powerPoint": null,
+    "powerPoint": 10,
     "power": 50,
     "accuracy": null,
     "genId": 1

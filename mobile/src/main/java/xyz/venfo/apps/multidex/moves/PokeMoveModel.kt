@@ -33,12 +33,12 @@ open class PokeMoveModel(
     var category: DamageType = DamageType(),
     var contestType: ContestType = ContestType(),
     var powerPoint: Int = 0,
-    var power: Int = 0,
-    var accuracy: Int = 0,
+    var power: Int? = null,
+    var accuracy: Int? = 0,
     var genId: Int = 0, // Gen 1 starts at 1
     var description: String = "",
     var effect: String = "",
-    var notes: String? = ""
+    var notes: String? = null
 ) : RealmObject() {
   companion object {
     fun readPokeMove(realm: Realm, reader: JsonReader, otherReader: JsonReader?): PokeMoveModel {
