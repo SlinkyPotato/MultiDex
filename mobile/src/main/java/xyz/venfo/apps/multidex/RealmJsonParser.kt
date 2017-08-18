@@ -5,6 +5,7 @@ import android.util.JsonReader
 import android.util.Log
 import io.realm.Realm
 import io.realm.RealmModel
+import xyz.venfo.apps.multidex.moves.PokeMoveModel
 import java.io.InputStream
 import java.io.InputStreamReader
 
@@ -57,7 +58,7 @@ class RealmJsonParser(
       otherFileResource: Int? = null
   ) {
     baseParseJsonRealm(tableName, { stream: InputStream, otherStream: InputStream? ->
-      val jsonReader: JsonReader = JsonReader(InputStreamReader(stream, "UTF-8"))
+      val jsonReader = JsonReader(InputStreamReader(stream, "UTF-8"))
       val otherJsonReader: JsonReader? = if (otherStream != null) JsonReader(InputStreamReader(otherStream, "UTF-8")) else null
       jsonReader.use {
         otherJsonReader.use {
