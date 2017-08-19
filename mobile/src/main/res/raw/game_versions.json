@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1,
+    "name": "Red"
+  },
+  {
+    "id": 2,
+    "name": "Blue"
+  },
+  {
+    "id": 3,
+    "name": "Yellow"
+  },
+  {
+    "id": 4,
+    "name": "Gold"
+  },
+  {
+    "id": 5,
+    "name": "Silver"
+  },
+  {
+    "id": 6,
+    "name": "Crystal"
+  },
+  {
+    "id": 7,
+    "name": "Ruby"
+  },
+  {
+    "id": 8,
+    "name": "Sapphire"
+  },
+  {
+    "id": 9,
+    "name": "Emerald"
+  },
+  {
+    "id": 10,
+    "name": "FireRed"
+  },
+  {
+    "id": 11,
+    "name": "LeafGreen"
+  },
+  {
+    "id": 12,
+    "name": "Diamond"
+  },
+  {
+    "id": 13,
+    "name": "Pearl"
+  },
+  {
+    "id": 14,
+    "name": "Platinum"
+  },
+  {
+    "id": 15,
+    "name": "HeartGold"
+  },
+  {
+    "id": 16,
+    "name": "SoulSilver"
+  },
+  {
+    "id": 17,
+    "name": "Black"
+  },
+  {
+    "id": 18,
+    "name": "White"
+  },
+  {
+    "id": 19,
+    "name": "Colosseum"
+  },
+  {
+    "id": 20,
+    "name": "XD"
+  },
+  {
+    "id": 21,
+    "name": "Black 2"
+  },
+  {
+    "id": 22,
+    "name": "White 2"
+  },
+  {
+    "id": 23,
+    "name": "X"
+  },
+  {
+    "id": 24,
+    "name": "Y"
+  },
+  {
+    "id": 25,
+    "name": "Omega Ruby"
+  },
+  {
+    "id": 26,
+    "name": "Alpha Sapphire"
+  }
+]
