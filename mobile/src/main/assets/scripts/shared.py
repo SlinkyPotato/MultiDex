@@ -21,8 +21,7 @@ def getLocalText(lang, textType, listOfTexts):
 def getObjName(customObj, fieldName):
     if (customObj == None):
         return None
-    customName = customObj[fieldName]
-    if (customName == None):
+    dataField = customObj[fieldName]
+    if (dataField == None):
         return None
-    customName.lower()
-    return customObj[customName]
+    return dataField.lower()

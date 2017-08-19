@@ -1,0 +1,514 @@
+[
+  {
+    "berryId": 1,
+    "sizeMM": 20,
+    "firmness": "soft",
+    "naturalGiftType": "fire",
+    "naturalGiftPower": 60,
+    "item": "cheri-berry"
+  },
+  {
+    "berryId": 2,
+    "sizeMM": 80,
+    "firmness": "super-hard",
+    "naturalGiftType": "water",
+    "naturalGiftPower": 60,
+    "item": "chesto-berry"
+  },
+  {
+    "berryId": 3,
+    "sizeMM": 40,
+    "firmness": "very-soft",
+    "naturalGiftType": "electric",
+    "naturalGiftPower": 60,
+    "item": "pecha-berry"
+  },
+  {
+    "berryId": 4,
+    "sizeMM": 32,
+    "firmness": "hard",
+    "naturalGiftType": "grass",
+    "naturalGiftPower": 60,
+    "item": "rawst-berry"
+  },
+  {
+    "berryId": 5,
+    "sizeMM": 50,
+    "firmness": "super-hard",
+    "naturalGiftType": "ice",
+    "naturalGiftPower": 60,
+    "item": "aspear-berry"
+  },
+  {
+    "berryId": 6,
+    "sizeMM": 28,
+    "firmness": "very-hard",
+    "naturalGiftType": "fighting",
+    "naturalGiftPower": 60,
+    "item": "leppa-berry"
+  },
+  {
+    "berryId": 7,
+    "sizeMM": 35,
+    "firmness": "super-hard",
+    "naturalGiftType": "poison",
+    "naturalGiftPower": 60,
+    "item": "oran-berry"
+  },
+  {
+    "berryId": 8,
+    "sizeMM": 47,
+    "firmness": "hard",
+    "naturalGiftType": "ground",
+    "naturalGiftPower": 60,
+    "item": "persim-berry"
+  },
+  {
+    "berryId": 9,
+    "sizeMM": 34,
+    "firmness": "super-hard",
+    "naturalGiftType": "flying",
+    "naturalGiftPower": 60,
+    "item": "lum-berry"
+  },
+  {
+    "berryId": 10,
+    "sizeMM": 95,
+    "firmness": "very-hard",
+    "naturalGiftType": "psychic",
+    "naturalGiftPower": 60,
+    "item": "sitrus-berry"
+  },
+  {
+    "berryId": 11,
+    "sizeMM": 100,
+    "firmness": "soft",
+    "naturalGiftType": "bug",
+    "naturalGiftPower": 60,
+    "item": "figy-berry"
+  },
+  {
+    "berryId": 12,
+    "sizeMM": 115,
+    "firmness": "hard",
+    "naturalGiftType": "rock",
+    "naturalGiftPower": 60,
+    "item": "wiki-berry"
+  },
+  {
+    "berryId": 13,
+    "sizeMM": 126,
+    "firmness": "hard",
+    "naturalGiftType": "ghost",
+    "naturalGiftPower": 60,
+    "item": "mago-berry"
+  },
+  {
+    "berryId": 14,
+    "sizeMM": 64,
+    "firmness": "super-hard",
+    "naturalGiftType": "dragon",
+    "naturalGiftPower": 60,
+    "item": "aguav-berry"
+  },
+  {
+    "berryId": 15,
+    "sizeMM": 223,
+    "firmness": "soft",
+    "naturalGiftType": "dark",
+    "naturalGiftPower": 60,
+    "item": "iapapa-berry"
+  },
+  {
+    "berryId": 16,
+    "sizeMM": 120,
+    "firmness": "very-hard",
+    "naturalGiftType": "steel",
+    "naturalGiftPower": 60,
+    "item": "razz-berry"
+  },
+  {
+    "berryId": 17,
+    "sizeMM": 108,
+    "firmness": "soft",
+    "naturalGiftType": "fire",
+    "naturalGiftPower": 70,
+    "item": "bluk-berry"
+  },
+  {
+    "berryId": 18,
+    "sizeMM": 77,
+    "firmness": "very-hard",
+    "naturalGiftType": "water",
+    "naturalGiftPower": 70,
+    "item": "nanab-berry"
+  },
+  {
+    "berryId": 19,
+    "sizeMM": 74,
+    "firmness": "super-hard",
+    "naturalGiftType": "electric",
+    "naturalGiftPower": 70,
+    "item": "wepear-berry"
+  },
+  {
+    "berryId": 20,
+    "sizeMM": 80,
+    "firmness": "hard",
+    "naturalGiftType": "grass",
+    "naturalGiftPower": 70,
+    "item": "pinap-berry"
+  },
+  {
+    "berryId": 21,
+    "sizeMM": 135,
+    "firmness": "very-hard",
+    "naturalGiftType": "ice",
+    "naturalGiftPower": 70,
+    "item": "pomeg-berry"
+  },
+  {
+    "berryId": 22,
+    "sizeMM": 150,
+    "firmness": "hard",
+    "naturalGiftType": "fighting",
+    "naturalGiftPower": 70,
+    "item": "kelpsy-berry"
+  },
+  {
+    "berryId": 23,
+    "sizeMM": 110,
+    "firmness": "hard",
+    "naturalGiftType": "poison",
+    "naturalGiftPower": 70,
+    "item": "qualot-berry"
+  },
+  {
+    "berryId": 24,
+    "sizeMM": 162,
+    "firmness": "hard",
+    "naturalGiftType": "ground",
+    "naturalGiftPower": 70,
+    "item": "hondew-berry"
+  },
+  {
+    "berryId": 25,
+    "sizeMM": 149,
+    "firmness": "soft",
+    "naturalGiftType": "flying",
+    "naturalGiftPower": 70,
+    "item": "grepa-berry"
+  },
+  {
+    "berryId": 26,
+    "sizeMM": 200,
+    "firmness": "soft",
+    "naturalGiftType": "psychic",
+    "naturalGiftPower": 70,
+    "item": "tamato-berry"
+  },
+  {
+    "berryId": 27,
+    "sizeMM": 75,
+    "firmness": "hard",
+    "naturalGiftType": "bug",
+    "naturalGiftPower": 70,
+    "item": "cornn-berry"
+  },
+  {
+    "berryId": 28,
+    "sizeMM": 140,
+    "firmness": "hard",
+    "naturalGiftType": "rock",
+    "naturalGiftPower": 70,
+    "item": "magost-berry"
+  },
+  {
+    "berryId": 29,
+    "sizeMM": 226,
+    "firmness": "soft",
+    "naturalGiftType": "ghost",
+    "naturalGiftPower": 70,
+    "item": "rabuta-berry"
+  },
+  {
+    "berryId": 30,
+    "sizeMM": 285,
+    "firmness": "super-hard",
+    "naturalGiftType": "dragon",
+    "naturalGiftPower": 70,
+    "item": "nomel-berry"
+  },
+  {
+    "berryId": 31,
+    "sizeMM": 133,
+    "firmness": "soft",
+    "naturalGiftType": "dark",
+    "naturalGiftPower": 70,
+    "item": "spelon-berry"
+  },
+  {
+    "berryId": 32,
+    "sizeMM": 244,
+    "firmness": "very-soft",
+    "naturalGiftType": "steel",
+    "naturalGiftPower": 70,
+    "item": "pamtre-berry"
+  },
+  {
+    "berryId": 33,
+    "sizeMM": 250,
+    "firmness": "soft",
+    "naturalGiftType": "fire",
+    "naturalGiftPower": 80,
+    "item": "watmel-berry"
+  },
+  {
+    "berryId": 34,
+    "sizeMM": 280,
+    "firmness": "hard",
+    "naturalGiftType": "water",
+    "naturalGiftPower": 80,
+    "item": "durin-berry"
+  },
+  {
+    "berryId": 35,
+    "sizeMM": 300,
+    "firmness": "very-soft",
+    "naturalGiftType": "electric",
+    "naturalGiftPower": 80,
+    "item": "belue-berry"
+  },
+  {
+    "berryId": 36,
+    "sizeMM": 90,
+    "firmness": "super-hard",
+    "naturalGiftType": "fire",
+    "naturalGiftPower": 60,
+    "item": "occa-berry"
+  },
+  {
+    "berryId": 37,
+    "sizeMM": 33,
+    "firmness": "soft",
+    "naturalGiftType": "water",
+    "naturalGiftPower": 60,
+    "item": "passho-berry"
+  },
+  {
+    "berryId": 38,
+    "sizeMM": 250,
+    "firmness": "very-soft",
+    "naturalGiftType": "electric",
+    "naturalGiftPower": 60,
+    "item": "wacan-berry"
+  },
+  {
+    "berryId": 39,
+    "sizeMM": 156,
+    "firmness": "soft",
+    "naturalGiftType": "grass",
+    "naturalGiftPower": 60,
+    "item": "rindo-berry"
+  },
+  {
+    "berryId": 40,
+    "sizeMM": 135,
+    "firmness": "very-hard",
+    "naturalGiftType": "ice",
+    "naturalGiftPower": 60,
+    "item": "yache-berry"
+  },
+  {
+    "berryId": 41,
+    "sizeMM": 77,
+    "firmness": "soft",
+    "naturalGiftType": "fighting",
+    "naturalGiftPower": 60,
+    "item": "chople-berry"
+  },
+  {
+    "berryId": 42,
+    "sizeMM": 90,
+    "firmness": "hard",
+    "naturalGiftType": "poison",
+    "naturalGiftPower": 60,
+    "item": "kebia-berry"
+  },
+  {
+    "berryId": 43,
+    "sizeMM": 42,
+    "firmness": "soft",
+    "naturalGiftType": "ground",
+    "naturalGiftPower": 60,
+    "item": "shuca-berry"
+  },
+  {
+    "berryId": 44,
+    "sizeMM": 278,
+    "firmness": "very-hard",
+    "naturalGiftType": "flying",
+    "naturalGiftPower": 60,
+    "item": "coba-berry"
+  },
+  {
+    "berryId": 45,
+    "sizeMM": 252,
+    "firmness": "soft",
+    "naturalGiftType": "psychic",
+    "naturalGiftPower": 60,
+    "item": "payapa-berry"
+  },
+  {
+    "berryId": 46,
+    "sizeMM": 42,
+    "firmness": "very-soft",
+    "naturalGiftType": "bug",
+    "naturalGiftPower": 60,
+    "item": "tanga-berry"
+  },
+  {
+    "berryId": 47,
+    "sizeMM": 28,
+    "firmness": "very-soft",
+    "naturalGiftType": "rock",
+    "naturalGiftPower": 60,
+    "item": "charti-berry"
+  },
+  {
+    "berryId": 48,
+    "sizeMM": 144,
+    "firmness": "hard",
+    "naturalGiftType": "ghost",
+    "naturalGiftPower": 60,
+    "item": "kasib-berry"
+  },
+  {
+    "berryId": 49,
+    "sizeMM": 23,
+    "firmness": "soft",
+    "naturalGiftType": "dragon",
+    "naturalGiftPower": 60,
+    "item": "haban-berry"
+  },
+  {
+    "berryId": 50,
+    "sizeMM": 39,
+    "firmness": "super-hard",
+    "naturalGiftType": "dark",
+    "naturalGiftPower": 60,
+    "item": "colbur-berry"
+  },
+  {
+    "berryId": 51,
+    "sizeMM": 265,
+    "firmness": "super-hard",
+    "naturalGiftType": "steel",
+    "naturalGiftPower": 60,
+    "item": "babiri-berry"
+  },
+  {
+    "berryId": 52,
+    "sizeMM": 34,
+    "firmness": "very-soft",
+    "naturalGiftType": "normal",
+    "naturalGiftPower": 60,
+    "item": "chilan-berry"
+  },
+  {
+    "berryId": 53,
+    "sizeMM": 111,
+    "firmness": "very-hard",
+    "naturalGiftType": "grass",
+    "naturalGiftPower": 80,
+    "item": "liechi-berry"
+  },
+  {
+    "berryId": 54,
+    "sizeMM": 33,
+    "firmness": "very-hard",
+    "naturalGiftType": "ice",
+    "naturalGiftPower": 80,
+    "item": "ganlon-berry"
+  },
+  {
+    "berryId": 55,
+    "sizeMM": 95,
+    "firmness": "very-hard",
+    "naturalGiftType": "fighting",
+    "naturalGiftPower": 80,
+    "item": "salac-berry"
+  },
+  {
+    "berryId": 56,
+    "sizeMM": 237,
+    "firmness": "very-hard",
+    "naturalGiftType": "poison",
+    "naturalGiftPower": 80,
+    "item": "petaya-berry"
+  },
+  {
+    "berryId": 57,
+    "sizeMM": 75,
+    "firmness": "hard",
+    "naturalGiftType": "ground",
+    "naturalGiftPower": 80,
+    "item": "apicot-berry"
+  },
+  {
+    "berryId": 58,
+    "sizeMM": 97,
+    "firmness": "soft",
+    "naturalGiftType": "flying",
+    "naturalGiftPower": 80,
+    "item": "lansat-berry"
+  },
+  {
+    "berryId": 59,
+    "sizeMM": 153,
+    "firmness": "super-hard",
+    "naturalGiftType": "psychic",
+    "naturalGiftPower": 80,
+    "item": "starf-berry"
+  },
+  {
+    "berryId": 60,
+    "sizeMM": 155,
+    "firmness": "hard",
+    "naturalGiftType": "bug",
+    "naturalGiftPower": 80,
+    "item": "enigma-berry"
+  },
+  {
+    "berryId": 61,
+    "sizeMM": 41,
+    "firmness": "soft",
+    "naturalGiftType": "rock",
+    "naturalGiftPower": 80,
+    "item": "micle-berry"
+  },
+  {
+    "berryId": 62,
+    "sizeMM": 267,
+    "firmness": "super-hard",
+    "naturalGiftType": "ghost",
+    "naturalGiftPower": 80,
+    "item": "custap-berry"
+  },
+  {
+    "berryId": 63,
+    "sizeMM": 33,
+    "firmness": "soft",
+    "naturalGiftType": "dragon",
+    "naturalGiftPower": 80,
+    "item": "jaboca-berry"
+  },
+  {
+    "berryId": 64,
+    "sizeMM": 52,
+    "firmness": "very-soft",
+    "naturalGiftType": "dark",
+    "naturalGiftPower": 80,
+    "item": "rowap-berry"
+  }
+]
