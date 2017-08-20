@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Generation I"
+  },
+  {
+    "id": 2,
+    "name": "Generation II"
+  },
+  {
+    "id": 3,
+    "name": "Generation III"
+  },
+  {
+    "id": 4,
+    "name": "Generation IV"
+  },
+  {
+    "id": 5,
+    "name": "Generation V"
+  },
+  {
+    "id": 6,
+    "name": "Generation VI"
+  },
+  {
+    "id": 7,
+    "name": "Generation VII"
+  }
+]

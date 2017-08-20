@@ -16,7 +16,7 @@ with open(file_name, 'r') as readFile:
         id = ''
         name = ''
         contest_type = ''
-        v_index = 0 # variable index to specify id, name or contest_type
+        v_index = 0 # variable index to specify id, name or contest_types
         was_already_bumped = False
         for char in line:
             if char.isdecimal() and v_index == 0:

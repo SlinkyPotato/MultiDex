@@ -11,7 +11,6 @@ pokeDataLangs = {'stats': []}
 for lang in fileLangs:
     pokeDataLangs[lang] = []
 
-
 def getLocalText(lang, textType, listOfTexts):
     for text in listOfTexts:
         if (text['language']['name'][:2].lower() == lang):

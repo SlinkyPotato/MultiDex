@@ -102,5 +102,37 @@
   {
     "id": 26,
     "name": "Alpha Sapphire"
+  },
+  {
+    "id": 27,
+    "name": "Sun"
+  },
+  {
+    "id": 28,
+    "name": "Moon"
+  },
+  {
+    "id": 29,
+    "name": "Ultra Sun"
+  },
+  {
+    "id": 30,
+    "name": "Ultra Moon"
+  },
+  {
+    "id": 31,
+    "name": "Box Ruby \u0026 Sapphire"
+  },
+  {
+    "id": 32,
+    "name": "Stadium"
+  },
+  {
+    "id": 33,
+    "name": "Stadium 2"
+  },
+  {
+    "id": 34,
+    "name": "Pokemon Bank"
   }
 ]

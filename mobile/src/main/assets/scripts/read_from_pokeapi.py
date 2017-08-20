@@ -23,7 +23,7 @@ def read_poke_move(startIndex, lastPokeMoveId):
             pokeMove = json.loads(moveFile.read())
             # Stats
             accuracy = pokeMove['accuracy']
-            contestTypeId = getListText(contestTypes, pokeMove['contest_type'])
+            contestTypeId = getListText(contestTypes, pokeMove['contest_types'])
             dmgTypeId = getListText(dmgTypes, pokeMove['damage_class'])
             genId = getListText(gens, pokeMove['genId'])
             pp = pokeMove['pp']

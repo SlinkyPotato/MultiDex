@@ -1,0 +1,30 @@
+[
+  {
+    "genId": 1,
+    "gameVersions": [1, 2, 3]
+  },
+  {
+    "genId": 2,
+    "gameVersions": [4, 5, 6]
+  },
+  {
+    "genId": 3,
+    "gameVersions": [7, 8, 9, 10, 11, 19, 20, 31]
+  },
+  {
+    "genId": 4,
+    "gameVersions": [12, 13, 14, 15, 16]
+  },
+  {
+    "genId": 5,
+    "gameVersions": [17, 18, 21, 22]
+  },
+  {
+    "genId": 6,
+    "gameVersions": [23, 24, 25, 26]
+  },
+  {
+    "genId": 7,
+    "gameVersions": [27, 28, 29, 30]
+  }
+]
