@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Spicy"
+  },
+  {
+    "id": 2,
+    "name": "Dry"
+  },
+  {
+    "id": 3,
+    "name": "Sweet"
+  },
+  {
+    "id": 4,
+    "name": "Bitter"
+  },
+  {
+    "id": 5,
+    "name": "Sour"
+  }
+]

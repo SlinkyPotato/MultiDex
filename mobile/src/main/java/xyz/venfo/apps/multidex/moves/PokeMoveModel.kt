@@ -73,8 +73,8 @@ open class PokeMoveModel(
           "effect" -> pokeMove.effect = reader.nextString()
           "notes" -> reader.nextString()
           else -> {
-            Log.wtf("JSON", " Unknown read in poke_moves.json")
-            throw Exception("Failed to read poke_moves.json")
+            Log.wtf("JSON", " Unknown read in moves.json")
+            throw Exception("Failed to read moves.json")
           }
         }
       }
@@ -97,8 +97,8 @@ open class PokeMoveModel(
             "accuracy" -> pokeMove.accuracy = otherReader.nextInt()
             "genId" -> pokeMove.genId = otherReader.nextInt()
             else -> {
-              Log.wtf("JSON", " Unknown read in poke_moves.json")
-              throw Exception("Failed to read poke_moves.json")
+              Log.wtf("JSON", " Unknown read in moves.json")
+              throw Exception("Failed to read moves.json")
             }
           }
         }

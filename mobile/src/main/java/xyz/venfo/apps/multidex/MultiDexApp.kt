@@ -31,7 +31,7 @@ class MultiDexApp: Application() {
       realmParser.parseJsonRealm("PokeTypes", ::readPokeType, R.raw.poke_type_stats)
       realmParser.parseJsonRealm("ContestTypes", ContestType::class.java, R.raw.contest_types)
       realmParser.parseJsonRealm("DamageTypes", DamageType::class.java, R.raw.damage_types)
-      realmParser.parseJsonRealm("PokeMoves", ::readPokeMove, R.raw.poke_moves, R.raw.poke_move_stats)
+      realmParser.parseJsonRealm("PokeMoves", ::readPokeMove, R.raw.moves, R.raw.move_stats)
     }, {
       Log.i("Realm: ", "Successfully initialized database.")
     }, { error ->

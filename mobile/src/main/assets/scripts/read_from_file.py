@@ -1,5 +1,5 @@
 def read_poke_moves():
-    readFile = open('poke_moves.txt', 'r')
+    readFile = open('moves.txt', 'r')
     writeFile = open('write.txt', 'w')
 
     lineNum = 0

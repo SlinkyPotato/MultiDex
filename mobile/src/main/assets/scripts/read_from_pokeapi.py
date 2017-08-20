@@ -43,7 +43,7 @@ def read_poke_move(startIndex, lastPokeMoveId):
             print('pokeId: ' + str(pokeId))
             
     # Write to stats file
-    with open('../out/poke_move_stats.json.json', 'w') as moveStats:
+    with open('../out/move_stats.json', 'w') as moveStats:
         json.dump(pokeMovesLangs['stats'], moveStats)
 
     # Write to each poke moves lang
