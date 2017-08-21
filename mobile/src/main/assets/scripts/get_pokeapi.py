@@ -1,7 +1,7 @@
 import requests
 import json
 
-dataString = 'contest-type'
+dataString = 'ability'
 startId = 1
 endId = None
 baseUrl = 'http://localhost:8000/api/v2/'

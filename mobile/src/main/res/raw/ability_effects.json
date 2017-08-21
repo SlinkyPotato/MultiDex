@@ -1,0 +1,6904 @@
+[
+  [
+    {
+      "abilityId": 1,
+      "effect": "Helps repel wild POK\u00e9MON.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 1,
+      "effect": "Helps repel wild POK\u00e9MON.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 1,
+      "effect": "Helps repel wild POK\u00e9MON.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench helps keep\nwild Pok\u00e9mon away.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench helps keep\nwild Pok\u00e9mon away.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench helps keep\nwild Pok\u00e9mon away.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench may cause\nthe target to flinch.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench may cause\nthe target to flinch.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench may cause\nthe target to flinch.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 1,
+      "effect": "The stench may cause\nthe target to flinch.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 2,
+      "effect": "Summons rain in battle.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 2,
+      "effect": "Summons rain in battle.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 2,
+      "effect": "Summons rain in battle.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nif it appears in battle.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nif it appears in battle.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nif it appears in battle.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nif it appears in battle.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nif it appears in battle.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nwhen it enters a battle.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 2,
+      "effect": "The Pok\u00e9mon makes it rain\nwhen it enters a battle.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 3,
+      "effect": "Gradually boosts SPEED.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Gradually boosts SPEED.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Gradually boosts SPEED.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 3,
+      "effect": "The Pok\u00e9mon\u2019s Speed stat\nis gradually boosted.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 3,
+      "effect": "The Pok\u00e9mon\u2019s Speed stat\nis gradually boosted.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Its Speed stat is\ngradually boosted.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Its Speed stat is\ngradually boosted.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Its Speed stat is\ngradually boosted.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Its Speed stat is\ngradually boosted.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 3,
+      "effect": "Its Speed stat is\ngradually boosted.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 4,
+      "effect": "Blocks critical hits.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 4,
+      "effect": "Blocks critical hits.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 4,
+      "effect": "Blocks critical hits.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 4,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 4,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 4,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 4,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 4,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 4,
+      "effect": "Protects the Pok\u00e9mon\nfrom critical hits.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 4,
+      "effect": "Protects the Pok\u00e9mon\nfrom critical hits.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 5,
+      "effect": "Negates 1-hit KO attacks.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 5,
+      "effect": "Negates 1-hit KO attacks.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 5,
+      "effect": "Negates 1-hit KO attacks.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 5,
+      "effect": "The Pok\u00e9mon is protected\nagainst 1-hit KO attacks.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 5,
+      "effect": "The Pok\u00e9mon is protected\nagainst 1-hit KO attacks.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 5,
+      "effect": "It is protected against\n1-hit KO attacks.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 5,
+      "effect": "It cannot be knocked\nout with one hit.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 5,
+      "effect": "It cannot be knocked\nout with one hit.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 5,
+      "effect": "It cannot be knocked\nout with one hit.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 5,
+      "effect": "It cannot be knocked\nout with one hit.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 6,
+      "effect": "Prevents self-destruction.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents self-destruction.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents self-destruction.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents combatants from\nself destructing.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents combatants from\nself destructing.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents combatants\nfrom self-destructing.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents the use of\nself-destructing moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents the use of\nself-destructing moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents the use of\nself-destructing moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Prevents the use of\nself-destructing moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 7,
+      "effect": "Prevents paralysis.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 7,
+      "effect": "Prevents paralysis.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 7,
+      "effect": "Prevents paralysis.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 7,
+      "effect": "The Pok\u00e9mon is protected\nfrom paralysis.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 7,
+      "effect": "The Pok\u00e9mon is protected\nfrom paralysis.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 7,
+      "effect": "The Pok\u00e9mon is protected\nfrom paralysis.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 7,
+      "effect": "The Pok\u00e9mon is protected\nfrom paralysis.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 7,
+      "effect": "The Pok\u00e9mon is protected\nfrom paralysis.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 7,
+      "effect": "Protects the Pok\u00e9mon\nfrom paralysis.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 7,
+      "effect": "Protects the Pok\u00e9mon\nfrom paralysis.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 8,
+      "effect": "Ups evasion in a sandstorm.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Ups evasion in a sandstorm.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Ups evasion in a sandstorm.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 8,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nevasion in a sandstorm.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 9,
+      "effect": "Paralyzes on contact.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Paralyzes on contact.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Paralyzes on contact.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause paralysis.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 10,
+      "effect": "Turns electricity into HP.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Turns electricity into HP.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Turns electricity into HP.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Restores HP if hit by an\nElectric-type move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 11,
+      "effect": "Changes water into HP.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Changes water into HP.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Changes water into HP.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Restores HP if hit by a\nWater-type move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 12,
+      "effect": "Prevents attraction.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents attraction.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents attraction.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming infatuated.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming infatuated.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents it from\nbecoming infatuated.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents it from\nbecoming infatuated.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Prevents it from\nbecoming infatuated.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Keeps the Pok\u00e9mon from being\ninfatuated or falling for taunts.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Keeps the Pok\u00e9mon from being\ninfatuated or falling for taunts.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 13,
+      "effect": "Negates weather effects.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Negates weather effects.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Negates weather effects.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Eliminates the effects of weather.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 14,
+      "effect": "Raises accuracy.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 14,
+      "effect": "Raises accuracy.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 14,
+      "effect": "Raises accuracy.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 14,
+      "effect": "The Pok\u00e9mon\u2019s accuracy is\nboosted.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 14,
+      "effect": "The Pok\u00e9mon\u2019s accuracy is\nboosted.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 14,
+      "effect": "The Pok\u00e9mon\u2019s accuracy\nis boosted.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 14,
+      "effect": "The Pok\u00e9mon\u2019s accuracy\nis boosted.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 14,
+      "effect": "The Pok\u00e9mon\u2019s accuracy\nis boosted.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 14,
+      "effect": "Boosts the Pok\u00e9mon\u2019s accuracy.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 14,
+      "effect": "Boosts the Pok\u00e9mon\u2019s accuracy.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 15,
+      "effect": "Prevents sleep.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents sleep.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents sleep.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 16,
+      "effect": "Changes type to foe\u2019s move.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes type to foe\u2019s move.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes type to foe\u2019s move.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes the Pok\u00e9mon\u2019s\ntype to the foe\u2019s move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes the Pok\u00e9mon\u2019s\ntype to the foe\u2019s move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes the Pok\u00e9mon\u2019s\ntype to the foe\u2019s move.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes the Pok\u00e9mon\u2019s\ntype to the foe\u2019s move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Changes the Pok\u00e9mon\u2019s\ntype to the foe\u2019s move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 16,
+      "effect": "The Pok\u00e9mon\u2019s type becomes\nthe type of the move used on it.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 16,
+      "effect": "The Pok\u00e9mon\u2019s type becomes\nthe type of the move used on it.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 17,
+      "effect": "Prevents poisoning.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents poisoning.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents poisoning.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting poisoned.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 18,
+      "effect": "Powers up if hit by fire.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up if hit by fire.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up if hit by fire.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up Fire-type moves\nif hit by a fire move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up Fire-type moves\nif hit by a fire move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 18,
+      "effect": "It powers up Fire-type\nmoves if it\u2019s hit by one.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 18,
+      "effect": "It powers up Fire-type\nmoves if it\u2019s hit by one.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 18,
+      "effect": "It powers up Fire-type\nmoves if it\u2019s hit by one.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up the Pok\u00e9mon\u2019s Fire-\ntype moves if it\u2019s hit by one.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nFire-type moves if it\u2019s hit by one.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 19,
+      "effect": "Prevents added effects.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Prevents added effects.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Prevents added effects.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the added effects\nof attacks taken.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the added effects\nof attacks taken.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the added effects\nof attacks taken.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the added effects\nof attacks taken.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the added effects\nof attacks taken.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the additional effects\nof attacks taken.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Blocks the additional effects\nof attacks taken.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 20,
+      "effect": "Prevents confusion.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents confusion.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents confusion.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming confused.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 21,
+      "effect": "Firmly anchors the body.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Firmly anchors the body.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Firmly anchors the body.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates moves that\nforce switching out.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates moves that\nforce switching out.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates foes\u2019 moves that\nforce switching out.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates all moves that\nforce switching out.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates all moves that\nforce switching out.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates all moves and items\nthat force switching out.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Negates all moves and items\nthat force switching out.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s ATTACK.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s ATTACK.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s ATTACK.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s Attack\nstat.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s Attack\nstat.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s\nAttack stat.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s\nAttack stat.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the foe\u2019s\nAttack stat.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the opposing Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Lowers the opposing Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe\u2019s escape.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe\u2019s escape.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe\u2019s escape.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe from\nescaping.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe from\nescaping.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe from\nescaping.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe from\nescaping.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents the foe from\nescaping.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents opposing Pok\u00e9mon\nfrom escaping.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Prevents opposing Pok\u00e9mon\nfrom escaping.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 24,
+      "effect": "Hurts to touch.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Hurts to touch.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Hurts to touch.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nfoe on contact.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nfoe on contact.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nfoe on contact.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 25,
+      "effect": "\u201cSuper effective\u201d hits.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 25,
+      "effect": "\u201cSuper effective\u201d hits.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 25,
+      "effect": "\u201cSuper effective\u201d hits.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Only supereffective\nmoves will hit.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 26,
+      "effect": "Not hit by GROUND attacks.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Not hit by GROUND attacks.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Not hit by GROUND attacks.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Gives full immunity to all\nGround-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 27,
+      "effect": "Leaves spores on contact.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Leaves spores on contact.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Leaves spores on contact.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may paralyze,\npoison, or cause sleep.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may paralyze,\npoison, or cause sleep.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may paralyze,\npoison, or cause sleep.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may poison or\ncause paralysis or sleep.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may poison or\ncause paralysis or sleep.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may poison or\ncause paralysis or sleep.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Contact may poison or\ncause paralysis or sleep.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 28,
+      "effect": "Passes on status problems.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes on status problems.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes on status problems.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes on a burn, poison,\nor paralysis to the foe.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes on a burn, poison,\nor paralysis to the foe.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes a burn, poison,\nor paralysis to the foe.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes a burn, poison,\nor paralysis to the foe.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes a burn, poison,\nor paralysis to the foe.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes poison, paralyze, or burn\nto the Pok\u00e9mon that inflicted it.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Passes poison, paralyze, or burn\nto the Pok\u00e9mon that inflicted it.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 29,
+      "effect": "Prevents ability reduction.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents ability reduction.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents ability reduction.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents the Pok\u00e9mon\u2019s\nstats from being lowered.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents the Pok\u00e9mon\u2019s\nstats from being lowered.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents its stats from\nbeing lowered.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 30,
+      "effect": "Heals upon switching out.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 30,
+      "effect": "Heals upon switching out.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 30,
+      "effect": "Heals upon switching out.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status problems are\nhealed upon switching out.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status problems are\nhealed upon switching out.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status problems heal\nwhen it switches out.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status problems heal\nwhen it switches out.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status problems heal\nwhen it switches out.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status conditions heal when\nthe Pok\u00e9mon switches out.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 30,
+      "effect": "All status conditions heal when\nthe Pok\u00e9mon switches out.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 31,
+      "effect": "Draws electrical moves.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws electrical moves.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws electrical moves.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 31,
+      "effect": "The Pok\u00e9mon draws in all\nElectric-type moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 31,
+      "effect": "The Pok\u00e9mon draws in all\nElectric-type moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 31,
+      "effect": "The Pok\u00e9mon draws in all\nElectric-type moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws in all Electric-type\nmoves to up Sp. Attack.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws in all Electric-type\nmoves to up Sp. Attack.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws in all Electric-type moves\nto boost its Sp. Atk stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Draws in all Electric-type moves\nto boost its Sp. Atk stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 32,
+      "effect": "Promotes added effects.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Promotes added effects.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Promotes added effects.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadded effects appearing.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadded effects appearing.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadded effects appearing.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadded effects appearing.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadded effects appearing.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadditional effects occurring.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Boosts the likelihood of\nadditional effects occurring.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 33,
+      "effect": "Raises SPEED in rain.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Raises SPEED in rain.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Raises SPEED in rain.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in rain.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in rain.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in rain.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in rain.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in rain.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in rain.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in rain.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 34,
+      "effect": "Raises SPEED in sunshine.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Raises SPEED in sunshine.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Raises SPEED in sunshine.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in sunshine.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in sunshine.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in sunshine.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in sunshine.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in sunshine.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in sunshine.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in sunshine.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 35,
+      "effect": "Encounter rate increases.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Encounter rate increases.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Encounter rate increases.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 35,
+      "effect": "Raises the likelihood of\nmeeting wild Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 36,
+      "effect": "Copies special ability.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 36,
+      "effect": "Copies special ability.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 36,
+      "effect": "Copies special ability.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies the\nfoe\u2019s ability.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies the\nfoe\u2019s ability.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies the\nfoe\u2019s ability.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies a\nfoe\u2019s Ability.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies a\nfoe\u2019s Ability.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies an\nopposing Pok\u00e9mon\u2019s Ability.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 36,
+      "effect": "The Pok\u00e9mon copies an\nopposing Pok\u00e9mon\u2019s Ability.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 37,
+      "effect": "Raises ATTACK.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises ATTACK.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises ATTACK.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 38,
+      "effect": "Poisons foe on contact.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Poisons foe on contact.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Poisons foe on contact.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the foe.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the foe.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the foe.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the attacker.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the attacker.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the attacker.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Contact with the Pok\u00e9mon\nmay poison the attacker.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 39,
+      "effect": "Prevents flinching.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 39,
+      "effect": "Prevents flinching.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 39,
+      "effect": "Prevents flinching.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 39,
+      "effect": "The Pok\u00e9mon is protected\nfrom flinching.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 39,
+      "effect": "The Pok\u00e9mon is protected\nfrom flinching.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 39,
+      "effect": "The Pok\u00e9mon is protected\nfrom flinching.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 39,
+      "effect": "The Pok\u00e9mon is protected\nfrom flinching.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 39,
+      "effect": "The Pok\u00e9mon is protected\nfrom flinching.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 39,
+      "effect": "Protects the Pok\u00e9mon\nfrom flinching.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 39,
+      "effect": "Protects the Pok\u00e9mon\nfrom flinching.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 40,
+      "effect": "Prevents freezing.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents freezing.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents freezing.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Prevents the Pok\u00e9mon\nfrom becoming frozen.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 41,
+      "effect": "Prevents burns.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents burns.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents burns.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Prevents the Pok\u00e9mon\nfrom getting a burn.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 42,
+      "effect": "Traps STEEL-type POK\u00e9MON.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Traps STEEL-type POK\u00e9MON.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Traps STEEL-type POK\u00e9MON.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Prevents Steel-type\nPok\u00e9mon from escaping.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 43,
+      "effect": "Avoids sound-based moves.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Avoids sound-based moves.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Avoids sound-based moves.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Gives full immunity to all\nsound-based moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 44,
+      "effect": "Slight HP recovery in rain.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 44,
+      "effect": "Slight HP recovery in rain.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 44,
+      "effect": "Slight HP recovery in rain.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nrecovers HP in rain.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nrecovers HP in rain.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nrecovers HP in rain.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in rain.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in rain.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in rain.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 44,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in rain.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 45,
+      "effect": "Summons a sandstorm.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 45,
+      "effect": "Summons a sandstorm.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 45,
+      "effect": "Summons a sandstorm.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 45,
+      "effect": "The Pok\u00e9mon summons a\nsandstorm in battle.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 46,
+      "effect": "Raises foe\u2019s PP usage.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 46,
+      "effect": "Raises foe\u2019s PP usage.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 46,
+      "effect": "Raises foe\u2019s PP usage.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises the\nfoe\u2019s PP usage.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises the\nfoe\u2019s PP usage.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises the\nfoe\u2019s PP usage.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises the\nfoe\u2019s PP usage.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises the\nfoe\u2019s PP usage.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises opposing\nPok\u00e9mon\u2019s PP usage.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 46,
+      "effect": "The Pok\u00e9mon raises opposing\nPok\u00e9mon\u2019s PP usage.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 47,
+      "effect": "Heat-and-cold protection.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Heat-and-cold protection.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Heat-and-cold protection.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Raises resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Raises resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Ups resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Ups resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Ups resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Boosts resistance to Fire-\u200b\nand Ice-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Boosts resistance to Fire-\nand Ice-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 48,
+      "effect": "Awakens quickly from sleep.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 48,
+      "effect": "Awakens quickly from sleep.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 48,
+      "effect": "Awakens quickly from sleep.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 48,
+      "effect": "The Pok\u00e9mon awakens\nquickly from sleep.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 49,
+      "effect": "Burns the foe on contact.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Burns the foe on contact.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Burns the foe on contact.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the foe.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the foe.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the foe.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the attacker.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the attacker.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the attacker.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Contact with the Pok\u00e9mon\nmay burn the attacker.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 50,
+      "effect": "Makes escaping easier.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Makes escaping easier.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Makes escaping easier.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables sure getaway from\nwild Pok\u00e9mon.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables sure getaway from\nwild Pok\u00e9mon.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables sure getaway\nfrom wild Pok\u00e9mon.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables a sure getaway\nfrom wild Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables a sure getaway\nfrom wild Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables a sure getaway\nfrom wild Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Enables a sure getaway\nfrom wild Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 51,
+      "effect": "Prevents loss of accuracy.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents loss of accuracy.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents loss of accuracy.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents the Pok\u00e9mon\nfrom losing accuracy.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents the Pok\u00e9mon\nfrom losing accuracy.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents the Pok\u00e9mon\nfrom losing accuracy.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering accuracy.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering accuracy.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering accuracy.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering accuracy.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 52,
+      "effect": "Prevents ATTACK reduction.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents ATTACK reduction.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents ATTACK reduction.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents the Attack stat\nfrom being lowered.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents the Attack stat\nfrom being lowered.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents the Attack\nstat from being lowered.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering Attack stat.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering Attack stat.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its Attack stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its Attack stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 53,
+      "effect": "May pick up items.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 53,
+      "effect": "May pick up items.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 53,
+      "effect": "May pick up items.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may pick up\nitems.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may pick up\nitems.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may\npick up items.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may\npick up items.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may\npick up items.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may\npick up items.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 53,
+      "effect": "The Pok\u00e9mon may\npick up items.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 54,
+      "effect": "Moves only every two turns.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Moves only every two turns.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Moves only every two turns.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 54,
+      "effect": "The Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 54,
+      "effect": "The Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 54,
+      "effect": "The Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 54,
+      "effect": "The Pok\u00e9mon can\u2019t attack\non consecutive turns.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 55,
+      "effect": "Trades accuracy for power.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Trades accuracy for power.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Trades accuracy for power.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Boosts the Attack stat,\nbut lowers accuracy.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 56,
+      "effect": "Infatuates on contact.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Infatuates on contact.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Infatuates on contact.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Contact with the Pok\u00e9mon\nmay cause infatuation.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 57,
+      "effect": "Powers up with MINUS.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Powers up with MINUS.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Powers up with MINUS.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Boosts Sp. Atk if another\nPok\u00e9mon has Minus.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Boosts Sp. Atk if another\nPok\u00e9mon has Minus.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Minus.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Boosts the Sp. Atk stat if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Boosts the Sp. Atk stat if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 58,
+      "effect": "Powers up with PLUS.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Powers up with PLUS.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Powers up with PLUS.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Boosts Sp. Atk if another\nPok\u00e9mon has Plus.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Boosts Sp. Atk if another\nPok\u00e9mon has Plus.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Plus.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Ups Sp. Atk if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Boosts the Sp. Atk stat if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Boosts the Sp. Atk stat if another\nPok\u00e9mon has Plus or Minus.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 59,
+      "effect": "Changes with the weather.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Changes with the weather.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Changes with the weather.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 59,
+      "effect": "CASTFORM transforms with\nthe weather.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 59,
+      "effect": "CASTFORM transforms with\nthe weather.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 59,
+      "effect": "CASTFORM transforms with\nthe weather.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Castform transforms with\nthe weather.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Castform transforms with\nthe weather.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Castform transforms with\nthe weather.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 59,
+      "effect": "Castform transforms with\nthe weather.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 60,
+      "effect": "Prevents item theft.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Prevents item theft.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Prevents item theft.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protects the Pok\u00e9mon\nfrom item theft.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 61,
+      "effect": "Heals the body by shedding.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 61,
+      "effect": "Heals the body by shedding.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 61,
+      "effect": "Heals the body by shedding.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status problems.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status problems.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status problems.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status problems.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status problems.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status conditions.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 61,
+      "effect": "The Pok\u00e9mon may heal its\nown status conditions.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 62,
+      "effect": "Ups ATTACK if suffering.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Ups ATTACK if suffering.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Ups ATTACK if suffering.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts Attack if there is\na status problem.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts Attack if there is\na status problem.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts Attack if there is\na status problem.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts Attack if there is\na status problem.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts Attack if there is\na status problem.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts the Attack stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Boosts the Attack stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 63,
+      "effect": "Ups DEFENSE if suffering.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Ups DEFENSE if suffering.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Ups DEFENSE if suffering.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Boosts Defense if there is\na status problem.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Boosts Defense if there is\na status problem.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Ups Defense if there is\na status problem.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Ups Defense if there is\na status problem.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Ups Defense if there is\na status problem.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Boosts the Defense stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Boosts the Defense stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 64,
+      "effect": "Draining causes injury.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Draining causes injury.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Draining causes injury.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Inflicts damage on foes\nusing any draining move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Inflicts damage on foes\nusing any draining move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Inflicts damage on foes\nusing any draining move.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Damages attackers\nusing any draining move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Damages attackers\nusing any draining move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Damages attackers\nusing any draining move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Damages attackers\nusing any draining move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 65,
+      "effect": "Ups GRASS moves in a pinch.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Ups GRASS moves in a pinch.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Ups GRASS moves in a pinch.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type\nmoves in a pinch.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type\nmoves in a pinch.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type\nmoves in a pinch.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type\nmoves in a pinch.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type\nmoves in a pinch.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type moves\nwhen the Pok\u00e9mon is in trouble.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Powers up Grass-type moves\nwhen the Pok\u00e9mon is in trouble.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 66,
+      "effect": "Ups FIRE moves in a pinch.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Ups FIRE moves in a pinch.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Ups FIRE moves in a pinch.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type\nmoves in a pinch.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type\nmoves in a pinch.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type\nmoves in a pinch.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type\nmoves in a pinch.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type\nmoves in a pinch.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type moves when\nthe Pok\u00e9mon is in trouble.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Powers up Fire-type moves when\nthe Pok\u00e9mon is in trouble.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 67,
+      "effect": "Ups WATER moves in a pinch.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Ups WATER moves in a pinch.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Ups WATER moves in a pinch.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type\nmoves in a pinch.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type\nmoves in a pinch.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type\nmoves in a pinch.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type\nmoves in a pinch.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type\nmoves in a pinch.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type moves\nwhen the Pok\u00e9mon is in trouble.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Powers up Water-type moves\nwhen the Pok\u00e9mon is in trouble.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 68,
+      "effect": "Ups BUG moves in a pinch.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Ups BUG moves in a pinch.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Ups BUG moves in a pinch.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type\nmoves in a pinch.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type\nmoves in a pinch.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type\nmoves in a pinch.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type\nmoves in a pinch.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type\nmoves in a pinch.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type moves when\nthe Pok\u00e9mon is in trouble.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Powers up Bug-type moves when\nthe Pok\u00e9mon is in trouble.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 69,
+      "effect": "Prevents recoil damage.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Prevents recoil damage.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Prevents recoil damage.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protects the Pok\u00e9mon\nfrom recoil damage.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 70,
+      "effect": "Summons sunlight in battle.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Summons sunlight in battle.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Summons sunlight in battle.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 70,
+      "effect": "The Pok\u00e9mon makes it\nsunny if it is in battle.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 70,
+      "effect": "The Pok\u00e9mon makes it\nsunny if it is in battle.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 70,
+      "effect": "The Pok\u00e9mon makes it\nsunny if it is in battle.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Turns the sunlight harsh\nif it is in battle.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Turns the sunlight harsh\nif it is in battle.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Turns the sunlight harsh when\nthe Pok\u00e9mon enters a battle.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Turns the sunlight harsh when\nthe Pok\u00e9mon enters a battle.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 71,
+      "effect": "Prevents fleeing.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents fleeing.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents fleeing.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents the foe from\nfleeing.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents the foe from\nfleeing.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents the foe from\nfleeing.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents the foe from\nfleeing.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents the foe from\nfleeing.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents opposing Pok\u00e9mon\nfrom fleeing.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Prevents opposing Pok\u00e9mon\nfrom fleeing.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 72,
+      "effect": "Prevents sleep.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents sleep.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents sleep.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Prevents the Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 73,
+      "effect": "Prevents ability reduction.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents ability reduction.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents ability reduction.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents the Pok\u00e9mon\u2019s\nstats from being lowered.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents the Pok\u00e9mon\u2019s\nstats from being lowered.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents its stats from\nbeing lowered.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Prevents other Pok\u00e9mon\nfrom lowering its stats.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 74,
+      "effect": "Raises ATTACK.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Raises ATTACK.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Raises ATTACK.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Boosts the power of\nphysical attacks.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Boosts the power of\nphysical attacks.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Boosts the power of\nphysical attacks.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Raises the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nAttack stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 75,
+      "effect": "Blocks critical hits.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 75,
+      "effect": "Blocks critical hits.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 75,
+      "effect": "Blocks critical hits.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 75,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 75,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 75,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 75,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 75,
+      "effect": "The Pok\u00e9mon is protected\nagainst critical hits.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 75,
+      "effect": "Protects the Pok\u00e9mon\nfrom critical hits.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 75,
+      "effect": "Protects the Pok\u00e9mon\nfrom critical hits.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 76,
+      "effect": "Negates weather effects.",
+      "genId": "ruby-sapphire"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Negates weather effects.",
+      "genId": "emerald"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Negates weather effects.",
+      "genId": "firered-leafgreen"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of\nweather.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Eliminates the effects of weather.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Raises evasion if the\nPok\u00e9mon is confused.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 78,
+      "effect": "Raises Speed if hit by an\nElectric-type move.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Raises Speed if hit by an\nElectric-type move.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Raises Speed if hit by an\nElectric-type move.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Raises Speed if hit by an\nElectric-type move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Raises Speed if hit by an\nElectric-type move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Boosts the Speed stat when it\u2019s\nhit by an Electric-type move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Boosts the Speed stat when it\u2019s\nhit by an Electric-type move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 79,
+      "effect": "Raises Attack if the foe\nis of the same gender.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Raises Attack if the foe\nis of the same gender.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Raises Attack if the foe\nis of the same gender.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Deals more damage to a\nPok\u00e9mon of same gender.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Deals more damage to a\nPok\u00e9mon of same gender.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Deals more damage to Pok\u00e9mon\nof the same gender.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Deals more damage to Pok\u00e9mon\nof the same gender.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 80,
+      "effect": "Raises Speed each time\nthe Pok\u00e9mon flinches.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Raises Speed each time\nthe Pok\u00e9mon flinches.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Raises Speed each time\nthe Pok\u00e9mon flinches.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Raises Speed each time\nthe Pok\u00e9mon flinches.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Raises Speed each time\nthe Pok\u00e9mon flinches.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Boosts the Speed stat each time\nthe Pok\u00e9mon flinches.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Boosts the Speed stat each time\nthe Pok\u00e9mon flinches.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 81,
+      "effect": "Raises evasion in a\nhailstorm.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Raises evasion in a\nhailstorm.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Raises evasion in a\nhailstorm.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Raises evasion in a\nhailstorm.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Raises evasion in a\nhailstorm.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Boosts evasion in a\nhailstorm.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Boosts evasion in a hailstorm.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 82,
+      "effect": "Encourages the early use\nof a held Berry.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Encourages the early use\nof a held Berry.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Encourages the early use\nof a held Berry.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Encourages the early use\nof a held Berry.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Encourages the early use\nof a held Berry.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Makes the Pok\u00e9mon use a held\nBerry earlier than usual.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Makes the Pok\u00e9mon use a held\nBerry earlier than usual.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 83,
+      "effect": "Raises Attack upon taking\na critical hit.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Raises Attack upon taking\na critical hit.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Raises Attack upon\ntaking a critical hit.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Maxes Attack after\ntaking a critical hit.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Maxes Attack after\ntaking a critical hit.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Maxes the Attack stat after\nthe Pok\u00e9mon takes a critical hit.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Maxes the Attack stat after\nthe Pok\u00e9mon takes a critical hit.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 84,
+      "effect": "Raises Speed if a held\nitem is used.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Raises Speed if a held\nitem is used.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Raises Speed if a held\nitem is used.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Raises Speed if a held\nitem is used.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Raises Speed if a held\nitem is used.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Boosts the Speed stat if its\nheld item is used or lost.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Boosts the Speed stat if its\nheld item is used or lost.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Weakens the power of\nFire-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 86,
+      "effect": "The Pok\u00e9mon is prone to\nwild stat changes.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it is hot.\nWater restores HP.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it is hot.\nWater restores HP.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it is hot.\nWater restores HP.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it is hot.\nWater restores HP.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it is hot.\nWater restores HP.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it\u2019s hot.\nWater restores HP.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Reduces HP if it\u2019s hot.\nWater restores HP.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power according\nto the foe\u2019s ability.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power according\nto the foe\u2019s ability.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power according\nto the foe\u2019s ability.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power according\nto a foe\u2019s defenses.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power according\nto a foe\u2019s defenses.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power based on an\nopposing Pok\u00e9mon\u2019s stats.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Adjusts power based on an\nopposing Pok\u00e9mon\u2019s stats.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 89,
+      "effect": "Boosts the power of\npunching moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Boosts the power of\npunching moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Boosts the power of\npunching moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Boosts the power of\npunching moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Boosts the power of\npunching moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Powers up punching moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Powers up punching moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Restores HP if the\nPok\u00e9mon is poisoned.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type as the Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Powers up moves of the\nsame type as the Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 92,
+      "effect": "Increases the frequency\nof multi-strike moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the frequency\nof multi-strike moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the frequency\nof multi-strike moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the frequency\nof multi-strike moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the frequency\nof multi-strike moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the number of times\nmulti-strike moves hit.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Increases the number of times\nmulti-strike moves hit.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 93,
+      "effect": "Heals status problems if\nit is raining.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status problems if\nit is raining.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status problems if\nit is raining.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status problems if\nit is raining.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status problems if\nit is raining.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status conditions if\nit\u2019s raining.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Heals status conditions if\nit\u2019s raining.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 94,
+      "effect": "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 94,
+      "effect": "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 94,
+      "effect": "Boosts Sp. Atk, but\nlowers HP in sunshine.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 94,
+      "effect": "In sunshine, Sp. Atk is\nboosted but HP decreases.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 94,
+      "effect": "In sunshine, Sp. Atk is\nboosted but HP decreases.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 94,
+      "effect": "Boosts the Sp. Atk stat in sunny\nweather, but HP decreases.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 94,
+      "effect": "Boosts the Sp. Atk stat in sunny\nweather, but HP decreases.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 95,
+      "effect": "Boosts Speed if there is a\nstatus problem.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts Speed if there is a\nstatus problem.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts Speed if there is\na status problem.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts Speed if there is\na status problem.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts Speed if there is\na status problem.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts the Speed stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Boosts the Speed stat if the\nPok\u00e9mon has a status condition.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome the Normal type.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome the Normal type.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome the Normal type.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome the Normal type.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome the Normal type.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome Normal type.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 96,
+      "effect": "All the Pok\u00e9mon\u2019s moves\nbecome Normal type.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Powers up moves if they\nbecome critical hits.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 98,
+      "effect": "The Pok\u00e9mon only takes\ndamage from attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 99,
+      "effect": "Ensures the Pok\u00e9mon and\nits foe\u2019s attacks land.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures the Pok\u00e9mon and\nits foe\u2019s attacks land.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures both Pok\u00e9mon\u2019s\nand foe\u2019s attacks land.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures attacks by or\nagainst the Pok\u00e9mon land.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures attacks by or\nagainst the Pok\u00e9mon land.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures attacks by or\nagainst the Pok\u00e9mon land.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Ensures that attacks by or\nagainst the Pok\u00e9mon will land.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\neven slower foes.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\neven slower foes.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\neven slower foes.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\nall other Pok\u00e9mon do.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\nall other Pok\u00e9mon do.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\nall other Pok\u00e9mon do.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 100,
+      "effect": "The Pok\u00e9mon moves after\nall other Pok\u00e9mon do.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Powers up the Pok\u00e9mon\u2019s\nweaker moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 102,
+      "effect": "Prevents status problems\nin sunny weather.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents status problems\nin sunny weather.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents problems with\nstatus in sunny weather.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents problems with\nstatus in sunny weather.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents problems with\nstatus in sunny weather.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents status conditions\nin sunny weather.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Prevents status conditions\nin sunny weather.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 103,
+      "effect": "The Pok\u00e9mon can\u2019t use\nany held items.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used\nregardless of abilities.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used\nregardless of abilities.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used\nregardless of abilities.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 105,
+      "effect": "Heightens the critical-hit\nratios of moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Heightens the critical-hit\nratios of moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Heightens the critical-\nhit ratios of moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Heightens the critical-\nhit ratios of moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Heightens the critical-\nhit ratios of moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Boosts the critical-hit\nratios of moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Boosts the critical-hit\nratios of moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 106,
+      "effect": "Damages the foe landing\nthe finishing hit.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the foe landing\nthe finishing hit.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the foe landing\nthe finishing hit.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the attacker\nlanding the finishing hit.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the attacker\nlanding the finishing hit.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the attacker\nlanding the finishing hit.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Damages the attacker\nlanding the finishing hit.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 107,
+      "effect": "Senses the foe\u2019s\ndangerous moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses the foe\u2019s\ndangerous moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses the foe\u2019s\ndangerous moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses a foe\u2019s\ndangerous moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses a foe\u2019s\ndangerous moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Senses an opposing Pok\u00e9mon\u2019s\ndangerous moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\nthe foe has.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\nthe foe has.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\nthe foe has.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\na foe has.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\na foe has.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\nan opposing Pok\u00e9mon has.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Determines what moves\nan opposing Pok\u00e9mon has.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 109,
+      "effect": "Ignores any change in\nability by the foe.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores any change in\nability by the foe.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores any change in\nability by the foe.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores any stat changes\nin the Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores any stat changes\nin the Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores the opposing\nPok\u00e9mon\u2019s stat changes.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignores the opposing\nPok\u00e9mon\u2019s stat changes.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Powers up \u201cnot very\neffective\u201d moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 111,
+      "effect": "Powers down super\u00ad\neffective moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Powers down super\u00ad\neffective moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves Attack\nand Speed.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves Attack\nand Speed.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves\nAttack and Speed.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves\nAttack and Speed.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves\nAttack and Speed.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves the Pok\u00e9mon\u2019s\nAttack and Speed stats.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Temporarily halves the Pok\u00e9mon\u2019s\nAttack and Speed stats.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 113,
+      "effect": "Enables moves to hit\nGhost-type foes.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Enables moves to hit\nGhost-type foes.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Enables moves to hit\nGhost-type foes.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Enables moves to hit\nGhost-type Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Enables moves to hit\nGhost-type Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Makes Normal- and Fighting-type\nmoves hit Ghost-type Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 113,
+      "effect": "Makes Normal- and Fighting-type\nmoves hit Ghost-type Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 114,
+      "effect": "The Pok\u00e9mon draws in all\nWater-type moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 114,
+      "effect": "The Pok\u00e9mon draws in all\nWater-type moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 114,
+      "effect": "The Pok\u00e9mon draws in all\nWater-type moves.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 114,
+      "effect": "Draws in all Water-type\nmoves to up Sp. Attack.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 114,
+      "effect": "Draws in all Water-type\nmoves to up Sp. Attack.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 114,
+      "effect": "Draws in all Water-type moves\nto boost its Sp. Atk stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 114,
+      "effect": "Draws in all Water-type moves\nto boost its Sp. Atk stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon regains HP in\na hailstorm.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon regains HP in\na hailstorm.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon regains HP in\na hailstorm.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in a hailstorm.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in a hailstorm.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in a hailstorm.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 115,
+      "effect": "The Pok\u00e9mon gradually\nregains HP in a hailstorm.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 116,
+      "effect": "Powers down super\u00ad\neffective moves.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Powers down super\u00ad\neffective moves.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Reduces damage from\nsupereffective attacks",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Reduces damage from\nsupereffective attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm in battle.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm when it enters a battle.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 117,
+      "effect": "The Pok\u00e9mon summons a\nhailstorm when it enters a battle.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 118,
+      "effect": "The Pok\u00e9mon may gather\nHoney from somewhere.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check\nthe foe\u2019s held item.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check\nthe foe\u2019s held item.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check\nthe foe\u2019s held item.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check\na foe\u2019s held item.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check\na foe\u2019s held item.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 119,
+      "effect": "The Pok\u00e9mon can check an\nopposing Pok\u00e9mon\u2019s held item.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Powers up moves that\nhave recoil damage.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 121,
+      "effect": "Changes type to match\nthe held Plate.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes type to match\nthe held Plate.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes type to match\nthe held Plate.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes type to match\nthe held Plate.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes type to match\nthe held Plate.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes the Pok\u00e9mon\u2019s type\nto match the Plate it holds.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Changes the Pok\u00e9mon\u2019s type\nto match the Plate it holds.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Powers up party Pok\u00e9mon\nwhen it is sunny.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 123,
+      "effect": "Reduces a sleeping foe\u2019s\nHP.",
+      "genId": "diamond-pearl"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces a sleeping foe\u2019s\nHP.",
+      "genId": "platinum"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces a sleeping\nfoe\u2019s HP.",
+      "genId": "heartgold-soulsilver"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces a sleeping\nfoe\u2019s HP.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces a sleeping\nfoe\u2019s HP.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces the HP of sleeping\nopposing Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Reduces the HP of sleeping\nopposing Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 124,
+      "effect": "Steals an item when hit\nby another Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 124,
+      "effect": "Steals an item when hit\nby another Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 124,
+      "effect": "Steals an item from an attacker\nthat made direct contact.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 124,
+      "effect": "Steals an item from an attacker\nthat made direct contact.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 125,
+      "effect": "Removes added effects to\nincrease move damage.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 125,
+      "effect": "Removes added effects to\nincrease move damage.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 125,
+      "effect": "Removes additional effects to\nincrease move damage.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 125,
+      "effect": "Removes additional effects to\nincrease move damage.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 126,
+      "effect": "Makes stat changes have\nan opposite effect.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 126,
+      "effect": "Makes stat changes have\nan opposite effect.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 126,
+      "effect": "Makes stat changes have\nan opposite effect.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 126,
+      "effect": "Makes stat changes have\nan opposite effect.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 127,
+      "effect": "Makes the foe nervous and\nunable to eat Berries.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 127,
+      "effect": "Makes the foe nervous and\nunable to eat Berries.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 127,
+      "effect": "Unnerves opposing Pok\u00e9mon and\nmakes them unable to eat Berries.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 127,
+      "effect": "Unnerves opposing Pok\u00e9mon and\nmakes them unable to eat Berries.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 128,
+      "effect": "When its stats are lowered\nits Attack increases.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 128,
+      "effect": "When its stats are lowered\nits Attack increases.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 128,
+      "effect": "Boosts the Pok\u00e9mon\u2019s Attack stat\nwhen its stats are lowered.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 128,
+      "effect": "Boosts the Pok\u00e9mon\u2019s Attack stat\nwhen its stats are lowered.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 129,
+      "effect": "Lowers stats when HP\nbecomes half or less.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 129,
+      "effect": "Lowers stats when HP\nbecomes half or less.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 129,
+      "effect": "Lowers stats when HP\nbecomes half or less.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 129,
+      "effect": "Lowers stats when HP\nbecomes half or less.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 130,
+      "effect": "May disable a move used\non the Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 130,
+      "effect": "May disable a move used\non the Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 130,
+      "effect": "May disable a move used\non the Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 130,
+      "effect": "May disable a move used\non the Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 131,
+      "effect": "May heal an ally\u2019s status\nconditions.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 131,
+      "effect": "May heal an ally\u2019s status\nconditions.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 131,
+      "effect": "Sometimes heals an\nally\u2019s status condition.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 131,
+      "effect": "Sometimes heals an\nally\u2019s status condition.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 132,
+      "effect": "Reduces damage done\nto allies.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 132,
+      "effect": "Reduces damage done\nto allies.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 132,
+      "effect": "Reduces damage done\nto allies.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 132,
+      "effect": "Reduces damage done to allies.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 133,
+      "effect": "Physical attacks lower\nDefense and raise Speed.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 133,
+      "effect": "Physical attacks lower\nDefense and raise Speed.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 133,
+      "effect": "Physical attacks lower its Defense\nstat and raise its Speed stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 133,
+      "effect": "Physical attacks lower its Defense\nstat and raise its Speed stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 134,
+      "effect": "Doubles the Pok\u00e9mon\u2019s\nweight.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 134,
+      "effect": "Doubles the Pok\u00e9mon\u2019s\nweight.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 134,
+      "effect": "Doubles the Pok\u00e9mon\u2019s weight.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 134,
+      "effect": "Doubles the Pok\u00e9mon\u2019s weight.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 135,
+      "effect": "Halves the Pok\u00e9mon\u2019s\nweight.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 135,
+      "effect": "Halves the Pok\u00e9mon\u2019s\nweight.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 135,
+      "effect": "Halves the Pok\u00e9mon\u2019s weight.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 135,
+      "effect": "Halves the Pok\u00e9mon\u2019s weight.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 136,
+      "effect": "Reduces damage when HP\nis full.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 136,
+      "effect": "Reduces damage when HP\nis full.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 136,
+      "effect": "Reduces damage the Pok\u00e9mon\ntakes when its HP is full.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 136,
+      "effect": "Reduces the damage taken by the\nPok\u00e9mon when its HP is full.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 137,
+      "effect": "Powers up physical\nattacks when poisoned.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 137,
+      "effect": "Powers up physical\nattacks when poisoned.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 137,
+      "effect": "Powers up physical attacks when\nthe Pok\u00e9mon is poisoned.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 137,
+      "effect": "Powers up physical attacks when\nthe Pok\u00e9mon is poisoned.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 138,
+      "effect": "Powers up special attacks\nwhen burned.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 138,
+      "effect": "Powers up special attacks\nwhen burned.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 138,
+      "effect": "Powers up special attacks when\nthe Pok\u00e9mon is burned.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 138,
+      "effect": "Powers up special attacks when\nthe Pok\u00e9mon is burned.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 139,
+      "effect": "May create another\nBerry after one is used.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 139,
+      "effect": "May create another\nBerry after one is used.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 139,
+      "effect": "May create another\nBerry after one is used.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 139,
+      "effect": "May create another\nBerry after one is used.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 140,
+      "effect": "Anticipates an ally\u2019s\nattack and dodges it.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 140,
+      "effect": "Anticipates an ally\u2019s\nattack and dodges it.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 140,
+      "effect": "Anticipates an ally\u2019s\nattack and dodges it.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 140,
+      "effect": "Anticipates an ally\u2019s\nattack and dodges it.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 141,
+      "effect": "Raises one stat and\nlowers another.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 141,
+      "effect": "Raises one stat and\nlowers another.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 141,
+      "effect": "Raises one stat and\nlowers another.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 141,
+      "effect": "Raises one stat and\nlowers another.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 142,
+      "effect": "Protects the Pok\u00e9mon from\ndamage from weather.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 142,
+      "effect": "Protects the Pok\u00e9mon from\ndamage from weather.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 142,
+      "effect": "Protects the Pok\u00e9mon from things\nlike sand, hail, and powder.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 142,
+      "effect": "Protects the Pok\u00e9mon from things\nlike sand, hail, and powder.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 143,
+      "effect": "May poison targets when a\nPok\u00e9mon makes contact.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 143,
+      "effect": "May poison targets when a\nPok\u00e9mon makes contact.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 143,
+      "effect": "May poison a target when the\nPok\u00e9mon makes contact.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 143,
+      "effect": "May poison a target when the\nPok\u00e9mon makes contact.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 144,
+      "effect": "Restores a little HP when\nwithdrawn from battle.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 144,
+      "effect": "Restores a little HP when\nwithdrawn from battle.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 144,
+      "effect": "Restores a little HP when\nwithdrawn from battle.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 144,
+      "effect": "Restores a little HP when\nwithdrawn from battle.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 145,
+      "effect": "Protects the Pok\u00e9mon from\nDefense-lowering attacks.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 145,
+      "effect": "Protects the Pok\u00e9mon from\nDefense-lowering attacks.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 145,
+      "effect": "Protects the Pok\u00e9mon from\nDefense-lowering attacks.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 145,
+      "effect": "Protects the Pok\u00e9mon from\nDefense-lowering attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 146,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in a sandstorm.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 146,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed in a sandstorm.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 146,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in a sandstorm.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 146,
+      "effect": "Boosts the Pok\u00e9mon\u2019s\nSpeed stat in a sandstorm.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 147,
+      "effect": "Makes status-changing\nmoves more likely to miss.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 147,
+      "effect": "Makes status-changing\nmoves more likely to miss.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 147,
+      "effect": "Makes status moves\nmore likely to miss.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 147,
+      "effect": "Makes status moves\nmore likely to miss.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 148,
+      "effect": "Boosts move power when\nthe Pok\u00e9mon moves last.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 148,
+      "effect": "Boosts move power when\nthe Pok\u00e9mon moves last.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 148,
+      "effect": "Boosts move power when the\nPok\u00e9mon moves after the target.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 148,
+      "effect": "Boosts move power when the\nPok\u00e9mon moves after the target.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 149,
+      "effect": "Comes out disguised as\nthe Pok\u00e9mon in back.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 149,
+      "effect": "Comes out disguised as\nthe Pok\u00e9mon in back.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 149,
+      "effect": "Comes out disguised as the\nPok\u00e9mon in the party\u2019s last spot.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 149,
+      "effect": "Comes out disguised as the\nPok\u00e9mon in the party\u2019s last spot.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 150,
+      "effect": "It transforms itself into\nthe Pok\u00e9mon it is facing.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 150,
+      "effect": "It transforms itself into\nthe Pok\u00e9mon it is facing.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 150,
+      "effect": "The Pok\u00e9mon transforms itself\ninto the Pok\u00e9mon it\u2019s facing.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 150,
+      "effect": "The Pok\u00e9mon transforms itself\ninto the Pok\u00e9mon it\u2019s facing.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 151,
+      "effect": "Passes through the foe\u2019s\nbarrier and strikes.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 151,
+      "effect": "Passes through the foe\u2019s\nbarrier and strikes.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 151,
+      "effect": "Passes through the opposing\nPok\u00e9mon\u2019s barrier and strikes.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 151,
+      "effect": "Passes through the opposing\nPok\u00e9mon\u2019s barrier and strikes.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 152,
+      "effect": "Contact with this Pok\u00e9mon\nspreads this Ability.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 152,
+      "effect": "Contact with this Pok\u00e9mon\nspreads this Ability.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 152,
+      "effect": "Contact with the Pok\u00e9mon\nspreads this Ability.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 152,
+      "effect": "Contact with the Pok\u00e9mon\nspreads this Ability.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 153,
+      "effect": "Boosts Attack after\nknocking out any Pok\u00e9mon.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 153,
+      "effect": "Boosts Attack after\nknocking out any Pok\u00e9mon.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 153,
+      "effect": "Boosts the Attack stat after\nknocking out any Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 153,
+      "effect": "Boosts the Attack stat after\nknocking out any Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 154,
+      "effect": "Raises Attack when hit by\na Dark-type move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 154,
+      "effect": "Raises Attack when hit by\na Dark-type move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 154,
+      "effect": "Boosts the Attack stat when\nit\u2019s hit by a Dark-type move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 154,
+      "effect": "Boosts the Attack stat when\nit\u2019s hit by a Dark-type move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 155,
+      "effect": "Some move types scare\nit and boost its Speed.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 155,
+      "effect": "Some move types scare\nit and boost its Speed.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 155,
+      "effect": "Some move types scare\nit and boost its Speed stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 155,
+      "effect": "Some move types scare\nit and boost its Speed stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 156,
+      "effect": "Reflects status-\nchanging moves.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 156,
+      "effect": "Reflects status-\nchanging moves.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 156,
+      "effect": "Reflects status moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 156,
+      "effect": "Reflects status moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 157,
+      "effect": "Boosts Attack when hit by\na Grass-type move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 157,
+      "effect": "Boosts Attack when hit by\na Grass-type move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 157,
+      "effect": "Boosts the Attack stat when hit\nby a Grass-type move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 157,
+      "effect": "Boosts the Attack stat when hit\nby a Grass-type move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 158,
+      "effect": "Gives priority to a\nstatus move.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 158,
+      "effect": "Gives priority to a\nstatus move.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 158,
+      "effect": "Gives priority to a\nstatus move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 158,
+      "effect": "Gives priority to a status move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 159,
+      "effect": "Boosts certain moves\u2019\npower in a sandstorm.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 159,
+      "effect": "Boosts certain moves\u2019\npower in a sandstorm.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 159,
+      "effect": "Boosts certain moves\u2019\npower in a sandstorm.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 159,
+      "effect": "Boosts certain moves\u2019\npower in a sandstorm.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 160,
+      "effect": "Inflicts damage to the\nPok\u00e9mon on contact.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 160,
+      "effect": "Inflicts damage to the\nPok\u00e9mon on contact.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 160,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 160,
+      "effect": "Inflicts damage to the\nattacker on contact.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 161,
+      "effect": "Changes the Pok\u00e9mon\u2019s\nshape when HP is halved.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 161,
+      "effect": "Changes the Pok\u00e9mon\u2019s\nshape when HP is halved.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 161,
+      "effect": "Changes the Pok\u00e9mon\u2019s\nshape when HP is half or less.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 161,
+      "effect": "Changes the Pok\u00e9mon\u2019s\nshape when HP is half or less.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 162,
+      "effect": "Boosts the accuracy of its\nallies and itself.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 162,
+      "effect": "Boosts the accuracy of its\nallies and itself.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 162,
+      "effect": "Boosts the accuracy of its\nallies and itself.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 162,
+      "effect": "Boosts the accuracy of its\nallies and itself.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 163,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 163,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 163,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 163,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 164,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-white"
+    },
+    {
+      "abilityId": 164,
+      "effect": "Moves can be used\nregardless of Abilities.",
+      "genId": "black-2-white-2"
+    },
+    {
+      "abilityId": 164,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 164,
+      "effect": "Moves can be used on the target\nregardless of its Abilities.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 165,
+      "effect": "Protects allies from attacks that\nlimit their move choices.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 165,
+      "effect": "Protects allies from attacks that\nlimit their move choices.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 166,
+      "effect": "Prevents lowering of ally\nGrass-type Pok\u00e9mon\u2019s stats.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 166,
+      "effect": "Prevents lowering of ally\nGrass-type Pok\u00e9mon\u2019s stats.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 167,
+      "effect": "Restores HP as well when\nthe Pok\u00e9mon eats a Berry.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 167,
+      "effect": "Restores HP as well when\nthe Pok\u00e9mon eats a Berry.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 168,
+      "effect": "Changes the Pok\u00e9mon\u2019s type to\nthe type of the move it\u2019s using.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 168,
+      "effect": "Changes the Pok\u00e9mon\u2019s type to\nthe type of the move it\u2019s using.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 169,
+      "effect": "Halves damage from\nphysical moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 169,
+      "effect": "Halves damage from\nphysical moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 170,
+      "effect": "The Pok\u00e9mon steals the held item\nof a Pok\u00e9mon it hits with a move.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 170,
+      "effect": "The Pok\u00e9mon steals the held item\nof a Pok\u00e9mon it hits with a move.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 171,
+      "effect": "Protects the Pok\u00e9mon from\nsome ball and bomb moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 171,
+      "effect": "Protects the Pok\u00e9mon from\nsome ball and bomb moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 172,
+      "effect": "Boosts the Sp. Atk stat when\na stat is lowered.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 172,
+      "effect": "Boosts the Sp. Atk stat when\na stat is lowered.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 173,
+      "effect": "The Pok\u00e9mon\u2019s strong jaw gives\nit tremendous biting power.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 173,
+      "effect": "The Pok\u00e9mon\u2019s strong jaw gives\nit tremendous biting power.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 174,
+      "effect": "Normal-type moves become\nIce-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 174,
+      "effect": "Normal-type moves become\nIce-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 175,
+      "effect": "Prevents itself and ally Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 175,
+      "effect": "Prevents itself and ally Pok\u00e9mon\nfrom falling asleep.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 176,
+      "effect": "The Pok\u00e9mon changes form\ndepending on how it battles.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 176,
+      "effect": "The Pok\u00e9mon changes form\ndepending on how it battles.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 177,
+      "effect": "Gives priority to Flying-type\nmoves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 177,
+      "effect": "Gives priority to\nFlying-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 178,
+      "effect": "Powers up aura and pulse moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 178,
+      "effect": "Powers up aura and pulse moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 179,
+      "effect": "Boosts the Defense stat\nin Grassy Terrain.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 179,
+      "effect": "Boosts the Defense stat\nin Grassy Terrain.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 180,
+      "effect": "The Pok\u00e9mon can pass\nan item to an ally.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 180,
+      "effect": "The Pok\u00e9mon can pass\nan item to an ally.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 181,
+      "effect": "Powers up moves that\nmake direct contact.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 181,
+      "effect": "Powers up moves that\nmake direct contact.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 182,
+      "effect": "Normal-type moves become\nFairy-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 182,
+      "effect": "Normal-type moves become\nFairy-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 183,
+      "effect": "Contact with the Pok\u00e9mon\nlowers the attacker\u2019s Speed stat.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 183,
+      "effect": "Contact with the Pok\u00e9mon\nlowers the attacker\u2019s Speed stat.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 184,
+      "effect": "Normal-type moves become\nFlying-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 184,
+      "effect": "Normal-type moves become\nFlying-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 185,
+      "effect": "Parent and child\nattack together.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 185,
+      "effect": "Parent and child attack together.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 186,
+      "effect": "Powers up each Pok\u00e9mon\u2019s\nDark-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 186,
+      "effect": "Powers up each Pok\u00e9mon\u2019s\nDark-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 187,
+      "effect": "Powers up each Pok\u00e9mon\u2019s\nFairy-type moves.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 187,
+      "effect": "Powers up each Pok\u00e9mon\u2019s\nFairy-type moves.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 188,
+      "effect": "The effects of \u201cAura\u201d Abilities\nare reversed.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 188,
+      "effect": "The effects of \u201cAura\u201d Abilities\nare reversed.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 189,
+      "effect": "Affects weather and nullifies any\nFire-type attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 190,
+      "effect": "Affects weather and nullifies any\nWater-type attacks.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 191,
+      "effect": "Affects weather and eliminates all\nof the Flying type\u2019s weaknesses.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ]
+]

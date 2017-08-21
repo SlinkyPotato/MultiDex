@@ -1,0 +1,2279 @@
+[
+  [
+    {
+      "abilityId": 1,
+      "effect": "A volte il cattivo odore\nfa tentennare i nemici.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 1,
+      "effect": "A volte il cattivo odore\nfa tentennare i nemici.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 2,
+      "effect": "Quando scende in campo,\nil Pok\u00e9mon attira la pioggia.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 2,
+      "effect": "Quando scende in campo,\nil Pok\u00e9mon attira la pioggia.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 3,
+      "effect": "La statistica Velocit\u00e0 aumenta\ngradualmente.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 3,
+      "effect": "La statistica Velocit\u00e0 aumenta\ngradualmente.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 4,
+      "effect": "Evita che il Pok\u00e9mon subisca\nbrutti colpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 4,
+      "effect": "Evita che il Pok\u00e9mon subisca\nbrutti colpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 5,
+      "effect": "Evita che il Pok\u00e9mon vada KO\nin un sol colpo.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 5,
+      "effect": "Evita che il Pok\u00e9mon vada KO\nin un sol colpo.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 6,
+      "effect": "Impedisce le mosse\nautodistruttive.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 6,
+      "effect": "Impedisce le mosse\nautodistruttive.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 7,
+      "effect": "Il Pok\u00e9mon \u00e8 protetto contro\nla paralisi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 7,
+      "effect": "Il Pok\u00e9mon \u00e8 protetto contro\nla paralisi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 8,
+      "effect": "L\u2019elusione aumenta durante\nle tempeste di sabbia.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 8,
+      "effect": "L\u2019elusione aumenta durante\nle tempeste di sabbia.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 9,
+      "effect": "Il contatto fisico con il Pok\u00e9mon\npu\u00f2 causare paralisi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 9,
+      "effect": "Il contatto fisico con il Pok\u00e9mon\npu\u00f2 causare paralisi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 10,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon subisce\nuna mossa di tipo Elettro.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 10,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon subisce\nuna mossa di tipo Elettro.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 11,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon subisce\nuna mossa di tipo Acqua.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 11,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon subisce\nuna mossa di tipo Acqua.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 12,
+      "effect": "Protegge il Pok\u00e9mon da\ninfatuazioni e provocazioni.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 12,
+      "effect": "Protegge il Pok\u00e9mon da\ninfatuazioni e provocazioni.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 13,
+      "effect": "Neutralizza gli effetti delle\ncondizioni atmosferiche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 13,
+      "effect": "Neutralizza gli effetti delle\ncondizioni atmosferiche.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 14,
+      "effect": "Aumenta la precisione\ndel Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 14,
+      "effect": "Aumenta la precisione\ndel Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 15,
+      "effect": "Impedisce al Pok\u00e9mon\ndi addormentarsi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 15,
+      "effect": "Impedisce al Pok\u00e9mon\ndi addormentarsi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 16,
+      "effect": "Il Pok\u00e9mon acquisisce il tipo\ndella mossa subita.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 16,
+      "effect": "Il Pok\u00e9mon acquisisce il tipo\ndella mossa subita.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 17,
+      "effect": "Impedisce al Pok\u00e9mon di\nvenire avvelenato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 17,
+      "effect": "Impedisce al Pok\u00e9mon di\nvenire avvelenato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 18,
+      "effect": "Potenzia le proprie mosse Fuoco\nse se ne subisce una.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 18,
+      "effect": "Potenzia le proprie mosse Fuoco\nse se ne subisce una.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 19,
+      "effect": "Annulla gli effetti secondari\ndelle mosse subite.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 19,
+      "effect": "Annulla gli effetti secondari\ndelle mosse subite.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 20,
+      "effect": "Impedisce al Pok\u00e9mon\ndi venire confuso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 20,
+      "effect": "Impedisce al Pok\u00e9mon\ndi venire confuso.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 21,
+      "effect": "Resiste a strumenti e mosse\ndi sostituzione.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 21,
+      "effect": "Resiste a strumenti e mosse\ndi sostituzione.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 22,
+      "effect": "Riduce la statistica Attacco\ndel nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 22,
+      "effect": "Riduce la statistica Attacco\ndel nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 23,
+      "effect": "Impedisce la fuga al nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 23,
+      "effect": "Impedisce la fuga al nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 24,
+      "effect": "Il nemico che manda a segno una\nmossa fisica viene danneggiato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 24,
+      "effect": "Se chi attacca mette a segno una    \nmossa fisica, viene danneggiato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 25,
+      "effect": "Rende vulnerabili solo alle\nmosse superefficaci.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 25,
+      "effect": "Rende vulnerabili solo alle\nmosse superefficaci.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 26,
+      "effect": "Conferisce immunit\u00e0 dagli attacchi\ndi tipo Terra.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 26,
+      "effect": "Conferisce immunit\u00e0 agli attacchi \ndi tipo Terra.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 27,
+      "effect": "Al contatto pu\u00f2 causare\navvelenamento, paralisi o sonno.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 27,
+      "effect": "Al contatto pu\u00f2 causare\navvelenamento, paralisi o sonno.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 28,
+      "effect": "Avvelena, paralizza o scotta il\nnemico che infligge lo stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 28,
+      "effect": "Avvelena, paralizza o scotta il\nnemico che infligge lo stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 29,
+      "effect": "Le statistiche del Pok\u00e9mon\nnon possono essere ridotte.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 29,
+      "effect": "Le statistiche del Pok\u00e9mon\nnon possono essere ridotte.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 30,
+      "effect": "Cura i problemi di stato quando\nil Pok\u00e9mon viene sostituito.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 30,
+      "effect": "Cura i problemi di stato quando\nil Pok\u00e9mon viene sostituito.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 31,
+      "effect": "Neutralizza mosse di tipo Elettro\nper aumentare l\u2019Attacco Speciale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 31,
+      "effect": "Neutralizza mosse di tipo Elettro\nper aumentare l\u2019Attacco Speciale. ",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 32,
+      "effect": "Gli effetti secondari delle mosse\nsono pi\u00f9 probabili.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 32,
+      "effect": "Gli effetti secondari delle mosse\nsono pi\u00f9 probabili.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 33,
+      "effect": "Se piove, la statistica Velocit\u00e0\naumenta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 33,
+      "effect": "Se piove, la statistica Velocit\u00e0\naumenta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 34,
+      "effect": "Se c\u2019\u00e8 il sole, la statistica\nVelocit\u00e0 aumenta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 34,
+      "effect": "Se c\u2019\u00e8 il sole, la statistica\nVelocit\u00e0 aumenta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 35,
+      "effect": "\u00c8 pi\u00f9 probabile incontrare\nPok\u00e9mon selvatici.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 35,
+      "effect": "\u00c8 pi\u00f9 probabile incontrare\nPok\u00e9mon selvatici.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 36,
+      "effect": "Copia l\u2019abilit\u00e0 del nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 36,
+      "effect": "Copia l\u2019abilit\u00e0 del nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 37,
+      "effect": "Migliora la statistica Attacco\ndel Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 37,
+      "effect": "Migliora la statistica Attacco\ndel Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 38,
+      "effect": "Pu\u00f2 avvelenare chi manda\na segno una mossa fisica.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 38,
+      "effect": "Pu\u00f2 avvelenare chi manda\na segno una mossa fisica.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 39,
+      "effect": "Evita che il Pok\u00e9mon tentenni.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 39,
+      "effect": "Evita che il Pok\u00e9mon tentenni.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 40,
+      "effect": "Evita che il Pok\u00e9mon\nvenga congelato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 40,
+      "effect": "Evita che il Pok\u00e9mon\nvenga congelato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 41,
+      "effect": "Evita che il Pok\u00e9mon\nresti scottato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 41,
+      "effect": "Evita che il Pok\u00e9mon\nresti scottato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 42,
+      "effect": "Impedisce la fuga ai Pok\u00e9mon\ndi tipo Acciaio.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 42,
+      "effect": "Impedisce la fuga ai Pok\u00e9mon\ndi tipo Acciaio.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 43,
+      "effect": "Fornisce immunit\u00e0 alle mosse\nbasate sul suono.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 43,
+      "effect": "Fornisce immunit\u00e0 alle mosse\nbasate sul suono.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 44,
+      "effect": "Il Pok\u00e9mon recupera PS\nquando piove.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 44,
+      "effect": "Il Pok\u00e9mon recupera PS\nquando piove.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 45,
+      "effect": "Causa una tempesta di sabbia\ndurante la lotta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 45,
+      "effect": "Causa una tempesta di sabbia\ndurante la lotta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 46,
+      "effect": "Il nemico usa pi\u00f9 PP.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 46,
+      "effect": "Il nemico usa pi\u00f9 PP.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 47,
+      "effect": "Aumenta la resistenza alle mosse\ndi tipo Fuoco e Ghiaccio.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 47,
+      "effect": "Aumenta la resistenza alle mosse\ndi tipo Fuoco e Ghiaccio.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 48,
+      "effect": "Il Pok\u00e9mon si risveglia\nrapidamente dal sonno.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 48,
+      "effect": "Il Pok\u00e9mon si risveglia\nrapidamente dal sonno.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 49,
+      "effect": "Al contatto subito, chi sferra\nl\u2019attacco pu\u00f2 venire scottato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 49,
+      "effect": "Al contatto subito, chi sferra\nl\u2019attacco pu\u00f2 venire scottato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 50,
+      "effect": "Garantisce la fuga dai\nPok\u00e9mon selvatici.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 50,
+      "effect": "Garantisce la fuga dai\nPok\u00e9mon selvatici.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 51,
+      "effect": "Evita che la precisione\ndiminuisca.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 51,
+      "effect": "Evita che la precisione\ndiminuisca.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 52,
+      "effect": "Evita che la statistica Attacco\nvenga ridotta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 52,
+      "effect": "Evita che la statistica Attacco\nvenga ridotta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 53,
+      "effect": "Aumenta la probabilit\u00e0 di trovare\nstrumenti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 53,
+      "effect": "Aumenta la probabilit\u00e0 di trovare\nstrumenti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 54,
+      "effect": "Il Pok\u00e9mon attacca un turno s\u00ec\ne uno no.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 54,
+      "effect": "Il Pok\u00e9mon attacca un turno s\u00ec\ne uno no.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 55,
+      "effect": "Aumenta l\u2019Attacco, ma riduce\nla precisione.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 55,
+      "effect": "Aumenta l\u2019Attacco, ma riduce\nla precisione.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 56,
+      "effect": "Al contatto subito, chi sferra\nl\u2019attacco pu\u00f2 infatuarsi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 56,
+      "effect": "Al contatto subito, chi sferra\nl\u2019attacco pu\u00f2 infatuarsi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 57,
+      "effect": "Aumenta l\u2019Attacco Speciale se ci\nsono Pok\u00e9mon con Meno o Pi\u00f9.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 57,
+      "effect": "Aumenta l\u2019Attacco Speciale se ci\nsono Pok\u00e9mon con Meno o Pi\u00f9.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 58,
+      "effect": "Aumenta l\u2019Attacco Speciale se ci\nsono Pok\u00e9mon con Meno o Pi\u00f9.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 58,
+      "effect": "Aumenta l\u2019Attacco Speciale se ci\nsono Pok\u00e9mon con Meno o Pi\u00f9.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 59,
+      "effect": "La forma di Castform cambia in\nbase alle condizioni atmosferiche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 59,
+      "effect": "La forma di Castform cambia in \nbase alle condizioni atmosferiche. ",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 60,
+      "effect": "Protegge il Pok\u00e9mon dal furto\ndi strumenti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 60,
+      "effect": "Protegge il Pok\u00e9mon dal furto\ndi strumenti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 61,
+      "effect": "Pu\u00f2 curare i problemi di stato\ndel Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 61,
+      "effect": "Pu\u00f2 curare i problemi di stato\ndel Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 62,
+      "effect": "Aumenta l\u2019Attacco in caso di\nproblemi di stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 62,
+      "effect": "Aumenta l\u2019Attacco in caso di\nproblemi di stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 63,
+      "effect": "Aumenta la Difesa in caso di\nproblemi di stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 63,
+      "effect": "Aumenta la Difesa in caso di\nproblemi di stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 64,
+      "effect": "Danneggia i Pok\u00e9mon che usano\nmosse ruba-PS.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 64,
+      "effect": "Danneggia i Pok\u00e9mon che usano\nmosse ruba-PS.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 65,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia\nle mosse di tipo Erba.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 65,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia  \nle mosse di tipo Erba.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 66,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia\nle mosse di tipo Fuoco.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 66,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia  \nle mosse di tipo Fuoco.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 67,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia\nle mosse di tipo Acqua.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 67,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia  \nle mosse di tipo Acqua.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 68,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia\nle mosse di tipo Coleottero.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 68,
+      "effect": "Quando si \u00e8 in difficolt\u00e0, potenzia  \nle mosse di tipo Coleottero.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 69,
+      "effect": "Protegge il Pok\u00e9mon dai\ncontraccolpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 69,
+      "effect": "Protegge il Pok\u00e9mon dai\ncontraccolpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 70,
+      "effect": "Il sole brilla intensamente quando\nil Pok\u00e9mon entra in campo.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 70,
+      "effect": "Il sole brilla intensamente quando \nil Pok\u00e9mon entra in campo.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 71,
+      "effect": "Impedisce la fuga al nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 71,
+      "effect": "Impedisce la fuga al nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 72,
+      "effect": "Impedisce al Pok\u00e9mon\ndi addormentarsi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 72,
+      "effect": "Impedisce al Pok\u00e9mon\ndi addormentarsi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 73,
+      "effect": "Le statistiche del Pok\u00e9mon\nnon possono essere ridotte.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 73,
+      "effect": "Le statistiche del Pok\u00e9mon\nnon possono essere ridotte.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 74,
+      "effect": "Migliora la statistica Attacco\ndel Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 74,
+      "effect": "Migliora la statistica Attacco\ndel Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 75,
+      "effect": "Evita che il Pok\u00e9mon subisca\nbrutti colpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 75,
+      "effect": "Evita che il Pok\u00e9mon subisca\nbrutti colpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 76,
+      "effect": "Neutralizza gli effetti delle\ncondizioni atmosferiche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 76,
+      "effect": "Neutralizza gli effetti delle\ncondizioni atmosferiche.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 77,
+      "effect": "Aumenta l\u2019elusione se\nil Pok\u00e9mon \u00e8 confuso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 77,
+      "effect": "Aumenta l\u2019elusione se\nil Pok\u00e9mon \u00e8 confuso.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 78,
+      "effect": "Le mosse di tipo Elettro subite\nfanno aumentare la Velocit\u00e0.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 78,
+      "effect": "Le mosse di tipo Elettro subite\nfanno aumentare la Velocit\u00e0.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 79,
+      "effect": "Rende pi\u00f9 forti contro nemici\ndello stesso sesso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 79,
+      "effect": "Rende pi\u00f9 forti contro nemici\ndello stesso sesso.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 80,
+      "effect": "Aumenta la Velocit\u00e0 se\nil Pok\u00e9mon tentenna.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 80,
+      "effect": "Aumenta la Velocit\u00e0 se\nil Pok\u00e9mon tentenna.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 81,
+      "effect": "Aumenta l\u2019elusione quando\ngrandina.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 81,
+      "effect": "Aumenta l\u2019elusione quando\ngrandina.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 82,
+      "effect": "Favorisce l\u2019uso anticipato di\nuna bacca tenuta dal Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 82,
+      "effect": "Favorisce l\u2019uso anticipato di\nuna bacca tenuta dal Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 83,
+      "effect": "Massimizza l\u2019Attacco se si\nsubisce un brutto colpo.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 83,
+      "effect": "Massimizza l\u2019Attacco se si\nsubisce un brutto colpo.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 84,
+      "effect": "Aumenta la Velocit\u00e0 dopo aver\nusato o perso uno strumento.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 84,
+      "effect": "Aumenta la Velocit\u00e0 dopo aver\nusato o perso uno strumento.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 85,
+      "effect": "Indebolisce l\u2019effetto di mosse\ndi tipo Fuoco.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 85,
+      "effect": "Indebolisce l\u2019effetto di mosse\ndi tipo Fuoco.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 86,
+      "effect": "Le statistiche possono cambiare\nsenza preavviso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 86,
+      "effect": "Le modifiche alle statistiche sono\npi\u00f9 accentuate.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 87,
+      "effect": "Riduce i PS se fa caldo.\nIn presenza di acqua, rid\u00e0 PS.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 87,
+      "effect": "Riduce i PS se fa caldo.\nIn presenza di acqua, rid\u00e0 PS.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 88,
+      "effect": "Regola la potenza in base\nal nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 88,
+      "effect": "Regola la potenza in base\nal nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 89,
+      "effect": "Potenzia le mosse che\nutilizzano pugni.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 89,
+      "effect": "Potenzia le mosse che\nutilizzano pugni.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 90,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon\n\u00e8 avvelenato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 90,
+      "effect": "Rid\u00e0 PS se il Pok\u00e9mon\n\u00e8 avvelenato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 91,
+      "effect": "Potenzia le mosse dello stesso\ntipo del Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 91,
+      "effect": "Potenzia le mosse dello stesso\ntipo del Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 92,
+      "effect": "Aumenta la frequenza di mosse\nmulticolpo.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 92,
+      "effect": "Aumenta la frequenza di mosse\nmulticolpo.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 93,
+      "effect": "Cura i problemi di stato se piove.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 93,
+      "effect": "Cura i problemi di stato se piove.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 94,
+      "effect": "Se c\u2019\u00e8 il sole aumenta l\u2019Attacco\nSpeciale, ma riduce i PS.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 94,
+      "effect": "Se c\u2019\u00e8 il sole aumenta l\u2019Attacco\nSpeciale, ma riduce i PS.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 95,
+      "effect": "Aumenta la Velocit\u00e0 se c\u2019\u00e8\nun problema di stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 95,
+      "effect": "Aumenta la Velocit\u00e0 se c\u2019\u00e8\nun problema di stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 96,
+      "effect": "Le mosse del Pok\u00e9mon\ndiventano di tipo Normale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 96,
+      "effect": "Le mosse del Pok\u00e9mon\ndiventano di tipo Normale.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 97,
+      "effect": "Aumenta i danni inflitti\ndai brutti colpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 97,
+      "effect": "Aumenta i danni inflitti\ndai brutti colpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 98,
+      "effect": "Il Pok\u00e9mon subisce danni solo\nda attacchi diretti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 98,
+      "effect": "Il Pok\u00e9mon subisce danni solo\nda attacchi diretti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 99,
+      "effect": "Le mosse del Pok\u00e9mon e del\nnemico vanno sempre a segno.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 99,
+      "effect": "Le mosse del Pok\u00e9mon e del\nnemico vanno sempre a segno.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 100,
+      "effect": "I nemici attaccano sempre per\nprimi, anche se sono pi\u00f9 lenti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 100,
+      "effect": "I nemici attaccano sempre per\nprimi, anche se sono pi\u00f9 lenti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 101,
+      "effect": "Potenzia le mosse pi\u00f9 deboli\ndel Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 101,
+      "effect": "Potenzia le mosse pi\u00f9 deboli\ndel Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 102,
+      "effect": "Evita problemi di stato quando\nc\u2019\u00e8 il sole.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 102,
+      "effect": "Evita problemi di stato quando\nc\u2019\u00e8 il sole.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 103,
+      "effect": "Il Pok\u00e9mon non pu\u00f2 usare\nlo strumento che ha.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 103,
+      "effect": "Il Pok\u00e9mon non pu\u00f2 usare\nlo strumento che ha.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 104,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 104,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 105,
+      "effect": "Aumenta la probabilit\u00e0 di\ninfliggere brutti colpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 105,
+      "effect": "Aumenta la probabilit\u00e0 di\ninfliggere brutti colpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 106,
+      "effect": "Arreca danni al Pok\u00e9mon che\nsferra il colpo finale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 106,
+      "effect": "Arreca danni al Pok\u00e9mon che\nsferra il colpo finale.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 107,
+      "effect": "Rivela se il nemico ha mosse\npericolose.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 107,
+      "effect": "Rivela se il nemico ha mosse\npericolose.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 108,
+      "effect": "Scopre la mossa pi\u00f9 potente\ndel nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 108,
+      "effect": "Scopre la mossa pi\u00f9 potente\ndel nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 109,
+      "effect": "Ignora le modifiche alle\nstatistiche del nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 109,
+      "effect": "Ignora le modifiche alle\nstatistiche del nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 110,
+      "effect": "Potenzia le mosse non molto\nefficaci.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 110,
+      "effect": "Potenzia le mosse non molto\nefficaci.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 111,
+      "effect": "Riduce la potenza delle mosse\nsuperefficaci.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 111,
+      "effect": "Riduce la potenza delle mosse\nsuperefficaci.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 112,
+      "effect": "Dimezza per un po\u2019 l\u2019Attacco e\nla Velocit\u00e0.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 112,
+      "effect": "Dimezza per un po\u2019 l\u2019Attacco e\nla Velocit\u00e0.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 113,
+      "effect": "I Pok\u00e9mon di tipo Spettro sono\ncolpiti da mosse Normale e Lotta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 113,
+      "effect": "I Pok\u00e9mon di tipo Spettro sono\ncolpiti da mosse Normale e Lotta. ",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 114,
+      "effect": "Neutralizza mosse di tipo Acqua\nper aumentare l\u2019Attacco Speciale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 114,
+      "effect": "Neutralizza mosse di tipo Acqua\nper aumentare l\u2019Attacco Speciale. ",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 115,
+      "effect": "Il Pok\u00e9mon recupera PS quando\ngrandina.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 115,
+      "effect": "Il Pok\u00e9mon recupera PS quando\ngrandina.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 116,
+      "effect": "Riduce la potenza delle mosse\nsuperefficaci.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 116,
+      "effect": "Riduce la potenza delle mosse\nsuperefficaci.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 117,
+      "effect": "Il Pok\u00e9mon provoca una\ngrandinata durante la lotta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 117,
+      "effect": "Il Pok\u00e9mon provoca una\ngrandinata durante la lotta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 118,
+      "effect": "Il Pok\u00e9mon pu\u00f2 raccogliere\nMiele.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 118,
+      "effect": "Il Pok\u00e9mon pu\u00f2 raccogliere\nMiele.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 119,
+      "effect": "Il Pok\u00e9mon scopre che\nstrumento ha il nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 119,
+      "effect": "Il Pok\u00e9mon scopre che\nstrumento ha il nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 120,
+      "effect": "Potenzia le mosse che provocano\ncontraccolpi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 120,
+      "effect": "Potenzia le mosse che provocano \ncontraccolpi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 121,
+      "effect": "Cambia il tipo del Pok\u00e9mon\na seconda della lastra che ha.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 121,
+      "effect": "Cambia il tipo del Pok\u00e9mon\na seconda della lastra che ha.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 122,
+      "effect": "Se c\u2019\u00e8 il sole, potenzia\ni Pok\u00e9mon alleati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 122,
+      "effect": "Se c\u2019\u00e8 il sole, potenzia chi la usa\ne gli alleati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 123,
+      "effect": "Riduce i PS dei nemici\naddormentati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 123,
+      "effect": "Riduce i PS dei nemici\naddormentati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 124,
+      "effect": "Al contatto subito, ruba lo\nstrumento di chi lo ha attaccato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 124,
+      "effect": "Al contatto subito, ruba lo\nstrumento di chi lo ha attaccato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 125,
+      "effect": "Aumenta i danni annullando altri\neffetti delle mosse.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 125,
+      "effect": "Aumenta i danni annullando altri\neffetti delle mosse.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 126,
+      "effect": "Le modifiche alle statistiche\nhanno effetto inverso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 126,
+      "effect": "Le modifiche alle statistiche\nhanno effetto inverso.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 127,
+      "effect": "Il nemico viene intimidito e non\npu\u00f2 mangiare bacche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 127,
+      "effect": "Il nemico viene intimidito e non\npu\u00f2 mangiare bacche.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 128,
+      "effect": "L\u2019Attacco aumenta quando un\nnemico fa calare le statistiche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 128,
+      "effect": "L\u2019Attacco aumenta quando un\nnemico fa calare le statistiche.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 129,
+      "effect": "Le statistiche scendono se i PS\ncalano a met\u00e0 o meno.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 129,
+      "effect": "Le statistiche scendono se i PS\ncalano a met\u00e0 o meno.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 130,
+      "effect": "A volte inibisce l\u2019ultima mossa\nusata dal nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 130,
+      "effect": "A volte inibisce l\u2019ultima mossa\nusata dal nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 131,
+      "effect": "A volte cura i problemi di stato\ndegli alleati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 131,
+      "effect": "A volte cura i problemi di stato\ndegli alleati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 132,
+      "effect": "Riduce il danno subito dagli\nalleati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 132,
+      "effect": "Riduce il danno subito dagli\nalleati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 133,
+      "effect": "Riduce la Difesa e aumenta la\nVelocit\u00e0 se il Pok\u00e9mon \u00e8 colpito.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 133,
+      "effect": "Riduce la Difesa e aumenta la\nVelocit\u00e0 se il Pok\u00e9mon \u00e8 colpito.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 134,
+      "effect": "Raddoppia il peso del Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 134,
+      "effect": "Raddoppia il peso del Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 135,
+      "effect": "Dimezza il peso del Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 135,
+      "effect": "Dimezza il peso del Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 136,
+      "effect": "Riduce il danno subito se i PS\nsono al massimo.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 136,
+      "effect": "Riduce il danno subito se i PS\nsono al massimo.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 137,
+      "effect": "Aumenta l\u2019Attacco se il Pok\u00e9mon\n\u00e8 avvelenato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 137,
+      "effect": "Aumenta l\u2019Attacco se il Pok\u00e9mon\n\u00e8 avvelenato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 138,
+      "effect": "Aumenta l\u2019Attacco Speciale se\nil Pok\u00e9mon \u00e8 scottato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 138,
+      "effect": "Aumenta l\u2019Attacco Speciale se\nil Pok\u00e9mon \u00e8 scottato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 139,
+      "effect": "Pu\u00f2 ricreare una bacca utilizzata.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 139,
+      "effect": "Pu\u00f2 ricreare una bacca utilizzata.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 140,
+      "effect": "Prevede ed evita gli attacchi\ndegli alleati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 140,
+      "effect": "Prevede ed evita gli attacchi\ndegli alleati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 141,
+      "effect": "Aumenta una statistica e ne\nriduce un\u2019altra.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 141,
+      "effect": "Aumenta una statistica e ne\nriduce un\u2019altra.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 142,
+      "effect": "Protegge il Pok\u00e9mon da polvere,\nsabbia e grandine.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 142,
+      "effect": "Protegge il Pok\u00e9mon da polvere,\nsabbia e grandine.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 143,
+      "effect": "Pu\u00f2 avvelenare il nemico al solo\ncontatto fisico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 143,
+      "effect": "Pu\u00f2 avvelenare il nemico al solo\ncontatto fisico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 144,
+      "effect": "Il Pok\u00e9mon recupera un po\u2019 di PS\nquando viene sostituito.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 144,
+      "effect": "Il Pok\u00e9mon recupera un po\u2019\ndi PS quando viene sostituito. ",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 145,
+      "effect": "Evita che la Difesa diminuisca.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 145,
+      "effect": "Evita che la Difesa diminuisca.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 146,
+      "effect": "La Velocit\u00e0 aumenta nelle\ntempeste di sabbia.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 146,
+      "effect": "La Velocit\u00e0 aumenta nelle\ntempeste di sabbia.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 147,
+      "effect": "Resiste pi\u00f9 facilmente ai\ncambiamenti di stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 147,
+      "effect": "Resiste pi\u00f9 facilmente ai\ncambiamenti di stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 148,
+      "effect": "Se agisce per ultimo, la potenza\ndella mossa sale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 148,
+      "effect": "Se agisce per ultimo, la potenza\ndella mossa sale.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 149,
+      "effect": "Entra con le sembianze\ndell\u2019ultimo Pok\u00e9mon in squadra.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 149,
+      "effect": "Entra con le sembianze\ndell\u2019ultimo Pok\u00e9mon in squadra.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 150,
+      "effect": "Si trasforma nel Pok\u00e9mon che ha\ndavanti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 150,
+      "effect": "Si trasforma nel Pok\u00e9mon che ha\ndavanti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 151,
+      "effect": "Attacca evitando le barriere\ndel nemico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 151,
+      "effect": "Attacca evitando le barriere\ndel nemico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 152,
+      "effect": "L\u2019abilit\u00e0 del nemico cambia\nin Mummia dopo il contatto.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 152,
+      "effect": "L\u2019abilit\u00e0 del nemico cambia\nin Mummia dopo il contatto.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 153,
+      "effect": "Aumenta l\u2019Attacco quando\nmanda un nemico KO.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 153,
+      "effect": "Aumenta l\u2019Attacco quando\nmanda un nemico KO.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 154,
+      "effect": "L\u2019Attacco aumenta se si \u00e8\ncolpiti da una mossa di tipo Buio.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 154,
+      "effect": "L\u2019Attacco aumenta se si \u00e8\ncolpiti da una mossa di tipo Buio.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 155,
+      "effect": "Per paura di certi tipi di mosse,\nla Velocit\u00e0 sale.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 155,
+      "effect": "Per paura di certi tipi di mosse,\nla Velocit\u00e0 sale.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 156,
+      "effect": "Riflette al mittente le mosse\ndi stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 156,
+      "effect": "Riflette al mittente le mosse\ndi stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 157,
+      "effect": "Neutralizza le mosse di tipo Erba\nsubite per aumentare l\u2019Attacco.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 157,
+      "effect": "Neutralizza le mosse di tipo Erba\nsubite per aumentare l\u2019Attacco.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 158,
+      "effect": "D\u00e0 priorit\u00e0 a mosse che alterano\nlo stato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 158,
+      "effect": "D\u00e0 priorit\u00e0 a mosse che alterano\nlo stato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 159,
+      "effect": "Potenzia alcune mosse nelle\ntempeste di sabbia.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 159,
+      "effect": "Potenzia alcune mosse nelle\ntempeste di sabbia.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 160,
+      "effect": "Se chi attacca mette a segno una\nmossa fisica, viene danneggiato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 160,
+      "effect": "Se chi attacca mette a segno una    \nmossa fisica, viene danneggiato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 161,
+      "effect": "Se il Pok\u00e9mon \u00e8 in difficolt\u00e0,\nne cambia l\u2019aspetto.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 161,
+      "effect": "Se il Pok\u00e9mon \u00e8 in difficolt\u00e0,\nne cambia l\u2019aspetto.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 162,
+      "effect": "Aumenta la precisione di chi la\npossiede e quella degli alleati.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 162,
+      "effect": "Aumenta la precisione di chi la\npossiede e quella degli alleati.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 163,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 163,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 164,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 164,
+      "effect": "Neutralizza le abilit\u00e0 che\nbloccano le mosse.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 165,
+      "effect": "Protegge s\u00e9 e gli alleati da mosse\nche limitano la scelta di attacchi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 165,
+      "effect": "Protegge s\u00e9 e gli alleati da mosse \nche limitano la scelta di attacchi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 166,
+      "effect": "Evita il calo delle statistiche\ndegli alleati di tipo Erba.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 166,
+      "effect": "Evita il calo delle statistiche\ndegli alleati di tipo Erba.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 167,
+      "effect": "Fa recuperare PS quando\nil Pok\u00e9mon mangia una bacca.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 167,
+      "effect": "Fa recuperare PS quando\nil Pok\u00e9mon mangia una bacca.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 168,
+      "effect": "Cambia il tipo del Pok\u00e9mon in\nquello della mossa usata.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 168,
+      "effect": "Cambia il tipo del Pok\u00e9mon in\nquello della mossa usata.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 169,
+      "effect": "Dimezza il danno degli attacchi\nfisici subiti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 169,
+      "effect": "Dimezza il danno degli attacchi\nfisici subiti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 170,
+      "effect": "Ruba lo strumento del Pok\u00e9mon\nsu cui \u00e8 stata usata una mossa.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 170,
+      "effect": "Ruba lo strumento del Pok\u00e9mon\nsu cui \u00e8 stata usata una mossa.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 171,
+      "effect": "Protegge da alcune mosse\na base di proiettili e bombe.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 171,
+      "effect": "Protegge da alcune mosse\na base di proiettili e bombe.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 172,
+      "effect": "L\u2019Attacco aumenta quando un\nnemico fa calare le statistiche.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 172,
+      "effect": "L\u2019Attacco aumenta quando un\nnemico fa calare le statistiche.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 173,
+      "effect": "La robusta mascella del Pok\u00e9mon\npermette morsi molto potenti.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 173,
+      "effect": "La robusta mascella del Pok\u00e9mon  \npermette morsi molto potenti.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 174,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Ghiaccio.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 174,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Ghiaccio.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 175,
+      "effect": "Impedisce a s\u00e9 e agli alleati\ndi addormentarsi.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 175,
+      "effect": "Impedisce a s\u00e9 e agli alleati\ndi addormentarsi.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 176,
+      "effect": "L\u2019aspetto del Pok\u00e9mon cambia\nin base alla modalit\u00e0 di lotta.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 176,
+      "effect": "L\u2019aspetto del Pok\u00e9mon cambia\nin base alla modalit\u00e0 di lotta.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 177,
+      "effect": "D\u00e0 priorit\u00e0 alle mosse di tipo\nVolante.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 177,
+      "effect": "D\u00e0 priorit\u00e0 alle mosse di tipo\nVolante.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 178,
+      "effect": "Potenzia le mosse \u201cpulsar\u201d\ne altre come Ondasana.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 178,
+      "effect": "Potenzia le mosse \u201cpulsar\u201d\ne altre come Ondasana.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 179,
+      "effect": "Aumenta la Difesa durante\nl\u2019effetto di Campo Erboso.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 179,
+      "effect": "Aumenta la Difesa durante\nl\u2019effetto di Campo Erboso.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 180,
+      "effect": "Il Pok\u00e9mon pu\u00f2 passare il suo\nstrumento a un alleato.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 180,
+      "effect": "Il Pok\u00e9mon pu\u00f2 passare il suo\nstrumento a un alleato.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 181,
+      "effect": "Potenzia le mosse che causano\nun contatto fisico.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 181,
+      "effect": "Potenzia le mosse che causano\nun contatto fisico.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 182,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Folletto.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 182,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Folletto.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 183,
+      "effect": "Riduce la Velocit\u00e0 del Pok\u00e9mon\ncon cui entra in contatto.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 183,
+      "effect": "Riduce la Velocit\u00e0 del Pok\u00e9mon\ncon cui entra in contatto.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 184,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Volante.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 184,
+      "effect": "Le mosse di tipo Normale\ndiventano di tipo Volante.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 185,
+      "effect": "Il Pok\u00e9mon e il suo piccolo\nattaccano insieme.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 185,
+      "effect": "Il Pok\u00e9mon e il suo piccolo\nattaccano insieme.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 186,
+      "effect": "Potenzia le mosse di tipo Buio\ndi tutti i Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 186,
+      "effect": "Potenzia le mosse di tipo Buio\ndi tutti i Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 187,
+      "effect": "Potenzia le mosse di tipo Folletto\ndi tutti i Pok\u00e9mon.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 187,
+      "effect": "Potenzia le mosse di tipo Folletto \ndi tutti i Pok\u00e9mon.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 188,
+      "effect": "Inverte gli effetti di tutte\nle aure.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 188,
+      "effect": "Inverte gli effetti di tutte\nle aure.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 189,
+      "effect": "Crea un clima che rende inefficaci  \ngli attacchi di tipo Fuoco.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 190,
+      "effect": "Crea un clima che rende inefficaci  \ngli attacchi di tipo Acqua.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 191,
+      "effect": "Crea un clima che annulla i punti\ndeboli del tipo Volante.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ]
+]

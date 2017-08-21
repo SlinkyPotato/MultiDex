@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 1,
+    "name": "\uc545\ucde8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "\uc794\ube44",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "\uac00\uc18d",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "\uc804\ud22c\ubb34\uc7a5",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "\uc639\uace8\ucc38",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "\uc2b5\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "\uc720\uc5f0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "\ubaa8\ub798\uc228\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "\uc815\uc804\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "\ucd95\uc804",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "\uc800\uc218",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "\ub454\uac10",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "\ub0a0\uc528\ubd80\uc815",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "\ubcf5\uc548",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "\ubd88\uba74",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "\ubcc0\uc0c9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "\uba74\uc5ed",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "\ud0c0\uc624\ub974\ub294\ubd88\uaf43",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "\uc778\ubd84",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "\ub9c8\uc774\ud398\uc774\uc2a4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "\ud761\ubc18",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "\uc704\ud611",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "\uadf8\ub9bc\uc790\ubc1f\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "\uae4c\uce60\ud55c\ud53c\ubd80",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "\ubd88\uac00\uc0ac\uc758\ubd80\uc801",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "\ubd80\uc720",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "\ud3ec\uc790",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "\uc2f1\ud06c\ub85c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "\ud074\ub9ac\uc5b4\ubc14\ub514",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "\uc790\uc5f0\ud68c\ubcf5",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "\ud53c\ub8b0\uce68",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "\ud558\ub298\uc758\uc740\ucd1d",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "\uc4f1\uc4f1",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "\uc5fd\ub85d\uc18c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "\ubc1c\uad11",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "\ud2b8\ub808\uc774\uc2a4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "\ucc9c\ud558\uc7a5\uc0ac",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "\ub3c5\uac00\uc2dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "\uc815\uc2e0\ub825",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "\ub9c8\uadf8\ub9c8\uc758\ubb34\uc7a5",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 41,
+    "name": "\uc218\uc758\ubca0\uc77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "\uc790\ub825",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "\ubc29\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "\uc816\uc740\uc811\uc2dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "\ubaa8\ub798\ub0a0\ub9bc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 46,
+    "name": "\ud504\ub808\uc154",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "\ub450\uaebc\uc6b4\uc9c0\ubc29",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 48,
+    "name": "\uc77c\ucc0d\uae30\uc0c1",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "\ubd88\uaf43\ubab8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "\ub3c4\uc8fc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "\ub0a0\uce74\ub85c\uc6b4\ub208",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 52,
+    "name": "\uad34\ub825\uc9d1\uac8c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 53,
+    "name": "\ud53d\uc5c5",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "\uac8c\uc73c\ub984",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "\uc758\uc695",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 56,
+    "name": "\ud5e4\ub871\ud5e4\ub871\ubc14\ub514",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "\ud50c\ub7ec\uc2a4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 58,
+    "name": "\ub9c8\uc774\ub108\uc2a4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "\uae30\ubd84\ud30c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 60,
+    "name": "\uc810\ucc29",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 61,
+    "name": "\ud0c8\ud53c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 62,
+    "name": "\uadfc\uc131",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 63,
+    "name": "\uc774\uc0c1\ud55c\ube44\ub298",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "\ud574\uac10\uc561",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "\uc2ec\ub85d",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "\ub9f9\ud654",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "\uae09\ub958",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 68,
+    "name": "\ubc8c\ub808\uc758\uc54c\ub9bc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 69,
+    "name": "\ub3cc\uba38\ub9ac",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "\uac00\ubb44",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "\uac1c\ubbf8\uc9c0\uc625",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "\uc758\uae30\uc591\uc591",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "\ud558\uc580\uc5f0\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "\uc21c\uc218\ud55c\ud798",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": "\uc870\uac00\ube44\uac11\uc637",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "\uc5d0\uc5b4\ub85d",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 77,
+    "name": "\uac08\uc9c0\uc790\uac78\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "\uc804\uae30\uc5d4\uc9c4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 79,
+    "name": "\ud22c\uc7c1\uc2ec",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 80,
+    "name": "\ubd88\uad74\uc758\ub9c8\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 81,
+    "name": "\ub208\uc228\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 82,
+    "name": "\uba39\ubcf4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 83,
+    "name": "\ubd84\ub178\uc758\uacbd\ud608",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 84,
+    "name": "\uace1\uc608",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "\ub0b4\uc5f4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 86,
+    "name": "\ub2e8\uc21c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "\uac74\uc870\ud53c\ubd80",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": "\ub2e4\uc6b4\ub85c\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 89,
+    "name": "\ucca0\uc8fc\uba39",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 90,
+    "name": "\ud3ec\uc774\uc98c\ud790",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "\uc801\uc751\ub825",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": "\uc2a4\ud0ac\ub9c1\ud06c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "\ucd09\ucd09\ubc14\ub514",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "\uc120\ud30c\uc6cc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "\uc18d\ubcf4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "\ub178\ub9d0\uc2a4\ud0a8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": "\uc2a4\ub098\uc774\ud37c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": "\ub9e4\uc9c1\uac00\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "\ub178\uac00\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "\uc2dc\uac04\ubc8c\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "\ud14c\ud06c\ub2c8\uc158",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "\ub9ac\ud504\uac00\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "\uc11c\ud22c\ub984",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "\ud2c0\uae68\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": "\ub300\uc6b4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": "\uc720\ud3ed",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": "\uc704\ud5d8\uc608\uc9c0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "\uc608\uc9c0\ubabd",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "\ucc9c\uc9c4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "\uc0c9\uc548\uacbd",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "\ud544\ud130",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": "\uc2ac\ub85c\uc2a4\ud0c0\ud2b8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": "\ubc30\uc9f1",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": "\ub9c8\uc911\ubb3c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": "\uc544\uc774\uc2a4\ubc14\ub514",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": "\ud558\ub4dc\ub85d",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": "\ub208\ud37c\ub728\ub9ac\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "\uafc0\ubaa8\uc73c\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": "\ud1b5\ucc30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "\uc774\ud310\uc0ac\ud310",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": "\uba40\ud2f0\ud0c0\uc785",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "\ud50c\ub77c\uc6cc\uae30\ud504\ud2b8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": "\ub098\uc774\ud2b8\uba54\uc5b4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "\ub098\uc05c\uc190\ubc84\ub987",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": "\uc6b0\uaca9\ub2e4\uc9d0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "\uc2ec\uc220\uafb8\ub7ec\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "\uae34\uc7a5\uac10",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "\uc624\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "\ubb34\uae30\ub825",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "\uc800\uc8fc\ubc1b\uc740\ubc14\ub514",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "\uce58\uc720\uc758\ub9c8\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "\ud504\ub80c\ub4dc\uac00\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "\uae68\uc5b4\uc9c4\uac11\uc637",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "\ud5e4\ube44\uba54\ud0c8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "\ub77c\uc774\ud2b8\uba54\ud0c8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": "\uba40\ud2f0\uc2a4\ucf00\uc77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": "\ub3c5\ud3ed\uc8fc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": "\uc5f4\ud3ed\uc8fc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": "\uc218\ud655",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "\ud154\ub808\ud30c\uc2dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": "\ubcc0\ub355\uc7c1\uc774",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "\ubc29\uc9c4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": "\ub3c5\uc218",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "\uc7ac\uc0dd\ub825",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "\ubd80\ud480\ub9b0\uac00\uc2b4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "\ubaa8\ub798\ud5e4\uce58\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "\ubbf8\ub77c\ud074\uc2a4\ud0a8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "\uc560\ub110\ub77c\uc774\uc988",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "\uc77c\ub8e8\uc804",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "\uad34\uc9dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 151,
+    "name": "\ud2c8\uc0c8\ud3ec\ucc29",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "\ubbf8\ub77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "\uc790\uae30\uacfc\uc2e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "\uc815\uc758\uc758\ub9c8\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "\uc8fc\ub205",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "\ub9e4\uc9c1\ubbf8\ub7ec",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "\ucd08\uc2dd",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 158,
+    "name": "\uc9d3\uad82\uc740\ub9c8\uc74c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "\ubaa8\ub798\uc758\ud798",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 160,
+    "name": "\ucca0\uac00\uc2dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 161,
+    "name": "\ub2ec\ub9c8\ubaa8\ub4dc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 162,
+    "name": "\uc2b9\ub9ac\uc758\ubcc4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 163,
+    "name": "\ud130\ubcf4\ube14\ub808\uc774\uc988",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": "\ud14c\ub77c\ubcfc\ud2f0\uc9c0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 165,
+    "name": "\uc544\ub85c\ub9c8\ubca0\uc77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 166,
+    "name": "\ud50c\ub77c\uc6cc\ubca0\uc77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 167,
+    "name": "\ubcfc\uc8fc\uba38\ub2c8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "\ubcc0\ud658\uc790\uc7ac",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 169,
+    "name": "\ud37c\ucf54\ud2b8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 170,
+    "name": "\ub9e4\uc9c0\uc158",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 171,
+    "name": "\ubc29\ud0c4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 172,
+    "name": "\uc2b9\uae30",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 173,
+    "name": "\uc639\uace8\ucc2c\ud131",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 174,
+    "name": "\ud504\ub9ac\uc988\uc2a4\ud0a8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 175,
+    "name": "\uc2a4\uc704\ud2b8\ubca0\uc77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 176,
+    "name": "\ubc30\ud2c0\uc2a4\uc704\uce58",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 177,
+    "name": "\uc9c8\ud48d\ub0a0\uac1c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 178,
+    "name": "\uba54\uac00\ub7f0\ucc98",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 179,
+    "name": "\ud480\ubaa8\ud53c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 180,
+    "name": "\uacf5\uc0dd",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "\ub2e8\ub2e8\ud55c\ubc1c\ud1b1",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 182,
+    "name": "\ud398\uc5b4\ub9ac\uc2a4\ud0a8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 183,
+    "name": "\ubbf8\ub048\ubbf8\ub048",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 184,
+    "name": "\uc2a4\uce74\uc774\uc2a4\ud0a8",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 185,
+    "name": "\ubd80\uc790\uc720\uce5c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 186,
+    "name": "\ub2e4\ud06c\uc624\ub77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 187,
+    "name": "\ud398\uc5b4\ub9ac\uc624\ub77c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 188,
+    "name": "\uc624\ub77c\ube0c\ub808\uc774\ud06c",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 189,
+    "name": "\uc2dc\uc791\uc758\ubc14\ub2e4",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 190,
+    "name": "\ub05d\uc758\ub300\uc9c0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 191,
+    "name": "\ub378\ud0c0\uc2a4\ud2b8\ub9bc",
+    "battle_effect": null,
+    "description": null
+  }
+]

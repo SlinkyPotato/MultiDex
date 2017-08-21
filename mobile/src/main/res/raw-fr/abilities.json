@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 1,
+    "name": "Puanteur",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Crachin",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Turbo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Armurbaston",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Fermet\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Moiteur",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "\u00c9chauffement",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Voile Sable",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Statik",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Absorb Volt",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Absorb Eau",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Ben\u00eat",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Ciel Gris",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "\u0152il Compos\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Insomnia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "D\u00e9guisement",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Vaccin",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Torche",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "\u00c9cran Poudre",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Tempo Perso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Ventouse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Intimidation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Marque Ombre",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Peau Dure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Garde Mystik",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "L\u00e9vitation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Pose Spore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "Synchro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "Corps Sain",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "M\u00e9dic Nature",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Paratonnerre",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "S\u00e9r\u00e9nit\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Glissade",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Chlorophylle",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Lumiattirance",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Calque",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Coloforce",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Point Poison",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Attention",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Armumagma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 41,
+    "name": "Ignifu-Voile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Magn\u00e9pi\u00e8ge",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Anti-Bruit",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Cuvette",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Sable Volant",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 46,
+    "name": "Pression",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Isograisse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 48,
+    "name": "Matinal",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Corps Ardent",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Fuite",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Regard Vif",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 52,
+    "name": "Hyper Cutter",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 53,
+    "name": "Ramassage",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Absent\u00e9isme",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "Agitation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 56,
+    "name": "Joli Sourire",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "Plus",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 58,
+    "name": "Minus",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "M\u00e9t\u00e9o",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 60,
+    "name": "Glue",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 61,
+    "name": "Mue",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 62,
+    "name": "Cran",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 63,
+    "name": "\u00c9caille Sp\u00e9ciale",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Suintement",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Engrais",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Brasier",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Torrent",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 68,
+    "name": "Essaim",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 69,
+    "name": "T\u00eate de Roc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "S\u00e9cheresse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Pi\u00e8ge",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Esprit Vital",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "\u00c9cran Fum\u00e9e",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "Force Pure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": "Coque Armure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Air Lock",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 77,
+    "name": "Pieds Confus",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Motoris\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 79,
+    "name": "Rivalit\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 80,
+    "name": "Impassible",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 81,
+    "name": "Rideau Neige",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 82,
+    "name": "Gloutonnerie",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 83,
+    "name": "Col\u00e9rique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 84,
+    "name": "D\u00e9lestage",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Ignifug\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 86,
+    "name": "Simple",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Peau S\u00e8che",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": "T\u00e9l\u00e9charge",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 89,
+    "name": "Poing de Fer",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 90,
+    "name": "Soin Poison",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "Adaptabilit\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": "Multi-Coups",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Hydratation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Force Soleil",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Pied V\u00e9loce",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Normalise",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": "Sniper",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": "Garde Magik",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "Annule Garde",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Frein",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "Technicien",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "Feuille Garde",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "Maladresse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "Brise Moule",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": "Chanceux",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": "Boom Final",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": "Anticipation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "Pr\u00e9diction",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Inconscient",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Lentiteint\u00e9e",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Filtre",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": "D\u00e9but Calme",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": "Querelleur",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": "Lavabo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": "Corps Gel",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": "Solide Roc",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": "Alerte Neige",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "Cherche Miel",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": "Fouille",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "T\u00e9m\u00e9raire",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": "Multi-Type",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Don Floral",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": "Mauvais R\u00eave",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Pickpocket",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": "Sans Limite",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Contestation",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Tension",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Acharn\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "D\u00e9faitiste",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "Corps Maudit",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "C\u0153ur Soin",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Garde Amie",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "Armurouill\u00e9e",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Heavy Metal",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Light Metal",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": "Multi\u00e9caille",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": "Rage Poison",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": "Rage Br\u00fblure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": "R\u00e9colte",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "T\u00e9l\u00e9pathe",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": "Lunatique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Envelocape",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": "Toxitouche",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "R\u00e9g\u00e9-Force",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "C\u0153ur de Coq",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Baigne Sable",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Peau Miracle",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Analyste",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Illusion",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Imposteur",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 151,
+    "name": "Infiltration",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Momie",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Impudence",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "C\u0153ur Noble",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Phobique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Miroir Magik",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Herbivore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 158,
+    "name": "Farceur",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Force Sable",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 160,
+    "name": "\u00c9pine de Fer",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 161,
+    "name": "Mode Transe",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 162,
+    "name": "Victorieux",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 163,
+    "name": "TurboBrasier",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": "T\u00e9ra-Voltage",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 165,
+    "name": "Aroma-Voile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 166,
+    "name": "Flora-Voile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 167,
+    "name": "Bajoues",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Prot\u00e9en",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 169,
+    "name": "Toison \u00c9paisse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 170,
+    "name": "Magicien",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 171,
+    "name": "Pare-Balles",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 172,
+    "name": "Battant",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 173,
+    "name": "Prognathe",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 174,
+    "name": "Peau Gel\u00e9e",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 175,
+    "name": "Gluco-Voile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 176,
+    "name": "D\u00e9clic Tactique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 177,
+    "name": "Ailes Bourrasque",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 178,
+    "name": "M\u00e9ga Blaster",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 179,
+    "name": "Toison Herbue",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 180,
+    "name": "Symbiose",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Griffe Dure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 182,
+    "name": "Peau F\u00e9\u00e9rique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 183,
+    "name": "Poisseux",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 184,
+    "name": "Peau C\u00e9leste",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 185,
+    "name": "Amour Filial",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 186,
+    "name": "Aura T\u00e9n\u00e9breuse",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 187,
+    "name": "Aura F\u00e9\u00e9rique",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 188,
+    "name": "Aura Invers\u00e9e",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 189,
+    "name": "Mer Primaire",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 190,
+    "name": "Terre Finale",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 191,
+    "name": "Souffle Delta",
+    "battle_effect": null,
+    "description": null
+  }
+]

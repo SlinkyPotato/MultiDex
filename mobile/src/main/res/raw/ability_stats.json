@@ -1,0 +1,766 @@
+[
+  {
+    "abilityId": 1,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 2,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 3,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 4,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 5,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 6,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 7,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 8,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 9,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 10,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 11,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 12,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 13,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 14,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 15,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 16,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 17,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 18,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 19,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 20,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 21,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 22,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 23,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 24,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 25,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 26,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 27,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 28,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 29,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 30,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 31,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 32,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 33,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 34,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 35,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 36,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 37,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 38,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 39,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 40,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 41,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 42,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 43,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 44,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 45,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 46,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 47,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 48,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 49,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 50,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 51,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 52,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 53,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 54,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 55,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 56,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 57,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 58,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 59,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 60,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 61,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 62,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 63,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 64,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 65,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 66,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 67,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 68,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 69,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 70,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 71,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 72,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 73,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 74,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 75,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 76,
+    "genId": "generation-iii"
+  },
+  {
+    "abilityId": 77,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 78,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 79,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 80,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 81,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 82,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 83,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 84,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 85,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 86,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 87,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 88,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 89,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 90,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 91,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 92,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 93,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 94,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 95,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 96,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 97,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 98,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 99,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 100,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 101,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 102,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 103,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 104,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 105,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 106,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 107,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 108,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 109,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 110,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 111,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 112,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 113,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 114,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 115,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 116,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 117,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 118,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 119,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 120,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 121,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 122,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 123,
+    "genId": "generation-iv"
+  },
+  {
+    "abilityId": 124,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 125,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 126,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 127,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 128,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 129,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 130,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 131,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 132,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 133,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 134,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 135,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 136,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 137,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 138,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 139,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 140,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 141,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 142,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 143,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 144,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 145,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 146,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 147,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 148,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 149,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 150,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 151,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 152,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 153,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 154,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 155,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 156,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 157,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 158,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 159,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 160,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 161,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 162,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 163,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 164,
+    "genId": "generation-v"
+  },
+  {
+    "abilityId": 165,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 166,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 167,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 168,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 169,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 170,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 171,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 172,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 173,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 174,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 175,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 176,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 177,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 178,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 179,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 180,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 181,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 182,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 183,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 184,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 185,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 186,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 187,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 188,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 189,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 190,
+    "genId": "generation-vi"
+  },
+  {
+    "abilityId": 191,
+    "genId": "generation-vi"
+  }
+]

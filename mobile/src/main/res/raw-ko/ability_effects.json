@@ -1,0 +1,2279 @@
+[
+  [
+    {
+      "abilityId": 1,
+      "effect": "\uc545\ucde8 \ub54c\ubb38\uc5d0 \uc0c1\ub300\uac00\n\ud480\uc8fd\uc744 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 1,
+      "effect": "\uc545\ucde8 \ub54c\ubb38\uc5d0 \uc0c1\ub300\uac00\n\ud480\uc8fd\uc744 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 2,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ube44\ub97c \ub0b4\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 2,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ube44\ub97c \ub0b4\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 3,
+      "effect": "\uc870\uae08\uc529\n\uc2a4\ud53c\ub4dc\uac00 \ub192\uc544\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 3,
+      "effect": "\uc870\uae08\uc529\n\uc2a4\ud53c\ub4dc\uac00 \ub192\uc544\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 4,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 4,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 5,
+      "effect": "\uc77c\uaca9\uc73c\ub85c\n\uc4f0\ub7ec\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 5,
+      "effect": "\uc77c\uaca9\uc73c\ub85c\n\uc4f0\ub7ec\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 6,
+      "effect": "\ub204\uad6c\ub3c4 \ud3ed\ubc1c\n\ud560 \uc218 \uc5c6\uac8c \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 6,
+      "effect": "\ub204\uad6c\ub3c4 \ud3ed\ubc1c\n\ud560 \uc218 \uc5c6\uac8c \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 7,
+      "effect": "\ub9c8\ube44 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 7,
+      "effect": "\ub9c8\ube44 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 8,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 8,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 9,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\ub9c8\ube44\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 9,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\ub9c8\ube44\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 10,
+      "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 10,
+      "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 11,
+      "effect": "\ubb3c\uc744 \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 11,
+      "effect": "\ubb3c\uc744 \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 12,
+      "effect": "\ud5e4\ub871\ud5e4\ub871\uc774\ub098 \ub3c4\ubc1c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 12,
+      "effect": "\ud5e4\ub871\ud5e4\ub871\uc774\ub098 \ub3c4\ubc1c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 13,
+      "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 13,
+      "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 14,
+      "effect": "\uae30\uc220\uc758 \uba85\uc911\ub960\uc774\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 14,
+      "effect": "\uae30\uc220\uc758 \uba85\uc911\ub960\uc774\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 15,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 15,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 16,
+      "effect": "\ubc1b\uc740 \uae30\uc220\uc758 \ud0c0\uc785\uc73c\ub85c\n\ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 16,
+      "effect": "\ubc1b\uc740 \uae30\uc220\uc758 \ud0c0\uc785\uc73c\ub85c\n\ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 17,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 17,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 18,
+      "effect": "\ubd88\uaf43\uc744 \ubc1b\uc73c\uba74\n\ubd88\uaf43 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 18,
+      "effect": "\ubd88\uaf43\uc744 \ubc1b\uc73c\uba74\n\ubd88\uaf43 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 19,
+      "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\ub97c\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 19,
+      "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\ub97c\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 20,
+      "effect": "\ud63c\ub780 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 20,
+      "effect": "\ud63c\ub780 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 21,
+      "effect": "\uad50\uccb4\uc2dc\ud0a4\ub294 \uae30\uc220\uc774\ub098 \ub3c4\uad6c\uc758\n\ud6a8\uacfc\ub97c \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 21,
+      "effect": "\uad50\uccb4\uc2dc\ud0a4\ub294 \uae30\uc220\uc774\ub098 \ub3c4\uad6c\uc758\n\ud6a8\uacfc\ub97c \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 22,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 22,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 23,
+      "effect": "\uc0c1\ub300\uc758 \uadf8\ub9bc\uc790\ub97c \ubc1f\uc544\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 23,
+      "effect": "\uc0c1\ub300\uc758 \uadf8\ub9bc\uc790\ub97c \ubc1f\uc544\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 24,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 24,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 25,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\ubc16\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 25,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\ubc16\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 26,
+      "effect": "\ub545\ud0c0\uc785\uc758 \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 26,
+      "effect": "\ub545\ud0c0\uc785\uc758 \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 27,
+      "effect": "\uc2a4\uce58\uba74 \ub3c5, \ub9c8\ube44, \uc7a0\ub4e6\n\uc0c1\ud0dc\uac00 \ub420 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 27,
+      "effect": "\uc2a4\uce58\uba74 \ub3c5, \ub9c8\ube44, \uc7a0\ub4e6\n\uc0c1\ud0dc\uac00 \ub420 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 28,
+      "effect": "\ub3c5, \ub9c8\ube44, \ud654\uc0c1\uc744\n\uc0c1\ub300\uc5d0\uac8c \uc62e\uae34\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 28,
+      "effect": "\ub3c5, \ub9c8\ube44, \ud654\uc0c1\uc744\n\uc0c1\ub300\uc5d0\uac8c \uc62e\uae34\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 29,
+      "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 29,
+      "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 30,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc77c\ub2e8 \ubb3c\ub7ec\ub098\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 30,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc77c\ub2e8 \ubb3c\ub7ec\ub098\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 31,
+      "effect": "\uc804\uae30\ub97c \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 31,
+      "effect": "\uc804\uae30\ub97c \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 32,
+      "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\uac00\n\ub098\uc624\uae30 \uc27d\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 32,
+      "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\uac00\n\ub098\uc624\uae30 \uc27d\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 33,
+      "effect": "\ube44\uac00 \uc62c \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 33,
+      "effect": "\ube44\uac00 \uc62c \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 34,
+      "effect": "\ub9d1\uc744 \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 34,
+      "effect": "\ub9d1\uc744 \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 35,
+      "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uacfc\n\ub9cc\ub098\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 35,
+      "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uacfc\n\ub9cc\ub098\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 36,
+      "effect": "\uc0c1\ub300\uc640 \uac19\uc740\n\ud2b9\uc131\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 36,
+      "effect": "\uc0c1\ub300\uc640 \uac19\uc740\n\ud2b9\uc131\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 37,
+      "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 37,
+      "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 38,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\uc911\ub3c5\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 38,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\uc911\ub3c5\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 39,
+      "effect": "\ud480\uc8fd\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 39,
+      "effect": "\ud480\uc8fd\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 40,
+      "effect": "\uc5bc\uc74c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 40,
+      "effect": "\uc5bc\uc74c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 41,
+      "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 41,
+      "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 42,
+      "effect": "\uac15\ucca0\uc758 \ud3ec\ucf13\ubaac\uc744\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 42,
+      "effect": "\uac15\ucca0\uc758 \ud3ec\ucf13\ubaac\uc744\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 43,
+      "effect": "\uc18c\ub9ac \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 43,
+      "effect": "\uc18c\ub9ac \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 44,
+      "effect": "\ube44\uac00 \uc62c \ub54c \uc870\uae08\uc529\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 44,
+      "effect": "\ube44\uac00 \uc62c \ub54c \uc870\uae08\uc529\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 45,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \ubaa8\ub798\ubc14\ub78c\uc744\n\uc77c\uc73c\ud0a8\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 45,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \ubaa8\ub798\ubc14\ub78c\uc744\n\uc77c\uc73c\ud0a8\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 46,
+      "effect": "\uc0c1\ub300\uac00 \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\nPP\ub97c \ub9ce\uc774 \uc904\uc778\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 46,
+      "effect": "\uc0c1\ub300\uac00 \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\nPP\ub97c \ub9ce\uc774 \uc904\uc778\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 47,
+      "effect": "\ubd88\uaf43\uacfc \uc5bc\uc74c\ud0c0\uc785\uc758\n\uae30\uc220\uc5d0 \uac15\ud558\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 47,
+      "effect": "\ubd88\uaf43\uacfc \uc5bc\uc74c\ud0c0\uc785\uc758\n\uae30\uc220\uc5d0 \uac15\ud558\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 48,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uc5d0\uc11c\n\ube68\ub9ac \uae68\uc5b4\ub09c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 48,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uc5d0\uc11c\n\ube68\ub9ac \uae68\uc5b4\ub09c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 49,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\ud654\uc0c1\uc744 \uc785\ud790 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 49,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\ud654\uc0c1\uc744 \uc785\ud790 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 50,
+      "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uc73c\ub85c\ubd80\ud130\n\ubc18\ub4dc\uc2dc \ub3c4\ub9dd\uce60 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 50,
+      "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uc73c\ub85c\ubd80\ud130\n\ubc18\ub4dc\uc2dc \ub3c4\ub9dd\uce60 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 51,
+      "effect": "\uba85\uc911\ub960\uc774\n\ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 51,
+      "effect": "\uba85\uc911\ub960\uc774\n\ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 52,
+      "effect": "\uc0c1\ub300\uac00 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9ac\uc9c0 \ubabb\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 52,
+      "effect": "\uc0c1\ub300\uac00 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9ac\uc9c0 \ubabb\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 53,
+      "effect": "\ub3c4\uad6c\ub97c \uc8fc\uc6cc\uc62c\n\ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 53,
+      "effect": "\ub3c4\uad6c\ub97c \uc8fc\uc6cc\uc62c\n\ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 54,
+      "effect": "\uc5f0\uc18d\uc73c\ub85c\n\uacf5\uaca9\ud560 \uc218 \uc5c6\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 54,
+      "effect": "\uc5f0\uc18d\uc73c\ub85c\n\uacf5\uaca9\ud560 \uc218 \uc5c6\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 55,
+      "effect": "\uacf5\uaca9\uc740 \ub192\uc9c0\ub9cc\n\ube57\ub098\uac00\uae30 \uc27d\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 55,
+      "effect": "\uacf5\uaca9\uc740 \ub192\uc9c0\ub9cc\n\ube57\ub098\uac00\uae30 \uc27d\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 56,
+      "effect": "\uc2a4\uce58\uba74 \ud5e4\ub871\ud5e4\ub871 \uc0c1\ud0dc\uac00\n\ub420 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 56,
+      "effect": "\uc2a4\uce58\uba74 \ud5e4\ub871\ud5e4\ub871 \uc0c1\ud0dc\uac00\n\ub420 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 57,
+      "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 57,
+      "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 58,
+      "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 58,
+      "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 59,
+      "effect": "\ub0a0\uc528\uc5d0 \ub530\ub77c\n\uce90\uc2a4\ud401\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 59,
+      "effect": "\ub0a0\uc528\uc5d0 \ub530\ub77c\n\uce90\uc2a4\ud401\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 60,
+      "effect": "\ub2ec\ub77c\ubd99\uc5b4\uc11c\n\ub3c4\uad6c\ub97c \uc9c0\ud0a8\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 60,
+      "effect": "\ub2ec\ub77c\ubd99\uc5b4\uc11c\n\ub3c4\uad6c\ub97c \uc9c0\ud0a8\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 61,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc744\n\ud68c\ubcf5\ud560 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 61,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc744\n\ud68c\ubcf5\ud560 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 62,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 62,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 63,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 63,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 64,
+      "effect": "\ud761\uc218\ud55c \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 64,
+      "effect": "\ud761\uc218\ud55c \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 65,
+      "effect": "\uc704\uae09\ud560 \ub54c \ud480\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 65,
+      "effect": "\uc704\uae09\ud560 \ub54c \ud480\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 66,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubd88\uaf43\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 66,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubd88\uaf43\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 67,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubb3c\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 67,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubb3c\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 68,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubc8c\ub808\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 68,
+      "effect": "\uc704\uae09\ud560 \ub54c \ubc8c\ub808\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 69,
+      "effect": "\ubd80\ub52a\uccd0\ub3c4\n\ubc18\ub3d9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 69,
+      "effect": "\ubd80\ub52a\uccd0\ub3c4\n\ubc18\ub3d9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 70,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ud587\uc0b4\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 70,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ud587\uc0b4\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 71,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc0c1\ub300\ub97c\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 71,
+      "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc0c1\ub300\ub97c\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 72,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 72,
+      "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 73,
+      "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 73,
+      "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 74,
+      "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 74,
+      "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 75,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 75,
+      "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 76,
+      "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 76,
+      "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 77,
+      "effect": "\ud63c\ub780\uc5d0 \ube60\uc838\uc788\uc73c\uba74\n\ud68c\ud53c\ud558\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 77,
+      "effect": "\ud63c\ub780\uc5d0 \ube60\uc838 \uc788\uc73c\uba74\n\ud68c\ud53c\ud558\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 78,
+      "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 78,
+      "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 79,
+      "effect": "\uc0c1\ub300\uc640 \uc131\ubcc4\uc774\n\uac19\uc73c\uba74 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 79,
+      "effect": "\uc0c1\ub300\uc640 \uc131\ubcc4\uc774\n\uac19\uc73c\uba74 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 80,
+      "effect": "\ud480\uc8fd\uc744 \ub54c\ub9c8\ub2e4\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 80,
+      "effect": "\ud480\uc8fd\uc744 \ub54c\ub9c8\ub2e4\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 81,
+      "effect": "\ub0a0\uc528\uac00 \uc2f8\ub77c\uae30\ub208\uc77c \ub54c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 81,
+      "effect": "\ub0a0\uc528\uac00 \uc2f8\ub77c\uae30\ub208\uc77c \ub54c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 82,
+      "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uc5ec\ub290 \ub54c\ubcf4\ub2e4\n\ube68\ub9ac \uc0ac\uc6a9\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 82,
+      "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uc5ec\ub290 \ub54c\ubcf4\ub2e4\n\ube68\ub9ac \uc0ac\uc6a9\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 83,
+      "effect": "\uae09\uc18c\uc5d0 \ub9de\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 83,
+      "effect": "\uae09\uc18c\uc5d0 \ub9de\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 84,
+      "effect": "\ub3c4\uad6c\uac00 \uc5c6\uc5b4\uc9c0\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 84,
+      "effect": "\ub3c4\uad6c\uac00 \uc5c6\uc5b4\uc9c0\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 85,
+      "effect": "\ubd88\uaf43 \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 85,
+      "effect": "\ubd88\uaf43\ud0c0\uc785 \uacf5\uaca9\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 86,
+      "effect": "\ub2a5\ub825 \ubcc0\ud654\uac00\n\uc5ec\ub290 \ub54c\ubcf4\ub2e4 \uc2ec\ud558\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 86,
+      "effect": "\ub2a5\ub825 \ubcc0\ud654\uac00\n\uc5ec\ub290 \ub54c\ubcf4\ub2e4 \uc2ec\ud558\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 87,
+      "effect": "\ub354\uc6b0\uba74 HP\uac00 \uc904\uc5b4\ub4e0\ub2e4.\n\ubb3c\ub85c HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 87,
+      "effect": "\ub354\uc6b0\uba74 HP\uac00 \uc904\uc5b4\ub4e0\ub2e4.\n\ubb3c\ub85c HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 88,
+      "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\uc744 \ubcf4\uace0\n\ub2a5\ub825\uce58\ub97c \ubc14\uafbc\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 88,
+      "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\uc744 \ubcf4\uace0\n\ub2a5\ub825\uce58\ub97c \ubc14\uafbc\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 89,
+      "effect": "\ud380\uce58\ub97c \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 89,
+      "effect": "\ud380\uce58\ub97c \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 90,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uac00 \ub418\uba74\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 90,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uac00 \ub418\uba74\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 91,
+      "effect": "\ud0c0\uc785\uc774 \uac19\uc740 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 91,
+      "effect": "\ud0c0\uc785\uc774 \uac19\uc740 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 92,
+      "effect": "\uc5f0\uc18d \uae30\uc220\uc744\n\ub9ce\uc774 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 92,
+      "effect": "\uc5f0\uc18d \uae30\uc220\uc744\n\ub9ce\uc774 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 93,
+      "effect": "\ube44\uac00 \uc624\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 93,
+      "effect": "\ube44\uac00 \uc624\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 94,
+      "effect": "\ub9d1\uc73c\uba74 HP\uac00 \uc904\uc9c0\ub9cc\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 94,
+      "effect": "\ub9d1\uc73c\uba74 HP\uac00 \uc904\uc9c0\ub9cc\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 95,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 95,
+      "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 96,
+      "effect": "\uc4f4 \uae30\uc220\uc774 \ubaa8\ub450\n\ub178\ub9d0\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 96,
+      "effect": "\uc4f4 \uae30\uc220\uc774 \ubaa8\ub450\n\ub178\ub9d0\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 97,
+      "effect": "\uae09\uc18c\uc5d0 \ub9de\ud614\uc744 \ub54c\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 97,
+      "effect": "\uae09\uc18c\uc5d0 \ub9de\ud614\uc744 \ub54c\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 98,
+      "effect": "\uacf5\uaca9 \uc774\uc678\uc5d0\ub294\n\ub370\ubbf8\uc9c0\ub97c \uc785\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 98,
+      "effect": "\uacf5\uaca9 \uc774\uc678\uc5d0\ub294\n\ub370\ubbf8\uc9c0\ub97c \uc785\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 99,
+      "effect": "\uc11c\ub85c\uc758 \uae30\uc220\uc774\n\ubc18\ub4dc\uc2dc \ub9de\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 99,
+      "effect": "\uc11c\ub85c\uc758 \uae30\uc220\uc774\n\ubc18\ub4dc\uc2dc \ub9de\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 100,
+      "effect": "\uc0c1\ub300\ubcf4\ub2e4 \uc7ac\ube68\ub77c\ub3c4\n\ud589\ub3d9\uc774 \ub290\ub824\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 100,
+      "effect": "\uc0c1\ub300\ubcf4\ub2e4 \uc7ac\ube68\ub77c\ub3c4\n\ud589\ub3d9\uc774 \ub290\ub824\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 101,
+      "effect": "\uc57d\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 101,
+      "effect": "\uc57d\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 102,
+      "effect": "\ub9d1\uc744 \ub54c\ub294\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 102,
+      "effect": "\ub9d1\uc744 \ub54c\ub294\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 103,
+      "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ub3c4\uad6c\ub97c\n\uc4f8 \uc218 \uc5c6\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 103,
+      "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ub3c4\uad6c\ub97c\n\uc4f8 \uc218 \uc5c6\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 104,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 104,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 105,
+      "effect": "\uc0c1\ub300\uc758 \uae09\uc18c\uc5d0\n\uacf5\uaca9\uc774 \ub9de\uae30 \uc27d\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 105,
+      "effect": "\uc0c1\ub300\uc758 \uae09\uc18c\uc5d0\n\uacf5\uaca9\uc774 \ub9de\uae30 \uc27d\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 106,
+      "effect": "\uae30\uc808\ud560 \ub54c \uc2a4\uce5c\n\uc0c1\ub300\uc5d0\uac8c \ub370\ubbf8\uc9c0\ub97c \uc900\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 106,
+      "effect": "\uae30\uc808\ud560 \ub54c \uc2a4\uce5c\n\uc0c1\ub300\uc5d0\uac8c \ub370\ubbf8\uc9c0\ub97c \uc900\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 107,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uc704\ud5d8\ud55c\n\uae30\uc220\uc744 \uac10\uc9c0\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 107,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uc704\ud5d8\ud55c\n\uae30\uc220\uc744 \uac10\uc9c0\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 108,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uae30\uc220\uc744\n\uaff0\ub6ab\uc5b4\ubcfc \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 108,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uae30\uc220\uc744\n\uaff0\ub6ab\uc5b4\ubcfc \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 109,
+      "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\n\ubcc0\ud654\ub97c \ubb34\uc2dc\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 109,
+      "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\n\ubcc0\ud654\ub97c \ubb34\uc2dc\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 110,
+      "effect": "\ud6a8\uacfc\uac00 \ubcc4\ub85c\uc778 \uae30\uc220\uc774\n\uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 110,
+      "effect": "\ud6a8\uacfc\uac00 \ubcc4\ub85c\uc778 \uae30\uc220\uc774\n\uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 111,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 111,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 112,
+      "effect": "\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\uac00\n\uc7a0\uc2dc \ub3d9\uc548 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 112,
+      "effect": "\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\uac00\n\uc7a0\uc2dc \ub3d9\uc548 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 113,
+      "effect": "\uace0\uc2a4\ud2b8\ud0c0\uc785\uc5d0\n\ub178\ub9d0 \uae30\uc220\uc774 \ub9de\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 113,
+      "effect": "\uace0\uc2a4\ud2b8\ud0c0\uc785\uc5d0\n\ub178\ub9d0 \uae30\uc220\uc774 \ub9de\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 114,
+      "effect": "\ubb3c\uc744 \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 114,
+      "effect": "\ubb3c\uc744 \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 115,
+      "effect": "\uc2f8\ub77c\uae30\ub208\uc77c \ub54c HP\ub97c\n\uc870\uae08\uc529 \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 115,
+      "effect": "\uc2f8\ub77c\uae30\ub208\uc77c \ub54c HP\ub97c\n\uc870\uae08\uc529 \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 116,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 116,
+      "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 117,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\uc2f8\ub77c\uae30\ub208\uc744 \ub0b4\ub9ac\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 117,
+      "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\uc2f8\ub77c\uae30\ub208\uc744 \ub0b4\ub9ac\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 118,
+      "effect": "\ub2ec\ucf64\ud55c\uafc0\uc744 \ubaa8\uc544\uc11c\n\uc62c \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 118,
+      "effect": "\ub2ec\ucf64\ud55c\uafc0\uc744 \ubaa8\uc544\uc11c\n\uc62c \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 119,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \ubb3c\uac74\uc744\n\uc54c \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 119,
+      "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \ubb3c\uac74\uc744\n\uc54c \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 120,
+      "effect": "\ubc18\ub3d9 \ub370\ubbf8\uc9c0\ub97c\n\ubc1b\ub294 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 120,
+      "effect": "\ubc18\ub3d9 \ub370\ubbf8\uc9c0\ub97c\n\ubc1b\ub294 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 121,
+      "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ud50c\ub808\uc774\ud2b8\uc5d0\n\ub530\ub77c \ud0c0\uc785\uc774 \ubc14\ub010\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 121,
+      "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ud50c\ub808\uc774\ud2b8\uc5d0\n\ub530\ub77c \ud0c0\uc785\uc774 \ubc14\ub010\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 122,
+      "effect": "\ub9d1\uc744 \ub54c \uc790\uc2e0\uacfc\n\uac19\uc740 \ud3b8\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 122,
+      "effect": "\ub9d1\uc744 \ub54c \uc790\uc2e0\uacfc\n\uac19\uc740 \ud3b8\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 123,
+      "effect": "\uc7a0\ub4e4\uc5b4 \uc788\ub294 \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 123,
+      "effect": "\uc7a0\ub4e4\uc5b4 \uc788\ub294 \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 124,
+      "effect": "\ub2ff\uc740 \uc0c1\ub300\ub85c\ubd80\ud130\n\ub3c4\uad6c\ub97c \ud6d4\uce5c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 124,
+      "effect": "\ub2ff\uc740 \uc0c1\ub300\ub85c\ubd80\ud130\n\ub3c4\uad6c\ub97c \ud6d4\uce5c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 125,
+      "effect": "\ud798\uc774 \uac15\ud574\uc9c0\uc9c0\ub9cc\n\ucd94\uac00 \ud6a8\uacfc\uac00 \uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 125,
+      "effect": "\ud798\uc774 \uac15\ud574\uc9c0\uc9c0\ub9cc\n\ucd94\uac00 \ud6a8\uacfc\uac00 \uc5c6\uc5b4\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 126,
+      "effect": "\ub2a5\ub825\uc758 \ubcc0\ud654\uac00\n\uc5ed\uc804\ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 126,
+      "effect": "\ub2a5\ub825\uc758 \ubcc0\ud654\uac00\n\uc5ed\uc804\ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 127,
+      "effect": "\uc0c1\ub300\ub97c \uae34\uc7a5\uc2dc\ucf1c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba39\uc9c0 \ubabb\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 127,
+      "effect": "\uc0c1\ub300\ub97c \uae34\uc7a5\uc2dc\ucf1c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba39\uc9c0 \ubabb\ud558\uac8c \ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 128,
+      "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 128,
+      "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 129,
+      "effect": "HP\uac00 \uc808\ubc18\uc774 \ub418\uba74\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 129,
+      "effect": "HP\uac00 \uc808\ubc18\uc774 \ub418\uba74\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 130,
+      "effect": "\uacf5\uaca9\ubc1b\uc73c\uba74 \uac00\ub054 \uc0c1\ub300\ub97c\n\uc0ac\uc2ac\ubb36\uae30 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 130,
+      "effect": "\uacf5\uaca9\ubc1b\uc73c\uba74 \uac00\ub054 \uc0c1\ub300\ub97c\n\uc0ac\uc2ac\ubb36\uae30 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 131,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \uc0c1\ud0dc \uc774\uc0c1\uc744\n\uac00\ub054 \ud68c\ubcf5\uc2dc\ud0a8\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 131,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \uc0c1\ud0dc \uc774\uc0c1\uc744\n\uac00\ub054 \ud68c\ubcf5\uc2dc\ud0a8\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 132,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ub370\ubbf8\uc9c0\ub97c\n\uc904\uc77c \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 132,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ub370\ubbf8\uc9c0\ub97c\n\uc904\uc77c \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 133,
+      "effect": "\ubb3c\ub9ac \uae30\uc220\uc744 \ubc1b\uc73c\uba74 \ubc29\uc5b4\uac00\n\ub5a8\uc5b4\uc9c0\uace0 \uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 133,
+      "effect": "\ubb3c\ub9ac \uae30\uc220\uc744 \ubc1b\uc73c\uba74 \ubc29\uc5b4\uac00\n\ub5a8\uc5b4\uc9c0\uace0 \uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 134,
+      "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n2\ubc30\uac00 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 134,
+      "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n2\ubc30\uac00 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 135,
+      "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 135,
+      "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 136,
+      "effect": "HP\uac00 \uaf49 \ucc3c\uc744 \ub54c\n\ub370\ubbf8\uc9c0\uac00 \uc904\uc5b4\ub4e0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 136,
+      "effect": "HP\uac00 \uaf49 \ucc3c\uc744 \ub54c\n\ub370\ubbf8\uc9c0\uac00 \uc904\uc5b4\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 137,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uc77c \ub54c \ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 137,
+      "effect": "\ub3c5 \uc0c1\ud0dc\uc77c \ub54c \ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 138,
+      "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uc77c \ub54c \ud2b9\uc218\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 138,
+      "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uc77c \ub54c \ud2b9\uc218\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 139,
+      "effect": "\uc0ac\uc6a9\ud55c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba87 \ubc88\uc774\uace0 \ub9cc\ub4e4\uc5b4 \ub0b8\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 139,
+      "effect": "\uc0ac\uc6a9\ud55c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba87 \ubc88\uc774\uace0 \ub9cc\ub4e4\uc5b4 \ub0b8\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 140,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \uacf5\uaca9\uc758 \ub08c\uc0c8\ub97c\n\uc77d\uace0 \uae30\uc220\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 140,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \uacf5\uaca9\uc758 \ub08c\uc0c8\ub97c\n\uc77d\uace0 \uae30\uc220\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 141,
+      "effect": "\ub2a5\ub825\uc774\n\uc624\ub974\ub77d\ub0b4\ub9ac\ub77d\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 141,
+      "effect": "\ub2a5\ub825\uc774\n\uc624\ub974\ub77d\ub0b4\ub9ac\ub77d\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 142,
+      "effect": "\uba3c\uc9c0\ub098 \uac00\ub8e8\ub97c\n\ub9c9\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 142,
+      "effect": "\uba3c\uc9c0\ub098 \uac00\ub8e8\ub97c\n\ub9c9\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 143,
+      "effect": "\uc811\ucd09\ud558\uae30\ub9cc \ud574\ub3c4 \uc0c1\ub300\ub97c\n\ub3c5 \uc0c1\ud0dc\ub85c \ub9cc\ub4e4 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 143,
+      "effect": "\uc811\ucd09\ud558\uae30\ub9cc \ud574\ub3c4 \uc0c1\ub300\ub97c\n\ub3c5 \uc0c1\ud0dc\ub85c \ub9cc\ub4e4 \ub54c\uac00 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 144,
+      "effect": "\ubcfc\uc5d0 \ub123\uc73c\uba74 HP\uac00\n\uc870\uae08 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 144,
+      "effect": "\ubcfc\uc5d0 \ub123\uc73c\uba74 HP\uac00\n\uc870\uae08 \ud68c\ubcf5\ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 145,
+      "effect": "\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9ac\ub294\n\uacf5\uaca9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 145,
+      "effect": "\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9ac\ub294\n\uacf5\uaca9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 146,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 146,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 147,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \ubc1b\uae30 \uc5b4\ub824\uc6b4\n\ubab8\uc73c\ub85c \ub418\uc5b4 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 147,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \ubc1b\uae30 \uc5b4\ub824\uc6b4\n\ubab8\uc73c\ub85c \ub418\uc5b4 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 148,
+      "effect": "\uc81c\uc77c \ub9c8\uc9c0\ub9c9\uc5d0\n\uae30\uc220\uc744 \uc4f0\uba74 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 148,
+      "effect": "\uc81c\uc77c \ub9c8\uc9c0\ub9c9\uc5d0\n\uae30\uc220\uc744 \uc4f0\uba74 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 149,
+      "effect": "\ub4a4\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ub454\uac11\ud558\uc5ec \ub098\uc628\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 149,
+      "effect": "\ub4a4\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ub454\uac11\ud558\uc5ec \ub098\uc628\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 150,
+      "effect": "\ub208\uc55e\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ubcc0\uc2e0\ud574\ubc84\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 150,
+      "effect": "\ub208\uc55e\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ubcc0\uc2e0\ud574\ubc84\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 151,
+      "effect": "\uc0c1\ub300\uc758 \ubcbd\uc744\n\ub6ab\uace0 \uacf5\uaca9\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 151,
+      "effect": "\uc0c1\ub300\uc758 \ubcbd\uc744\n\ub6ab\uace0 \uacf5\uaca9\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 152,
+      "effect": "\uc0c1\ub300\uc758 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uc0c1\ub300\ub97c \ubbf8\ub77c\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 152,
+      "effect": "\uc0c1\ub300\uc758 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uc0c1\ub300\ub97c \ubbf8\ub77c\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 153,
+      "effect": "\uc0c1\ub300\ub97c \uc4f0\ub7ec\ub728\ub9ac\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 153,
+      "effect": "\uc0c1\ub300\ub97c \uc4f0\ub7ec\ub728\ub9ac\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 154,
+      "effect": "\uc545 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 154,
+      "effect": "\uc545 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 155,
+      "effect": "\uc8fc\ub205\uc774 \ub4e4\uc5b4 \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac00\ub294 \ud0c0\uc785\uc774 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 155,
+      "effect": "\uc8fc\ub205\uc774 \ub4e4\uc5b4 \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac00\ub294 \ud0c0\uc785\uc774 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 156,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744\n\ub418\ubc1b\uc544\uce60 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 156,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744\n\ub418\ubc1b\uc544\uce60 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 157,
+      "effect": "\ud480 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 157,
+      "effect": "\ud480 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 158,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \uba3c\uc800\n\uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 158,
+      "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \uba3c\uc800\n\uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 159,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c \uc704\ub825\uc774\n\uc62c\ub77c\uac00\ub294 \uae30\uc220\uc774 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 159,
+      "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c \uc704\ub825\uc774\n\uc62c\ub77c\uac00\ub294 \uae30\uc220\uc774 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 160,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 160,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 161,
+      "effect": "\uc704\uae09\ud560 \ub54c\n\ubaa8\uc2b5\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 161,
+      "effect": "\uc704\uae09\ud560 \ub54c\n\ubaa8\uc2b5\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 162,
+      "effect": "\uc790\uc2e0\uacfc \uac19\uc740 \ud3b8\uc758\n\uba85\uc911\ub960\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 162,
+      "effect": "\uc790\uc2e0\uacfc \uac19\uc740 \ud3b8\uc758\n\uba85\uc911\ub960\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 163,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 163,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 164,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 164,
+      "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 165,
+      "effect": "\uac19\uc740 \ud3b8\uc73c\ub85c \ud5a5\ud558\ub294\n\uba58\ud0c8 \uacf5\uaca9\uc744 \ub9c9\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 165,
+      "effect": "\uac19\uc740 \ud3b8\uc73c\ub85c \ud5a5\ud558\ub294\n\uba58\ud0c8 \uacf5\uaca9\uc744 \ub9c9\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 166,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ud480\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc740\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 166,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ud480\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc740\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 167,
+      "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uba39\uc73c\uba74\nHP\ub3c4 \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 167,
+      "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uba39\uc73c\uba74\nHP\ub3c4 \ud68c\ubcf5\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 168,
+      "effect": "\uc0ac\uc6a9\ud55c \uae30\uc220\uacfc \uac19\uc740\n\ud0c0\uc785\uc73c\ub85c \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 168,
+      "effect": "\uc0ac\uc6a9\ud55c \uae30\uc220\uacfc \uac19\uc740\n\ud0c0\uc785\uc73c\ub85c \ubcc0\ud654\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 169,
+      "effect": "\ubb3c\ub9ac \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 169,
+      "effect": "\ubb3c\ub9ac \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 170,
+      "effect": "\uae30\uc220\uc744 \ub9de\uc740 \uc0c1\ub300\uc758\n\ub3c4\uad6c\ub97c \ube7c\uc557\uc544 \ubc84\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 170,
+      "effect": "\uae30\uc220\uc744 \ub9de\uc740 \uc0c1\ub300\uc758\n\ub3c4\uad6c\ub97c \ube7c\uc557\uc544 \ubc84\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 171,
+      "effect": "\uad6c\uc2ac\uc774\ub098 \ud3ed\ud0c4\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 171,
+      "effect": "\uad6c\uc2ac\uc774\ub098 \ud3ed\ud0c4\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 172,
+      "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 172,
+      "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 173,
+      "effect": "\ud131\uc774 \ud2bc\ud2bc\ud558\uc5ec\n\ubb34\ub294 \ud798\uc774 \uac15\ud558\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 173,
+      "effect": "\ud131\uc774 \ud2bc\ud2bc\ud558\uc5ec\n\ubb34\ub294 \ud798\uc774 \uac15\ud558\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 174,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uc5bc\uc74c\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 174,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uc5bc\uc74c\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 175,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ud3ec\ucf13\ubaac\uc774\n\uc7a0\ub4e4\uc9c0 \uc54a\uac8c \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 175,
+      "effect": "\uac19\uc740 \ud3b8\uc758 \ud3ec\ucf13\ubaac\uc774\n\uc7a0\ub4e4\uc9c0 \uc54a\uac8c \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 176,
+      "effect": "\ubc30\ud2c0\ubaa8\ub4dc\uc5d0\uc11c\n\ubaa8\uc2b5\uc774 \ubc14\ub010\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 176,
+      "effect": "\ubc30\ud2c0\ubaa8\ub4dc\uc5d0\uc11c\n\ubaa8\uc2b5\uc774 \ubc14\ub010\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 177,
+      "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uba3c\uc800 \ub098\uc624\uac8c \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 177,
+      "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uba3c\uc800 \ub098\uc624\uac8c \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 178,
+      "effect": "\ud30c\ub3d9 \uae30\uc220\uc758\n\uc704\ub825\uc774 \ud06c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 178,
+      "effect": "\ud30c\ub3d9 \uae30\uc220\uc758\n\uc704\ub825\uc774 \ud06c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 179,
+      "effect": "\uadf8\ub798\uc2a4\ud544\ub4dc\uc77c \ub54c\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 179,
+      "effect": "\uadf8\ub798\uc2a4\ud544\ub4dc\uc77c \ub54c\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 180,
+      "effect": "\uac19\uc740 \ud3b8\uc5d0\uac8c \ub3c4\uad6c\ub97c\n\uac74\ub12c \uc218 \uc788\uac8c \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 180,
+      "effect": "\uac19\uc740 \ud3b8\uc5d0\uac8c \ub3c4\uad6c\ub97c\n\uac74\ub12c \uc218 \uc788\uac8c \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 181,
+      "effect": "\uc811\ucd09\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 181,
+      "effect": "\uc811\ucd09\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 182,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ud398\uc5b4\ub9ac\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 182,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ud398\uc5b4\ub9ac\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 183,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc758\n\uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 183,
+      "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc758\n\uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 184,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ube44\ud589\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 184,
+      "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ube44\ud589\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 185,
+      "effect": "\ubd80\ubaa8\uc640 \uc790\uc2dd 2\ub9c8\ub9ac\uac00\n\uacf5\uaca9\ud55c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 185,
+      "effect": "\ubd80\ubaa8\uc640 \uc790\uc2dd 2\ub9c8\ub9ac\uac00\n\uacf5\uaca9\ud55c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 186,
+      "effect": "\uc804\uc6d0\uc758 \uc545\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 186,
+      "effect": "\uc804\uc6d0\uc758 \uc545\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 187,
+      "effect": "\uc804\uc6d0\uc758 \ud398\uc5b4\ub9ac\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 187,
+      "effect": "\uc804\uc6d0\uc758 \ud398\uc5b4\ub9ac\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 188,
+      "effect": "\uc624\ub77c\uc758 \ud6a8\uacfc\uac00\n\ubc18\ub300\uac00 \ub41c\ub2e4.",
+      "genId": "x-y"
+    },
+    {
+      "abilityId": 188,
+      "effect": "\uc624\ub77c\uc758 \ud6a8\uacfc\uac00\n\ubc18\ub300\uac00 \ub41c\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 189,
+      "effect": "\ubd88\uaf43\ud0c0\uc785\uc758 \uacf5\uaca9\uc744\n\ubc1b\uc9c0 \uc54a\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 190,
+      "effect": "\ubb3c\ud0c0\uc785\uc758 \uacf5\uaca9\uc744\n\ubc1b\uc9c0 \uc54a\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ],
+  [
+    {
+      "abilityId": 191,
+      "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uc57d\uc810\uc774\n\uc5c6\uc5b4\uc9c0\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+      "genId": "omega-ruby-alpha-sapphire"
+    }
+  ]
+]

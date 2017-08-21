@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 1,
+    "name": "Hedor",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Llovizna",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Impulso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Armadura Batalla",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Robustez",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Humedad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Flexibilidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Velo Arena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Elec. Est\u00e1tica",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Absorbe Elec",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Absorbe Agua",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Despiste",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Aclimataci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Ojo Compuesto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Insomnio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "Cambio Color",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Inmunidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Absorbe Fuego",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Polvo Escudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Ritmo Propio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Ventosas",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Intimidaci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Sombra Trampa",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Piel Tosca",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Superguarda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Levitaci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Efecto Espora",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "Sincron\u00eda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "Cuerpo Puro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Cura Natural",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Pararrayos",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Dicha",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Nado R\u00e1pido",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Clorofila",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Iluminaci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Rastro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Potencia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Punto T\u00f3xico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Foco Interno",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Escudo Magma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 41,
+    "name": "Velo Agua",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Im\u00e1n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Insonorizar",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Cura Lluvia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Chorro Arena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 46,
+    "name": "Presi\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Sebo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 48,
+    "name": "Madrugar",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Cuerpo Llama",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Fuga",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Vista Lince",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 52,
+    "name": "Corte Fuerte",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 53,
+    "name": "Recogida",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Ausente",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "Entusiasmo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 56,
+    "name": "Gran Encanto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "M\u00e1s",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 58,
+    "name": "Menos",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Predicci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 60,
+    "name": "Viscosidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 61,
+    "name": "Mudar",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 62,
+    "name": "Agallas",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 63,
+    "name": "Escama Especial",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Lodo L\u00edquido",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Espesura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Mar Llamas",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Torrente",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 68,
+    "name": "Enjambre",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 69,
+    "name": "Cabeza Roca",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "Sequ\u00eda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Trampa Arena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Esp\u00edritu Vital",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "Humo Blanco",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "Energ\u00eda Pura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": "Caparaz\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Bucle Aire",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 77,
+    "name": "Tumbos",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Electromotor",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 79,
+    "name": "Rivalidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 80,
+    "name": "Impasible",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 81,
+    "name": "Manto N\u00edveo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 82,
+    "name": "Gula",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 83,
+    "name": "Irascible",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 84,
+    "name": "Liviano",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Ign\u00edfugo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 86,
+    "name": "Simple",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Piel Seca",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": "Descarga",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 89,
+    "name": "Pu\u00f1o F\u00e9rreo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 90,
+    "name": "Ant\u00eddoto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "Adaptable",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": "Encadenado",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Hidrataci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Poder Solar",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Pies R\u00e1pidos",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Normalidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": "Francotirador",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": "Muro M\u00e1gico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "Indefenso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Rezagado",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "Experto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "Defensa Hoja",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "Zoquete",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "Rompemoldes",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": "Afortunado",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": "Resquicio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": "Anticipaci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "Alerta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Ignorante",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Cromolente",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Filtro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": "Inicio Lento",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": "Intr\u00e9pido",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": "Colector",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": "G\u00e9lido",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": "Roca S\u00f3lida",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": "Nevada",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "Recogemiel",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": "Cacheo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Audaz",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": "Multitipo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Don Floral",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": "Mal Sue\u00f1o",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Hurto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": "Potencia Bruta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Respond\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Nerviosismo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Competitivo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Flaqueza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "Cuerpo Maldito",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "Alma Cura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Compiescolta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "Armadura Fr\u00e1gil",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Metal Pesado",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Metal Liviano",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": "Compensaci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": "\u00cdmpetu T\u00f3xico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": "\u00cdmpetu Ardiente",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": "Cosecha",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Telepat\u00eda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": "Veleta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Funda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": "Toque T\u00f3xico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Regeneraci\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Sacapecho",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "\u00cdmpetu Arena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Piel Milagro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "C\u00e1lculo Final",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Ilusi\u00f3n",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Impostor",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 151,
+    "name": "Allanamiento",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Momia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Autoestima",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "Justiciero",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Cobard\u00eda",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Espejo M\u00e1gico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Herb\u00edvoro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 158,
+    "name": "Bromista",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Poder Arena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 160,
+    "name": "Punta Acero",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 161,
+    "name": "Modo Daruma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 162,
+    "name": "Tinovictoria",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 163,
+    "name": "Turbollama",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": "Terravoltaje",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 165,
+    "name": "Velo Aroma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 166,
+    "name": "Velo Flor",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 167,
+    "name": "Carrillo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Mutatipo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 169,
+    "name": "Pelaje Recio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 170,
+    "name": "Prestidigitador",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 171,
+    "name": "Antibalas",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 172,
+    "name": "Tenacidad",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 173,
+    "name": "Mand\u00edbula Fuerte",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 174,
+    "name": "Piel Helada",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 175,
+    "name": "Velo Dulce",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 176,
+    "name": "Cambio T\u00e1ctico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 177,
+    "name": "Alas Vendaval",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 178,
+    "name": "Megadisparador",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 179,
+    "name": "Manto Frondoso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 180,
+    "name": "Simbiosis",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Garra Dura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 182,
+    "name": "Piel Fe\u00e9rica",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 183,
+    "name": "Baba",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 184,
+    "name": "Piel Celeste",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 185,
+    "name": "Amor Filial",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 186,
+    "name": "Aura Oscura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 187,
+    "name": "Aura Fe\u00e9rica",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 188,
+    "name": "Rompeaura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 189,
+    "name": "Mar del Albor",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 190,
+    "name": "Tierra del Ocaso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 191,
+    "name": "R\u00e1faga Delta",
+    "battle_effect": null,
+    "description": null
+  }
+]

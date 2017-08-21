@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 1,
+    "name": "Tanfo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Piovischio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Acceleratore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Lottascudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Vigore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Umidit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Scioltezza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Sabbiavelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Statico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Assorbivolt",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "Assorbacqua",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "Indifferenza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Antimeteo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Insettocchi",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Insonnia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "Cambiacolore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Immunit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Fuocardore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Polvoscudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Mente Locale",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Ventose",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Prepotenza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Pedinombra",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Cartavetro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Magidifesa",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Levitazione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Spargispora",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "Sincronismo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "Corpochiaro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Alternacura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Parafulmine",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Leggiadro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Nuotovelox",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Clorofilla",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Risplendi",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "Traccia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Macroforza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Velenopunto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Fuocodentro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Magmascudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 41,
+    "name": "Idrovelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Magnetismo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "Antisuono",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Copripioggia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Sabbiafiume",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 46,
+    "name": "Pressione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Grassospesso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 48,
+    "name": "Sveglialampo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Corpodifuoco",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Fugafacile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Sguardofermo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 52,
+    "name": "Ipertaglio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 53,
+    "name": "Raccolta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Pigrone",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "Tuttafretta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 56,
+    "name": "Incantevole",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "Pi\u00f9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 58,
+    "name": "Meno",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Previsioni",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 60,
+    "name": "Antifurto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 61,
+    "name": "Muta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 62,
+    "name": "Dentistretti",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 63,
+    "name": "Pelledura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Melma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Erbaiuto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Aiutofuoco",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Acquaiuto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 68,
+    "name": "Aiutinsetto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 69,
+    "name": "Testadura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "Siccit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Trappoarena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Spiritovivo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "Fumochiaro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "Forzapura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": "Guscioscudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Riparo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 77,
+    "name": "Intricopiedi",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Elettrorapid",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 79,
+    "name": "Antagonismo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 80,
+    "name": "Cuordeciso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 81,
+    "name": "Mantelneve",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 82,
+    "name": "Voracit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 83,
+    "name": "Grancollera",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 84,
+    "name": "Agiltecnica",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Antifuoco",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 86,
+    "name": "Disinvoltura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Pellearsa",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": "Download",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 89,
+    "name": "Ferropugno",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 90,
+    "name": "Velencura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "Adattabilit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": "Abillegame",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Idratazione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Solarpotere",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Piedisvelti",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Normalit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": "Cecchino",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": "Magicscudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "Nullodifesa",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Rallentatore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "Tecnico",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "Fogliamanto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "Impaccio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "Rompiforma",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": "Supersorte",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": "Scoppio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": "Presagio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "Premonizione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Imprudenza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Lentifum\u00e9",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Filtro",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": "Lentoinizio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": "Nervisaldi",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": "Acquascolo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": "Corpogelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": "Solidroccia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": "Scendineve",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "Mielincetta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": "Indagine",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Temerariet\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": "Multitipo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Regalfiore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": "Sogniamari",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Arraffalesto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": "Forzabruta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Inversione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Agitazione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Agonismo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Sconforto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "Corpofunesto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "Curacuore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Amicoscudo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "Sottilguscio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Metalpesante",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Metalleggero",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": "Multisquame",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": "Velenimpeto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": "Bruciaimpeto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": "Coglibacche",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Telepatia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": "Altalena",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Copricapo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": "Velentocco",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Rigenergia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Pettinfuori",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Remasabbia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Splendicute",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Ponderazione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Illusione",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Sosia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 151,
+    "name": "Intrapasso",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Mummia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Arroganza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "Giustizia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Paura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Magispecchio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Mangiaerba",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 158,
+    "name": "Burla",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Silicoforza",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 160,
+    "name": "Spineferrate",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 161,
+    "name": "Stato Zen",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 162,
+    "name": "Vittorstella",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 163,
+    "name": "Piroturbina",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": "Teravolt",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 165,
+    "name": "Aromavelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 166,
+    "name": "Fiorvelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 167,
+    "name": "Guancegonfie",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Mutatipo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 169,
+    "name": "Foltopelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 170,
+    "name": "Prestigiatore",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 171,
+    "name": "Antiproiettile",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 172,
+    "name": "Tenacia",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 173,
+    "name": "Ferromascella",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 174,
+    "name": "Pellegelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 175,
+    "name": "Dolcevelo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 176,
+    "name": "Accendilotta",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 177,
+    "name": "Aliraffica",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 178,
+    "name": "Megalancio",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 179,
+    "name": "Peloderba",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 180,
+    "name": "Simbiosi",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Unghiedure",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 182,
+    "name": "Pellefolletto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 183,
+    "name": "Viscosit\u00e0",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 184,
+    "name": "Pellecielo",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 185,
+    "name": "Amorefiliale",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 186,
+    "name": "Auratetra",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 187,
+    "name": "Aurafolletto",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 188,
+    "name": "Frangiaura",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 189,
+    "name": "Mare Primordiale",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 190,
+    "name": "Terra Estrema",
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 191,
+    "name": "Flusso Delta",
+    "battle_effect": null,
+    "description": null
+  }
+]
