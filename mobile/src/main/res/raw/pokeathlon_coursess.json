@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Speed",
+    "events": "Hurdle Dash, Pennant Capture, and Relay Ru"
+  },
+  {
+    "id": 2,
+    "name": "Power",
+    "events": "Block Smash, Circle Push, and Goal Roll"
+  },
+  {
+    "id": 3,
+    "name": "Skill",
+    "events": "Snow Throw, Goal Roll, and Pennant Capture"
+  },
+  {
+    "id": 4,
+    "name": "Stamina",
+    "events": "Ring Drop, Relay Run, and Block Smash"
+  },
+  {
+    "id": 5,
+    "name": "Jump",
+    "events": "Lamp Jump, Disc Catch, and Hurdle Dash"
+  }
+]

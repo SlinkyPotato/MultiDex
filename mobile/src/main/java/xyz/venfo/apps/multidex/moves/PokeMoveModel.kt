@@ -88,7 +88,7 @@ open class PokeMoveModel(
             continue
           }
           when (field) {
-            "pokeMoveId" -> if (pokeMove.id != otherReader.nextInt()) throw Exception("PokeMove ID does not match.")
+            "moveId" -> if (pokeMove.id != otherReader.nextInt()) throw Exception("PokeMove ID does not match.")
             "pokeTypeId" -> pokeMove.type = readPokeTypeFun(otherReader.nextInt())
             "damageTypeId" -> pokeMove.category = readCategory(otherReader.nextInt())
             "contestTypeId" -> pokeMove.contestType = readContestType(otherReader.nextInt())

@@ -1,0 +1,27 @@
+[
+  {
+    "berryFlavorId": 1,
+    "contestTypeId": 1,
+    "pokeathlonCourseId": 2
+  },
+  {
+    "berryFlavorId": 2,
+    "contestTypeId": 2,
+    "pokeathlonCourseId": 3
+  },
+  {
+    "berryFlavorId": 3,
+    "contestTypeId": 3,
+    "pokeathlonCourseId": 1
+  },
+  {
+    "berryFlavorId": 4,
+    "contestTypeId": 4,
+    "pokeathlonCourseId": 5
+  },
+  {
+    "berryFlavorId": 5,
+    "contestTypeId": 5,
+    "pokeathlonCourseId": 4
+  }
+]
