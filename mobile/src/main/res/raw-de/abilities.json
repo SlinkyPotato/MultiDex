@@ -1,1 +1,3046 @@
-[{"id": 1, "name": "Duftnote", "battle_effect": null, "description": null}, {"id": 2, "name": "Niesel", "battle_effect": null, "description": null}, {"id": 3, "name": "Temposchub", "battle_effect": null, "description": null}, {"id": 4, "name": "Kampfpanzer", "battle_effect": null, "description": null}, {"id": 5, "name": "Robustheit", "battle_effect": null, "description": null}, {"id": 6, "name": "Feuchtigkeit", "battle_effect": null, "description": null}, {"id": 7, "name": "Flexibilit\u00e4t", "battle_effect": null, "description": null}, {"id": 8, "name": "Sandschleier", "battle_effect": null, "description": null}, {"id": 9, "name": "Statik", "battle_effect": null, "description": null}, {"id": 10, "name": "Voltabsorber", "battle_effect": null, "description": null}, {"id": 11, "name": "H2O-Absorber", "battle_effect": null, "description": null}, {"id": 12, "name": "D\u00f6sigkeit", "battle_effect": null, "description": null}, {"id": 13, "name": "Wolke Sieben", "battle_effect": null, "description": null}, {"id": 14, "name": "Facettenauge", "battle_effect": null, "description": null}, {"id": 15, "name": "Insomnia", "battle_effect": null, "description": null}, {"id": 16, "name": "Farbwechsel", "battle_effect": null, "description": null}, {"id": 17, "name": "Immunit\u00e4t", "battle_effect": null, "description": null}, {"id": 18, "name": "Feuerf\u00e4nger", "battle_effect": null, "description": null}, {"id": 19, "name": "Puderabwehr", "battle_effect": null, "description": null}, {"id": 20, "name": "Tempomacher", "battle_effect": null, "description": null}, {"id": 21, "name": "Saugnapf", "battle_effect": null, "description": null}, {"id": 22, "name": "Bedroher", "battle_effect": null, "description": null}, {"id": 23, "name": "Wegsperre", "battle_effect": null, "description": null}, {"id": 24, "name": "Rauhaut", "battle_effect": null, "description": null}, {"id": 25, "name": "Wunderwache", "battle_effect": null, "description": null}, {"id": 26, "name": "Schwebe", "battle_effect": null, "description": null}, {"id": 27, "name": "Sporenwirt", "battle_effect": null, "description": null}, {"id": 28, "name": "Synchro", "battle_effect": null, "description": null}, {"id": 29, "name": "Neutraltorso", "battle_effect": null, "description": null}, {"id": 30, "name": "Innere Kraft", "battle_effect": null, "description": null}, {"id": 31, "name": "Blitzf\u00e4nger", "battle_effect": null, "description": null}, {"id": 32, "name": "Edelmut", "battle_effect": null, "description": null}, {"id": 33, "name": "Wassertempo", "battle_effect": null, "description": null}, {"id": 34, "name": "Chlorophyll", "battle_effect": null, "description": null}, {"id": 35, "name": "Erleuchtung", "battle_effect": null, "description": null}, {"id": 36, "name": "F\u00e4hrte", "battle_effect": null, "description": null}, {"id": 37, "name": "Kraftkoloss", "battle_effect": null, "description": null}, {"id": 38, "name": "Giftdorn", "battle_effect": null, "description": null}, {"id": 39, "name": "Konzentrator", "battle_effect": null, "description": null}, {"id": 40, "name": "Magmapanzer", "battle_effect": null, "description": null}, {"id": 41, "name": "Aquah\u00fclle", "battle_effect": null, "description": null}, {"id": 42, "name": "Magnetfalle", "battle_effect": null, "description": null}, {"id": 43, "name": "L\u00e4rmschutz", "battle_effect": null, "description": null}, {"id": 44, "name": "Regengenuss", "battle_effect": null, "description": null}, {"id": 45, "name": "Sandsturm", "battle_effect": null, "description": null}, {"id": 46, "name": "Erzwinger", "battle_effect": null, "description": null}, {"id": 47, "name": "Speckschicht", "battle_effect": null, "description": null}, {"id": 48, "name": "Fr\u00fchwecker", "battle_effect": null, "description": null}, {"id": 49, "name": "Flammk\u00f6rper", "battle_effect": null, "description": null}, {"id": 50, "name": "Angsthase", "battle_effect": null, "description": null}, {"id": 51, "name": "Adlerauge", "battle_effect": null, "description": null}, {"id": 52, "name": "Scherenmacht", "battle_effect": null, "description": null}, {"id": 53, "name": "Mitnahme", "battle_effect": null, "description": null}, {"id": 54, "name": "Schnarchnase", "battle_effect": null, "description": null}, {"id": 55, "name": "\u00dcbereifer", "battle_effect": null, "description": null}, {"id": 56, "name": "Charmebolzen", "battle_effect": null, "description": null}, {"id": 57, "name": "Plus", "battle_effect": null, "description": null}, {"id": 58, "name": "Minus", "battle_effect": null, "description": null}, {"id": 59, "name": "Prognose", "battle_effect": null, "description": null}, {"id": 60, "name": "Wertehalter", "battle_effect": null, "description": null}, {"id": 61, "name": "Expidermis", "battle_effect": null, "description": null}, {"id": 62, "name": "Adrenalin", "battle_effect": null, "description": null}, {"id": 63, "name": "Notschutz", "battle_effect": null, "description": null}, {"id": 64, "name": "Kloakenso\u00dfe", "battle_effect": null, "description": null}, {"id": 65, "name": "Notd\u00fcnger", "battle_effect": null, "description": null}, {"id": 66, "name": "Gro\u00dfbrand", "battle_effect": null, "description": null}, {"id": 67, "name": "Sturzbach", "battle_effect": null, "description": null}, {"id": 68, "name": "Hexaplaga", "battle_effect": null, "description": null}, {"id": 69, "name": "Steinhaupt", "battle_effect": null, "description": null}, {"id": 70, "name": "D\u00fcrre", "battle_effect": null, "description": null}, {"id": 71, "name": "Ausweglos", "battle_effect": null, "description": null}, {"id": 72, "name": "Munterkeit", "battle_effect": null, "description": null}, {"id": 73, "name": "Pulverrauch", "battle_effect": null, "description": null}, {"id": 74, "name": "Mentalkraft", "battle_effect": null, "description": null}, {"id": 75, "name": "Panzerhaut", "battle_effect": null, "description": null}, {"id": 76, "name": "Klimaschutz", "battle_effect": null, "description": null}, {"id": 77, "name": "Fu\u00dfangel", "battle_effect": null, "description": null}, {"id": 78, "name": "Starthilfe", "battle_effect": null, "description": null}, {"id": 79, "name": "Rivalit\u00e4t", "battle_effect": null, "description": null}, {"id": 80, "name": "Felsenfest", "battle_effect": null, "description": null}, {"id": 81, "name": "Schneemantel", "battle_effect": null, "description": null}, {"id": 82, "name": "V\u00f6llerei", "battle_effect": null, "description": null}, {"id": 83, "name": "Kurzschluss", "battle_effect": null, "description": null}, {"id": 84, "name": "Entlastung", "battle_effect": null, "description": null}, {"id": 85, "name": "Hitzeschutz", "battle_effect": null, "description": null}, {"id": 86, "name": "Wankelmut", "battle_effect": null, "description": null}, {"id": 87, "name": "Trockenheit", "battle_effect": null, "description": null}, {"id": 88, "name": "Download", "battle_effect": null, "description": null}, {"id": 89, "name": "Eisenfaust", "battle_effect": null, "description": null}, {"id": 90, "name": "Aufheber", "battle_effect": null, "description": null}, {"id": 91, "name": "Anpassung", "battle_effect": null, "description": null}, {"id": 92, "name": "Wertelink", "battle_effect": null, "description": null}, {"id": 93, "name": "Hydration", "battle_effect": null, "description": null}, {"id": 94, "name": "Solarkraft", "battle_effect": null, "description": null}, {"id": 95, "name": "Rasanz", "battle_effect": null, "description": null}, {"id": 96, "name": "Regulierung", "battle_effect": null, "description": null}, {"id": 97, "name": "Supersch\u00fctze", "battle_effect": null, "description": null}, {"id": 98, "name": "Magieschild", "battle_effect": null, "description": null}, {"id": 99, "name": "Schildlos", "battle_effect": null, "description": null}, {"id": 100, "name": "Zeitspiel", "battle_effect": null, "description": null}, {"id": 101, "name": "Techniker", "battle_effect": null, "description": null}, {"id": 102, "name": "Floraschild", "battle_effect": null, "description": null}, {"id": 103, "name": "Tollpatsch", "battle_effect": null, "description": null}, {"id": 104, "name": "\u00dcberbr\u00fcckung", "battle_effect": null, "description": null}, {"id": 105, "name": "Gl\u00fcckspilz", "battle_effect": null, "description": null}, {"id": 106, "name": "Finalschlag", "battle_effect": null, "description": null}, {"id": 107, "name": "Vorahnung", "battle_effect": null, "description": null}, {"id": 108, "name": "Vorwarnung", "battle_effect": null, "description": null}, {"id": 109, "name": "Unkenntnis", "battle_effect": null, "description": null}, {"id": 110, "name": "Aufwertung", "battle_effect": null, "description": null}, {"id": 111, "name": "Filter", "battle_effect": null, "description": null}, {"id": 112, "name": "Saumselig", "battle_effect": null, "description": null}, {"id": 113, "name": "Rauflust", "battle_effect": null, "description": null}, {"id": 114, "name": "Sturmsog", "battle_effect": null, "description": null}, {"id": 115, "name": "Eishaut", "battle_effect": null, "description": null}, {"id": 116, "name": "Felskern", "battle_effect": null, "description": null}, {"id": 117, "name": "Hagelalarm", "battle_effect": null, "description": null}, {"id": 118, "name": "Honigmaul", "battle_effect": null, "description": null}, {"id": 119, "name": "Schn\u00fcffler", "battle_effect": null, "description": null}, {"id": 120, "name": "Achtlos", "battle_effect": null, "description": null}, {"id": 121, "name": "Variabilit\u00e4t", "battle_effect": null, "description": null}, {"id": 122, "name": "Pflanzengabe", "battle_effect": null, "description": null}, {"id": 123, "name": "Alptraum", "battle_effect": null, "description": null}, {"id": 124, "name": "Langfinger", "battle_effect": null, "description": null}, {"id": 125, "name": "Rohe Gewalt", "battle_effect": null, "description": null}, {"id": 126, "name": "Umkehrung", "battle_effect": null, "description": null}, {"id": 127, "name": "Anspannung", "battle_effect": null, "description": null}, {"id": 128, "name": "Siegeswille", "battle_effect": null, "description": null}, {"id": 129, "name": "Schw\u00e4chling", "battle_effect": null, "description": null}, {"id": 130, "name": "Tastfluch", "battle_effect": null, "description": null}, {"id": 131, "name": "Heilherz", "battle_effect": null, "description": null}, {"id": 132, "name": "Freundeshut", "battle_effect": null, "description": null}, {"id": 133, "name": "Bruchr\u00fcstung", "battle_effect": null, "description": null}, {"id": 134, "name": "Schwermetall", "battle_effect": null, "description": null}, {"id": 135, "name": "Leichtmetall", "battle_effect": null, "description": null}, {"id": 136, "name": "Multischuppe", "battle_effect": null, "description": null}, {"id": 137, "name": "Giftwahn", "battle_effect": null, "description": null}, {"id": 138, "name": "Hitzewahn", "battle_effect": null, "description": null}, {"id": 139, "name": "Reiche Ernte", "battle_effect": null, "description": null}, {"id": 140, "name": "Telepathie", "battle_effect": null, "description": null}, {"id": 141, "name": "Gef\u00fchlswippe", "battle_effect": null, "description": null}, {"id": 142, "name": "Wetterfest", "battle_effect": null, "description": null}, {"id": 143, "name": "Giftgriff", "battle_effect": null, "description": null}, {"id": 144, "name": "Belebekraft", "battle_effect": null, "description": null}, {"id": 145, "name": "Brustbieter", "battle_effect": null, "description": null}, {"id": 146, "name": "Sandscharrer", "battle_effect": null, "description": null}, {"id": 147, "name": "Wunderhaut", "battle_effect": null, "description": null}, {"id": 148, "name": "Analyse", "battle_effect": null, "description": null}, {"id": 149, "name": "Trugbild", "battle_effect": null, "description": null}, {"id": 150, "name": "Doppelg\u00e4nger", "battle_effect": null, "description": null}, {"id": 151, "name": "Schwebedurch", "battle_effect": null, "description": null}, {"id": 152, "name": "Mumie", "battle_effect": null, "description": null}, {"id": 153, "name": "Hochmut", "battle_effect": null, "description": null}, {"id": 154, "name": "Redlichkeit", "battle_effect": null, "description": null}, {"id": 155, "name": "Hasenfu\u00df", "battle_effect": null, "description": null}, {"id": 156, "name": "Magiespiegel", "battle_effect": null, "description": null}, {"id": 157, "name": "Vegetarier", "battle_effect": null, "description": null}, {"id": 158, "name": "Strolch", "battle_effect": null, "description": null}, {"id": 159, "name": "Sandgewalt", "battle_effect": null, "description": null}, {"id": 160, "name": "Eisenstachel", "battle_effect": null, "description": null}, {"id": 161, "name": "Trance-Modus", "battle_effect": null, "description": null}, {"id": 162, "name": "Triumphstern", "battle_effect": null, "description": null}, {"id": 163, "name": "Turbobrand", "battle_effect": null, "description": null}, {"id": 164, "name": "Teravolt", "battle_effect": null, "description": null}, {"id": 165, "name": "Dufth\u00fclle", "battle_effect": null, "description": null}, {"id": 166, "name": "Bl\u00fctenh\u00fclle", "battle_effect": null, "description": null}, {"id": 167, "name": "Backentaschen", "battle_effect": null, "description": null}, {"id": 168, "name": "Wandlungskunst", "battle_effect": null, "description": null}, {"id": 169, "name": "Fellkleid", "battle_effect": null, "description": null}, {"id": 170, "name": "Zauberer", "battle_effect": null, "description": null}, {"id": 171, "name": "Kugelsicher", "battle_effect": null, "description": null}, {"id": 172, "name": "Unbeugsamkeit", "battle_effect": null, "description": null}, {"id": 173, "name": "Titankiefer", "battle_effect": null, "description": null}, {"id": 174, "name": "Frostschicht", "battle_effect": null, "description": null}, {"id": 175, "name": "Zuckerh\u00fclle", "battle_effect": null, "description": null}, {"id": 176, "name": "Taktikwechsel", "battle_effect": null, "description": null}, {"id": 177, "name": "Orkanschwingen", "battle_effect": null, "description": null}, {"id": 178, "name": "Megawumme", "battle_effect": null, "description": null}, {"id": 179, "name": "Pflanzenpelz", "battle_effect": null, "description": null}, {"id": 180, "name": "Nutznie\u00dfer", "battle_effect": null, "description": null}, {"id": 181, "name": "Krallenwucht", "battle_effect": null, "description": null}, {"id": 182, "name": "Feenschicht", "battle_effect": null, "description": null}, {"id": 183, "name": "Viskosit\u00e4t", "battle_effect": null, "description": null}, {"id": 184, "name": "Zenithaut", "battle_effect": null, "description": null}, {"id": 185, "name": "Familienbande", "battle_effect": null, "description": null}, {"id": 186, "name": "Dunkelaura", "battle_effect": null, "description": null}, {"id": 187, "name": "Feenaura", "battle_effect": null, "description": null}, {"id": 188, "name": "Aura-Umkehr", "battle_effect": null, "description": null}, {"id": 189, "name": "Urmeer", "battle_effect": null, "description": null}, {"id": 190, "name": "Endland", "battle_effect": null, "description": null}, {"id": 191, "name": "Delta-Wind", "battle_effect": null, "description": null}]
+[
+  {
+    "id": 1,
+    "name": "Duftnote",
+    "effects": [
+      {
+        "effect": "L\u00e4sst den Gegner durch Gestank\nzur\u00fcckschrecken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "L\u00e4sst den Gegner durch Gestank\nzur\u00fcckschrecken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Niesel",
+    "effects": [
+      {
+        "effect": "Ruft im Kampf Regen herbei.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ruft im Kampf Regen herbei.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Temposchub",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht Initiative nach und nach.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht Initiative nach und nach.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Kampfpanzer",
+    "effects": [
+      {
+        "effect": "Wehrt gegnerische Volltreffer ab.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Wehrt gegnerische Volltreffer ab.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Robustheit",
+    "effects": [
+      {
+        "effect": "Bietet Schutz gegen K.O.-Treffer.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bietet Schutz gegen K.O.-Treffer.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Feuchtigkeit",
+    "effects": [
+      {
+        "effect": "H\u00e4lt alle Pok\u00e9mon davon ab,\nzu explodieren.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "H\u00e4lt alle Pok\u00e9mon davon ab,\nzu explodieren.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Flexibilit\u00e4t",
+    "effects": [
+      {
+        "effect": "Verhindert Paralyse.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Paralyse.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Sandschleier",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Sandst\u00fcrmen\nden Fluchtwert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Sandst\u00fcrmen\nden Fluchtwert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": "Statik",
+    "effects": [
+      {
+        "effect": "Kann bei Ber\u00fchrung paralysieren.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Kann bei Ber\u00fchrung paralysieren.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Voltabsorber",
+    "effects": [
+      {
+        "effect": "Treffer durch Elektro-Attacken\nregenerieren KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Treffer durch Elektro-Attacken\nregenerieren KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 11,
+    "name": "H2O-Absorber",
+    "effects": [
+      {
+        "effect": "Treffer durch Wasser-Attacken\nregenerieren KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Treffer durch Wasser-Attacken\nregenerieren KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 12,
+    "name": "D\u00f6sigkeit",
+    "effects": [
+      {
+        "effect": "Verhindert, dass das Pok\u00e9mon\nbet\u00f6rt oder provoziert wird.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert, dass das Pok\u00e9mon\nbet\u00f6rt oder provoziert wird.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 13,
+    "name": "Wolke Sieben",
+    "effects": [
+      {
+        "effect": "Hebt Wetter-Effekte auf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hebt Wetter-Effekte auf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 14,
+    "name": "Facettenauge",
+    "effects": [
+      {
+        "effect": "Steigert die Genauigkeit\nvon Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert die Genauigkeit\nvon Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 15,
+    "name": "Insomnia",
+    "effects": [
+      {
+        "effect": "Verhindert Einschlafen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Einschlafen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 16,
+    "name": "Farbwechsel",
+    "effects": [
+      {
+        "effect": "\u00c4ndert seinen Typ zu dem\nder Attacke des Angreifers.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\u00c4ndert seinen Typ zu dem\nder Attacke des Angreifers.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 17,
+    "name": "Immunit\u00e4t",
+    "effects": [
+      {
+        "effect": "Verhindert Vergiftungen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Vergiftungen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 18,
+    "name": "Feuerf\u00e4nger",
+    "effects": [
+      {
+        "effect": "Verst\u00e4rkt Feuer-Attacken, wenn\nvon Feuer-Attacken getroffen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verst\u00e4rkt Feuer-Attacken, wenn\nvon Feuer-Attacken getroffen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 19,
+    "name": "Puderabwehr",
+    "effects": [
+      {
+        "effect": "Blockiert Zusatz-Effekte\ngegnerischer Angriffe.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blockiert Zusatz-Effekte\ngegnerischer Angriffe.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 20,
+    "name": "Tempomacher",
+    "effects": [
+      {
+        "effect": "Verhindert Verwirrung.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Verwirrung.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 21,
+    "name": "Saugnapf",
+    "effects": [
+      {
+        "effect": "Blockt Attacken und Items,\ndie Pok\u00e9mon austauschen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blockt Attacken und Items,\ndie Pok\u00e9mon austauschen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 22,
+    "name": "Bedroher",
+    "effects": [
+      {
+        "effect": "Senkt Angriff des Gegners.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt Angriff des Gegners.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 23,
+    "name": "Wegsperre",
+    "effects": [
+      {
+        "effect": "Hindert Gegner an der Flucht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Gegner an der Flucht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 24,
+    "name": "Rauhaut",
+    "effects": [
+      {
+        "effect": "Verletzt Angreifer bei Ber\u00fchrung.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verletzt Angreifer bei Ber\u00fchrung.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 25,
+    "name": "Wunderwache",
+    "effects": [
+      {
+        "effect": "Nur sehr effektive Treffer\nrichten Schaden an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Nur sehr effektive Treffer\nrichten Schaden an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 26,
+    "name": "Schwebe",
+    "effects": [
+      {
+        "effect": "Volle Immunit\u00e4t gegen\nalle Boden-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Volle Immunit\u00e4t gegen\nalle Boden-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 27,
+    "name": "Sporenwirt",
+    "effects": [
+      {
+        "effect": "Kann bei Kontakt Paralyse,\nVergiftung oder Schlaf ausl\u00f6sen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Kann bei Kontakt Paralyse,\nVergiftung oder Schlaf ausl\u00f6sen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 28,
+    "name": "Synchro",
+    "effects": [
+      {
+        "effect": "Brand, Gift oder Paralyse ereilen\nauch den Verursacher.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Brand, Gift oder Paralyse ereilen\nauch den Verursacher.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 29,
+    "name": "Neutraltorso",
+    "effects": [
+      {
+        "effect": "Hindert Angreifer daran,\nStatuswerte zu senken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Angreifer daran,\nStatuswerte zu senken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 30,
+    "name": "Innere Kraft",
+    "effects": [
+      {
+        "effect": "Heilt bei Austausch\nStatusprobleme.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Heilt bei Austausch\nStatusprobleme.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 31,
+    "name": "Blitzf\u00e4nger",
+    "effects": [
+      {
+        "effect": "Absorbiert Elektro-Attacken\nund steigert den Spezial-Angriff.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Absorbiert Elektro-Attacken\nund steigert den Spezial-Angriff.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 32,
+    "name": "Edelmut",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht Chance auf Zusatz-Effekte.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht Chance auf Zusatz-Effekte.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 33,
+    "name": "Wassertempo",
+    "effects": [
+      {
+        "effect": "Steigert bei Regen die Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert bei Regen die Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 34,
+    "name": "Chlorophyll",
+    "effects": [
+      {
+        "effect": "Steigert bei Sonnenschein\ndie Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert bei Sonnenschein\ndie Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 35,
+    "name": "Erleuchtung",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die Wahrscheinlichkeit,\nwilden Pok\u00e9mon zu begegnen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die Wahrscheinlichkeit,\nwilden Pok\u00e9mon zu begegnen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 36,
+    "name": "F\u00e4hrte",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon kopiert\ndie F\u00e4higkeit des Gegners.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon kopiert\ndie F\u00e4higkeit des Gegners.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 37,
+    "name": "Kraftkoloss",
+    "effects": [
+      {
+        "effect": "St\u00e4rkt physische Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "St\u00e4rkt physische Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 38,
+    "name": "Giftdorn",
+    "effects": [
+      {
+        "effect": "Vergiftet den Angreifer\neventuell bei Ber\u00fchrung.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Vergiftet den Angreifer\neventuell bei Ber\u00fchrung.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 39,
+    "name": "Konzentrator",
+    "effects": [
+      {
+        "effect": "Verhindert Zur\u00fcckschrecken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Zur\u00fcckschrecken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 40,
+    "name": "Magmapanzer",
+    "effects": [
+      {
+        "effect": "Verhindert Einfrieren.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Einfrieren.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 41,
+    "name": "Aquah\u00fclle",
+    "effects": [
+      {
+        "effect": "Verhindert Verbrennungen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Verbrennungen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 42,
+    "name": "Magnetfalle",
+    "effects": [
+      {
+        "effect": "Hindert Stahl-Pok\u00e9mon\nan der Flucht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Stahl-Pok\u00e9mon\nan der Flucht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 43,
+    "name": "L\u00e4rmschutz",
+    "effects": [
+      {
+        "effect": "Volle Immunit\u00e4t gegen\nalle L\u00e4rm-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Volle Immunit\u00e4t gegen\nalle L\u00e4rm-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 44,
+    "name": "Regengenuss",
+    "effects": [
+      {
+        "effect": "Stellt bei Regen langsam\nund stetig KP wieder her.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Stellt bei Regen langsam\nund stetig KP wieder her.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 45,
+    "name": "Sandsturm",
+    "effects": [
+      {
+        "effect": "Erzeugt im Kampf Sandst\u00fcrme.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erzeugt im Kampf Sandst\u00fcrme.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 46,
+    "name": "Erzwinger",
+    "effects": [
+      {
+        "effect": "Steigert den AP-Verbrauch\ndes Gegners.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert den AP-Verbrauch\ndes Gegners.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 47,
+    "name": "Speckschicht",
+    "effects": [
+      {
+        "effect": "Stark gegen Attacken der Typen\nFeuer und Eis.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Stark gegen Attacken der Typen\nFeuer und Eis.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 48,
+    "name": "Fr\u00fchwecker",
+    "effects": [
+      {
+        "effect": "Bewirkt, dass das Pok\u00e9mon\nschneller wieder aufwacht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bewirkt, dass das Pok\u00e9mon\nschneller wieder aufwacht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 49,
+    "name": "Flammk\u00f6rper",
+    "effects": [
+      {
+        "effect": "F\u00fcgt dem Angreifer bei Ber\u00fchrung\neventuell Verbrennungen zu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "F\u00fcgt dem Angreifer bei Ber\u00fchrung\neventuell Verbrennungen zu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 50,
+    "name": "Angsthase",
+    "effects": [
+      {
+        "effect": "Die Flucht vor wilden Pok\u00e9mon\ngelingt immer.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Die Flucht vor wilden Pok\u00e9mon\ngelingt immer.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 51,
+    "name": "Adlerauge",
+    "effects": [
+      {
+        "effect": "Hindert Angreifer daran,\ndie Genauigkeit zu senken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Angreifer daran,\ndie Genauigkeit zu senken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 52,
+    "name": "Scherenmacht",
+    "effects": [
+      {
+        "effect": "Hindert Angreifer daran,\nden Angriffs-Wert zu senken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Angreifer daran,\nden Angriffs-Wert zu senken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 53,
+    "name": "Mitnahme",
+    "effects": [
+      {
+        "effect": "Hebt gelegentlich Items auf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hebt gelegentlich Items auf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 54,
+    "name": "Schnarchnase",
+    "effects": [
+      {
+        "effect": "Greift nur alle zwei Runden an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Greift nur alle zwei Runden an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 55,
+    "name": "\u00dcbereifer",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Angriffs-Wert,\naber senkt die Genauigkeit.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Angriffs-Wert,\naber senkt die Genauigkeit.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 56,
+    "name": "Charmebolzen",
+    "effects": [
+      {
+        "effect": "Kann bei Kontakt bet\u00f6rend\nwirken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Kann bei Kontakt bet\u00f6rend\nwirken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 57,
+    "name": "Plus",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nPlus oder Minus vertreten sind.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nPlus oder Minus vertreten ist.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 58,
+    "name": "Minus",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nPlus oder Minus vertreten sind.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nPlus oder Minus vertreten ist.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 59,
+    "name": "Prognose",
+    "effects": [
+      {
+        "effect": "Formeo ver\u00e4ndert seine Form\nabh\u00e4ngig vom Wetter.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Formeo ver\u00e4ndert seine Form\nabh\u00e4ngig vom Wetter.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 60,
+    "name": "Wertehalter",
+    "effects": [
+      {
+        "effect": "Verhindert durch Klebe-Effekt\nItem-Diebst\u00e4hle.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert durch Klebe-Effekt\nItem-Diebst\u00e4hle.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 61,
+    "name": "Expidermis",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon heilt eventuell\nseine Statusprobleme.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon heilt eventuell\nseine Statusprobleme.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 62,
+    "name": "Adrenalin",
+    "effects": [
+      {
+        "effect": "Steigert bei Statusproblemen\nden Angriffs-Wert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert bei Statusproblemen\nden Angriffs-Wert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 63,
+    "name": "Notschutz",
+    "effects": [
+      {
+        "effect": "Steigert bei Statusproblemen\ndie Verteidigung.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert bei Statusproblemen\ndie Verteidigung.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 64,
+    "name": "Kloakenso\u00dfe",
+    "effects": [
+      {
+        "effect": "Schadet Angreifern,\ndie Saug-Attacken einsetzen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Schadet Angreifern,\ndie Saug-Attacken einsetzen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 65,
+    "name": "Notd\u00fcnger",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Pflanzen-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Pflanzen-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 66,
+    "name": "Gro\u00dfbrand",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Feuer-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Feuer-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 67,
+    "name": "Sturzbach",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Wasser-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon Wasser-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 68,
+    "name": "Hexaplaga",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon K\u00e4fer-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Notf\u00e4llen die St\u00e4rke\nvon K\u00e4fer-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 69,
+    "name": "Steinhaupt",
+    "effects": [
+      {
+        "effect": "Verhindert Schaden, der durch\nR\u00fccksto\u00df entsteht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Schaden, der durch\nR\u00fccksto\u00df entstehen w\u00fcrde.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 70,
+    "name": "D\u00fcrre",
+    "effects": [
+      {
+        "effect": "Erzeugt im Kampf glei\u00dfendes\nSonnenlicht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erzeugt im Kampf glei\u00dfendes\nSonnenlicht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 71,
+    "name": "Ausweglos",
+    "effects": [
+      {
+        "effect": "Hindert den Gegner im Kampf\nan der Flucht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert den Gegner im Kampf\nan der Flucht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 72,
+    "name": "Munterkeit",
+    "effects": [
+      {
+        "effect": "Verhindert Einschlafen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert Einschlafen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 73,
+    "name": "Pulverrauch",
+    "effects": [
+      {
+        "effect": "Hindert Angreifer daran,\nStatuswerte zu senken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Angreifer daran,\nStatuswerte zu senken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 74,
+    "name": "Mentalkraft",
+    "effects": [
+      {
+        "effect": "St\u00e4rkt physische Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "St\u00e4rkt physische Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 75,
+    "name": "Panzerhaut",
+    "effects": [
+      {
+        "effect": "Wehrt gegnerische Volltreffer ab.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Wehrt gegnerische Volltreffer ab.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 76,
+    "name": "Klimaschutz",
+    "effects": [
+      {
+        "effect": "Hebt Wetter-Effekte auf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hebt Wetter-Effekte auf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 77,
+    "name": "Fu\u00dfangel",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Fluchtwert,\nwenn das Pok\u00e9mon verwirrt ist.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Fluchtwert,\nwenn das Pok\u00e9mon verwirrt ist.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 78,
+    "name": "Starthilfe",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht nach einem Treffer durch\neine Elektro-Attacke die Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht nach einem Treffer durch\neine Elektro-Attacke die Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 79,
+    "name": "Rivalit\u00e4t",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Schaden, wenn das\nZiel dasselbe Geschlecht hat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Schaden, wenn das\nZiel dasselbe Geschlecht hat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 80,
+    "name": "Felsenfest",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die Initiative, sobald\ndas Pok\u00e9mon zur\u00fcckschreckt.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die Initiative, sobald\ndas Pok\u00e9mon zur\u00fcckschreckt.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 81,
+    "name": "Schneemantel",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht bei Hagel den Fluchtwert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht bei Hagel den Fluchtwert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 82,
+    "name": "V\u00f6llerei",
+    "effects": [
+      {
+        "effect": "Ermutigt zum fr\u00fchzeitigen Einsatz\nvon Beeren.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ermutigt zum fr\u00fchzeitigen Einsatz\nvon Beeren.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 83,
+    "name": "Kurzschluss",
+    "effects": [
+      {
+        "effect": "Maximiert nach Einstecken eines\nVolltreffers den Angriffs-Wert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Maximiert nach Einstecken eines\nVolltreffers den Angriffs-Wert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 84,
+    "name": "Entlastung",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht Initiative, wenn ein Item\nverwendet oder verloren wird.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht Initiative, wenn ein Item\nverwendet oder verloren wird.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 85,
+    "name": "Hitzeschutz",
+    "effects": [
+      {
+        "effect": "Senkt die St\u00e4rke von\nFeuer-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt die St\u00e4rke von\nFeuer-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 86,
+    "name": "Wankelmut",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon ist anf\u00e4llig\nf\u00fcr Statusver\u00e4nderungen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verdoppelt den Effekt eigener\nStatusver\u00e4nderungen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 87,
+    "name": "Trockenheit",
+    "effects": [
+      {
+        "effect": "Bei hei\u00dfem Wetter verliert das\nPok\u00e9mon KP. Wasser heilt KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bei hei\u00dfem Wetter verliert das\nPok\u00e9mon KP. Wasser heilt KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 88,
+    "name": "Download",
+    "effects": [
+      {
+        "effect": "Passt Kraft entsprechend den\ngegnerischen Statuswerten an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Passt Kraft entsprechend den\ngegnerischen Statuswerten an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 89,
+    "name": "Eisenfaust",
+    "effects": [
+      {
+        "effect": "Steigert die Effektivit\u00e4t von\nBox- und Hieb-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert die Effektivit\u00e4t von\nBox- und Hieb-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 90,
+    "name": "Aufheber",
+    "effects": [
+      {
+        "effect": "Heilt bei Vergiftungen KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Heilt bei Vergiftungen KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 91,
+    "name": "Anpassung",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von Attacken\ndesselben Typs.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von Attacken\ndesselben Typs.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 92,
+    "name": "Wertelink",
+    "effects": [
+      {
+        "effect": "Erm\u00f6glicht l\u00e4ngere Trefferserien\nmit Serien-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erm\u00f6glicht l\u00e4ngere Trefferserien\nmit Serien-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 93,
+    "name": "Hydration",
+    "effects": [
+      {
+        "effect": "Heilt bei Regen Statusprobleme.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Heilt bei Regen Statusprobleme.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 94,
+    "name": "Solarkraft",
+    "effects": [
+      {
+        "effect": "F\u00fchrt bei Sonne zu KP-Verlusten,\nerh\u00f6ht aber den Spezial-Angriff.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "F\u00fchrt bei Sonne zu KP-Verlusten,\nerh\u00f6ht aber den Spezial-Angriff.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 95,
+    "name": "Rasanz",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht bei Statusproblemen\ndie Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht bei Statusproblemen\ndie Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 96,
+    "name": "Regulierung",
+    "effects": [
+      {
+        "effect": "Alle Attacken des Pok\u00e9mon\nwerden zu Normal-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Alle Attacken des Pok\u00e9mon\nwerden zu Normal-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 97,
+    "name": "Supersch\u00fctze",
+    "effects": [
+      {
+        "effect": "Steigert den Schaden\nvon Volltreffern.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert den Schaden\nvon Volltreffern.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 98,
+    "name": "Magieschild",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon nimmt nur durch\nOffensiv-Attacken Schaden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon nimmt nur durch\nOffensiv-Attacken Schaden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 99,
+    "name": "Schildlos",
+    "effects": [
+      {
+        "effect": "Alle Attacken des oder auf\ndas Pok\u00e9mon gelingen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Alle Attacken des oder auf\ndas Pok\u00e9mon gelingen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 100,
+    "name": "Zeitspiel",
+    "effects": [
+      {
+        "effect": "Handelt auch mit Initiative-Vorteil\nstets nach dem Gegner.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Handelt auch mit Initiative-Vorteil\nstets nach dem Gegner.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 101,
+    "name": "Techniker",
+    "effects": [
+      {
+        "effect": "Steigert die Effektivit\u00e4t von\nschw\u00e4cheren Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert die Effektivit\u00e4t von\nschw\u00e4cheren Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 102,
+    "name": "Floraschild",
+    "effects": [
+      {
+        "effect": "Verhindert bei Sonnenschein\nStatusprobleme.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verhindert bei Sonnenschein\nStatusprobleme.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 103,
+    "name": "Tollpatsch",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon kann keine\ngetragenen Items verwenden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon kann keine\ngetragenen Items verwenden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 104,
+    "name": "\u00dcberbr\u00fcckung",
+    "effects": [
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeiten verwendet werden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeiten verwendet werden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 105,
+    "name": "Gl\u00fcckspilz",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die Wahrscheinlichkeit,\neinen Volltreffer zu landen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die Wahrscheinlichkeit,\neinen Volltreffer zu landen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 106,
+    "name": "Finalschlag",
+    "effects": [
+      {
+        "effect": "F\u00fcgt einem Angreifer, der das\nPok\u00e9mon besiegt, Schaden zu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "F\u00fcgt einem Angreifer, der das\nPok\u00e9mon besiegt, Schaden zu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 107,
+    "name": "Vorahnung",
+    "effects": [
+      {
+        "effect": "Ahnt gef\u00e4hrliche Attacken\ndes Gegners voraus.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ahnt gef\u00e4hrliche Attacken\ndes Gegners voraus.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 108,
+    "name": "Vorwarnung",
+    "effects": [
+      {
+        "effect": "Gibt Auskunft \u00fcber das Attacken-\nRepertoire des Gegners.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Gibt Auskunft \u00fcber das Attacken-\nRepertoire des Gegners.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 109,
+    "name": "Unkenntnis",
+    "effects": [
+      {
+        "effect": "Ignoriert Statusver\u00e4nderungen\ndes Zieles.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ignoriert Statusver\u00e4nderungen\ndes Zieles.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 110,
+    "name": "Aufwertung",
+    "effects": [
+      {
+        "effect": "Verst\u00e4rkt nicht sehr effektive\nAttacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verst\u00e4rkt nicht sehr effektive\nAttacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 111,
+    "name": "Filter",
+    "effects": [
+      {
+        "effect": "Senkt die St\u00e4rke sehr effektiver\nAttacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt die St\u00e4rke sehr effektiver\nAttacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 112,
+    "name": "Saumselig",
+    "effects": [
+      {
+        "effect": "Halbiert zeitweilig den Angriff\nund die Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Halbiert zeitweilig den Angriff\nund die Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 113,
+    "name": "Rauflust",
+    "effects": [
+      {
+        "effect": "Normal- und Kampf-Attacken\ntreffen Pok\u00e9mon vom Typ Geist.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Normal- und Kampf-Attacken\ntreffen Pok\u00e9mon vom Typ Geist.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 114,
+    "name": "Sturmsog",
+    "effects": [
+      {
+        "effect": "Absorbiert Wasser-Attacken\nund steigert den Spezial-Angriff.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Absorbiert Wasser-Attacken\nund steigert den Spezial-Angriff.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 115,
+    "name": "Eishaut",
+    "effects": [
+      {
+        "effect": "Regeneriert bei Hagel\nnach und nach KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Regeneriert bei Hagel\nnach und nach KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 116,
+    "name": "Felskern",
+    "effects": [
+      {
+        "effect": "Senkt die St\u00e4rke sehr effektiver\nAttacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt die St\u00e4rke sehr effektiver\nAttacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 117,
+    "name": "Hagelalarm",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon beschw\u00f6rt im\nKampf Hagelst\u00fcrme herauf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon beschw\u00f6rt im\nKampf Hagelst\u00fcrme herauf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 118,
+    "name": "Honigmaul",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon sammelt\ngelegentlich Honig auf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon sammelt\ngelegentlich Honig auf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 119,
+    "name": "Schn\u00fcffler",
+    "effects": [
+      {
+        "effect": "Gibt Auskunft \u00fcber gegnerische\nItems.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Gibt Auskunft \u00fcber gegnerische\nItems.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 120,
+    "name": "Achtlos",
+    "effects": [
+      {
+        "effect": "Verst\u00e4rkt Attacken mit\nR\u00fccksto\u00df-Schaden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verst\u00e4rkt Attacken mit\nR\u00fccksto\u00df-Schaden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 121,
+    "name": "Variabilit\u00e4t",
+    "effects": [
+      {
+        "effect": "Passt seinen Typ der\ngetragenen Tafel an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Passt seinen Typ der\ngetragenen Tafel an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 122,
+    "name": "Pflanzengabe",
+    "effects": [
+      {
+        "effect": "Steigert bei Sonne die Effektivit\u00e4t\nvon allen Team-Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Steigert bei Sonne die Effektivit\u00e4t\naller Team-Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 123,
+    "name": "Alptraum",
+    "effects": [
+      {
+        "effect": "Senkt die KP eines\nschlafenden Gegners.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt die KP eines\nschlafenden Gegners.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 124,
+    "name": "Langfinger",
+    "effects": [
+      {
+        "effect": "Stiehlt Angreifern Items,\nwenn es von ihnen ber\u00fchrt wird.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Stiehlt Angreifern Items,\nwenn es von ihnen ber\u00fchrt wird.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 125,
+    "name": "Rohe Gewalt",
+    "effects": [
+      {
+        "effect": "Bewirkt einen Kraftschub,\naber hebt Zusatz-Effekte auf.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bewirkt einen Kraftschub,\naber hebt Zusatz-Effekte auf.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 126,
+    "name": "Umkehrung",
+    "effects": [
+      {
+        "effect": "Statusver\u00e4nderungen werden\numgekehrt.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Statusver\u00e4nderungen werden\numgekehrt.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 127,
+    "name": "Anspannung",
+    "effects": [
+      {
+        "effect": "Hindert den Gegner durch Stress\nam Beerenkonsum.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert den Gegner durch Stress\nam Beerenkonsum.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 128,
+    "name": "Siegeswille",
+    "effects": [
+      {
+        "effect": "Senkt der Gegner die Status-\nwerte, steigt der Angriffs-Wert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Senkt der Gegner die Status-\nwerte, steigt der Angriffs-Wert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 129,
+    "name": "Schw\u00e4chling",
+    "effects": [
+      {
+        "effect": "Bei halbierter KP-Anzahl\nsinken die Statuswerte.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bei halbierter KP-Anzahl\nsinken die Statuswerte.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 130,
+    "name": "Tastfluch",
+    "effects": [
+      {
+        "effect": "Blockiert gelegentlich Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blockiert gelegentlich Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 131,
+    "name": "Heilherz",
+    "effects": [
+      {
+        "effect": "Befreit Mitstreiter gelegentlich\nvon Statusproblemen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Befreit Mitstreiter gelegentlich\nvon Statusproblemen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 132,
+    "name": "Freundeshut",
+    "effects": [
+      {
+        "effect": "Verringert den Schaden\nan Mitstreitern.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verringert den Schaden\nan Mitstreitern.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 133,
+    "name": "Bruchr\u00fcstung",
+    "effects": [
+      {
+        "effect": "Phys. Treffer senken Verteidigung\nund steigern Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Phys. Treffer senken Verteidigung\nund steigern Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 134,
+    "name": "Schwermetall",
+    "effects": [
+      {
+        "effect": "Verdoppelt das eigene Gewicht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verdoppelt das eigene Gewicht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 135,
+    "name": "Leichtmetall",
+    "effects": [
+      {
+        "effect": "Halbiert das eigene Gewicht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Halbiert das eigene Gewicht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 136,
+    "name": "Multischuppe",
+    "effects": [
+      {
+        "effect": "Verringert den erlittenen Schaden\nbei vollen KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verringert den erlittenen Schaden\nbei vollen KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 137,
+    "name": "Giftwahn",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht bei Vergiftung die St\u00e4rke\nvon physischen Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht bei Vergiftung die St\u00e4rke\nvon physischen Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 138,
+    "name": "Hitzewahn",
+    "effects": [
+      {
+        "effect": "Verst\u00e4rkt bei Verbrennungen\ndie St\u00e4rke von Spezial-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Verst\u00e4rkt bei Verbrennungen\ndie St\u00e4rke von Spezial-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 139,
+    "name": "Reiche Ernte",
+    "effects": [
+      {
+        "effect": "Aufgebrauchte Beeren k\u00f6nnen\nmehrmals nachwachsen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Dieselbe Beere kann mehrmals\nverwendet werden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 140,
+    "name": "Telepathie",
+    "effects": [
+      {
+        "effect": "Erkennt und pariert Attacken\nvon Mitstreitern.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erkennt und pariert Attacken\nvon Mitstreitern.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 141,
+    "name": "Gef\u00fchlswippe",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht einen Statuswert\nund senkt einen anderen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht einen Statuswert\nund senkt einen anderen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 142,
+    "name": "Wetterfest",
+    "effects": [
+      {
+        "effect": "Nimmt keinen Schaden\ndurch Wetterbedingungen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Nimmt keinen Schaden\ndurch Wetterbedingungen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 143,
+    "name": "Giftgriff",
+    "effects": [
+      {
+        "effect": "Kann das Ziel durch\nblo\u00dfes Ber\u00fchren vergiften.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Kann das Ziel durch\nblo\u00dfes Ber\u00fchren vergiften.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 144,
+    "name": "Belebekraft",
+    "effects": [
+      {
+        "effect": "Heilt beim Austauschen\neine geringe Menge an KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Heilt beim Austauschen\neine geringe Menge an KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 145,
+    "name": "Brustbieter",
+    "effects": [
+      {
+        "effect": "Hindert Angreifer daran,\ndie Verteidigung zu senken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hindert Angreifer daran,\ndie Verteidigung zu senken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 146,
+    "name": "Sandscharrer",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht in Sandst\u00fcrmen\ndie Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht in Sandst\u00fcrmen\ndie Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 147,
+    "name": "Wunderhaut",
+    "effects": [
+      {
+        "effect": "Wehrt mit robustem K\u00f6rper\nviele Status-Attacken ab.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Wehrt mit robustem K\u00f6rper\nviele Status-Attacken ab.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 148,
+    "name": "Analyse",
+    "effects": [
+      {
+        "effect": "Greift das Pok\u00e9mon zuletzt an,\nist es st\u00e4rker.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Greift das Pok\u00e9mon zuletzt an,\nist es st\u00e4rker.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 149,
+    "name": "Trugbild",
+    "effects": [
+      {
+        "effect": "Bestreitet K\u00e4mpfe in der Gestalt\ndes Listenletzten.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bestreitet K\u00e4mpfe in der Gestalt\ndes Listenletzten.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 150,
+    "name": "Doppelg\u00e4nger",
+    "effects": [
+      {
+        "effect": "K\u00e4mpft als Kopie seines\nGegen\u00fcbers.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "K\u00e4mpft als Kopie seines\nGegen\u00fcbers.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 151,
+    "name": "Schwebedurch",
+    "effects": [
+      {
+        "effect": "\u00dcberwindet gegnerische Schilde\nund greift an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\u00dcberwindet gegnerische Schilde\nund greift an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 152,
+    "name": "Mumie",
+    "effects": [
+      {
+        "effect": "Ber\u00fchrt man das Pok\u00e9mon,\n\u00fcbernimmt man seine F\u00e4higkeit.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ber\u00fchrt man das Pok\u00e9mon,\n\u00fcbernimmt man seine F\u00e4higkeit.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 153,
+    "name": "Hochmut",
+    "effects": [
+      {
+        "effect": "Besiegt es ein Pok\u00e9mon,\nsteigt sein Angriffs-Wert.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Besiegt es ein Pok\u00e9mon,\nsteigt sein Angriffs-Wert.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 154,
+    "name": "Redlichkeit",
+    "effects": [
+      {
+        "effect": "Angriff steigt nach Einstecken\neiner Unlicht-Attacke.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Angriff steigt nach Einstecken\neiner Unlicht-Attacke.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 155,
+    "name": "Hasenfu\u00df",
+    "effects": [
+      {
+        "effect": "Aus Angst vor manchen Attacken\nsteigt die Initiative.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aus Angst vor manchen Attacken\nsteigt die Initiative.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 156,
+    "name": "Magiespiegel",
+    "effects": [
+      {
+        "effect": "Lenkt Status-Attacken\nauf den Angreifer um.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Lenkt Status-Attacken\nauf den Angreifer um.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 157,
+    "name": "Vegetarier",
+    "effects": [
+      {
+        "effect": "Absorbiert Pflanzen-Attacken\nund steigert den Angriff.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Absorbiert Pflanzen-Attacken\nund steigert den Angriff.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 158,
+    "name": "Strolch",
+    "effects": [
+      {
+        "effect": "Erm\u00f6glicht einen Erstschlag\nmit Status-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erm\u00f6glicht einen Erstschlag\nmit Status-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 159,
+    "name": "Sandgewalt",
+    "effects": [
+      {
+        "effect": "Manche Attacken wirken\nin Sandst\u00fcrmen besser.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Manche Attacken wirken\nin Sandst\u00fcrmen besser.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 160,
+    "name": "Eisenstachel",
+    "effects": [
+      {
+        "effect": "Angreifer nehmen durch\nblo\u00dfes Ber\u00fchren Schaden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Angreifer nehmen durch\nblo\u00dfes Ber\u00fchren Schaden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 161,
+    "name": "Trance-Modus",
+    "effects": [
+      {
+        "effect": "Wechselt seine Gestalt,\nwenn es eng wird.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Wechselt seine Gestalt,\nwenn es eng wird.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 162,
+    "name": "Triumphstern",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht Genauigkeit bei\nallen Pok\u00e9mon im Team.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht Genauigkeit aller\nPok\u00e9mon im Team.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 163,
+    "name": "Turbobrand",
+    "effects": [
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeit verwendet werden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeit verwendet werden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 164,
+    "name": "Teravolt",
+    "effects": [
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeit verwendet werden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken k\u00f6nnen ungeachtet der\nF\u00e4higkeit verwendet werden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 165,
+    "name": "Dufth\u00fclle",
+    "effects": [
+      {
+        "effect": "Sch\u00fctzt alle Pok\u00e9mon im Team\nvor manchen mentalen Angriffen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sch\u00fctzt alle Pok\u00e9mon im Team\nvor manchen mentalen Angriffen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 166,
+    "name": "Bl\u00fctenh\u00fclle",
+    "effects": [
+      {
+        "effect": "Sch\u00fctzt Pflanzen-Pok\u00e9mon\nvor gesenkten Statuswerten.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sch\u00fctzt Pflanzen-Pok\u00e9mon\nvor gesenkten Statuswerten.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 167,
+    "name": "Backentaschen",
+    "effects": [
+      {
+        "effect": "Heilt beim Konsum\nvon Beeren KP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Heilt beim Konsum\nvon Beeren KP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 168,
+    "name": "Wandlungskunst",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon nimmt bei Einsatz\neiner Attacke deren Typ an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon nimmt bei Einsatz\neiner Attacke deren Typ an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 169,
+    "name": "Fellkleid",
+    "effects": [
+      {
+        "effect": "Halbiert den Schaden durch\nphysische Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Halbiert den Schaden durch\nphysische Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 170,
+    "name": "Zauberer",
+    "effects": [
+      {
+        "effect": "Stiehlt Items von Pok\u00e9mon, die\ndurch Attacken getroffen wurden.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Stiehlt Items von Pok\u00e9mon, die\ndurch Attacken getroffen wurden.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 171,
+    "name": "Kugelsicher",
+    "effects": [
+      {
+        "effect": "Sch\u00fctzt das Pok\u00e9mon vor\ngeworfenen Bomben und Kugeln.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sch\u00fctzt das Pok\u00e9mon vor\ngeworfenen Bomben und Kugeln.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 172,
+    "name": "Unbeugsamkeit",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nein Statuswert gesenkt wurde.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht den Spezial-Angriff, wenn\nein Statuswert gesenkt wurde.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 173,
+    "name": "Titankiefer",
+    "effects": [
+      {
+        "effect": "Der kr\u00e4ftige Kiefer des Pok\u00e9mon\nverleiht ihm einen starken Biss.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Der kr\u00e4ftige Kiefer des Pok\u00e9mon\nverleiht ihm einen starken Biss.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 174,
+    "name": "Frostschicht",
+    "effects": [
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Eis an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Eis an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 175,
+    "name": "Zuckerh\u00fclle",
+    "effects": [
+      {
+        "effect": "Alle Pok\u00e9mon im Team k\u00f6nnen\nnicht einschlafen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Alle Pok\u00e9mon im Team k\u00f6nnen\nnicht einschlafen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 176,
+    "name": "Taktikwechsel",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon nimmt je nach\nKampftaktik eine andere Form an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon nimmt je nach\nKampftaktik eine andere Form an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 177,
+    "name": "Orkanschwingen",
+    "effects": [
+      {
+        "effect": "Erm\u00f6glicht es dem Pok\u00e9mon, mit\nFlug-Attacken zuerst anzugreifen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erm\u00f6glicht es dem Pok\u00e9mon, mit\nFlug-Attacken zuerst anzugreifen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 178,
+    "name": "Megawumme",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke einiger Wellen-,\nAura- und Puls-Attacken.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke einiger Wellen-,\nAura- und Puls-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 179,
+    "name": "Pflanzenpelz",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die Verteidigung,\nwenn Grasfeld aktiv ist.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die Verteidigung,\nwenn Grasfeld aktiv ist.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 180,
+    "name": "Nutznie\u00dfer",
+    "effects": [
+      {
+        "effect": "Das Pok\u00e9mon kann sein Item an\neinen Mitstreiter weitergeben.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Das Pok\u00e9mon kann sein Item an\neinen Mitstreiter weitergeben.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 181,
+    "name": "Krallenwucht",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von direkten\nAngriffen.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von direkten\nAngriffen.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 182,
+    "name": "Feenschicht",
+    "effects": [
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Fee an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Fee an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 183,
+    "name": "Viskosit\u00e4t",
+    "effects": [
+      {
+        "effect": "Die Initiative von Angreifern sinkt\ndurch blo\u00dfes Ber\u00fchren.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Die Initiative von Angreifern sinkt\ndurch blo\u00dfes Ber\u00fchren.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 184,
+    "name": "Zenithaut",
+    "effects": [
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Flug an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attacken vom Typ Normal\nnehmen den Typ Flug an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 185,
+    "name": "Familienbande",
+    "effects": [
+      {
+        "effect": "Zwei Generationen setzen\ngemeinsam zum Angriff an.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Zwei Generationen setzen\ngemeinsam zum Angriff an.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 186,
+    "name": "Dunkelaura",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von allen\nAttacken des Typs Unlicht.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke aller Attacken\ndes Typs Unlicht.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 187,
+    "name": "Feenaura",
+    "effects": [
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke von allen\nAttacken des Typs Fee.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Erh\u00f6ht die St\u00e4rke aller Attacken\ndes Typs Fee.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 188,
+    "name": "Aura-Umkehr",
+    "effects": [
+      {
+        "effect": "Kehrt die Wirkung von Auren um.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Kehrt die Wirkung von Auren um.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 189,
+    "name": "Urmeer",
+    "effects": [
+      {
+        "effect": "\u00c4ndert das Wetter. Unterbindet\ndirekte Feuer-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 190,
+    "name": "Endland",
+    "effects": [
+      {
+        "effect": "\u00c4ndert das Wetter. Unterbindet\ndirekte Wasser-Attacken.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  },
+  {
+    "id": 191,
+    "name": "Delta-Wind",
+    "effects": [
+      {
+        "effect": "\u00c4ndert das Wetter. Schw\u00e4chen\ndes Typs Flug werden beseitigt.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
+    "battle_effect": null,
+    "description": null
+  }
+]

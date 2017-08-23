@@ -1,7 +1,7 @@
 import requests
 import json
 
-dataString = 'ability'
+dataString = 'pokemon'
 startId = 1
 endId = None
 baseUrl = 'http://localhost:8000/api/v2/'
@@ -17,7 +17,7 @@ while True:
 
     dataJson = response.json()
 
-    fileName = 'poke_'+ dataString + '_'+ str(startId) + '.json'
+    fileName = dataString + '_'+ str(startId) + '.json'
     with open('../in/' + fileName, 'w') as dataFile:
         json.dump(dataJson, dataFile)
         print(fileName)

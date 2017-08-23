@@ -2,1146 +2,3044 @@
   {
     "id": 1,
     "name": "\uc545\ucde8",
+    "effects": [
+      {
+        "effect": "\uc545\ucde8 \ub54c\ubb38\uc5d0 \uc0c1\ub300\uac00\n\ud480\uc8fd\uc744 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc545\ucde8 \ub54c\ubb38\uc5d0 \uc0c1\ub300\uac00\n\ud480\uc8fd\uc744 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 2,
     "name": "\uc794\ube44",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ube44\ub97c \ub0b4\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ube44\ub97c \ub0b4\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 3,
     "name": "\uac00\uc18d",
+    "effects": [
+      {
+        "effect": "\uc870\uae08\uc529\n\uc2a4\ud53c\ub4dc\uac00 \ub192\uc544\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc870\uae08\uc529\n\uc2a4\ud53c\ub4dc\uac00 \ub192\uc544\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 4,
     "name": "\uc804\ud22c\ubb34\uc7a5",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 5,
     "name": "\uc639\uace8\ucc38",
+    "effects": [
+      {
+        "effect": "\uc77c\uaca9\uc73c\ub85c\n\uc4f0\ub7ec\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc77c\uaca9\uc73c\ub85c\n\uc4f0\ub7ec\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 6,
     "name": "\uc2b5\uae30",
+    "effects": [
+      {
+        "effect": "\ub204\uad6c\ub3c4 \ud3ed\ubc1c\n\ud560 \uc218 \uc5c6\uac8c \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub204\uad6c\ub3c4 \ud3ed\ubc1c\n\ud560 \uc218 \uc5c6\uac8c \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 7,
     "name": "\uc720\uc5f0",
+    "effects": [
+      {
+        "effect": "\ub9c8\ube44 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub9c8\ube44 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 8,
     "name": "\ubaa8\ub798\uc228\uae30",
+    "effects": [
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 9,
     "name": "\uc815\uc804\uae30",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\ub9c8\ube44\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\ub9c8\ube44\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 10,
     "name": "\ucd95\uc804",
+    "effects": [
+      {
+        "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 11,
     "name": "\uc800\uc218",
+    "effects": [
+      {
+        "effect": "\ubb3c\uc744 \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\uc744 \ubc1b\uc73c\uba74\n\ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 12,
     "name": "\ub454\uac10",
+    "effects": [
+      {
+        "effect": "\ud5e4\ub871\ud5e4\ub871\uc774\ub098 \ub3c4\ubc1c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud5e4\ub871\ud5e4\ub871\uc774\ub098 \ub3c4\ubc1c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 13,
     "name": "\ub0a0\uc528\ubd80\uc815",
+    "effects": [
+      {
+        "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 14,
     "name": "\ubcf5\uc548",
+    "effects": [
+      {
+        "effect": "\uae30\uc220\uc758 \uba85\uc911\ub960\uc774\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae30\uc220\uc758 \uba85\uc911\ub960\uc774\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 15,
     "name": "\ubd88\uba74",
+    "effects": [
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 16,
     "name": "\ubcc0\uc0c9",
+    "effects": [
+      {
+        "effect": "\ubc1b\uc740 \uae30\uc220\uc758 \ud0c0\uc785\uc73c\ub85c\n\ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc1b\uc740 \uae30\uc220\uc758 \ud0c0\uc785\uc73c\ub85c\n\ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 17,
     "name": "\uba74\uc5ed",
+    "effects": [
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 18,
     "name": "\ud0c0\uc624\ub974\ub294\ubd88\uaf43",
+    "effects": [
+      {
+        "effect": "\ubd88\uaf43\uc744 \ubc1b\uc73c\uba74\n\ubd88\uaf43 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubd88\uaf43\uc744 \ubc1b\uc73c\uba74\n\ubd88\uaf43 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 19,
     "name": "\uc778\ubd84",
+    "effects": [
+      {
+        "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\ub97c\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\ub97c\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 20,
     "name": "\ub9c8\uc774\ud398\uc774\uc2a4",
+    "effects": [
+      {
+        "effect": "\ud63c\ub780 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud63c\ub780 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 21,
     "name": "\ud761\ubc18",
+    "effects": [
+      {
+        "effect": "\uad50\uccb4\uc2dc\ud0a4\ub294 \uae30\uc220\uc774\ub098 \ub3c4\uad6c\uc758\n\ud6a8\uacfc\ub97c \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uad50\uccb4\uc2dc\ud0a4\ub294 \uae30\uc220\uc774\ub098 \ub3c4\uad6c\uc758\n\ud6a8\uacfc\ub97c \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 22,
     "name": "\uc704\ud611",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 23,
     "name": "\uadf8\ub9bc\uc790\ubc1f\uae30",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uadf8\ub9bc\uc790\ub97c \ubc1f\uc544\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uadf8\ub9bc\uc790\ub97c \ubc1f\uc544\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 24,
     "name": "\uae4c\uce60\ud55c\ud53c\ubd80",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 25,
     "name": "\ubd88\uac00\uc0ac\uc758\ubd80\uc801",
+    "effects": [
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\ubc16\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\ubc16\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 26,
     "name": "\ubd80\uc720",
+    "effects": [
+      {
+        "effect": "\ub545\ud0c0\uc785\uc758 \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub545\ud0c0\uc785\uc758 \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 27,
     "name": "\ud3ec\uc790",
+    "effects": [
+      {
+        "effect": "\uc2a4\uce58\uba74 \ub3c5, \ub9c8\ube44, \uc7a0\ub4e6\n\uc0c1\ud0dc\uac00 \ub420 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc2a4\uce58\uba74 \ub3c5, \ub9c8\ube44, \uc7a0\ub4e6\n\uc0c1\ud0dc\uac00 \ub420 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 28,
     "name": "\uc2f1\ud06c\ub85c",
+    "effects": [
+      {
+        "effect": "\ub3c5, \ub9c8\ube44, \ud654\uc0c1\uc744\n\uc0c1\ub300\uc5d0\uac8c \uc62e\uae34\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c5, \ub9c8\ube44, \ud654\uc0c1\uc744\n\uc0c1\ub300\uc5d0\uac8c \uc62e\uae34\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 29,
     "name": "\ud074\ub9ac\uc5b4\ubc14\ub514",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 30,
     "name": "\uc790\uc5f0\ud68c\ubcf5",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc77c\ub2e8 \ubb3c\ub7ec\ub098\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc77c\ub2e8 \ubb3c\ub7ec\ub098\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 31,
     "name": "\ud53c\ub8b0\uce68",
+    "effects": [
+      {
+        "effect": "\uc804\uae30\ub97c \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc804\uae30\ub97c \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 32,
     "name": "\ud558\ub298\uc758\uc740\ucd1d",
+    "effects": [
+      {
+        "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\uac00\n\ub098\uc624\uae30 \uc27d\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae30\uc220\uc758 \ucd94\uac00 \ud6a8\uacfc\uac00\n\ub098\uc624\uae30 \uc27d\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 33,
     "name": "\uc4f1\uc4f1",
+    "effects": [
+      {
+        "effect": "\ube44\uac00 \uc62c \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ube44\uac00 \uc62c \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 34,
     "name": "\uc5fd\ub85d\uc18c",
+    "effects": [
+      {
+        "effect": "\ub9d1\uc744 \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub9d1\uc744 \ub54c \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 35,
     "name": "\ubc1c\uad11",
+    "effects": [
+      {
+        "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uacfc\n\ub9cc\ub098\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uacfc\n\ub9cc\ub098\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 36,
     "name": "\ud2b8\ub808\uc774\uc2a4",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc640 \uac19\uc740\n\ud2b9\uc131\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc640 \uac19\uc740\n\ud2b9\uc131\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 37,
     "name": "\ucc9c\ud558\uc7a5\uc0ac",
+    "effects": [
+      {
+        "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 38,
     "name": "\ub3c5\uac00\uc2dc",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\uc911\ub3c5\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\ub97c\n\uc911\ub3c5\uc2dc\ud0ac \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 39,
     "name": "\uc815\uc2e0\ub825",
+    "effects": [
+      {
+        "effect": "\ud480\uc8fd\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud480\uc8fd\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 40,
     "name": "\ub9c8\uadf8\ub9c8\uc758\ubb34\uc7a5",
+    "effects": [
+      {
+        "effect": "\uc5bc\uc74c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc5bc\uc74c \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 41,
     "name": "\uc218\uc758\ubca0\uc77c",
+    "effects": [
+      {
+        "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 42,
     "name": "\uc790\ub825",
+    "effects": [
+      {
+        "effect": "\uac15\ucca0\uc758 \ud3ec\ucf13\ubaac\uc744\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac15\ucca0\uc758 \ud3ec\ucf13\ubaac\uc744\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 43,
     "name": "\ubc29\uc74c",
+    "effects": [
+      {
+        "effect": "\uc18c\ub9ac \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc18c\ub9ac \uae30\uc220\uc744\n\ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 44,
     "name": "\uc816\uc740\uc811\uc2dc",
+    "effects": [
+      {
+        "effect": "\ube44\uac00 \uc62c \ub54c \uc870\uae08\uc529\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ube44\uac00 \uc62c \ub54c \uc870\uae08\uc529\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 45,
     "name": "\ubaa8\ub798\ub0a0\ub9bc",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \ubaa8\ub798\ubc14\ub78c\uc744\n\uc77c\uc73c\ud0a8\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \ubaa8\ub798\ubc14\ub78c\uc744\n\uc77c\uc73c\ud0a8\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 46,
     "name": "\ud504\ub808\uc154",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\nPP\ub97c \ub9ce\uc774 \uc904\uc778\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\nPP\ub97c \ub9ce\uc774 \uc904\uc778\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 47,
     "name": "\ub450\uaebc\uc6b4\uc9c0\ubc29",
+    "effects": [
+      {
+        "effect": "\ubd88\uaf43\uacfc \uc5bc\uc74c\ud0c0\uc785\uc758\n\uae30\uc220\uc5d0 \uac15\ud558\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubd88\uaf43\uacfc \uc5bc\uc74c\ud0c0\uc785\uc758\n\uae30\uc220\uc5d0 \uac15\ud558\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 48,
     "name": "\uc77c\ucc0d\uae30\uc0c1",
+    "effects": [
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uc5d0\uc11c\n\ube68\ub9ac \uae68\uc5b4\ub09c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uc5d0\uc11c\n\ube68\ub9ac \uae68\uc5b4\ub09c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 49,
     "name": "\ubd88\uaf43\ubab8",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\ud654\uc0c1\uc744 \uc785\ud790 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\ud654\uc0c1\uc744 \uc785\ud790 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 50,
     "name": "\ub3c4\uc8fc",
+    "effects": [
+      {
+        "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uc73c\ub85c\ubd80\ud130\n\ubc18\ub4dc\uc2dc \ub3c4\ub9dd\uce60 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc57c\uc0dd \ud3ec\ucf13\ubaac\uc73c\ub85c\ubd80\ud130\n\ubc18\ub4dc\uc2dc \ub3c4\ub9dd\uce60 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 51,
     "name": "\ub0a0\uce74\ub85c\uc6b4\ub208",
+    "effects": [
+      {
+        "effect": "\uba85\uc911\ub960\uc774\n\ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uba85\uc911\ub960\uc774\n\ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 52,
     "name": "\uad34\ub825\uc9d1\uac8c",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9ac\uc9c0 \ubabb\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \uacf5\uaca9\uc744\n\ub5a8\uc5b4\ub728\ub9ac\uc9c0 \ubabb\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 53,
     "name": "\ud53d\uc5c5",
+    "effects": [
+      {
+        "effect": "\ub3c4\uad6c\ub97c \uc8fc\uc6cc\uc62c\n\ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c4\uad6c\ub97c \uc8fc\uc6cc\uc62c\n\ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 54,
     "name": "\uac8c\uc73c\ub984",
+    "effects": [
+      {
+        "effect": "\uc5f0\uc18d\uc73c\ub85c\n\uacf5\uaca9\ud560 \uc218 \uc5c6\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc5f0\uc18d\uc73c\ub85c\n\uacf5\uaca9\ud560 \uc218 \uc5c6\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 55,
     "name": "\uc758\uc695",
+    "effects": [
+      {
+        "effect": "\uacf5\uaca9\uc740 \ub192\uc9c0\ub9cc\n\ube57\ub098\uac00\uae30 \uc27d\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uacf5\uaca9\uc740 \ub192\uc9c0\ub9cc\n\ube57\ub098\uac00\uae30 \uc27d\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 56,
     "name": "\ud5e4\ub871\ud5e4\ub871\ubc14\ub514",
+    "effects": [
+      {
+        "effect": "\uc2a4\uce58\uba74 \ud5e4\ub871\ud5e4\ub871 \uc0c1\ud0dc\uac00\n\ub420 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc2a4\uce58\uba74 \ud5e4\ub871\ud5e4\ub871 \uc0c1\ud0dc\uac00\n\ub420 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 57,
     "name": "\ud50c\ub7ec\uc2a4",
+    "effects": [
+      {
+        "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 58,
     "name": "\ub9c8\uc774\ub108\uc2a4",
+    "effects": [
+      {
+        "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud50c\ub7ec\uc2a4\ub098 \ub9c8\uc774\ub108\uc2a4\uac00 \uc788\uc73c\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 59,
     "name": "\uae30\ubd84\ud30c",
+    "effects": [
+      {
+        "effect": "\ub0a0\uc528\uc5d0 \ub530\ub77c\n\uce90\uc2a4\ud401\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub0a0\uc528\uc5d0 \ub530\ub77c\n\uce90\uc2a4\ud401\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 60,
     "name": "\uc810\ucc29",
+    "effects": [
+      {
+        "effect": "\ub2ec\ub77c\ubd99\uc5b4\uc11c\n\ub3c4\uad6c\ub97c \uc9c0\ud0a8\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2ec\ub77c\ubd99\uc5b4\uc11c\n\ub3c4\uad6c\ub97c \uc9c0\ud0a8\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 61,
     "name": "\ud0c8\ud53c",
+    "effects": [
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc744\n\ud68c\ubcf5\ud560 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc744\n\ud68c\ubcf5\ud560 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 62,
     "name": "\uadfc\uc131",
+    "effects": [
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 63,
     "name": "\uc774\uc0c1\ud55c\ube44\ub298",
+    "effects": [
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 64,
     "name": "\ud574\uac10\uc561",
+    "effects": [
+      {
+        "effect": "\ud761\uc218\ud55c \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud761\uc218\ud55c \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 65,
     "name": "\uc2ec\ub85d",
+    "effects": [
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ud480\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ud480\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 66,
     "name": "\ub9f9\ud654",
+    "effects": [
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubd88\uaf43\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubd88\uaf43\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 67,
     "name": "\uae09\ub958",
+    "effects": [
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubb3c\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubb3c\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 68,
     "name": "\ubc8c\ub808\uc758\uc54c\ub9bc",
+    "effects": [
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubc8c\ub808\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c \ubc8c\ub808\ud0c0\uc785\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 69,
     "name": "\ub3cc\uba38\ub9ac",
+    "effects": [
+      {
+        "effect": "\ubd80\ub52a\uccd0\ub3c4\n\ubc18\ub3d9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubd80\ub52a\uccd0\ub3c4\n\ubc18\ub3d9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 70,
     "name": "\uac00\ubb44",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ud587\uc0b4\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\ud587\uc0b4\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 71,
     "name": "\uac1c\ubbf8\uc9c0\uc625",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc0c1\ub300\ub97c\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0\uc11c \uc0c1\ub300\ub97c\n\ub3c4\ub9dd\uce60 \uc218 \uc5c6\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 72,
     "name": "\uc758\uae30\uc591\uc591",
+    "effects": [
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc7a0\ub4e6 \uc0c1\ud0dc\uac00\n\ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 73,
     "name": "\ud558\uc580\uc5f0\uae30",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \ub2a5\ub825\uc744\n\ub5a8\uc5b4\ub728\ub9b4 \uc218 \uc5c6\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 74,
     "name": "\uc21c\uc218\ud55c\ud798",
+    "effects": [
+      {
+        "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 75,
     "name": "\uc870\uac00\ube44\uac11\uc637",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uacf5\uaca9\uc774\n\uae09\uc18c\uc5d0 \ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 76,
     "name": "\uc5d0\uc5b4\ub85d",
+    "effects": [
+      {
+        "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub0a0\uc528\uc758 \uc601\ud5a5\uc774\n\uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 77,
     "name": "\uac08\uc9c0\uc790\uac78\uc74c",
+    "effects": [
+      {
+        "effect": "\ud63c\ub780\uc5d0 \ube60\uc838\uc788\uc73c\uba74\n\ud68c\ud53c\ud558\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud63c\ub780\uc5d0 \ube60\uc838 \uc788\uc73c\uba74\n\ud68c\ud53c\ud558\uae30 \uc26c\uc6cc\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 78,
     "name": "\uc804\uae30\uc5d4\uc9c4",
+    "effects": [
+      {
+        "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc804\uae30\ub97c \ubc1b\uc73c\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 79,
     "name": "\ud22c\uc7c1\uc2ec",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc640 \uc131\ubcc4\uc774\n\uac19\uc73c\uba74 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc640 \uc131\ubcc4\uc774\n\uac19\uc73c\uba74 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 80,
     "name": "\ubd88\uad74\uc758\ub9c8\uc74c",
+    "effects": [
+      {
+        "effect": "\ud480\uc8fd\uc744 \ub54c\ub9c8\ub2e4\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud480\uc8fd\uc744 \ub54c\ub9c8\ub2e4\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 81,
     "name": "\ub208\uc228\uae30",
+    "effects": [
+      {
+        "effect": "\ub0a0\uc528\uac00 \uc2f8\ub77c\uae30\ub208\uc77c \ub54c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub0a0\uc528\uac00 \uc2f8\ub77c\uae30\ub208\uc77c \ub54c\n\ud68c\ud53c\uc728\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 82,
     "name": "\uba39\ubcf4",
+    "effects": [
+      {
+        "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uc5ec\ub290 \ub54c\ubcf4\ub2e4\n\ube68\ub9ac \uc0ac\uc6a9\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uc5ec\ub290 \ub54c\ubcf4\ub2e4\n\ube68\ub9ac \uc0ac\uc6a9\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 83,
     "name": "\ubd84\ub178\uc758\uacbd\ud608",
+    "effects": [
+      {
+        "effect": "\uae09\uc18c\uc5d0 \ub9de\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae09\uc18c\uc5d0 \ub9de\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 84,
     "name": "\uace1\uc608",
+    "effects": [
+      {
+        "effect": "\ub3c4\uad6c\uac00 \uc5c6\uc5b4\uc9c0\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c4\uad6c\uac00 \uc5c6\uc5b4\uc9c0\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 85,
     "name": "\ub0b4\uc5f4",
+    "effects": [
+      {
+        "effect": "\ubd88\uaf43 \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubd88\uaf43\ud0c0\uc785 \uacf5\uaca9\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 86,
     "name": "\ub2e8\uc21c",
+    "effects": [
+      {
+        "effect": "\ub2a5\ub825 \ubcc0\ud654\uac00\n\uc5ec\ub290 \ub54c\ubcf4\ub2e4 \uc2ec\ud558\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2a5\ub825 \ubcc0\ud654\uac00\n\uc5ec\ub290 \ub54c\ubcf4\ub2e4 \uc2ec\ud558\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 87,
     "name": "\uac74\uc870\ud53c\ubd80",
+    "effects": [
+      {
+        "effect": "\ub354\uc6b0\uba74 HP\uac00 \uc904\uc5b4\ub4e0\ub2e4.\n\ubb3c\ub85c HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub354\uc6b0\uba74 HP\uac00 \uc904\uc5b4\ub4e0\ub2e4.\n\ubb3c\ub85c HP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 88,
     "name": "\ub2e4\uc6b4\ub85c\ub4dc",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\uc744 \ubcf4\uace0\n\ub2a5\ub825\uce58\ub97c \ubc14\uafbc\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\uc744 \ubcf4\uace0\n\ub2a5\ub825\uce58\ub97c \ubc14\uafbc\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 89,
     "name": "\ucca0\uc8fc\uba39",
+    "effects": [
+      {
+        "effect": "\ud380\uce58\ub97c \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud380\uce58\ub97c \uc0ac\uc6a9\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 90,
     "name": "\ud3ec\uc774\uc98c\ud790",
+    "effects": [
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uac00 \ub418\uba74\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uac00 \ub418\uba74\nHP\ub97c \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 91,
     "name": "\uc801\uc751\ub825",
+    "effects": [
+      {
+        "effect": "\ud0c0\uc785\uc774 \uac19\uc740 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud0c0\uc785\uc774 \uac19\uc740 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 92,
     "name": "\uc2a4\ud0ac\ub9c1\ud06c",
+    "effects": [
+      {
+        "effect": "\uc5f0\uc18d \uae30\uc220\uc744\n\ub9ce\uc774 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc5f0\uc18d \uae30\uc220\uc744\n\ub9ce\uc774 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 93,
     "name": "\ucd09\ucd09\ubc14\ub514",
+    "effects": [
+      {
+        "effect": "\ube44\uac00 \uc624\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ube44\uac00 \uc624\uba74\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 94,
     "name": "\uc120\ud30c\uc6cc",
+    "effects": [
+      {
+        "effect": "\ub9d1\uc73c\uba74 HP\uac00 \uc904\uc9c0\ub9cc\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub9d1\uc73c\uba74 HP\uac00 \uc904\uc9c0\ub9cc\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 95,
     "name": "\uc18d\ubcf4",
+    "effects": [
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uba74\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 96,
     "name": "\ub178\ub9d0\uc2a4\ud0a8",
+    "effects": [
+      {
+        "effect": "\uc4f4 \uae30\uc220\uc774 \ubaa8\ub450\n\ub178\ub9d0\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc4f4 \uae30\uc220\uc774 \ubaa8\ub450\n\ub178\ub9d0\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 97,
     "name": "\uc2a4\ub098\uc774\ud37c",
+    "effects": [
+      {
+        "effect": "\uae09\uc18c\uc5d0 \ub9de\ud614\uc744 \ub54c\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae09\uc18c\uc5d0 \ub9de\ud614\uc744 \ub54c\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 98,
     "name": "\ub9e4\uc9c1\uac00\ub4dc",
+    "effects": [
+      {
+        "effect": "\uacf5\uaca9 \uc774\uc678\uc5d0\ub294\n\ub370\ubbf8\uc9c0\ub97c \uc785\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uacf5\uaca9 \uc774\uc678\uc5d0\ub294\n\ub370\ubbf8\uc9c0\ub97c \uc785\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 99,
     "name": "\ub178\uac00\ub4dc",
+    "effects": [
+      {
+        "effect": "\uc11c\ub85c\uc758 \uae30\uc220\uc774\n\ubc18\ub4dc\uc2dc \ub9de\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc11c\ub85c\uc758 \uae30\uc220\uc774\n\ubc18\ub4dc\uc2dc \ub9de\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 100,
     "name": "\uc2dc\uac04\ubc8c\uae30",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\ubcf4\ub2e4 \uc7ac\ube68\ub77c\ub3c4\n\ud589\ub3d9\uc774 \ub290\ub824\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\ubcf4\ub2e4 \uc7ac\ube68\ub77c\ub3c4\n\ud589\ub3d9\uc774 \ub290\ub824\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 101,
     "name": "\ud14c\ud06c\ub2c8\uc158",
+    "effects": [
+      {
+        "effect": "\uc57d\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc57d\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 102,
     "name": "\ub9ac\ud504\uac00\ub4dc",
+    "effects": [
+      {
+        "effect": "\ub9d1\uc744 \ub54c\ub294\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub9d1\uc744 \ub54c\ub294\n\uc0c1\ud0dc \uc774\uc0c1\uc774 \ub418\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 103,
     "name": "\uc11c\ud22c\ub984",
+    "effects": [
+      {
+        "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ub3c4\uad6c\ub97c\n\uc4f8 \uc218 \uc5c6\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ub3c4\uad6c\ub97c\n\uc4f8 \uc218 \uc5c6\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 104,
     "name": "\ud2c0\uae68\uae30",
+    "effects": [
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 105,
     "name": "\ub300\uc6b4",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uae09\uc18c\uc5d0\n\uacf5\uaca9\uc774 \ub9de\uae30 \uc27d\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uae09\uc18c\uc5d0\n\uacf5\uaca9\uc774 \ub9de\uae30 \uc27d\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 106,
     "name": "\uc720\ud3ed",
+    "effects": [
+      {
+        "effect": "\uae30\uc808\ud560 \ub54c \uc2a4\uce5c\n\uc0c1\ub300\uc5d0\uac8c \ub370\ubbf8\uc9c0\ub97c \uc900\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae30\uc808\ud560 \ub54c \uc2a4\uce5c\n\uc0c1\ub300\uc5d0\uac8c \ub370\ubbf8\uc9c0\ub97c \uc900\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 107,
     "name": "\uc704\ud5d8\uc608\uc9c0",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uc704\ud5d8\ud55c\n\uae30\uc220\uc744 \uac10\uc9c0\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uc704\ud5d8\ud55c\n\uae30\uc220\uc744 \uac10\uc9c0\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 108,
     "name": "\uc608\uc9c0\ubabd",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uae30\uc220\uc744\n\uaff0\ub6ab\uc5b4\ubcfc \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \uae30\uc220\uc744\n\uaff0\ub6ab\uc5b4\ubcfc \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 109,
     "name": "\ucc9c\uc9c4",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\n\ubcc0\ud654\ub97c \ubb34\uc2dc\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \ub2a5\ub825\n\ubcc0\ud654\ub97c \ubb34\uc2dc\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 110,
     "name": "\uc0c9\uc548\uacbd",
+    "effects": [
+      {
+        "effect": "\ud6a8\uacfc\uac00 \ubcc4\ub85c\uc778 \uae30\uc220\uc774\n\uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud6a8\uacfc\uac00 \ubcc4\ub85c\uc778 \uae30\uc220\uc774\n\uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 111,
     "name": "\ud544\ud130",
+    "effects": [
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 112,
     "name": "\uc2ac\ub85c\uc2a4\ud0c0\ud2b8",
+    "effects": [
+      {
+        "effect": "\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\uac00\n\uc7a0\uc2dc \ub3d9\uc548 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uacf5\uaca9\uacfc \uc2a4\ud53c\ub4dc\uac00\n\uc7a0\uc2dc \ub3d9\uc548 \uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 113,
     "name": "\ubc30\uc9f1",
+    "effects": [
+      {
+        "effect": "\uace0\uc2a4\ud2b8\ud0c0\uc785\uc5d0\n\ub178\ub9d0 \uae30\uc220\uc774 \ub9de\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uace0\uc2a4\ud2b8\ud0c0\uc785\uc5d0\n\ub178\ub9d0 \uae30\uc220\uc774 \ub9de\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 114,
     "name": "\ub9c8\uc911\ubb3c",
+    "effects": [
+      {
+        "effect": "\ubb3c\uc744 \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\uc744 \ub04c\uc5b4\ubaa8\uc544\n\ud2b9\uc218\uacf5\uaca9\uc744 \uc62c\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 115,
     "name": "\uc544\uc774\uc2a4\ubc14\ub514",
+    "effects": [
+      {
+        "effect": "\uc2f8\ub77c\uae30\ub208\uc77c \ub54c HP\ub97c\n\uc870\uae08\uc529 \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc2f8\ub77c\uae30\ub208\uc77c \ub54c HP\ub97c\n\uc870\uae08\uc529 \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 116,
     "name": "\ud558\ub4dc\ub85d",
+    "effects": [
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud6a8\uacfc\uac00 \uad49\uc7a5\ud55c \uae30\uc220\uc758\n\uc704\ub825\uc744 \uc57d\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 117,
     "name": "\ub208\ud37c\ub728\ub9ac\uae30",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\uc2f8\ub77c\uae30\ub208\uc744 \ub0b4\ub9ac\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\uc5d0 \ub098\uac00\uba74\n\uc2f8\ub77c\uae30\ub208\uc744 \ub0b4\ub9ac\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 118,
     "name": "\uafc0\ubaa8\uc73c\uae30",
+    "effects": [
+      {
+        "effect": "\ub2ec\ucf64\ud55c\uafc0\uc744 \ubaa8\uc544\uc11c\n\uc62c \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2ec\ucf64\ud55c\uafc0\uc744 \ubaa8\uc544\uc11c\n\uc62c \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 119,
     "name": "\ud1b5\ucc30",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \ubb3c\uac74\uc744\n\uc54c \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uac00 \uc9c0\ub2cc \ubb3c\uac74\uc744\n\uc54c \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 120,
     "name": "\uc774\ud310\uc0ac\ud310",
+    "effects": [
+      {
+        "effect": "\ubc18\ub3d9 \ub370\ubbf8\uc9c0\ub97c\n\ubc1b\ub294 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc18\ub3d9 \ub370\ubbf8\uc9c0\ub97c\n\ubc1b\ub294 \uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 121,
     "name": "\uba40\ud2f0\ud0c0\uc785",
+    "effects": [
+      {
+        "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ud50c\ub808\uc774\ud2b8\uc5d0\n\ub530\ub77c \ud0c0\uc785\uc774 \ubc14\ub010\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc9c0\ub2c8\uace0 \uc788\ub294 \ud50c\ub808\uc774\ud2b8\uc5d0\n\ub530\ub77c \ud0c0\uc785\uc774 \ubc14\ub010\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 122,
     "name": "\ud50c\ub77c\uc6cc\uae30\ud504\ud2b8",
+    "effects": [
+      {
+        "effect": "\ub9d1\uc744 \ub54c \uc790\uc2e0\uacfc\n\uac19\uc740 \ud3b8\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub9d1\uc744 \ub54c \uc790\uc2e0\uacfc\n\uac19\uc740 \ud3b8\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 123,
     "name": "\ub098\uc774\ud2b8\uba54\uc5b4",
+    "effects": [
+      {
+        "effect": "\uc7a0\ub4e4\uc5b4 \uc788\ub294 \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc7a0\ub4e4\uc5b4 \uc788\ub294 \uc0c1\ub300\uc758\nHP\ub97c \uc904\uc778\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 124,
     "name": "\ub098\uc05c\uc190\ubc84\ub987",
+    "effects": [
+      {
+        "effect": "\ub2ff\uc740 \uc0c1\ub300\ub85c\ubd80\ud130\n\ub3c4\uad6c\ub97c \ud6d4\uce5c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2ff\uc740 \uc0c1\ub300\ub85c\ubd80\ud130\n\ub3c4\uad6c\ub97c \ud6d4\uce5c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 125,
     "name": "\uc6b0\uaca9\ub2e4\uc9d0",
+    "effects": [
+      {
+        "effect": "\ud798\uc774 \uac15\ud574\uc9c0\uc9c0\ub9cc\n\ucd94\uac00 \ud6a8\uacfc\uac00 \uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud798\uc774 \uac15\ud574\uc9c0\uc9c0\ub9cc\n\ucd94\uac00 \ud6a8\uacfc\uac00 \uc5c6\uc5b4\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 126,
     "name": "\uc2ec\uc220\uafb8\ub7ec\uae30",
+    "effects": [
+      {
+        "effect": "\ub2a5\ub825\uc758 \ubcc0\ud654\uac00\n\uc5ed\uc804\ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2a5\ub825\uc758 \ubcc0\ud654\uac00\n\uc5ed\uc804\ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 127,
     "name": "\uae34\uc7a5\uac10",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\ub97c \uae34\uc7a5\uc2dc\ucf1c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba39\uc9c0 \ubabb\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\ub97c \uae34\uc7a5\uc2dc\ucf1c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba39\uc9c0 \ubabb\ud558\uac8c \ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 128,
     "name": "\uc624\uae30",
+    "effects": [
+      {
+        "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 129,
     "name": "\ubb34\uae30\ub825",
+    "effects": [
+      {
+        "effect": "HP\uac00 \uc808\ubc18\uc774 \ub418\uba74\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "HP\uac00 \uc808\ubc18\uc774 \ub418\uba74\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 130,
     "name": "\uc800\uc8fc\ubc1b\uc740\ubc14\ub514",
+    "effects": [
+      {
+        "effect": "\uacf5\uaca9\ubc1b\uc73c\uba74 \uac00\ub054 \uc0c1\ub300\ub97c\n\uc0ac\uc2ac\ubb36\uae30 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uacf5\uaca9\ubc1b\uc73c\uba74 \uac00\ub054 \uc0c1\ub300\ub97c\n\uc0ac\uc2ac\ubb36\uae30 \uc0c1\ud0dc\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 131,
     "name": "\uce58\uc720\uc758\ub9c8\uc74c",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \uc0c1\ud0dc \uc774\uc0c1\uc744\n\uac00\ub054 \ud68c\ubcf5\uc2dc\ud0a8\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \uc0c1\ud0dc \uc774\uc0c1\uc744\n\uac00\ub054 \ud68c\ubcf5\uc2dc\ud0a8\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 132,
     "name": "\ud504\ub80c\ub4dc\uac00\ub4dc",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ub370\ubbf8\uc9c0\ub97c\n\uc904\uc77c \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ub370\ubbf8\uc9c0\ub97c\n\uc904\uc77c \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 133,
     "name": "\uae68\uc5b4\uc9c4\uac11\uc637",
+    "effects": [
+      {
+        "effect": "\ubb3c\ub9ac \uae30\uc220\uc744 \ubc1b\uc73c\uba74 \ubc29\uc5b4\uac00\n\ub5a8\uc5b4\uc9c0\uace0 \uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\ub9ac \uae30\uc220\uc744 \ubc1b\uc73c\uba74 \ubc29\uc5b4\uac00\n\ub5a8\uc5b4\uc9c0\uace0 \uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 134,
     "name": "\ud5e4\ube44\uba54\ud0c8",
+    "effects": [
+      {
+        "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n2\ubc30\uac00 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n2\ubc30\uac00 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 135,
     "name": "\ub77c\uc774\ud2b8\uba54\ud0c8",
+    "effects": [
+      {
+        "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc790\uc2e0\uc758 \ubb34\uac8c\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 136,
     "name": "\uba40\ud2f0\uc2a4\ucf00\uc77c",
+    "effects": [
+      {
+        "effect": "HP\uac00 \uaf49 \ucc3c\uc744 \ub54c\n\ub370\ubbf8\uc9c0\uac00 \uc904\uc5b4\ub4e0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "HP\uac00 \uaf49 \ucc3c\uc744 \ub54c\n\ub370\ubbf8\uc9c0\uac00 \uc904\uc5b4\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 137,
     "name": "\ub3c5\ud3ed\uc8fc",
+    "effects": [
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uc77c \ub54c \ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub3c5 \uc0c1\ud0dc\uc77c \ub54c \ubb3c\ub9ac\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 138,
     "name": "\uc5f4\ud3ed\uc8fc",
+    "effects": [
+      {
+        "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uc77c \ub54c \ud2b9\uc218\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud654\uc0c1 \uc0c1\ud0dc\uc77c \ub54c \ud2b9\uc218\uacf5\uaca9\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 139,
     "name": "\uc218\ud655",
+    "effects": [
+      {
+        "effect": "\uc0ac\uc6a9\ud55c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba87 \ubc88\uc774\uace0 \ub9cc\ub4e4\uc5b4 \ub0b8\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0ac\uc6a9\ud55c \ub098\ubb34\uc5f4\ub9e4\ub97c\n\uba87 \ubc88\uc774\uace0 \ub9cc\ub4e4\uc5b4 \ub0b8\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 140,
     "name": "\ud154\ub808\ud30c\uc2dc",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \uacf5\uaca9\uc758 \ub08c\uc0c8\ub97c\n\uc77d\uace0 \uae30\uc220\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \uacf5\uaca9\uc758 \ub08c\uc0c8\ub97c\n\uc77d\uace0 \uae30\uc220\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 141,
     "name": "\ubcc0\ub355\uc7c1\uc774",
+    "effects": [
+      {
+        "effect": "\ub2a5\ub825\uc774\n\uc624\ub974\ub77d\ub0b4\ub9ac\ub77d\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2a5\ub825\uc774\n\uc624\ub974\ub77d\ub0b4\ub9ac\ub77d\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 142,
     "name": "\ubc29\uc9c4",
+    "effects": [
+      {
+        "effect": "\uba3c\uc9c0\ub098 \uac00\ub8e8\ub97c\n\ub9c9\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uba3c\uc9c0\ub098 \uac00\ub8e8\ub97c\n\ub9c9\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 143,
     "name": "\ub3c5\uc218",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud558\uae30\ub9cc \ud574\ub3c4 \uc0c1\ub300\ub97c\n\ub3c5 \uc0c1\ud0dc\ub85c \ub9cc\ub4e4 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud558\uae30\ub9cc \ud574\ub3c4 \uc0c1\ub300\ub97c\n\ub3c5 \uc0c1\ud0dc\ub85c \ub9cc\ub4e4 \ub54c\uac00 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 144,
     "name": "\uc7ac\uc0dd\ub825",
+    "effects": [
+      {
+        "effect": "\ubcfc\uc5d0 \ub123\uc73c\uba74 HP\uac00\n\uc870\uae08 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubcfc\uc5d0 \ub123\uc73c\uba74 HP\uac00\n\uc870\uae08 \ud68c\ubcf5\ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 145,
     "name": "\ubd80\ud480\ub9b0\uac00\uc2b4",
+    "effects": [
+      {
+        "effect": "\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9ac\ub294\n\uacf5\uaca9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc29\uc5b4\ub97c \ub5a8\uc5b4\ub728\ub9ac\ub294\n\uacf5\uaca9\uc744 \ubc1b\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 146,
     "name": "\ubaa8\ub798\ud5e4\uce58\uae30",
+    "effects": [
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c\n\uc2a4\ud53c\ub4dc\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 147,
     "name": "\ubbf8\ub77c\ud074\uc2a4\ud0a8",
+    "effects": [
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \ubc1b\uae30 \uc5b4\ub824\uc6b4\n\ubab8\uc73c\ub85c \ub418\uc5b4 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \ubc1b\uae30 \uc5b4\ub824\uc6b4\n\ubab8\uc73c\ub85c \ub418\uc5b4 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 148,
     "name": "\uc560\ub110\ub77c\uc774\uc988",
+    "effects": [
+      {
+        "effect": "\uc81c\uc77c \ub9c8\uc9c0\ub9c9\uc5d0\n\uae30\uc220\uc744 \uc4f0\uba74 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc81c\uc77c \ub9c8\uc9c0\ub9c9\uc5d0\n\uae30\uc220\uc744 \uc4f0\uba74 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 149,
     "name": "\uc77c\ub8e8\uc804",
+    "effects": [
+      {
+        "effect": "\ub4a4\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ub454\uac11\ud558\uc5ec \ub098\uc628\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub4a4\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ub454\uac11\ud558\uc5ec \ub098\uc628\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 150,
     "name": "\uad34\uc9dc",
+    "effects": [
+      {
+        "effect": "\ub208\uc55e\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ubcc0\uc2e0\ud574\ubc84\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub208\uc55e\uc758 \ud3ec\ucf13\ubaac\uc73c\ub85c\n\ubcc0\uc2e0\ud574\ubc84\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 151,
     "name": "\ud2c8\uc0c8\ud3ec\ucc29",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \ubcbd\uc744\n\ub6ab\uace0 \uacf5\uaca9\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \ubcbd\uc744\n\ub6ab\uace0 \uacf5\uaca9\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 152,
     "name": "\ubbf8\ub77c",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\uc758 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uc0c1\ub300\ub97c \ubbf8\ub77c\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\uc758 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uc0c1\ub300\ub97c \ubbf8\ub77c\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 153,
     "name": "\uc790\uae30\uacfc\uc2e0",
+    "effects": [
+      {
+        "effect": "\uc0c1\ub300\ub97c \uc4f0\ub7ec\ub728\ub9ac\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0c1\ub300\ub97c \uc4f0\ub7ec\ub728\ub9ac\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 154,
     "name": "\uc815\uc758\uc758\ub9c8\uc74c",
+    "effects": [
+      {
+        "effect": "\uc545 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc545 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 155,
     "name": "\uc8fc\ub205",
+    "effects": [
+      {
+        "effect": "\uc8fc\ub205\uc774 \ub4e4\uc5b4 \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac00\ub294 \ud0c0\uc785\uc774 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc8fc\ub205\uc774 \ub4e4\uc5b4 \uc2a4\ud53c\ub4dc\uac00\n\uc62c\ub77c\uac00\ub294 \ud0c0\uc785\uc774 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 156,
     "name": "\ub9e4\uc9c1\ubbf8\ub7ec",
+    "effects": [
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744\n\ub418\ubc1b\uc544\uce60 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744\n\ub418\ubc1b\uc544\uce60 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 157,
     "name": "\ucd08\uc2dd",
+    "effects": [
+      {
+        "effect": "\ud480 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud480 \uae30\uc220\uc744 \ubc1b\uc73c\uba74\n\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 158,
     "name": "\uc9d3\uad82\uc740\ub9c8\uc74c",
+    "effects": [
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \uba3c\uc800\n\uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubcc0\ud654 \uae30\uc220\uc744 \uba3c\uc800\n\uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 159,
     "name": "\ubaa8\ub798\uc758\ud798",
+    "effects": [
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c \uc704\ub825\uc774\n\uc62c\ub77c\uac00\ub294 \uae30\uc220\uc774 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubaa8\ub798\ubc14\ub78c\uc73c\ub85c \uc704\ub825\uc774\n\uc62c\ub77c\uac00\ub294 \uae30\uc220\uc774 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 160,
     "name": "\ucca0\uac00\uc2dc",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc5d0\uac8c\n\uc0c1\ucc98\ub97c \uc785\ud78c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 161,
     "name": "\ub2ec\ub9c8\ubaa8\ub4dc",
+    "effects": [
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c\n\ubaa8\uc2b5\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc704\uae09\ud560 \ub54c\n\ubaa8\uc2b5\uc774 \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 162,
     "name": "\uc2b9\ub9ac\uc758\ubcc4",
+    "effects": [
+      {
+        "effect": "\uc790\uc2e0\uacfc \uac19\uc740 \ud3b8\uc758\n\uba85\uc911\ub960\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc790\uc2e0\uacfc \uac19\uc740 \ud3b8\uc758\n\uba85\uc911\ub960\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 163,
     "name": "\ud130\ubcf4\ube14\ub808\uc774\uc988",
+    "effects": [
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 164,
     "name": "\ud14c\ub77c\ubcfc\ud2f0\uc9c0",
+    "effects": [
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud2b9\uc131\uc5d0 \uad00\uacc4\uc5c6\uc774 \uc0c1\ub300\uc5d0\uac8c\n\uae30\uc220\uc744 \uc4f8 \uc218 \uc788\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 165,
     "name": "\uc544\ub85c\ub9c8\ubca0\uc77c",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc73c\ub85c \ud5a5\ud558\ub294\n\uba58\ud0c8 \uacf5\uaca9\uc744 \ub9c9\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc73c\ub85c \ud5a5\ud558\ub294\n\uba58\ud0c8 \uacf5\uaca9\uc744 \ub9c9\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 166,
     "name": "\ud50c\ub77c\uc6cc\ubca0\uc77c",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ud480\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc740\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ud480\ud0c0\uc785 \ud3ec\ucf13\ubaac\uc740\n\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 167,
     "name": "\ubcfc\uc8fc\uba38\ub2c8",
+    "effects": [
+      {
+        "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uba39\uc73c\uba74\nHP\ub3c4 \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub098\ubb34\uc5f4\ub9e4\ub97c \uba39\uc73c\uba74\nHP\ub3c4 \ud68c\ubcf5\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 168,
     "name": "\ubcc0\ud658\uc790\uc7ac",
+    "effects": [
+      {
+        "effect": "\uc0ac\uc6a9\ud55c \uae30\uc220\uacfc \uac19\uc740\n\ud0c0\uc785\uc73c\ub85c \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc0ac\uc6a9\ud55c \uae30\uc220\uacfc \uac19\uc740\n\ud0c0\uc785\uc73c\ub85c \ubcc0\ud654\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 169,
     "name": "\ud37c\ucf54\ud2b8",
+    "effects": [
+      {
+        "effect": "\ubb3c\ub9ac \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubb3c\ub9ac \uae30\uc220\uc758 \ub370\ubbf8\uc9c0\uac00\n\uc808\ubc18\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 170,
     "name": "\ub9e4\uc9c0\uc158",
+    "effects": [
+      {
+        "effect": "\uae30\uc220\uc744 \ub9de\uc740 \uc0c1\ub300\uc758\n\ub3c4\uad6c\ub97c \ube7c\uc557\uc544 \ubc84\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uae30\uc220\uc744 \ub9de\uc740 \uc0c1\ub300\uc758\n\ub3c4\uad6c\ub97c \ube7c\uc557\uc544 \ubc84\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 171,
     "name": "\ubc29\ud0c4",
+    "effects": [
+      {
+        "effect": "\uad6c\uc2ac\uc774\ub098 \ud3ed\ud0c4\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uad6c\uc2ac\uc774\ub098 \ud3ed\ud0c4\uc5d0\n\ub9de\uc9c0 \uc54a\ub294\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 172,
     "name": "\uc2b9\uae30",
+    "effects": [
+      {
+        "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub2a5\ub825\uc774 \ub5a8\uc5b4\uc9c0\uba74\n\ud2b9\uc218\uacf5\uaca9\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 173,
     "name": "\uc639\uace8\ucc2c\ud131",
+    "effects": [
+      {
+        "effect": "\ud131\uc774 \ud2bc\ud2bc\ud558\uc5ec\n\ubb34\ub294 \ud798\uc774 \uac15\ud558\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud131\uc774 \ud2bc\ud2bc\ud558\uc5ec\n\ubb34\ub294 \ud798\uc774 \uac15\ud558\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 174,
     "name": "\ud504\ub9ac\uc988\uc2a4\ud0a8",
+    "effects": [
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uc5bc\uc74c\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uc5bc\uc74c\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 175,
     "name": "\uc2a4\uc704\ud2b8\ubca0\uc77c",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ud3ec\ucf13\ubaac\uc774\n\uc7a0\ub4e4\uc9c0 \uc54a\uac8c \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc758 \ud3ec\ucf13\ubaac\uc774\n\uc7a0\ub4e4\uc9c0 \uc54a\uac8c \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 176,
     "name": "\ubc30\ud2c0\uc2a4\uc704\uce58",
+    "effects": [
+      {
+        "effect": "\ubc30\ud2c0\ubaa8\ub4dc\uc5d0\uc11c\n\ubaa8\uc2b5\uc774 \ubc14\ub010\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubc30\ud2c0\ubaa8\ub4dc\uc5d0\uc11c\n\ubaa8\uc2b5\uc774 \ubc14\ub010\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 177,
     "name": "\uc9c8\ud48d\ub0a0\uac1c",
+    "effects": [
+      {
+        "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uba3c\uc800 \ub098\uc624\uac8c \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\uba3c\uc800 \ub098\uc624\uac8c \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 178,
     "name": "\uba54\uac00\ub7f0\ucc98",
+    "effects": [
+      {
+        "effect": "\ud30c\ub3d9 \uae30\uc220\uc758\n\uc704\ub825\uc774 \ud06c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ud30c\ub3d9 \uae30\uc220\uc758\n\uc704\ub825\uc774 \ud06c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 179,
     "name": "\ud480\ubaa8\ud53c",
+    "effects": [
+      {
+        "effect": "\uadf8\ub798\uc2a4\ud544\ub4dc\uc77c \ub54c\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uadf8\ub798\uc2a4\ud544\ub4dc\uc77c \ub54c\n\ubc29\uc5b4\uac00 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 180,
     "name": "\uacf5\uc0dd",
+    "effects": [
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc5d0\uac8c \ub3c4\uad6c\ub97c\n\uac74\ub12c \uc218 \uc788\uac8c \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uac19\uc740 \ud3b8\uc5d0\uac8c \ub3c4\uad6c\ub97c\n\uac74\ub12c \uc218 \uc788\uac8c \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 181,
     "name": "\ub2e8\ub2e8\ud55c\ubc1c\ud1b1",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud558\ub294 \uae30\uc220\uc758\n\uc704\ub825\uc774 \uc62c\ub77c\uac04\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 182,
     "name": "\ud398\uc5b4\ub9ac\uc2a4\ud0a8",
+    "effects": [
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ud398\uc5b4\ub9ac\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ud398\uc5b4\ub9ac\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 183,
     "name": "\ubbf8\ub048\ubbf8\ub048",
+    "effects": [
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc758\n\uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc811\ucd09\ud55c \uc0c1\ub300\uc758\n\uc2a4\ud53c\ub4dc\ub97c \ub5a8\uc5b4\ub728\ub9b0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 184,
     "name": "\uc2a4\uce74\uc774\uc2a4\ud0a8",
+    "effects": [
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ube44\ud589\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ub178\ub9d0\ud0c0\uc785\uc758 \uae30\uc220\uc774\n\ube44\ud589\ud0c0\uc785\uc774 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 185,
     "name": "\ubd80\uc790\uc720\uce5c",
+    "effects": [
+      {
+        "effect": "\ubd80\ubaa8\uc640 \uc790\uc2dd 2\ub9c8\ub9ac\uac00\n\uacf5\uaca9\ud55c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\ubd80\ubaa8\uc640 \uc790\uc2dd 2\ub9c8\ub9ac\uac00\n\uacf5\uaca9\ud55c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 186,
     "name": "\ub2e4\ud06c\uc624\ub77c",
+    "effects": [
+      {
+        "effect": "\uc804\uc6d0\uc758 \uc545\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc804\uc6d0\uc758 \uc545\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 187,
     "name": "\ud398\uc5b4\ub9ac\uc624\ub77c",
+    "effects": [
+      {
+        "effect": "\uc804\uc6d0\uc758 \ud398\uc5b4\ub9ac\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc804\uc6d0\uc758 \ud398\uc5b4\ub9ac\ud0c0\uc785\n\uae30\uc220\uc774 \uac15\ud574\uc9c4\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 188,
     "name": "\uc624\ub77c\ube0c\ub808\uc774\ud06c",
+    "effects": [
+      {
+        "effect": "\uc624\ub77c\uc758 \ud6a8\uacfc\uac00\n\ubc18\ub300\uac00 \ub41c\ub2e4.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "\uc624\ub77c\uc758 \ud6a8\uacfc\uac00\n\ubc18\ub300\uac00 \ub41c\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 189,
     "name": "\uc2dc\uc791\uc758\ubc14\ub2e4",
+    "effects": [
+      {
+        "effect": "\ubd88\uaf43\ud0c0\uc785\uc758 \uacf5\uaca9\uc744\n\ubc1b\uc9c0 \uc54a\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 190,
     "name": "\ub05d\uc758\ub300\uc9c0",
+    "effects": [
+      {
+        "effect": "\ubb3c\ud0c0\uc785\uc758 \uacf5\uaca9\uc744\n\ubc1b\uc9c0 \uc54a\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 191,
     "name": "\ub378\ud0c0\uc2a4\ud2b8\ub9bc",
+    "effects": [
+      {
+        "effect": "\ube44\ud589\ud0c0\uc785\uc758 \uc57d\uc810\uc774\n\uc5c6\uc5b4\uc9c0\ub294 \ub0a0\uc528\ub85c \ub9cc\ub4e0\ub2e4.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   }

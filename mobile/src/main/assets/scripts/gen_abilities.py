@@ -6,9 +6,6 @@ from shared import *
 data_type = 'ability'
 
 def read_poke_move():
-    pokeDataLangs['effects'] = {}
-    for lang in fileLangs:
-        pokeDataLangs['effects'][lang] = []
     pokeId = 1
     while True:
         try:
@@ -26,9 +23,8 @@ def read_poke_move():
                     effects = getGenEffects(lang, pokeData['flavor_text_entries'], pokeId)
                     battle_effect = getLocalText(lang, 'short_effect', pokeData['effect_entries'])
                     description = getLocalText(lang, 'effect', pokeData['effect_entries'])
-                    dataLocal = {'id': pokeId, 'name': name, 'battle_effect': battle_effect, 'description': description}
+                    dataLocal = {'id': pokeId, 'name': name, 'effects': effects, 'battle_effect': battle_effect, 'description': description}
 
-                    pokeDataLangs['effects'][lang].append(effects)
                     pokeDataLangs[lang].append(dataLocal)
                     
                 print('pokeId: ' + str(pokeId))
@@ -41,18 +37,14 @@ def read_poke_move():
 
      # Write to each poke moves lang
     for lang in fileLangs:
-        with open('../out/' + data_type + '_' + lang + '.json', 'w') as langFile:
+        with open('../out/abilities_' + lang + '.json', 'w') as langFile:
             json.dump(pokeDataLangs[lang], langFile)
-
-    for lang in fileLangs:
-        with open('../out/' + data_type + 'effects_' + lang + '.json', 'w') as effectsFile:
-            json.dump(pokeDataLangs['effects'][lang], effectsFile)
-        
+    
 def getGenEffects(lang, flavorTexts, abilityId):
     langEffects = []
     for text in flavorTexts:
         if text['language']['name'] == lang:
-            effectObj = {'abilityId': abilityId, 'effect': text['flavor_text'], 'genId': text['version_group']['name']}
+            effectObj = {'effect': text['flavor_text'], 'genId': text['version_group']['name']}
             langEffects.append(effectObj)
     return langEffects
 

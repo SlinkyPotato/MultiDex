@@ -2,1146 +2,3044 @@
   {
     "id": 1,
     "name": "Hedor",
+    "effects": [
+      {
+        "effect": "Es posible que el rival retroceda\npor el mal olor.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Es posible que el rival retroceda\npor el mal olor.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 2,
     "name": "Llovizna",
+    "effects": [
+      {
+        "effect": "Hace que llueva cuando entra en\ncombate.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hace que llueva cuando entra en\ncombate.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 3,
     "name": "Impulso",
+    "effects": [
+      {
+        "effect": "Aumenta la Velocidad\ngradualmente.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la Velocidad\ngradualmente.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 4,
     "name": "Armadura Batalla",
+    "effects": [
+      {
+        "effect": "Bloquea golpes cr\u00edticos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bloquea los golpes cr\u00edticos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 5,
     "name": "Robustez",
+    "effects": [
+      {
+        "effect": "Evita que el rival pueda debilitarle\nde un solo golpe.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que el rival pueda debilitarle\nde un solo golpe.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 6,
     "name": "Humedad",
+    "effects": [
+      {
+        "effect": "Evita que un Pok\u00e9mon pueda\nautodestruirse.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que un Pok\u00e9mon pueda\nautodestruirse.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 7,
     "name": "Flexibilidad",
+    "effects": [
+      {
+        "effect": "Evita ser paralizado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita ser paralizado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 8,
     "name": "Velo Arena",
+    "effects": [
+      {
+        "effect": "Aumenta la Evasi\u00f3n en las\ntormentas de arena.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la Evasi\u00f3n en las\ntormentas de arena.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 9,
     "name": "Elec. Est\u00e1tica",
+    "effects": [
+      {
+        "effect": "Puede paralizar al m\u00ednimo\ncontacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede paralizar al m\u00ednimo\ncontacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 10,
     "name": "Absorbe Elec",
+    "effects": [
+      {
+        "effect": "Recupera PS al recibir ataques de\ntipo El\u00e9ctrico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera PS al recibir ataques de\ntipo El\u00e9ctrico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 11,
     "name": "Absorbe Agua",
+    "effects": [
+      {
+        "effect": "Recupera PS al recibir ataques de\ntipo Agua.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera PS al recibir ataques de\ntipo Agua.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 12,
     "name": "Despiste",
+    "effects": [
+      {
+        "effect": "Evita que el Pok\u00e9mon sea\natra\u00eddo o provocado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que el Pok\u00e9mon sea\natra\u00eddo o provocado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 13,
     "name": "Aclimataci\u00f3n",
+    "effects": [
+      {
+        "effect": "Anula los efectos del tiempo\natmosf\u00e9rico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Anula los efectos del tiempo\natmosf\u00e9rico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 14,
     "name": "Ojo Compuesto",
+    "effects": [
+      {
+        "effect": "Aumenta la Precisi\u00f3n del\nPok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la Precisi\u00f3n del\nPok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 15,
     "name": "Insomnio",
+    "effects": [
+      {
+        "effect": "Evita el quedarse dormido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita el quedarse dormido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 16,
     "name": "Cambio Color",
+    "effects": [
+      {
+        "effect": "Adopta el tipo del \u00faltimo\nmovimiento del que sea blanco.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Adopta el tipo del \u00faltimo\nmovimiento del que se es blanco.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 17,
     "name": "Inmunidad",
+    "effects": [
+      {
+        "effect": "Evita el envenenamiento.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita el envenenamiento.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 18,
     "name": "Absorbe Fuego",
+    "effects": [
+      {
+        "effect": "Potencia movimientos de tipo\nFuego si ha sufrido antes alguno.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia movimientos de tipo\nFuego si ha sufrido antes alguno.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 19,
     "name": "Polvo Escudo",
+    "effects": [
+      {
+        "effect": "Anula el efecto secundario del\nataque sufrido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Anula el efecto secundario del\nataque sufrido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 20,
     "name": "Ritmo Propio",
+    "effects": [
+      {
+        "effect": "Evita ser confundido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita ser confundido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 21,
     "name": "Ventosas",
+    "effects": [
+      {
+        "effect": "Anula movimientos y objetos que\nfuerzan el relevo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Anula movimientos y objetos que\nfuerzan el relevo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 22,
     "name": "Intimidaci\u00f3n",
+    "effects": [
+      {
+        "effect": "Baja el Ataque del rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baja el Ataque del rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 23,
     "name": "Sombra Trampa",
+    "effects": [
+      {
+        "effect": "Evita que el enemigo huya.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que el enemigo huya.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 24,
     "name": "Piel Tosca",
+    "effects": [
+      {
+        "effect": "Hiere al tacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hiere al hacer contacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 25,
     "name": "Superguarda",
+    "effects": [
+      {
+        "effect": "Solo le hacen da\u00f1o los\nmovimientos supereficaces.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Solo le hacen da\u00f1o los\nmovimientos supereficaces.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 26,
     "name": "Levitaci\u00f3n",
+    "effects": [
+      {
+        "effect": "Proporciona inmunidad frente a\nlos ataques de tipo Tierra.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Proporciona inmunidad frente a\nlos ataques de tipo Tierra.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 27,
     "name": "Efecto Espora",
+    "effects": [
+      {
+        "effect": "Puede dormir, envenenar o\nparalizar al contacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede dormir, envenenar o\nparalizar al contacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 28,
     "name": "Sincron\u00eda",
+    "effects": [
+      {
+        "effect": "Contagia envenenamiento,\npar\u00e1lisis o quemaduras.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Contagia envenenamiento,\npar\u00e1lisis o quemaduras.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 29,
     "name": "Cuerpo Puro",
+    "effects": [
+      {
+        "effect": "Evita que bajen las\ncaracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que bajen las\ncaracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 30,
     "name": "Cura Natural",
+    "effects": [
+      {
+        "effect": "Cura problemas de estado al\ncambiar de Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cura problemas de estado al\ncambiar de Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 31,
     "name": "Pararrayos",
+    "effects": [
+      {
+        "effect": "Atrae y neutraliza movimientos de\ntipo El\u00e9ctrico y sube el At. Esp.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Atrae y neutraliza movimientos de\ntipo El\u00e9ctrico y sube el At. Esp.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 32,
     "name": "Dicha",
+    "effects": [
+      {
+        "effect": "Aumenta la probabilidad de que\nhaya efectos secundarios.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la probabilidad de que\nhaya efectos secundarios.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 33,
     "name": "Nado R\u00e1pido",
+    "effects": [
+      {
+        "effect": "Sube la Velocidad cuando hay\nlluvia.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Velocidad cuando hay\nlluvia.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 34,
     "name": "Clorofila",
+    "effects": [
+      {
+        "effect": "Sube la Velocidad cuando hay\nsol.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Velocidad cuando hay\nsol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 35,
     "name": "Iluminaci\u00f3n",
+    "effects": [
+      {
+        "effect": "Aumenta la probabilidad de\nencontrar Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la probabilidad de\nencontrar Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 36,
     "name": "Rastro",
+    "effects": [
+      {
+        "effect": "Copia la habilidad del rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Copia la habilidad del rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 37,
     "name": "Potencia",
+    "effects": [
+      {
+        "effect": "Aumenta el Ataque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta el Ataque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 38,
     "name": "Punto T\u00f3xico",
+    "effects": [
+      {
+        "effect": "Puede envenenar al m\u00ednimo\ncontacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede envenenar al m\u00ednimo\ncontacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 39,
     "name": "Foco Interno",
+    "effects": [
+      {
+        "effect": "Evita el retroceso.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita el retroceso.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 40,
     "name": "Escudo Magma",
+    "effects": [
+      {
+        "effect": "Evita la congelaci\u00f3n.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita la congelaci\u00f3n.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 41,
     "name": "Velo Agua",
+    "effects": [
+      {
+        "effect": "Evita las quemaduras.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita las quemaduras.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 42,
     "name": "Im\u00e1n",
+    "effects": [
+      {
+        "effect": "Impide huir a los Pok\u00e9mon de\ntipo Acero.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Impide huir a los Pok\u00e9mon de\ntipo Acero.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 43,
     "name": "Insonorizar",
+    "effects": [
+      {
+        "effect": "Evita ataques de sonido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita ataques de sonido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 44,
     "name": "Cura Lluvia",
+    "effects": [
+      {
+        "effect": "Recupera PS de forma gradual\ncuando llueve.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera PS de forma gradual\ncuando llueve.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 45,
     "name": "Chorro Arena",
+    "effects": [
+      {
+        "effect": "Crea una tormenta de arena en\nel combate.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Crea una tormenta de arena en\nel combate.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 46,
     "name": "Presi\u00f3n",
+    "effects": [
+      {
+        "effect": "Hace que los PP del rival se\nacaben antes.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hace que los PP del rival se\nacaben antes.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 47,
     "name": "Sebo",
+    "effects": [
+      {
+        "effect": "Aten\u00faa los ataques de tipo Fuego\ny Hielo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aten\u00faa los ataques de tipo Fuego\ny Hielo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 48,
     "name": "Madrugar",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon se despierta\nr\u00e1pidamente.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon se despierta\nr\u00e1pidamente.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 49,
     "name": "Cuerpo Llama",
+    "effects": [
+      {
+        "effect": "Puede quemar al m\u00ednimo\ncontacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede quemar al m\u00ednimo\ncontacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 50,
     "name": "Fuga",
+    "effects": [
+      {
+        "effect": "Permite escapar de todos los\nPok\u00e9mon salvajes.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permite escapar de todos los\nPok\u00e9mon salvajes.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 51,
     "name": "Vista Lince",
+    "effects": [
+      {
+        "effect": "Evita que disminuya la Precisi\u00f3n.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que disminuya la Precisi\u00f3n.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 52,
     "name": "Corte Fuerte",
+    "effects": [
+      {
+        "effect": "Evita que disminuya el Ataque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que disminuya el Ataque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 53,
     "name": "Recogida",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon puede encontrar\nobjetos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon puede encontrar\nobjetos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 54,
     "name": "Ausente",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon no atacar\u00e1 en turnos\nconsecutivos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon no atacar\u00e1 en turnos\nconsecutivos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 55,
     "name": "Entusiasmo",
+    "effects": [
+      {
+        "effect": "Aumenta el Ataque, pero reduce\nla Precisi\u00f3n.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta el Ataque, pero reduce\nla Precisi\u00f3n.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 56,
     "name": "Gran Encanto",
+    "effects": [
+      {
+        "effect": "Tocar al Pok\u00e9mon puede causar\nenamoramiento.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Tocar al Pok\u00e9mon puede causar\nenamoramiento.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 57,
     "name": "M\u00e1s",
+    "effects": [
+      {
+        "effect": "Potencia el At. Esp. si alg\u00fan otro\nPok\u00e9mon tiene M\u00e1s o Menos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia el At. Esp. si alg\u00fan otro\nPok\u00e9mon tiene M\u00e1s o Menos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 58,
     "name": "Menos",
+    "effects": [
+      {
+        "effect": "Potencia el At. Esp. si alg\u00fan otro\nPok\u00e9mon tiene M\u00e1s o Menos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia el At. Esp. si alg\u00fan otro\nPok\u00e9mon tiene M\u00e1s o Menos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 59,
     "name": "Predicci\u00f3n",
+    "effects": [
+      {
+        "effect": "Se transforma seg\u00fan el tiempo\natmosf\u00e9rico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Se transforma seg\u00fan el tiempo\natmosf\u00e9rico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 60,
     "name": "Viscosidad",
+    "effects": [
+      {
+        "effect": "Protege al Pok\u00e9mon del robo\nde objetos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Protege al Pok\u00e9mon del robo\nde objetos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 61,
     "name": "Mudar",
+    "effects": [
+      {
+        "effect": "Cura los problemas de estado\nmudando la piel.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cura los problemas de estado\nmudando la piel.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 62,
     "name": "Agallas",
+    "effects": [
+      {
+        "effect": "Sube el Ataque si sufre un\nproblema de estado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube el Ataque si sufre un\nproblema de estado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 63,
     "name": "Escama Especial",
+    "effects": [
+      {
+        "effect": "Sube la Defensa si sufre un\nproblema de estado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Defensa si sufre un\nproblema de estado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 64,
     "name": "Lodo L\u00edquido",
+    "effects": [
+      {
+        "effect": "Hiere a los Pok\u00e9mon que drenan\nPS.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hiere a los Pok\u00e9mon que drenan\nPS.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 65,
     "name": "Espesura",
+    "effects": [
+      {
+        "effect": "Potencia los ataques de tipo\nPlanta en un apuro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los ataques de tipo\nPlanta en un apuro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 66,
     "name": "Mar Llamas",
+    "effects": [
+      {
+        "effect": "Potencia los ataques de tipo\nFuego en un apuro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los ataques de tipo\nFuego en un apuro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 67,
     "name": "Torrente",
+    "effects": [
+      {
+        "effect": "Potencia los ataques de tipo\nAgua en un apuro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los ataques de tipo\nAgua en un apuro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 68,
     "name": "Enjambre",
+    "effects": [
+      {
+        "effect": "Potencia los ataques de tipo\nBicho en un apuro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los ataques de tipo\nBicho en un apuro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 69,
     "name": "Cabeza Roca",
+    "effects": [
+      {
+        "effect": "Impide que el Pok\u00e9mon se da\u00f1e\ncon sus movimientos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Impide que el Pok\u00e9mon se da\u00f1e\ncon sus movimientos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 70,
     "name": "Sequ\u00eda",
+    "effects": [
+      {
+        "effect": "El sol sale si el Pok\u00e9mon entra en\ncombate.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El sol sale si el Pok\u00e9mon entra en\ncombate.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 71,
     "name": "Trampa Arena",
+    "effects": [
+      {
+        "effect": "Evita que el rival huya.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que el rival huya.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 72,
     "name": "Esp\u00edritu Vital",
+    "effects": [
+      {
+        "effect": "Evita el quedarse dormido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita el quedarse dormido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 73,
     "name": "Humo Blanco",
+    "effects": [
+      {
+        "effect": "Evita que bajen las\ncaracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que bajen las\ncaracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 74,
     "name": "Energ\u00eda Pura",
+    "effects": [
+      {
+        "effect": "Aumenta el Ataque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta el Ataque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 75,
     "name": "Caparaz\u00f3n",
+    "effects": [
+      {
+        "effect": "Bloquea los golpes cr\u00edticos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Bloquea los golpes cr\u00edticos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 76,
     "name": "Bucle Aire",
+    "effects": [
+      {
+        "effect": "Anula los efectos del tiempo\natmosf\u00e9rico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Anula los efectos del tiempo\natmosf\u00e9rico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 77,
     "name": "Tumbos",
+    "effects": [
+      {
+        "effect": "Sube la Evasi\u00f3n si el Pok\u00e9mon\nest\u00e1 confuso.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Evasi\u00f3n si el Pok\u00e9mon\nest\u00e1 confuso.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 78,
     "name": "Electromotor",
+    "effects": [
+      {
+        "effect": "Sube la Velocidad si le alcanza\nun ataque el\u00e9ctrico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Velocidad si le alcanza\nun ataque el\u00e9ctrico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 79,
     "name": "Rivalidad",
+    "effects": [
+      {
+        "effect": "Si el objetivo es del mismo sexo,\ninflige m\u00e1s da\u00f1o.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Si el objetivo es del mismo sexo,\ninflige m\u00e1s da\u00f1o.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 80,
     "name": "Impasible",
+    "effects": [
+      {
+        "effect": "Cada vez que retrocede sube su\nVelocidad.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cada vez que retrocede sube su\nVelocidad.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 81,
     "name": "Manto N\u00edveo",
+    "effects": [
+      {
+        "effect": "Sube la Evasi\u00f3n durante una\ntormenta de granizo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Evasi\u00f3n durante una\ntormenta de granizo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 82,
     "name": "Gula",
+    "effects": [
+      {
+        "effect": "Fomenta el uso r\u00e1pido de la baya\nque porte.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Fomenta el uso r\u00e1pido de la baya\nque porte.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 83,
     "name": "Irascible",
+    "effects": [
+      {
+        "effect": "Sube el Ataque al m\u00e1ximo tras un\ngolpe cr\u00edtico.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube el Ataque al m\u00e1ximo tras un\ngolpe cr\u00edtico.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 84,
     "name": "Liviano",
+    "effects": [
+      {
+        "effect": "Sube la Velocidad si usa o pierde\nel objeto que lleve.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Velocidad si usa o pierde\nel objeto que lleve.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 85,
     "name": "Ign\u00edfugo",
+    "effects": [
+      {
+        "effect": "Aten\u00faa los movimientos de tipo\nFuego.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Disminuye la potencia de los\nataques de tipo Fuego.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 86,
     "name": "Simple",
+    "effects": [
+      {
+        "effect": "Aumenta los cambios en las\ncaracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta los cambios en las\ncaracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 87,
     "name": "Piel Seca",
+    "effects": [
+      {
+        "effect": "Pierde PS si hace calor. Los\nrecupera con agua.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Pierde PS si hace calor. Los\nrecupera con agua.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 88,
     "name": "Descarga",
+    "effects": [
+      {
+        "effect": "Adapta su fuerza para cada rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Adapta su fuerza para cada rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 89,
     "name": "Pu\u00f1o F\u00e9rreo",
+    "effects": [
+      {
+        "effect": "Aumenta la fuerza de los\npu\u00f1etazos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la fuerza de los\npu\u00f1etazos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 90,
     "name": "Ant\u00eddoto",
+    "effects": [
+      {
+        "effect": "Recupera PS si el Pok\u00e9mon ha\nsido envenenado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera PS si el Pok\u00e9mon ha\nsido envenenado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 91,
     "name": "Adaptable",
+    "effects": [
+      {
+        "effect": "Potencia los movimientos del\nmismo tipo del Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los movimientos del\nmismo tipo del Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 92,
     "name": "Encadenado",
+    "effects": [
+      {
+        "effect": "Aumenta la frecuencia de\nlos movimientos m\u00faltiples.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la frecuencia de\nlos movimientos m\u00faltiples.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 93,
     "name": "Hidrataci\u00f3n",
+    "effects": [
+      {
+        "effect": "Cura los problemas de estado si\nest\u00e1 lloviendo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cura los problemas de estado si\nest\u00e1 lloviendo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 94,
     "name": "Poder Solar",
+    "effects": [
+      {
+        "effect": "Si hace sol, baja los PS, pero\npotencia el At. Esp.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Si hace sol, baja los PS, pero\npotencia el At. Esp.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 95,
     "name": "Pies R\u00e1pidos",
+    "effects": [
+      {
+        "effect": "Potencia la Velocidad si hay\nproblemas de estado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia la Velocidad si hay\nproblemas de estado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 96,
     "name": "Normalidad",
+    "effects": [
+      {
+        "effect": "Todos los movimientos se vuelven\nde tipo Normal.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Todos los movimientos se vuelven\nde tipo Normal.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 97,
     "name": "Francotirador",
+    "effects": [
+      {
+        "effect": "Potencia los movimientos si se\nvuelven cr\u00edticos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los movimientos si se\nvuelven cr\u00edticos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 98,
     "name": "Muro M\u00e1gico",
+    "effects": [
+      {
+        "effect": "Solo da\u00f1an al Pok\u00e9mon los\nataques directos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Solo da\u00f1an al Pok\u00e9mon los\nataques directos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 99,
     "name": "Indefenso",
+    "effects": [
+      {
+        "effect": "El movimiento del Pok\u00e9mon y el\ndel rival acertar\u00e1n.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El movimiento del Pok\u00e9mon y el\ndel rival acertar\u00e1n.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 100,
     "name": "Rezagado",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon se mueve tras todos\nlos dem\u00e1s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon se mueve tras todos\nlos dem\u00e1s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 101,
     "name": "Experto",
+    "effects": [
+      {
+        "effect": "Potencia los movimientos m\u00e1s\nd\u00e9biles del Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los movimientos m\u00e1s\nd\u00e9biles del Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 102,
     "name": "Defensa Hoja",
+    "effects": [
+      {
+        "effect": "Evita los problemas de estado si\nhace sol.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita los problemas de estado si\nhace sol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 103,
     "name": "Zoquete",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon no puede usar\nobjetos equipados.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon no puede usar\nobjetos equipados.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 104,
     "name": "Rompemoldes",
+    "effects": [
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades del objetivo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades del objetivo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 105,
     "name": "Afortunado",
+    "effects": [
+      {
+        "effect": "Aumenta la probabilidad de dar\ngolpes cr\u00edticos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la probabilidad de dar\ngolpes cr\u00edticos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 106,
     "name": "Resquicio",
+    "effects": [
+      {
+        "effect": "Da\u00f1a al agresor que le ha dado el\ngolpe de gracia.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Da\u00f1a al agresor que le ha dado el\ngolpe de gracia.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 107,
     "name": "Anticipaci\u00f3n",
+    "effects": [
+      {
+        "effect": "Prev\u00e9 los movimientos peligrosos\ndel rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prev\u00e9 los movimientos peligrosos\ndel rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 108,
     "name": "Alerta",
+    "effects": [
+      {
+        "effect": "Determina el movimiento m\u00e1s\npotente del rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Determina el movimiento m\u00e1s\npotente del rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 109,
     "name": "Ignorante",
+    "effects": [
+      {
+        "effect": "No tiene en cuenta las mejoras\nen las caracter\u00edsticas del rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "No tiene en cuenta las mejoras\nen las caracter\u00edsticas del rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 110,
     "name": "Cromolente",
+    "effects": [
+      {
+        "effect": "Potencia los movimientos que no\nson muy eficaces.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los movimientos que no\nson muy eficaces.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 111,
     "name": "Filtro",
+    "effects": [
+      {
+        "effect": "Mitiga los movimientos\nsupereficaces.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Mitiga los movimientos\nsupereficaces.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 112,
     "name": "Inicio Lento",
+    "effects": [
+      {
+        "effect": "Baja a la mitad el Ataque y la\nVelocidad durante un rato.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baja a la mitad el Ataque y la\nVelocidad durante un rato.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 113,
     "name": "Intr\u00e9pido",
+    "effects": [
+      {
+        "effect": "Movimientos tipo Normal y Lucha\ngolpean a Pok\u00e9mon Fantasma.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Movimientos tipo Normal y Lucha\ngolpean a Pok\u00e9mon Fantasma.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 114,
     "name": "Colector",
+    "effects": [
+      {
+        "effect": "Atrae y neutraliza los movimientos\nde tipo Agua y sube el At. Esp.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Atrae y neutraliza los movimientos\nde tipo Agua y sube el At. Esp.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 115,
     "name": "G\u00e9lido",
+    "effects": [
+      {
+        "effect": "Recupera algunos PS cuando hay\ntormentas de granizo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera algunos PS cuando hay\ntormentas de granizo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 116,
     "name": "Roca S\u00f3lida",
+    "effects": [
+      {
+        "effect": "Mitiga los movimientos\nsupereficaces.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Mitiga los movimientos\nsupereficaces.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 117,
     "name": "Nevada",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon invoca una tormenta\nde granizo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon invoca una tormenta\nde granizo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 118,
     "name": "Recogemiel",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon recoge Miel de\ndonde puede.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon recoge Miel de\ndonde puede.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 119,
     "name": "Cacheo",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon puede ver el objeto\nque lleva el rival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon puede ver el objeto\nque lleva el rival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 120,
     "name": "Audaz",
+    "effects": [
+      {
+        "effect": "Potencia los movimientos que\nda\u00f1an al usuario.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los movimientos que\nda\u00f1an al usuario.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 121,
     "name": "Multitipo",
+    "effects": [
+      {
+        "effect": "Cambia el tipo al de la tabla que\nlleve.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cambia el tipo al de la tabla que\nlleve.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 122,
     "name": "Don Floral",
+    "effects": [
+      {
+        "effect": "Potencia los Pok\u00e9mon del equipo\nsi est\u00e1 soleado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia a todos los Pok\u00e9mon\ndel equipo si est\u00e1 soleado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 123,
     "name": "Mal Sue\u00f1o",
+    "effects": [
+      {
+        "effect": "Reduce los PS de cualquier rival\nque est\u00e9 dormido.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Reduce los PS de cualquier rival\nque est\u00e9 dormido.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 124,
     "name": "Hurto",
+    "effects": [
+      {
+        "effect": "Al ser golpeado, roba\nel objeto del objetivo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Al ser golpeado, roba\nel objeto del objetivo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 125,
     "name": "Potencia Bruta",
+    "effects": [
+      {
+        "effect": "Sube la potencia y anula los\nefectos secundarios.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la potencia y anula los\nefectos secundarios.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 126,
     "name": "Respond\u00f3n",
+    "effects": [
+      {
+        "effect": "Invierte los cambios en las\ncaracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Invierte los cambios en las\ncaracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 127,
     "name": "Nerviosismo",
+    "effects": [
+      {
+        "effect": "Pone nervioso al rival y le impide\nusar bayas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Pone nervioso al rival y le impide\nusar bayas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 128,
     "name": "Competitivo",
+    "effects": [
+      {
+        "effect": "Sube el Ataque cuando el rival le\nbaja las caracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube el Ataque cuando el rival le\nbaja las caracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 129,
     "name": "Flaqueza",
+    "effects": [
+      {
+        "effect": "Baja las caracter\u00edsticas al llegar a\nla mitad los PS.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baja las caracter\u00edsticas al llegar a\nla mitad los PS.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 130,
     "name": "Cuerpo Maldito",
+    "effects": [
+      {
+        "effect": "Puede anular el movimiento\nusado en su contra.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede anular el movimiento\nusado en su contra.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 131,
     "name": "Alma Cura",
+    "effects": [
+      {
+        "effect": "A veces cura los cambios\nde estado de un aliado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "A veces cura los cambios\nde estado de un aliado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 132,
     "name": "Compiescolta",
+    "effects": [
+      {
+        "effect": "Reduce el da\u00f1o que sufren los\naliados.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Reduce el da\u00f1o que sufren los\naliados.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 133,
     "name": "Armadura Fr\u00e1gil",
+    "effects": [
+      {
+        "effect": "Un ataque f\u00edsico baja la Defensa\ny sube la Velocidad.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Un ataque f\u00edsico baja la Defensa\ny sube la Velocidad.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 134,
     "name": "Metal Pesado",
+    "effects": [
+      {
+        "effect": "Duplica el peso del Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Duplica el peso del Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 135,
     "name": "Metal Liviano",
+    "effects": [
+      {
+        "effect": "Reduce a la mitad el peso del\nPok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Reduce a la mitad el peso del\nPok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 136,
     "name": "Compensaci\u00f3n",
+    "effects": [
+      {
+        "effect": "Reduce el da\u00f1o sufrido si los PS\nest\u00e1n al m\u00e1ximo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Reduce el da\u00f1o sufrido si los PS\nest\u00e1n al m\u00e1ximo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 137,
     "name": "\u00cdmpetu T\u00f3xico",
+    "effects": [
+      {
+        "effect": "Aumenta la potencia f\u00edsica si est\u00e1\nenvenenado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la potencia f\u00edsica si est\u00e1\nenvenenado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 138,
     "name": "\u00cdmpetu Ardiente",
+    "effects": [
+      {
+        "effect": "Potencia los ataques especiales\ncuando el Pok\u00e9mon se quema.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia los ataques especiales\ncuando el Pok\u00e9mon se quema.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 139,
     "name": "Cosecha",
+    "effects": [
+      {
+        "effect": "Permite reutilizar varias veces una\nmisma baya.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permite reutilizar varias veces una\nmisma baya.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 140,
     "name": "Telepat\u00eda",
+    "effects": [
+      {
+        "effect": "Elude los ataques de aliados en\nbatalla.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Elude los ataques de aliados en\nbatalla.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 141,
     "name": "Veleta",
+    "effects": [
+      {
+        "effect": "Sube una caracter\u00edstica mucho,\npero baja otra.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube una caracter\u00edstica mucho,\npero baja otra.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 142,
     "name": "Funda",
+    "effects": [
+      {
+        "effect": "Protege del polvo, la arena y\nel granizo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Protege del polvo, la arena y\nel granizo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 143,
     "name": "Toque T\u00f3xico",
+    "effects": [
+      {
+        "effect": "Puede envenenar al objetivo con\nsolo tocarlo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Puede envenenar al objetivo con\nsolo tocarlo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 144,
     "name": "Regeneraci\u00f3n",
+    "effects": [
+      {
+        "effect": "Recupera unos pocos PS al\ncambiar de Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera unos pocos PS al\ncambiar de Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 145,
     "name": "Sacapecho",
+    "effects": [
+      {
+        "effect": "Protege de los ataques que bajan\nla Defensa.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Protege de los ataques que bajan\nla Defensa.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 146,
     "name": "\u00cdmpetu Arena",
+    "effects": [
+      {
+        "effect": "Aumenta la Velocidad durante las\ntormentas de arena.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la Velocidad durante las\ntormentas de arena.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 147,
     "name": "Piel Milagro",
+    "effects": [
+      {
+        "effect": "Dificulta que le afecten los\nataques de estado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Dificulta que le afecten los\nataques de estado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 148,
     "name": "C\u00e1lculo Final",
+    "effects": [
+      {
+        "effect": "Potencia el movimiento si es el\n\u00faltimo en atacar.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia el movimiento si es el\n\u00faltimo en atacar.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 149,
     "name": "Ilusi\u00f3n",
+    "effects": [
+      {
+        "effect": "Se convierte en el \u00faltimo\nPok\u00e9mon del equipo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Se convierte en el \u00faltimo\nPok\u00e9mon del equipo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 150,
     "name": "Impostor",
+    "effects": [
+      {
+        "effect": "Se transforma en el Pok\u00e9mon que\ntiene enfrente.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Se transforma en el Pok\u00e9mon que\ntiene enfrente.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 151,
     "name": "Allanamiento",
+    "effects": [
+      {
+        "effect": "Ataca rodeando la barrera del\nrival.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ataca rodeando la barrera del\nrival.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 152,
     "name": "Momia",
+    "effects": [
+      {
+        "effect": "Contagia Momia al rival que lo\ntoque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Contagia Momia al rival que lo\ntoque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 153,
     "name": "Autoestima",
+    "effects": [
+      {
+        "effect": "Potencia el Ataque al debilitar a\nun objetivo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia el Ataque al debilitar a\nun objetivo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 154,
     "name": "Justiciero",
+    "effects": [
+      {
+        "effect": "Sube el Ataque al recibir uno de\ntipo Siniestro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube el Ataque al recibir uno de\ntipo Siniestro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 155,
     "name": "Cobard\u00eda",
+    "effects": [
+      {
+        "effect": "El miedo a algunos ataques sube\nsu Velocidad.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El miedo a algunos ataques sube\nsu Velocidad.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 156,
     "name": "Espejo M\u00e1gico",
+    "effects": [
+      {
+        "effect": "Permite devolver los ataques de\nestado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permite devolver los ataques de\nestado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 157,
     "name": "Herb\u00edvoro",
+    "effects": [
+      {
+        "effect": "Neutraliza los movimientos de\ntipo Planta y sube el Ataque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Neutraliza los movimientos de\ntipo Planta y sube el Ataque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 158,
     "name": "Bromista",
+    "effects": [
+      {
+        "effect": "Permite lanzar ataques de estado\nen primer lugar.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permite lanzar ataques de estado\nen primer lugar.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 159,
     "name": "Poder Arena",
+    "effects": [
+      {
+        "effect": "Potencia algunos movimientos\ndurante las tormentas de arena.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Potencia algunos movimientos\ndurante las tormentas de arena.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 160,
     "name": "Punta Acero",
+    "effects": [
+      {
+        "effect": "Hiere al hacer contacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Hiere al hacer contacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 161,
     "name": "Modo Daruma",
+    "effects": [
+      {
+        "effect": "Cambia de forma en un apuro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cambia de forma en un apuro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 162,
     "name": "Tinovictoria",
+    "effects": [
+      {
+        "effect": "Sube la Precisi\u00f3n de todo el\nequipo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sube la Precisi\u00f3n de todo el\nequipo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 163,
     "name": "Turbollama",
+    "effects": [
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades del objetivo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 164,
     "name": "Terravoltaje",
+    "effects": [
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Usa movimientos sin que importen\nlas habilidades del objetivo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 165,
     "name": "Velo Aroma",
+    "effects": [
+      {
+        "effect": "Protege al equipo de ataques\nque impiden elegir movimientos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Protege al equipo de ataques\nque impiden elegir movimientos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 166,
     "name": "Velo Flor",
+    "effects": [
+      {
+        "effect": "Evita que bajen las caracter\u00edsticas\nde Pok\u00e9mon tipo Planta aliados.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que bajen las caracter\u00edsticas\nde Pok\u00e9mon tipo Planta aliados.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 167,
     "name": "Carrillo",
+    "effects": [
+      {
+        "effect": "Recupera PS al comer bayas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Recupera PS al comer bayas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 168,
     "name": "Mutatipo",
+    "effects": [
+      {
+        "effect": "Cambia su tipo al del movimiento\nque acaba de usar.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cambia su tipo al del movimiento\nque acaba de usar.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 169,
     "name": "Pelaje Recio",
+    "effects": [
+      {
+        "effect": "Reduce a la mitad el da\u00f1o\nrecibido por ataques f\u00edsicos.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Reduce a la mitad el da\u00f1o\nrecibido por ataques f\u00edsicos.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 170,
     "name": "Prestidigitador",
+    "effects": [
+      {
+        "effect": "Roba el objeto del Pok\u00e9mon al\nque alcance con un movimiento.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Roba el objeto del Pok\u00e9mon al\nque alcance con un movimiento.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 171,
     "name": "Antibalas",
+    "effects": [
+      {
+        "effect": "No le afectan las bombas ni\nalgunos proyectiles.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "No le afectan las bombas ni\nalgunos proyectiles.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 172,
     "name": "Tenacidad",
+    "effects": [
+      {
+        "effect": "Aumenta su At. Esp. cuando\ndisminuyen otras caracter\u00edsticas.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta su At. Esp. cuando\ndisminuyen otras caracter\u00edsticas.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 173,
     "name": "Mand\u00edbula Fuerte",
+    "effects": [
+      {
+        "effect": "Su robusta mand\u00edbula le confiere\nuna potente mordedura.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Su robusta mand\u00edbula le confiere\nuna potente mordedura.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 174,
     "name": "Piel Helada",
+    "effects": [
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Hielo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Hielo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 175,
     "name": "Velo Dulce",
+    "effects": [
+      {
+        "effect": "Evita que tu equipo Pok\u00e9mon\nse duerma.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Evita que tu equipo Pok\u00e9mon\nse duerma.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 176,
     "name": "Cambio T\u00e1ctico",
+    "effects": [
+      {
+        "effect": "Cambia de forma seg\u00fan su estilo\nde combate.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Cambia de forma seg\u00fan su estilo\nde combate.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 177,
     "name": "Alas Vendaval",
+    "effects": [
+      {
+        "effect": "Da prioridad a los movimientos de\ntipo Volador.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Da prioridad a los movimientos de\ntipo Volador.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 178,
     "name": "Megadisparador",
+    "effects": [
+      {
+        "effect": "Aumenta la potencia de algunos\nmovimientos de pulsos y auras.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la potencia de algunos\nmovimientos de pulsos y auras.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 179,
     "name": "Manto Frondoso",
+    "effects": [
+      {
+        "effect": "Aumenta la Defensa mientras dura\nel efecto de Campo de Hierba.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la Defensa mientras dura\nel efecto de Campo de Hierba.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 180,
     "name": "Simbiosis",
+    "effects": [
+      {
+        "effect": "El Pok\u00e9mon puede pasar su\nobjeto a un aliado.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "El Pok\u00e9mon puede pasar su\nobjeto a un aliado.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 181,
     "name": "Garra Dura",
+    "effects": [
+      {
+        "effect": "Aumenta la potencia de los\nmovimientos de contacto directo.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la potencia de los\nmovimientos de contacto directo.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 182,
     "name": "Piel Fe\u00e9rica",
+    "effects": [
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Hada.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Hada.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 183,
     "name": "Baba",
+    "effects": [
+      {
+        "effect": "Baja la Velocidad del Pok\u00e9mon\ncon el que entra en contacto.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baja la Velocidad del Pok\u00e9mon\ncon el que entra en contacto.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 184,
     "name": "Piel Celeste",
+    "effects": [
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Volador.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Convierte movimientos de tipo\nNormal en tipo Volador.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 185,
     "name": "Amor Filial",
+    "effects": [
+      {
+        "effect": "Ataque en familia.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ataque en familia.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 186,
     "name": "Aura Oscura",
+    "effects": [
+      {
+        "effect": "Aumenta la potencia de todos los\nmovimientos de tipo Siniestro.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la potencia de todos los\nmovimientos de tipo Siniestro.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 187,
     "name": "Aura Fe\u00e9rica",
+    "effects": [
+      {
+        "effect": "Aumenta la potencia de todos los\nmovimientos de tipo Hada.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Aumenta la potencia de todos los\nmovimientos de tipo Hada.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 188,
     "name": "Rompeaura",
+    "effects": [
+      {
+        "effect": "Invierte los efectos que causan\nlas auras.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Invierte los efectos que causan\nlas auras.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 189,
     "name": "Mar del Albor",
+    "effects": [
+      {
+        "effect": "Altera el clima para anular los\nataques de tipo Fuego.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 190,
     "name": "Tierra del Ocaso",
+    "effects": [
+      {
+        "effect": "Altera el clima para anular los\nataques de tipo Agua.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 191,
     "name": "R\u00e1faga Delta",
+    "effects": [
+      {
+        "effect": "Altera el clima para anular las\nvulnerabilidades del tipo Volador.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   }

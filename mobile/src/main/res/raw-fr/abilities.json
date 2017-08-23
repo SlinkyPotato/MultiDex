@@ -2,1146 +2,3700 @@
   {
     "id": 1,
     "name": "Puanteur",
+    "effects": [
+      {
+        "effect": "La puanteur peut\neffrayer l\u2019adversaire.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "La puanteur peut effrayer\nl\u2019adversaire.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "La puanteur peut effrayer\nl\u2019adversaire.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 2,
     "name": "Crachin",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon invoque la pluie\nquand il entre au combat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon invoque la pluie\nquand il entre au combat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon invoque la pluie\nquand il entre au combat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 3,
     "name": "Turbo",
+    "effects": [
+      {
+        "effect": "La Vitesse du Pok\u00e9mon\naugmente progressivement.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "La Vitesse du Pok\u00e9mon\naugmente progressivement.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "La Vitesse du Pok\u00e9mon\naugmente progressivement.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 4,
     "name": "Armurbaston",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9\ndes coups critiques.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9 des\ncoups critiques.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9 des\ncoups critiques.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 5,
     "name": "Fermet\u00e9",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge des capacit\u00e9s\nmettant K.O. en un coup.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge des capacit\u00e9s mettant\nK.O. en un coup.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge des capacit\u00e9s mettant\nK.O. en un coup.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 6,
     "name": "Moiteur",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les combattants\nde s\u2019autod\u00e9truire.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les combattants de\ns\u2019autod\u00e9truire.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les combattants de\ns\u2019autod\u00e9truire.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 7,
     "name": "\u00c9chauffement",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon de\nla paralysie.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon de la\nparalysie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon de la\nparalysie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 8,
     "name": "Voile Sable",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Esquive lors\ndes temp\u00eates de sable.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive lors des\ntemp\u00eates de sable.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive lors des\ntemp\u00eates de sable.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 9,
     "name": "Statik",
+    "effects": [
+      {
+        "effect": "Un contact avec le\nPok\u00e9mon peut paralyser.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Un contact avec le Pok\u00e9mon\npeut paralyser.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Un contact avec le Pok\u00e9mon\npeut paralyser.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 10,
     "name": "Absorb Volt",
+    "effects": [
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9\npar une capacit\u00e9 \u00c9lectrik.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9 par\nune capacit\u00e9 \u00c9lectrik.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9 par\nune capacit\u00e9 \u00c9lectrik.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 11,
     "name": "Absorb Eau",
+    "effects": [
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9\npar une capacit\u00e9 Eau.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9 par\nune capacit\u00e9 Eau.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re des PV si touch\u00e9 par\nune capacit\u00e9 Eau.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 12,
     "name": "Ben\u00eat",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ntomber amoureux.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Immunise le Pok\u00e9mon contre\nl\u2019attraction ou la provocation.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Immunise le Pok\u00e9mon contre\nl\u2019attraction ou la provocation.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 13,
     "name": "Ciel Gris",
+    "effects": [
+      {
+        "effect": "Annule les effets du\nclimat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Annule les effets du climat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Annule les effets du climat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 14,
     "name": "\u0152il Compos\u00e9",
+    "effects": [
+      {
+        "effect": "Augmente la Pr\u00e9cision du\nPok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Pr\u00e9cision du\nPok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Pr\u00e9cision du\nPok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 15,
     "name": "Insomnia",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 16,
     "name": "D\u00e9guisement",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon adopte le type\nde la capacit\u00e9 ennemie.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon adopte le type de\nla capacit\u00e9 ennemie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon adopte le type de\nla capacit\u00e9 ennemie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 17,
     "name": "Vaccin",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon d\u2019\u00eatre\nempoisonn\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon d\u2019\u00eatre\nempoisonn\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon d\u2019\u00eatre\nempoisonn\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 18,
     "name": "Torche",
+    "effects": [
+      {
+        "effect": "Booste capacit\u00e9s Feu si\ntouch\u00e9 par attaques Feu.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Feu si\ntouch\u00e9 par attaque Feu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Feu si\ntouch\u00e9 par attaque Feu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 19,
     "name": "\u00c9cran Poudre",
+    "effects": [
+      {
+        "effect": "Annule les effets cumul\u00e9s\nd\u2019une attaque ennemie.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Annule les effets cumul\u00e9s d\u2019une\nattaque ennemie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Annule les effets cumul\u00e9s d\u2019une\nattaque ennemie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 20,
     "name": "Tempo Perso",
+    "effects": [
+      {
+        "effect": "Emp\u00eache la confusion.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache la confusion.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache la confusion.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 21,
     "name": "Ventouse",
+    "effects": [
+      {
+        "effect": "Annule les cap. et obj. qui\nfont changer de Pok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Annule les capacit\u00e9s ou objets\nqui font changer de Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Annule les capacit\u00e9s ou objets\nqui font changer de Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 22,
     "name": "Intimidation",
+    "effects": [
+      {
+        "effect": "Baisse l\u2019Attaque ennemie.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Baisse l\u2019Attaque ennemie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baisse l\u2019Attaque ennemie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 23,
     "name": "Marque Ombre",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon ennemi\nde quitter le combat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon ennemi de\nquitter le combat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon ennemi de\nquitter le combat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 24,
     "name": "Peau Dure",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon blesse\nl\u2019ennemi qui le touche.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant au\nmoindre contact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant au moindre\ncontact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 25,
     "name": "Garde Mystik",
+    "effects": [
+      {
+        "effect": "Seules capacit\u00e9s \u201csuper\nefficaces\u201d l\u2019atteignent.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Seules les capacit\u00e9s \u00ab\u202fsuper\nefficaces\u202f\u00bb l\u2019atteignent.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Seules les capacit\u00e9s \u00ab\ue07fsuper\nefficaces\ue07f\u00bb l\u2019atteignent.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 26,
     "name": "L\u00e9vitation",
+    "effects": [
+      {
+        "effect": "Immunise contre toutes\nles capacit\u00e9s de type Sol.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Immunise contre toutes les\ncapacit\u00e9s de type Sol.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Immunise contre toutes les\ncapacit\u00e9s de type Sol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 27,
     "name": "Pose Spore",
+    "effects": [
+      {
+        "effect": "Peut paralyser, empoison-\nner, endormir au contact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Peut paralyser, empoisonner,\nendormir au contact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Peut paralyser, empoisonner,\nendormir au contact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 28,
     "name": "Synchro",
+    "effects": [
+      {
+        "effect": "Transmet br\u00fblure, poison\nou paralysie \u00e0 l\u2019ennemi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Transmet br\u00fblure, paralysie ou\npoison au Pok\u00e9mon qui l\u2019a inflig\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Transmet br\u00fblure, paralysie ou\npoison au Pok\u00e9mon qui l\u2019a inflig\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 29,
     "name": "Corps Sain",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les stats\ndu Pok\u00e9mon de baisser.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les stats du Pok\u00e9mon\nde baisser.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les stats du Pok\u00e9mon\nde baisser.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 30,
     "name": "M\u00e9dic Nature",
+    "effects": [
+      {
+        "effect": "Quitter le combat soigne\nles probl\u00e8mes de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Quitter le combat soigne les\nprobl\u00e8mes de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Quitter le combat soigne les\nprobl\u00e8mes de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 31,
     "name": "Paratonnerre",
+    "effects": [
+      {
+        "effect": "Attire l\u2019\u00e9lectricit\u00e9 et\naugmente l\u2019Atq. Sp\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Attire et neutralise les attaques\n\u00c9lectrik et monte l\u2019Atq. Sp\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attire et neutralise les attaques\n\u00c9lectrik et monte l\u2019Atq. Sp\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 32,
     "name": "S\u00e9r\u00e9nit\u00e9",
+    "effects": [
+      {
+        "effect": "Augmente la fr\u00e9quence\ndu cumul d\u2019effets.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence du cumul\nd\u2019effets.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence du cumul\nd\u2019effets.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 33,
     "name": "Glissade",
+    "effects": [
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il pleut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il pleut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il pleut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 34,
     "name": "Chlorophylle",
+    "effects": [
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il y a du soleil.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il y a du soleil.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse du\nPok\u00e9mon s\u2019il y a du soleil.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 35,
     "name": "Lumiattirance",
+    "effects": [
+      {
+        "effect": "Augmente les rencontres\navec Pok\u00e9mon sauvages.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente les rencontres avec\nles Pok\u00e9mon sauvages.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente les rencontres avec\nles Pok\u00e9mon sauvages.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 36,
     "name": "Calque",
+    "effects": [
+      {
+        "effect": "Imite la capacit\u00e9 sp\u00e9ciale\nde l\u2019ennemi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Imite le talent de l\u2019ennemi.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Imite le talent de l\u2019ennemi.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 37,
     "name": "Coloforce",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Attaque du\nPok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque du Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque du Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 38,
     "name": "Point Poison",
+    "effects": [
+      {
+        "effect": "Peut empoisonner l\u2019ennemi\ns\u2019il y a contact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Peut empoisonner l\u2019attaquant\ns\u2019il y a contact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Peut empoisonner l\u2019attaquant\ns\u2019il y a contact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 39,
     "name": "Attention",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon\nd\u2019avoir peur.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon d\u2019avoir\npeur.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon d\u2019avoir\npeur.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 40,
     "name": "Armumagma",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon\ncontre le gel.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon contre le\ngel.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon contre le\ngel.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 41,
     "name": "Ignifu-Voile",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon\ndes br\u00fblures.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon des\nbr\u00fblures.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon des\nbr\u00fblures.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 42,
     "name": "Magn\u00e9pi\u00e8ge",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les Pok\u00e9mon Acier\nde fuir.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les Pok\u00e9mon Acier\nde fuir.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les Pok\u00e9mon Acier\nde fuir.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 43,
     "name": "Anti-Bruit",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge de toutes les\ncapacit\u00e9s sonores.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge de toutes les capacit\u00e9s\nsonores.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge de toutes les capacit\u00e9s\nsonores.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 44,
     "name": "Cuvette",
+    "effects": [
+      {
+        "effect": "R\u00e9cup\u00e8re progressivement\ndes PV par temps de pluie.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re progressivement des\nPV par temps de pluie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9cup\u00e8re progressivement des\nPV par temps de pluie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 45,
     "name": "Sable Volant",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon invoque une\ntemp\u00eate de sable.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon invoque une\ntemp\u00eate de sable.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon invoque une\ntemp\u00eate de sable.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 46,
     "name": "Pression",
+    "effects": [
+      {
+        "effect": "Force l\u2019ennemi \u00e0\nd\u00e9penser plus de PP.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Force l\u2019ennemi \u00e0 d\u00e9penser plus\nde PP.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Force l\u2019ennemi \u00e0 d\u00e9penser plus\nde PP.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 47,
     "name": "Isograisse",
+    "effects": [
+      {
+        "effect": "Augmente la r\u00e9sistance\naux cap. Feu et Glace.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la r\u00e9sistance aux\ncapacit\u00e9s Feu et Glace.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la r\u00e9sistance aux\ncapacit\u00e9s Feu et Glace.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 48,
     "name": "Matinal",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon se r\u00e9veille\nplus rapidement.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon se r\u00e9veille plus\nrapidement.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon se r\u00e9veille plus\nrapidement.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 49,
     "name": "Corps Ardent",
+    "effects": [
+      {
+        "effect": "Peut br\u00fbler l\u2019ennemi s\u2019il y\na contact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Peut br\u00fbler l\u2019attaquant s\u2019il y a\ncontact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Peut br\u00fbler l\u2019attaquant s\u2019il y a\ncontact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 50,
     "name": "Fuite",
+    "effects": [
+      {
+        "effect": "Permet de fuir n\u2019importe\nquel Pok\u00e9mon sauvage.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Permet de fuir n\u2019importe quel\nPok\u00e9mon sauvage.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet de fuir n\u2019importe quel\nPok\u00e9mon sauvage.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 51,
     "name": "Regard Vif",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\nperdre en Pr\u00e9cision.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de perdre\nen Pr\u00e9cision.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de perdre\nen Pr\u00e9cision.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 52,
     "name": "Hyper Cutter",
+    "effects": [
+      {
+        "effect": "Emp\u00eache la r\u00e9duction de\nl\u2019Attaque.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache la r\u00e9duction de\nl\u2019Attaque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache la r\u00e9duction de\nl\u2019Attaque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 53,
     "name": "Ramassage",
+    "effects": [
+      {
+        "effect": "Permet parfois au Pok\u00e9mon\nde ramasser des objets.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Permet parfois au Pok\u00e9mon de\nramasser des objets.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet parfois au Pok\u00e9mon de\nramasser des objets.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 54,
     "name": "Absent\u00e9isme",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon ne frappe\nqu\u2019un tour sur deux.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon n\u2019agit qu\u2019un\ntour sur deux.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon n\u2019agit qu\u2019un\ntour sur deux.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 55,
     "name": "Agitation",
+    "effects": [
+      {
+        "effect": "Am\u00e9liore l\u2019Attaque mais\ndiminue la Pr\u00e9cision.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Am\u00e9liore l\u2019Attaque mais diminue\nla Pr\u00e9cision.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Am\u00e9liore l\u2019Attaque mais diminue\nla Pr\u00e9cision.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 56,
     "name": "Joli Sourire",
+    "effects": [
+      {
+        "effect": "S\u00e9duit parfois l\u2019ennemi\nau contact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "S\u00e9duit parfois l\u2019attaquant au\ncontact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "S\u00e9duit parfois l\u2019attaquant au\ncontact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 57,
     "name": "Plus",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Atq. Sp\u00e9. si un\nPok\u00e9mon a Minus ou Plus.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque Sp\u00e9ciale si\nun Pok\u00e9mon a Minus ou Plus.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Atq. Sp\u00e9. si un autre\nPok\u00e9mon a Minus ou Plus.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 58,
     "name": "Minus",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Atq. Sp\u00e9. si un\nPok\u00e9mon a Minus ou Plus.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque Sp\u00e9ciale si\nun Pok\u00e9mon a Minus ou Plus.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Atq. Sp\u00e9. si un autre\nPok\u00e9mon a Minus ou Plus.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 59,
     "name": "M\u00e9t\u00e9o",
+    "effects": [
+      {
+        "effect": "Morph\u00e9o change de forme\nselon le climat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Morph\u00e9o change de forme selon\nle climat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Morph\u00e9o change de forme selon\nle climat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 60,
     "name": "Glue",
+    "effects": [
+      {
+        "effect": "Fait s\u2019agripper \u00e0 l\u2019objet\npour en emp\u00eacher le vol.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Fait s\u2019agripper \u00e0 l\u2019objet pour\nen emp\u00eacher le vol.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Fait s\u2019agripper \u00e0 l\u2019objet pour\nen emp\u00eacher le vol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 61,
     "name": "Mue",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon soigne parfois\nses probl\u00e8mes de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon soigne parfois ses\nprobl\u00e8mes de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon soigne parfois ses\nprobl\u00e8mes de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 62,
     "name": "Cran",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Attaque s\u2019il y\na un probl\u00e8me de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque s\u2019il y a un\nprobl\u00e8me de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque s\u2019il y a un\nprobl\u00e8me de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 63,
     "name": "\u00c9caille Sp\u00e9ciale",
+    "effects": [
+      {
+        "effect": "Augmente la D\u00e9fense s\u2019il y\na un probl\u00e8me de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la D\u00e9fense s\u2019il y a\nun probl\u00e8me de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la D\u00e9fense s\u2019il y a\nun probl\u00e8me de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 64,
     "name": "Suintement",
+    "effects": [
+      {
+        "effect": "Blesse l\u2019ennemi qui draine\nl\u2019\u00e9nergie du Pok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant qui draine\nl\u2019\u00e9nergie du Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant qui draine\nl\u2019\u00e9nergie du Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 65,
     "name": "Engrais",
+    "effects": [
+      {
+        "effect": "Booste les capacit\u00e9s\nPlante en cas de besoin.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Plante en\ncas de besoin.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Plante en\ncas de besoin.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 66,
     "name": "Brasier",
+    "effects": [
+      {
+        "effect": "Booste les capacit\u00e9s\nFeu en cas de besoin.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Feu en\ncas de besoin.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Feu en\ncas de besoin.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 67,
     "name": "Torrent",
+    "effects": [
+      {
+        "effect": "Booste les capacit\u00e9s\nEau en cas de besoin.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Eau en\ncas de besoin.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Eau en\ncas de besoin.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 68,
     "name": "Essaim",
+    "effects": [
+      {
+        "effect": "Booste les capacit\u00e9s\nInsecte en cas de besoin.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Insecte en\ncas de besoin.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s Insecte en\ncas de besoin.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 69,
     "name": "T\u00eate de Roc",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon des\nd\u00e9g\u00e2ts de contrecoups.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon des d\u00e9g\u00e2ts\nde contrecoups.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge le Pok\u00e9mon des d\u00e9g\u00e2ts\nde contrecoups.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 70,
     "name": "S\u00e9cheresse",
+    "effects": [
+      {
+        "effect": "Intensifie les rayons du\nsoleil pendant le combat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le soleil se met \u00e0 briller quand\nce Pok\u00e9mon rejoint le combat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le soleil se met \u00e0 briller quand\nce Pok\u00e9mon rejoint le combat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 71,
     "name": "Pi\u00e8ge",
+    "effects": [
+      {
+        "effect": "Emp\u00eache l\u2019ennemi de\ns\u2019enfuir.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache l\u2019ennemi de s\u2019enfuir.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache l\u2019ennemi de s\u2019enfuir.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 72,
     "name": "Esprit Vital",
+    "effects": [
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache le Pok\u00e9mon de\ns\u2019endormir.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 73,
     "name": "\u00c9cran Fum\u00e9e",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les stats\ndu Pok\u00e9mon de baisser.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les stats du Pok\u00e9mon\nde baisser.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les stats du Pok\u00e9mon\nde baisser.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 74,
     "name": "Force Pure",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Attaque du\nPok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque du Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque du Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 75,
     "name": "Coque Armure",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9\ndes coups critiques.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9 des\ncoups critiques.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est prot\u00e9g\u00e9 des\ncoups critiques.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 76,
     "name": "Air Lock",
+    "effects": [
+      {
+        "effect": "Annule les effets du\nclimat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Annule les effets du climat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Annule les effets du climat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 77,
     "name": "Pieds Confus",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Esquive si le\nPok\u00e9mon est confus.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive si le\nPok\u00e9mon est confus.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive si le\nPok\u00e9mon est confus.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 78,
     "name": "Motoris\u00e9",
+    "effects": [
+      {
+        "effect": "Augmente la Vit. si touch\u00e9\npar une cap. \u00c9lectrik.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse si touch\u00e9\npar une capacit\u00e9 \u00c9lectrik.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse si touch\u00e9\npar une capacit\u00e9 \u00c9lectrik.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 79,
     "name": "Rivalit\u00e9",
+    "effects": [
+      {
+        "effect": "Devient plus fort si\nl\u2019ennemi est du m\u00eame sexe.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Devient plus fort si l\u2019ennemi est\ndu m\u00eame sexe.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Devient plus fort si l\u2019ennemi est\ndu m\u00eame sexe.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 80,
     "name": "Impassible",
+    "effects": [
+      {
+        "effect": "Augmente la Vitesse quand\nle Pok\u00e9mon a peur.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse quand le\nPok\u00e9mon a peur.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse quand le\nPok\u00e9mon a peur.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 81,
     "name": "Rideau Neige",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Esquive durant\nles temp\u00eates de gr\u00eale.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive durant les\ntemp\u00eates de gr\u00eale.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Esquive durant les\ntemp\u00eates de gr\u00eale.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 82,
     "name": "Gloutonnerie",
+    "effects": [
+      {
+        "effect": "Encourage l\u2019utilisation\nd\u2019une Baie tenue.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Permet d\u2019utiliser plus rapidement\nune Baie tenue.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet d\u2019utiliser plus rapidement\nune Baie tenue.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 83,
     "name": "Col\u00e9rique",
+    "effects": [
+      {
+        "effect": "Monte l\u2019Attaque au max\napr\u00e8s un coup critique.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte l\u2019Attaque au max apr\u00e8s\navoir re\u00e7u un coup critique.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte l\u2019Attaque au max apr\u00e8s\navoir re\u00e7u un coup critique.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 84,
     "name": "D\u00e9lestage",
+    "effects": [
+      {
+        "effect": "Augmente la Vit. si l\u2019objet\ntenu est utilis\u00e9 ou perdu.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse si l\u2019objet\ntenu est utilis\u00e9 ou perdu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse si l\u2019objet\ntenu est utilis\u00e9 ou perdu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 85,
     "name": "Ignifug\u00e9",
+    "effects": [
+      {
+        "effect": "R\u00e9duit la puissance des\ncapacit\u00e9s de type Feu.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9duit la puissance des\ncapacit\u00e9s de type Feu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9duit la puissance des attaques\nde type Feu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 86,
     "name": "Simple",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon est sujet \u00e0\ndes variations de stats.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est sujet \u00e0 des\nvariations de stats.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon est sujet \u00e0 des\nvariations de stats.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 87,
     "name": "Peau S\u00e8che",
+    "effects": [
+      {
+        "effect": "Perd des PV \u00e0 la chaleur.\nL\u2019eau les restaure.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Perd des PV \u00e0 la chaleur.\nL\u2019eau les restaure.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Perd des PV \u00e0 la chaleur.\nL\u2019eau les restaure.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 88,
     "name": "T\u00e9l\u00e9charge",
+    "effects": [
+      {
+        "effect": "Ajuste la puissance selon\nl\u2019ennemi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Ajuste la puissance selon\nl\u2019ennemi.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ajuste la puissance selon\nl\u2019ennemi.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 89,
     "name": "Poing de Fer",
+    "effects": [
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s coups de poing.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s coups de poing.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s coups de poing.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 90,
     "name": "Soin Poison",
+    "effects": [
+      {
+        "effect": "Restaure des PV si le\nPok\u00e9mon est empoisonn\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Restaure des PV si le Pok\u00e9mon\nest empoisonn\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Restaure des PV si le Pok\u00e9mon\nest empoisonn\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 91,
     "name": "Adaptabilit\u00e9",
+    "effects": [
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s de m\u00eame type.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s de m\u00eame type.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s de m\u00eame type.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 92,
     "name": "Multi-Coups",
+    "effects": [
+      {
+        "effect": "Augmente la fr\u00e9quence des\nattaques multiples.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence des\nattaques multiples.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence des\nattaques multiples.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 93,
     "name": "Hydratation",
+    "effects": [
+      {
+        "effect": "Soigne les probl\u00e8mes de\nstatut s\u2019il pleut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Soigne les probl\u00e8mes de statut\ns\u2019il pleut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Soigne les probl\u00e8mes de statut\ns\u2019il pleut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 94,
     "name": "Force Soleil",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Atq. Sp\u00e9. mais\nbaisse les PV au soleil.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque Sp\u00e9ciale\nmais baisse les PV au soleil.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente l\u2019Attaque Sp\u00e9ciale\nmais baisse les PV au soleil.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 95,
     "name": "Pied V\u00e9loce",
+    "effects": [
+      {
+        "effect": "Augmente la Vitesse en cas\nde probl\u00e8me de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse en cas de\nprobl\u00e8me de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse en cas de\nprobl\u00e8me de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 96,
     "name": "Normalise",
+    "effects": [
+      {
+        "effect": "Toutes les capacit\u00e9s sont\nde type Normal.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Toutes les capacit\u00e9s sont de\ntype Normal.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Toutes les capacit\u00e9s sont de\ntype Normal.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 97,
     "name": "Sniper",
+    "effects": [
+      {
+        "effect": "Augmente la puissance\ndes coups critiques.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la puissance des\ncoups critiques.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance des\ncoups critiques.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 98,
     "name": "Garde Magik",
+    "effects": [
+      {
+        "effect": "Seule une attaque directe\npeut blesser le Pok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Seule une attaque directe peut\nblesser le Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Seule une attaque directe peut\nblesser le Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 99,
     "name": "Annule Garde",
+    "effects": [
+      {
+        "effect": "Capacit\u00e9s du Pok\u00e9mon et\nde l\u2019ennemi r\u00e9ussissent.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les capacit\u00e9s du Pok\u00e9mon et de\nl\u2019ennemi frappent \u00e0 coup s\u00fbr.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s du Pok\u00e9mon et de\nl\u2019ennemi touchent \u00e0 coup s\u00fbr.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 100,
     "name": "Frein",
+    "effects": [
+      {
+        "effect": "Attaque toujours apr\u00e8s \nl\u2019ennemi, m\u00eame plus lent.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Agit toujours apr\u00e8s les autres\nPok\u00e9mon, m\u00eame plus lents.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Agit toujours apr\u00e8s les autres\nPok\u00e9mon, m\u00eame plus lents.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 101,
     "name": "Technicien",
+    "effects": [
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s les plus faibles.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s les plus faibles.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance des\ncapacit\u00e9s les plus faibles.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 102,
     "name": "Feuille Garde",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les probl\u00e8mes\nde statut au soleil.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les probl\u00e8mes de statut\nau soleil.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les probl\u00e8mes de statut\nau soleil.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 103,
     "name": "Maladresse",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon ne peut\nutiliser aucun objet tenu.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon ne peut utiliser\naucun objet tenu.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon ne peut utiliser\naucun objet tenu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 104,
     "name": "Brise Moule",
+    "effects": [
+      {
+        "effect": "Les cap. sp\u00e9. adverses ne\nbloquent pas ses cap.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 105,
     "name": "Chanceux",
+    "effects": [
+      {
+        "effect": "Augmente la fr\u00e9quence\ndes coups critiques.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence des\ncoups critiques.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la fr\u00e9quence des\ncoups critiques.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 106,
     "name": "Boom Final",
+    "effects": [
+      {
+        "effect": "Blesse l\u2019ennemi qui \nporte le coup de gr\u00e2ce.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant qui porte\nle coup de gr\u00e2ce.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant qui porte\nle coup de gr\u00e2ce.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 107,
     "name": "Anticipation",
+    "effects": [
+      {
+        "effect": "Pr\u00e9voit les capacit\u00e9s\nennemies dangereuses.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Pr\u00e9voit les capacit\u00e9s ennemies\ndangereuses.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Pr\u00e9voit les capacit\u00e9s ennemies\ndangereuses.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 108,
     "name": "Pr\u00e9diction",
+    "effects": [
+      {
+        "effect": "D\u00e9couvre la capacit\u00e9\nennemie la plus puissante.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "D\u00e9couvre la capacit\u00e9 ennemie la\nplus puissante.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "D\u00e9couvre la capacit\u00e9 ennemie la\nplus puissante.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 109,
     "name": "Inconscient",
+    "effects": [
+      {
+        "effect": "Ignore les changements de\nstats de l\u2019ennemi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Ignore les changements de stats\nde l\u2019ennemi.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Ignore les changements de stats\nde l\u2019ennemi.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 110,
     "name": "Lentiteint\u00e9e",
+    "effects": [
+      {
+        "effect": "Am\u00e9liore les capacit\u00e9s\n\u201cpas tr\u00e8s efficaces\u201d.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Am\u00e9liore les capacit\u00e9s \u00ab\u202fpas tr\u00e8s\nefficaces\u202f\u00bb.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Am\u00e9liore les capacit\u00e9s \u00ab\ue07fpas tr\u00e8s\nefficaces\ue07f\u00bb.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 111,
     "name": "Filtre",
+    "effects": [
+      {
+        "effect": "Affaiblit les capacit\u00e9s\n\u201csuper efficaces\u201d.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9duit les d\u00e9g\u00e2ts des capacit\u00e9s\n\u00ab\u202fsuper efficaces\u202f\u00bb subies.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9duit les d\u00e9g\u00e2ts des capacit\u00e9s\n\u00ab\ue07fsuper efficaces\ue07f\u00bb subies.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 112,
     "name": "D\u00e9but Calme",
+    "effects": [
+      {
+        "effect": "Divise temporairement\nVitesse et Attaque par 2.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Divise temporairement Vitesse\net Attaque par 2.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Divise temporairement Vitesse\net Attaque par 2.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 113,
     "name": "Querelleur",
+    "effects": [
+      {
+        "effect": "Les cap. Normal touchent\nles Pok\u00e9mon Spectre.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les capacit\u00e9s Normal et Combat\ntouchent les Pok\u00e9mon Spectre.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s Normal et Combat\ntouchent les Pok\u00e9mon Spectre.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 114,
     "name": "Lavabo",
+    "effects": [
+      {
+        "effect": "Attire l\u2019eau et augmente\nl\u2019Atq. Sp\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Attire et neutralise les attaques\nEau, et monte l\u2019Attaque Sp\u00e9ciale.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attire et neutralise les attaques\nEau, et monte l\u2019Attaque Sp\u00e9ciale.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 115,
     "name": "Corps Gel",
+    "effects": [
+      {
+        "effect": "R\u00e9g\u00e9n\u00e8re ses PV lors des\ntemp\u00eates de gr\u00eale.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9g\u00e9n\u00e8re ses PV lors des\ntemp\u00eates de gr\u00eale.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9g\u00e9n\u00e8re ses PV lors des\ntemp\u00eates de gr\u00eale.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 116,
     "name": "Solide Roc",
+    "effects": [
+      {
+        "effect": "Affaiblit les capacit\u00e9s\n\u201csuper efficaces\u201d.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9duit les d\u00e9g\u00e2ts des capacit\u00e9s\n\u00ab\u202fsuper efficaces\u202f\u00bb subies.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9duit les d\u00e9g\u00e2ts des capacit\u00e9s\n\u00ab\ue07fsuper efficaces\ue07f\u00bb subies.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 117,
     "name": "Alerte Neige",
+    "effects": [
+      {
+        "effect": "D\u00e9clenche une temp\u00eate de\ngr\u00eale pendant le combat.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "D\u00e9clenche une temp\u00eate de\ngr\u00eale pendant le combat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "D\u00e9clenche une temp\u00eate de\ngr\u00eale pendant le combat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 118,
     "name": "Cherche Miel",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon peut parfois\ntrouver du Miel.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Le Pok\u00e9mon peut parfois trouver\ndu Miel.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon peut parfois trouver\ndu Miel.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 119,
     "name": "Fouille",
+    "effects": [
+      {
+        "effect": "Permet de conna\u00eetre\nl\u2019objet tenu par l\u2019ennemi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Permet de conna\u00eetre l\u2019objet tenu\npar l\u2019ennemi.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet de conna\u00eetre l\u2019objet tenu\npar l\u2019ennemi.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 120,
     "name": "T\u00e9m\u00e9raire",
+    "effects": [
+      {
+        "effect": "Booste les cap. ayant des\nd\u00e9g\u00e2ts de contrecoups.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s ayant des\nd\u00e9g\u00e2ts de contrecoups.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s ayant des\nd\u00e9g\u00e2ts de contrecoups.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 121,
     "name": "Multi-Type",
+    "effects": [
+      {
+        "effect": "Modifie le type en fonction\nde la Plaque tenue.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Modifie le type en fonction de la\nPlaque tenue.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Modifie le type en fonction de la\nPlaque tenue.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 122,
     "name": "Don Floral",
+    "effects": [
+      {
+        "effect": "Pok\u00e9mon de l\u2019\u00e9quipe plus\npuissants au soleil.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Rend les Pok\u00e9mon de l\u2019\u00e9quipe\nplus puissants au soleil.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Rend les Pok\u00e9mon de l\u2019\u00e9quipe\nplus puissants au soleil.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 123,
     "name": "Mauvais R\u00eave",
+    "effects": [
+      {
+        "effect": "R\u00e9duit les PV d\u2019un ennemi\nendormi.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9duit les PV d\u2019un ennemi\nendormi.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9duit les PV d\u2019un ennemi\nendormi.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 124,
     "name": "Pickpocket",
+    "effects": [
+      {
+        "effect": "Vole l\u2019objet de l\u2019ennemi\nsi son attaque touche.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Vole l\u2019objet de l\u2019attaquant si son\nattaque touche.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Vole l\u2019objet de l\u2019attaquant si son\nattaque touche.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 125,
     "name": "Sans Limite",
+    "effects": [
+      {
+        "effect": "Frappe plus fort mais\nannule les effets cumul\u00e9s.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Frappe plus fort mais annule les\neffets cumul\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Frappe plus fort mais annule les\neffets cumul\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 126,
     "name": "Contestation",
+    "effects": [
+      {
+        "effect": "Inverse les variations\nde stats.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Inverse les variations de stats.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Inverse les variations de stats.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 127,
     "name": "Tension",
+    "effects": [
+      {
+        "effect": "L\u2019ennemi stresse et ne\npeut plus manger de Baies.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "L\u2019ennemi stresse et ne peut plus\nmanger de Baies.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "L\u2019ennemi stresse et ne peut plus\nmanger de Baies.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 128,
     "name": "Acharn\u00e9",
+    "effects": [
+      {
+        "effect": "Monte l\u2019Attaque quand\nles stats baissent.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte l\u2019Attaque quand une stat\nest baiss\u00e9e par l\u2019adversaire.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte l\u2019Attaque quand\nles stats baissent.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 129,
     "name": "D\u00e9faitiste",
+    "effects": [
+      {
+        "effect": "Baisse les stats quand les\nPV tombent \u00e0 la moiti\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Baisse les stats quand les PV\ntombent \u00e0 la moiti\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Baisse les stats quand les PV\ntombent \u00e0 la moiti\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 130,
     "name": "Corps Maudit",
+    "effects": [
+      {
+        "effect": "Peut emp\u00eacher l\u2019ennemi de\nr\u00e9utiliser une attaque.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Peut emp\u00eacher l\u2019ennemi de\nr\u00e9utiliser une attaque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Peut emp\u00eacher l\u2019ennemi de\nr\u00e9utiliser une attaque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 131,
     "name": "C\u0153ur Soin",
+    "effects": [
+      {
+        "effect": "Gu\u00e9rit parfois le statut\ndes alli\u00e9s alentour.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Gu\u00e9rit parfois le statut des alli\u00e9s\nalentour.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Gu\u00e9rit parfois le statut des alli\u00e9s\nalentour.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 132,
     "name": "Garde Amie",
+    "effects": [
+      {
+        "effect": "Diminue les d\u00e9g\u00e2ts subis\npar les alli\u00e9s.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Diminue les d\u00e9g\u00e2ts subis par les\nalli\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Diminue les d\u00e9g\u00e2ts subis par les\nalli\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 133,
     "name": "Armurouill\u00e9e",
+    "effects": [
+      {
+        "effect": "Un coup physique baisse la\nD\u00e9fense, monte la Vitesse.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Un coup physique baisse la\nD\u00e9fense, monte la Vitesse.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Un coup physique baisse la\nD\u00e9fense, monte la Vitesse.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 134,
     "name": "Heavy Metal",
+    "effects": [
+      {
+        "effect": "Double le poids\ndu Pok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Double le poids du Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Double le poids du Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 135,
     "name": "Light Metal",
+    "effects": [
+      {
+        "effect": "Divise par deux le\npoids du Pok\u00e9mon.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Divise par 2 le poids du\nPok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Divise par deux le poids du\nPok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 136,
     "name": "Multi\u00e9caille",
+    "effects": [
+      {
+        "effect": "Re\u00e7oit moins de d\u00e9g\u00e2ts si\nles PV sont au maximum.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Re\u00e7oit moins de d\u00e9g\u00e2ts si les PV\nsont au maximum.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Re\u00e7oit moins de d\u00e9g\u00e2ts si les PV\nsont au maximum.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 137,
     "name": "Rage Poison",
+    "effects": [
+      {
+        "effect": "Booste les att. physiques\nsi le statut est poison.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les attaques physiques\nsi le statut est poison.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les attaques physiques\nsi le Pok\u00e9mon est empoisonn\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 138,
     "name": "Rage Br\u00fblure",
+    "effects": [
+      {
+        "effect": "Booste les att. sp\u00e9ciales\nsi le statut est br\u00fblure.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les attaques sp\u00e9ciales si\nle statut est br\u00fblure.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les attaques sp\u00e9ciales si\nle Pok\u00e9mon est br\u00fbl\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 139,
     "name": "R\u00e9colte",
+    "effects": [
+      {
+        "effect": "Les Baies utilis\u00e9es\npeuvent repousser.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les Baies utilis\u00e9es peuvent\nrepousser.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet de r\u00e9utiliser une m\u00eame\nBaie plusieurs fois.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 140,
     "name": "T\u00e9l\u00e9pathe",
+    "effects": [
+      {
+        "effect": "Anticipe et \u00e9vite les\nattaques de ses alli\u00e9s.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Anticipe et \u00e9vite les attaques de\nses alli\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Anticipe et \u00e9vite les attaques de\nses alli\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 141,
     "name": "Lunatique",
+    "effects": [
+      {
+        "effect": "Monte une stat tout en\nen baissant une autre.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte une stat tout en en\nbaissant une autre.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte une stat tout en\nen baissant une autre.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 142,
     "name": "Envelocape",
+    "effects": [
+      {
+        "effect": "Neutralise les d\u00e9g\u00e2ts dus\n\u00e0 la m\u00e9t\u00e9o.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prot\u00e8ge du sable, de la gr\u00eale\nou de la poudre.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge du sable, de la gr\u00eale\nou de la poudre.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 143,
     "name": "Toxitouche",
+    "effects": [
+      {
+        "effect": "Peut empoisonner l\u2019ennemi\npar simple contact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Peut empoisonner l\u2019ennemi par\nsimple contact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Peut empoisonner l\u2019ennemi par\nsimple contact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 144,
     "name": "R\u00e9g\u00e9-Force",
+    "effects": [
+      {
+        "effect": "Restaure un peu de PV\nsi le Pok\u00e9mon est retir\u00e9.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Restaure un peu de PV si le\nPok\u00e9mon est retir\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Restaure un peu de PV si le\nPok\u00e9mon est retir\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 145,
     "name": "C\u0153ur de Coq",
+    "effects": [
+      {
+        "effect": "Emp\u00eache la D\u00e9f. de baisser\n\u00e0 cause d\u2019attaques.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Emp\u00eache les attaques adverses\nde baisser la D\u00e9fense.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les attaques adverses\nde baisser la D\u00e9fense.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 146,
     "name": "Baigne Sable",
+    "effects": [
+      {
+        "effect": "Augmente la Vitesse lors\ndes temp\u00eates de sable.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Augmente la Vitesse lors des\ntemp\u00eates de sable.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la Vitesse lors des\ntemp\u00eates de sable.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 147,
     "name": "Peau Miracle",
+    "effects": [
+      {
+        "effect": "Son corps r\u00e9siste mieux\naux attaques de statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "R\u00e9siste mieux aux attaques\nde statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "R\u00e9siste mieux aux attaques\nde statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 148,
     "name": "Analyste",
+    "effects": [
+      {
+        "effect": "Booste les capacit\u00e9s s\u2019il\nattaque en dernier.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s s\u2019il attaque\nen dernier.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Booste les capacit\u00e9s s\u2019il attaque\nen dernier.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 149,
     "name": "Illusion",
+    "effects": [
+      {
+        "effect": "Prend l\u2019apparence du der-\nnier Pok\u00e9mon de l\u2019\u00e9quipe.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Prend l\u2019apparence du dernier\nPok\u00e9mon de l\u2019\u00e9quipe.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prend l\u2019apparence du dernier\nPok\u00e9mon de l\u2019\u00e9quipe.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 150,
     "name": "Imposteur",
+    "effects": [
+      {
+        "effect": "Adopte l\u2019apparence du\nPok\u00e9mon adverse.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Adopte l\u2019apparence du Pok\u00e9mon\nadverse.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Adopte l\u2019apparence du Pok\u00e9mon\nadverse.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 151,
     "name": "Infiltration",
+    "effects": [
+      {
+        "effect": "Traverse les barri\u00e8res de\nl\u2019ennemi pour attaquer.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Traverse les barri\u00e8res de\nl\u2019ennemi pour attaquer.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Traverse les barri\u00e8res de\nl\u2019ennemi pour attaquer.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 152,
     "name": "Momie",
+    "effects": [
+      {
+        "effect": "Momifie la cap. sp\u00e9. de\nl\u2019ennemi qui le touche.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Momifie le talent de l\u2019ennemi qui\nle touche.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Momifie le talent de l\u2019ennemi qui\nle touche.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 153,
     "name": "Impudence",
+    "effects": [
+      {
+        "effect": "Monte l\u2019Attaque quand\nil met un ennemi K.O.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte l\u2019Attaque quand il met un\nennemi K.O.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte l\u2019Attaque quand il met un\nennemi K.O.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 154,
     "name": "C\u0153ur Noble",
+    "effects": [
+      {
+        "effect": "Monte l\u2019Attaque si une\natt. T\u00e9n\u00e8bres le touche.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte l\u2019Attaque si une attaque\nT\u00e9n\u00e8bres le touche.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte l\u2019Attaque si une attaque\nT\u00e9n\u00e8bres le touche.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 155,
     "name": "Phobique",
+    "effects": [
+      {
+        "effect": "Sa peur de certains types\naugmente sa Vitesse.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Sa peur de certains types\naugmente sa Vitesse.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Sa peur de certains types\naugmente sa Vitesse.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 156,
     "name": "Miroir Magik",
+    "effects": [
+      {
+        "effect": "Renvoie les attaques\nde statut.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Renvoie les attaques de statut.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Renvoie les attaques de statut.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 157,
     "name": "Herbivore",
+    "effects": [
+      {
+        "effect": "Augmente l\u2019Attaque apr\u00e8s\nune attaque Plante.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Neutralise les attaques Plante et\naugmente l\u2019Attaque.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Neutralise les attaques Plante et\naugmente l\u2019Attaque.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 158,
     "name": "Farceur",
+    "effects": [
+      {
+        "effect": "Utilise les attaques de\nstatut en premier.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Utilise les attaques de statut en\npremier.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Utilise les attaques de statut en\npremier.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 159,
     "name": "Force Sable",
+    "effects": [
+      {
+        "effect": "Renforce des capacit\u00e9s en\ncas de temp\u00eate de sable.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Renforce des capacit\u00e9s en cas\nde temp\u00eate de sable.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Renforce des capacit\u00e9s en cas\nde temp\u00eate de sable.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 160,
     "name": "\u00c9pine de Fer",
+    "effects": [
+      {
+        "effect": "Blesse l\u2019ennemi au moindre\ncontact.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant au moindre\ncontact.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Blesse l\u2019attaquant au moindre\ncontact.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 161,
     "name": "Mode Transe",
+    "effects": [
+      {
+        "effect": "Transforme le Pok\u00e9mon\ndans les moments d\u00e9licats.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Transforme le Pok\u00e9mon dans les\nmoments d\u00e9licats.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Transforme le Pok\u00e9mon dans les\nmoments d\u00e9licats.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 162,
     "name": "Victorieux",
+    "effects": [
+      {
+        "effect": "Monte la Pr\u00e9cision des\nPok\u00e9mon de l\u2019\u00e9quipe.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Monte la Pr\u00e9cision des Pok\u00e9mon\nde l\u2019\u00e9quipe.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte la Pr\u00e9cision des Pok\u00e9mon\nde l\u2019\u00e9quipe.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 163,
     "name": "TurboBrasier",
+    "effects": [
+      {
+        "effect": "Les cap. sp\u00e9. adverses ne\nbloquent pas ses cap.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 164,
     "name": "T\u00e9ra-Voltage",
+    "effects": [
+      {
+        "effect": "Les cap. sp\u00e9. adverses ne\nbloquent pas ses cap.",
+        "genId": "black-white"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les talents adverses ne bloquent\npas ses capacit\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 165,
     "name": "Aroma-Voile",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge l\u2019\u00e9quipe des attaques\nlimitant le choix des capacit\u00e9s.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge l\u2019\u00e9quipe des attaques\nlimitant le choix des capacit\u00e9s.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 166,
     "name": "Flora-Voile",
+    "effects": [
+      {
+        "effect": "Emp\u00eache les alli\u00e9s de type Plante\nde subir des diminutions de stats.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Emp\u00eache les alli\u00e9s de type Plante\nde subir des diminutions de stats.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 167,
     "name": "Bajoues",
+    "effects": [
+      {
+        "effect": "Rend des PV lorsque le Pok\u00e9mon\nconsomme une Baie.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Rend des PV lorsque le Pok\u00e9mon\nconsomme une Baie.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 168,
     "name": "Prot\u00e9en",
+    "effects": [
+      {
+        "effect": "Le Pok\u00e9mon prend le type de sa\nderni\u00e8re capacit\u00e9 lanc\u00e9e.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Le Pok\u00e9mon prend le type de sa\nderni\u00e8re capacit\u00e9 lanc\u00e9e.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 169,
     "name": "Toison \u00c9paisse",
+    "effects": [
+      {
+        "effect": "Divise les d\u00e9g\u00e2ts des attaques\nphysiques par deux.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Divise les d\u00e9g\u00e2ts des attaques\nphysiques par deux.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 170,
     "name": "Magicien",
+    "effects": [
+      {
+        "effect": "Les capacit\u00e9s volent aussi l\u2019objet\ntenu par la cible.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s volent aussi l\u2019objet\ntenu par la cible.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 171,
     "name": "Pare-Balles",
+    "effects": [
+      {
+        "effect": "Prot\u00e8ge de certaines capacit\u00e9s\nprojetant des bombes, balles\u2026",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Prot\u00e8ge de certaines capacit\u00e9s\nprojetant des bombes, balles\u2026",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 172,
     "name": "Battant",
+    "effects": [
+      {
+        "effect": "Monte l\u2019Attaque quand une stat\nest baiss\u00e9e par l\u2019adversaire.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Monte l\u2019Attaque quand\nles stats baissent.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 173,
     "name": "Prognathe",
+    "effects": [
+      {
+        "effect": "Gr\u00e2ce \u00e0 une puissante m\u00e2choire,\nles morsures sont plus fortes.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Gr\u00e2ce \u00e0 une puissante m\u00e2choire,\nles morsures sont plus fortes.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 174,
     "name": "Peau Gel\u00e9e",
+    "effects": [
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type Glace.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type Glace.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 175,
     "name": "Gluco-Voile",
+    "effects": [
+      {
+        "effect": "Les Pok\u00e9mon de l\u2019\u00e9quipe ne\npeuvent pas s\u2019endormir.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les Pok\u00e9mon de l\u2019\u00e9quipe ne\npeuvent pas s\u2019endormir.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 176,
     "name": "D\u00e9clic Tactique",
+    "effects": [
+      {
+        "effect": "Change de forme selon la fa\u00e7on\ndont le Pok\u00e9mon se bat.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Change de forme selon la fa\u00e7on\ndont le Pok\u00e9mon se bat.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 177,
     "name": "Ailes Bourrasque",
+    "effects": [
+      {
+        "effect": "Les attaques de type Vol sont\nprioritaires.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les attaques de type Vol sont\nprioritaires.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 178,
     "name": "M\u00e9ga Blaster",
+    "effects": [
+      {
+        "effect": "Augmente la puissance de\ncertaines capacit\u00e9s de type aura.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance de\ncertaines capacit\u00e9s de type aura.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 179,
     "name": "Toison Herbue",
+    "effects": [
+      {
+        "effect": "Augmente la D\u00e9fense si\nChamp Herbu est actif.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la D\u00e9fense si\nChamp Herbu est actif.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 180,
     "name": "Symbiose",
+    "effects": [
+      {
+        "effect": "Permet aux alli\u00e9s d\u2019utiliser\nl\u2019objet port\u00e9 par ce Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Permet aux alli\u00e9s d\u2019utiliser\nl\u2019objet port\u00e9 par ce Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 181,
     "name": "Griffe Dure",
+    "effects": [
+      {
+        "effect": "Augmente la puissance des\nattaques directes.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Augmente la puissance des\nattaques directes.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 182,
     "name": "Peau F\u00e9\u00e9rique",
+    "effects": [
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type F\u00e9e.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type F\u00e9e.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 183,
     "name": "Poisseux",
+    "effects": [
+      {
+        "effect": "Diminue la Vitesse de l\u2019attaquant\nqui le touche.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Diminue la Vitesse de l\u2019attaquant\nqui le touche.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 184,
     "name": "Peau C\u00e9leste",
+    "effects": [
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type Vol.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Les capacit\u00e9s de type Normal\ndeviennent de type Vol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 185,
     "name": "Amour Filial",
+    "effects": [
+      {
+        "effect": "Attaque en famille.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Attaque en famille.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 186,
     "name": "Aura T\u00e9n\u00e9breuse",
+    "effects": [
+      {
+        "effect": "Renforce les attaques de type\nT\u00e9n\u00e8bres de tous les Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Renforce les attaques de type\nT\u00e9n\u00e8bres de tous les Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 187,
     "name": "Aura F\u00e9\u00e9rique",
+    "effects": [
+      {
+        "effect": "Renforce les attaques de type\nF\u00e9e de tous les Pok\u00e9mon.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "Renforce les attaques de type\nF\u00e9e de tous les Pok\u00e9mon.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 188,
     "name": "Aura Invers\u00e9e",
+    "effects": [
+      {
+        "effect": "L\u2019effet des auras est invers\u00e9.",
+        "genId": "x-y"
+      },
+      {
+        "effect": "L\u2019effet des auras est invers\u00e9.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 189,
     "name": "Mer Primaire",
+    "effects": [
+      {
+        "effect": "Alt\u00e8re les conditions m\u00e9t\u00e9o et\nrend inefficaces les attaques Feu.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 190,
     "name": "Terre Finale",
+    "effects": [
+      {
+        "effect": "Alt\u00e8re les conditions m\u00e9t\u00e9o et\nrend inefficaces les attaques Eau.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   },
   {
     "id": 191,
     "name": "Souffle Delta",
+    "effects": [
+      {
+        "effect": "Alt\u00e8re les conditions m\u00e9t\u00e9o et\nannule les faiblesses du type Vol.",
+        "genId": "omega-ruby-alpha-sapphire"
+      }
+    ],
     "battle_effect": null,
     "description": null
   }
