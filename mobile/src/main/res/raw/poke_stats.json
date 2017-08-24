@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "HP",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Attack",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Defense",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Special Attack",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Special Defense",
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Speed",
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "accuracy",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "evasion",
+    "description": null
+  }
+]

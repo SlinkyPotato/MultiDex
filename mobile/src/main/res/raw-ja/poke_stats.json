@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "HP",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "\u3053\u3046\u3052\u304d",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "\u307c\u3046\u304e\u3087",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "\u3068\u304f\u3053\u3046",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "\u3068\u304f\u307c\u3046",
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "\u3059\u3070\u3084\u3055",
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "\u3081\u3044\u3061\u3085\u3046",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "\u304b\u3044\u3072",
+    "description": null
+  }
+]

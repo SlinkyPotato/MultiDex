@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "KP",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Angriff",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Verteidigung",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Spezialangriff",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Spezialverteidigung",
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Initiative",
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Genauigkeit",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Fluchtwert",
+    "description": null
+  }
+]

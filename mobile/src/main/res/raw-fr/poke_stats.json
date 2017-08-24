@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "PV",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Attaque",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "D\u00e9fense",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Attaque Sp\u00e9ciale",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "D\u00e9fense Sp\u00e9ciale",
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Vitesse",
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "Pr\u00e9cision",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "Esquive",
+    "description": null
+  }
+]

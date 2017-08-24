@@ -1,0 +1,152 @@
+[
+  {
+    "characteristicId": 1,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 2,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 3,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 4,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 5,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 6,
+    "geneModulo": 0,
+    "possibleIVs": "0,5,10,15,20,25,30,"
+  },
+  {
+    "characteristicId": 7,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 8,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 9,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 10,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 11,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 12,
+    "geneModulo": 1,
+    "possibleIVs": "1,6,11,16,21,26,"
+  },
+  {
+    "characteristicId": 13,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 14,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 15,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 16,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 17,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 18,
+    "geneModulo": 2,
+    "possibleIVs": "2,7,12,17,22,27,"
+  },
+  {
+    "characteristicId": 19,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 20,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 21,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 22,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 23,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 24,
+    "geneModulo": 3,
+    "possibleIVs": "3,8,13,18,23,28,"
+  },
+  {
+    "characteristicId": 25,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  },
+  {
+    "characteristicId": 26,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  },
+  {
+    "characteristicId": 27,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  },
+  {
+    "characteristicId": 28,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  },
+  {
+    "characteristicId": 29,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  },
+  {
+    "characteristicId": 30,
+    "geneModulo": 4,
+    "possibleIVs": "4,9,14,19,24,29,"
+  }
+]

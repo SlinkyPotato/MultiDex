@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "description": "Adore manger"
+  },
+  {
+    "id": 2,
+    "description": "Est fier de sa puissance"
+  },
+  {
+    "id": 3,
+    "description": "Corps robuste"
+  },
+  {
+    "id": 4,
+    "description": "Extr\u00eamement curieux"
+  },
+  {
+    "id": 5,
+    "description": "Tr\u00e8s volontaire"
+  },
+  {
+    "id": 6,
+    "description": "Aime courir"
+  },
+  {
+    "id": 7,
+    "description": "S'assoupit souvent"
+  },
+  {
+    "id": 8,
+    "description": "Aime se d\u00e9mener"
+  },
+  {
+    "id": 9,
+    "description": "Sait encaisser les coups"
+  },
+  {
+    "id": 10,
+    "description": "Coquin"
+  },
+  {
+    "id": 11,
+    "description": "Un peu vaniteux"
+  },
+  {
+    "id": 12,
+    "description": "Attentif aux sons"
+  },
+  {
+    "id": 13,
+    "description": "Dort beaucoup"
+  },
+  {
+    "id": 14,
+    "description": "Un peu col\u00e9reux"
+  },
+  {
+    "id": 15,
+    "description": "Tr\u00e8s obstin\u00e9"
+  },
+  {
+    "id": 16,
+    "description": "Tr\u00e8s astucieux"
+  },
+  {
+    "id": 17,
+    "description": "Esprit rebelle"
+  },
+  {
+    "id": 18,
+    "description": "B\u00eate et impulsif"
+  },
+  {
+    "id": 19,
+    "description": "\u00c9parpille des choses"
+  },
+  {
+    "id": 20,
+    "description": "Aime combattre"
+  },
+  {
+    "id": 21,
+    "description": "Bonne endurance"
+  },
+  {
+    "id": 22,
+    "description": "Souvent dans la lune"
+  },
+  {
+    "id": 23,
+    "description": "A horreur de perdre"
+  },
+  {
+    "id": 24,
+    "description": "Aime faire le pitre"
+  },
+  {
+    "id": 25,
+    "description": "Aime se d\u00e9tendre"
+  },
+  {
+    "id": 26,
+    "description": "S'emporte facilement"
+  },
+  {
+    "id": 27,
+    "description": "Pers\u00e9v\u00e9rant"
+  },
+  {
+    "id": 28,
+    "description": "Tr\u00e8s particulier"
+  },
+  {
+    "id": 29,
+    "description": "Assez ent\u00eat\u00e9"
+  },
+  {
+    "id": 30,
+    "description": "Fuit rapidement"
+  }
+]

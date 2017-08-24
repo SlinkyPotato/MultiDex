@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "PS",
+    "description": null
+  },
+  {
+    "id": 2,
+    "name": "Attacco",
+    "description": null
+  },
+  {
+    "id": 3,
+    "name": "Difesa",
+    "description": null
+  },
+  {
+    "id": 4,
+    "name": "Attacco Speciale",
+    "description": null
+  },
+  {
+    "id": 5,
+    "name": "Difesa Speciale",
+    "description": null
+  },
+  {
+    "id": 6,
+    "name": "Velocit\u00e0",
+    "description": null
+  },
+  {
+    "id": 7,
+    "name": "precisione",
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": "elusione",
+    "description": null
+  }
+]

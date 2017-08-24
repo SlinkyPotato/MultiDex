@@ -1,9 +1,11 @@
 import requests
 import json
+import argparse
 
-dataString = 'pokemon'
+parser = argparse.ArgumentParser()
+parser.add_argument('data_type', help = 'The pokeapi data type to request from.')
+dataString = parser.parse_args().data_type
 startId = 1
-endId = None
 baseUrl = 'http://localhost:8000/api/v2/'
 
 while True:
@@ -23,7 +25,3 @@ while True:
         print(fileName)
 
     startId += 1
-
-    if endId != None and startId >= endId:
-        print('Finished.')
-        break
