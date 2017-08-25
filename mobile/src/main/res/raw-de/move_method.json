@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Level up",
+    "description": "Wird gelernt, wenn ein Pok\u00e9mon ein bestimmtes Level erreicht."
+  },
+  {
+    "id": 2,
+    "name": "Ei",
+    "description": "Erscheint bei einem frisch geschl\u00fcpften Pok\u00e9mon, wenn der Vater die selbe F\u00e4higkeit hatte."
+  },
+  {
+    "id": 3,
+    "name": "Tutor",
+    "description": "Kann jederzeit von einem NPC erlernt werden."
+  },
+  {
+    "id": 4,
+    "name": "Maschine",
+    "description": "Kann jederzeit durch das benutzen eines TM oder VM erlernt werden."
+  },
+  {
+    "id": 5,
+    "name": "Stadium: Surfendes Pikachu",
+    "description": "Wird gelernt, wenn ein Pikachu dabei hilft den Premium-Cup in der Kategorie Meisterball ohne unterbrechung zu besiegen.  Es muss in jedem Kampf teilnehmen."
+  },
+  {
+    "id": 6,
+    "name": "Volttackle Pichu",
+    "description": "Erscheint bei einem Pichu dessen Mutter einen Kugelblitz trug.  Der Vater darf nicht Ditto sein."
+  },
+  {
+    "id": 7,
+    "name": null,
+    "description": null
+  },
+  {
+    "id": 8,
+    "name": null,
+    "description": null
+  },
+  {
+    "id": 9,
+    "name": null,
+    "description": null
+  },
+  {
+    "id": 10,
+    "name": "Rotom Formen",
+    "description": "Erscheint, wenn Rotom seine Form wechselt.  Verschwindet wenn Rotom eine andere Form an nimmt. Diese F\u00e4higkeit kann nur durch wechseln der Form erlernt werden."
+  }
+]
