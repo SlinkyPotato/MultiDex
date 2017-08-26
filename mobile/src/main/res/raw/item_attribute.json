@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Countable",
+    "description": "Has a count in the bag"
+  },
+  {
+    "id": 2,
+    "name": "Consumable",
+    "description": "Consumed when used"
+  },
+  {
+    "id": 3,
+    "name": "Usable_overworld",
+    "description": "Usable outside battle"
+  },
+  {
+    "id": 4,
+    "name": "Usable_in_battle",
+    "description": "Usable in battle"
+  },
+  {
+    "id": 5,
+    "name": "Holdable",
+    "description": "Can be held by a Pok\u00e9mon"
+  },
+  {
+    "id": 6,
+    "name": "Holdable_passive",
+    "description": "Works passively when held"
+  },
+  {
+    "id": 7,
+    "name": "Holdable_active",
+    "description": "Usable by a Pok\u00e9mon when held"
+  },
+  {
+    "id": 8,
+    "name": "Underground",
+    "description": "Appears in Sinnoh Underground"
+  }
+]

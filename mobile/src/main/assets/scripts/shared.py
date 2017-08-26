@@ -1,3 +1,6 @@
+import json
+import re
+
 baseUrl = 'http://localhost:8000/api/v2/'
 
 fileLangs = ['en', 'es', 'de', 'fr', 'it', 'ja', 'ko', 'zh', 'cs']
@@ -9,6 +12,17 @@ contestTypes = {'cool': 1, 'beautiful': 2, 'beauty': 2, 'cute': 3, 'clever': 4, 
 pokeDataLangs = {'stats': []}
 for lang in fileLangs:
     pokeDataLangs[lang] = []
+
+def convertGVStringToIds(gameVersion):
+    splitOnlyOnDashWith = '[b-z0-9]-\D'
+    foundBits = re.search(splitOnlyOnDashWith, gameVersion)
+    if foundBits == None:
+        return [convertGVStringToGVId(gameVersion)] # single game version found
+    foundBits = re.split('-', foundBits[0], 1)
+    gameVersions = re.split(splitOnlyOnDashWith, gameVersion, 1)
+    gameVersions[0] += foundBits[0]
+    gameVersions[1] = foundBits[1] + gameVersions[1]
+    return [convertGVStringToGVId(gameVersions[0]), convertGVStringToGVId(gameVersions[1])]
 
 def getLocalText(lang, textType, listOfTexts):
     for text in listOfTexts:
@@ -59,3 +73,9 @@ def convertStatToId(stat):
         return None
     statMap = {"hp": 1, "attack": 2, "defense": 3, "special-attack": 4, "special-defense": 5, "speed": 6, "accuracy": 7, "evasion": 8}
     return statMap[stat]
+
+def convertItemAttrToId(itemAttr):
+    if itemAttr == None:
+        return None
+    itemAttrMap = {"countable": 1, "consumable": 2, "usable-overworld": 3, "usable-in-battle": 4, "holdable": 5, "holdable-passive": 6, "holdable-active": 7, "underground": 8}
+    return itemAttrMap[itemAttr]

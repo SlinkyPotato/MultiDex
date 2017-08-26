@@ -1,6 +1,4 @@
 import json
-import re
-import requests
 
 from shared import *
 
@@ -102,17 +100,6 @@ def getMoves(pokeMoves):
                 versionObjs.append({'learnedAtLvl': learnedAtLvl, 'moveMethodId': moveMethodId, 'gvIds': gvIds})
         moves.append({'moveId': moveId, 'versions': versionObjs})
     return moves
-
-def convertGVStringToIds(gameVersion):
-    splitOnlyOnDashWith = '[b-z0-9]-\D'
-    foundBits = re.search(splitOnlyOnDashWith, gameVersion)
-    if foundBits == None:
-        return [convertGVStringToGVId(gameVersion)] # single game version found
-    foundBits = re.split('-', foundBits[0], 1)
-    gameVersions = re.split(splitOnlyOnDashWith, gameVersion, 1)
-    gameVersions[0] += foundBits[0]
-    gameVersions[1] = foundBits[1] + gameVersions[1]
-    return [convertGVStringToGVId(gameVersions[0]), convertGVStringToGVId(gameVersions[1])]
 
 def getItems(heldItems):
     items = []

@@ -10,8 +10,9 @@ moves = {}
 with open('../in/' + dataString + '.json', 'r') as moveFile:
     jsonArray = json.load(moveFile)
     for moveObj in jsonArray:
-        moveName = moveObj['name'].lower()
-        moveName = moveName.replace(' ', '-')
+        moveName = moveObj['name']
+        # moveName = moveObj['name'].lower()
+        # moveName = moveName.replace(' ', '-')
         moves[moveName] = moveObj['id']
 
 with open('../out/' + dataString + '.py', 'w') as movePy:
