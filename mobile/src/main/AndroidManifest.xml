@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="xyz.venfo.apps.multidex">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="xyz.venfo.apps.multidex">
 
     <uses-permission android:name="android.permission.WAKE_LOCK"/>
 
     <application
+        tools:node="replace"
         android:name=".MultiDexApp"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
