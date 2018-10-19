@@ -7,6 +7,7 @@ import io.realm.Realm
 import io.realm.RealmList
 import io.realm.RealmObject
 import io.realm.annotations.PrimaryKey
+import io.realm.annotations.Required
 
 /**
  * The PokemonModel's Type information
@@ -23,7 +24,7 @@ import io.realm.annotations.PrimaryKey
  */
 open class PokeTypeModel(
     @PrimaryKey var id: Int = 0,
-    var type: PokeTypeStrings = PokeTypeStrings(),
+    var type: PokeTypeStrings? = PokeTypeStrings(),
     var genId: Int = 0,
     var halfDmg: RealmList<PokeTypeStrings> = RealmList(),
     var noDmg: RealmList<PokeTypeStrings> = RealmList(),
@@ -57,7 +58,10 @@ open class PokeTypeModel(
       }
       reader.endObject()
       // Retrieve PokeTypeModel Name
-      pokeType.type = realm.where(PokeTypeStrings::class.java).equalTo("id", pokeType.id).findFirst()
+      val pokeTypeStrings: PokeTypeStrings? = realm.where(PokeTypeStrings::class.java).equalTo("id", pokeType.id).findFirst()
+      pokeTypeStrings?.let { it ->
+        pokeType.type = it
+      }
       return pokeType
     }
 
@@ -71,11 +75,11 @@ open class PokeTypeModel(
       reader.beginArray()
       while (reader.hasNext()) {
         val pokeTypeId: Int = reader.nextInt()
-        val pkTypeObj: PokeTypeStrings = realm
+        val pkTypeObj: PokeTypeStrings? = realm
             .where(PokeTypeStrings::class.java)
             .equalTo("id", pokeTypeId)
             .findFirst()
-        dmgEffect.add(pkTypeObj)
+        pkTypeObj?.let { it -> dmgEffect.add(pkTypeObj) }
       }
       reader.endArray()
       val realmList: RealmList<PokeTypeStrings> = RealmList()

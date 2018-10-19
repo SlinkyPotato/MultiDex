@@ -29,9 +29,9 @@ import xyz.venfo.apps.multidex.pokemon.PokeTypeModel
 open class PokeMoveModel(
     @PrimaryKey var id: Int = 0,
     var name: String = "",
-    var type: PokeTypeModel = PokeTypeModel(),
-    var category: DamageType = DamageType(),
-    var contestType: ContestType = ContestType(),
+    var type: PokeTypeModel? = PokeTypeModel(),
+    var category: DamageType? = DamageType(),
+    var contestType: ContestType? = ContestType(),
     var powerPoint: Int = 0,
     var power: Int? = null,
     var accuracy: Int? = 0,
@@ -47,15 +47,15 @@ open class PokeMoveModel(
       otherReader?.beginObject() // skip if null
 
       // Anon functions to obtain data from realm
-      val readPokeTypeFun = fun(pokeTypeId: Int): PokeTypeModel {
+      val readPokeTypeFun = fun(pokeTypeId: Int): PokeTypeModel? {
         return realm.where(PokeTypeModel::class.java).equalTo("id", pokeTypeId).findFirst()
       }
 
-      val readCategory = fun(categoryId: Int): DamageType {
+      val readCategory = fun(categoryId: Int): DamageType? {
         return realm.where(DamageType::class.java).equalTo("id", categoryId).findFirst()
       }
 
-      val readContestType = fun(typeId: Int): ContestType {
+      val readContestType = fun(typeId: Int): ContestType? {
         return realm.where(ContestType::class.java).equalTo("id", typeId).findFirst()
       }
 
